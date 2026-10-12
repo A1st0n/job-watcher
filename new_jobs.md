@@ -30,3 +30,11 @@
 - HPE - Product software development - Internship (Aguadilla, Puerto Rico, Puerto Rico) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045
 - Nvidia - Developer Technology Engineer, Public Sector - New College Grad 2026 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990
 - Aptiv - Cloud Software Engineer Intern (CAN Kanata (2), ON - WR) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375
+- CACI - Software Engineer Co-op - Summer & Fall 2027 (Danbury, CT) https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
+- NVIDIA - Research Intern - Robotics (Seattle, WA, Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647
+- Databricks - Software Engineer Intern (SF, Bellevue, WA, Mountain View, CA, Vancouver, BC, Canada) https://boards.greenhouse.io/embed/job_app?token=6865687002
+- General Dynamics Information Technology - Software Development Intern (Falls Church, VA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1
+- General Dynamics Information Technology - Software Development Intern (Falls Church, VA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1
+- General Dynamics Information Technology - Software Development Intern (Falls Church, VA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2
+- Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381
+- AtkinsRéalis - Software Developer Intern (Denver, CO) https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1
