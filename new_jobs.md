@@ -38,3 +38,20 @@
 - General Dynamics Information Technology - Software Development Intern (Falls Church, VA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2
 - Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381
 - AtkinsRéalis - Software Developer Intern (Denver, CO) https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1
+- Accenture - Software Engineering New Associate (Fresh Diploma Graduate Program) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00235738
+- Innovative Defense Technologies - Software Engineer Intern (Mt Laurel Township, NJ, Arlington County, Arlington, VA, San Diego, CA) https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq
+- CAI - Software Developer Intern (Pennsylvania) https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554
+- RTX - Software Engineering Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01881902
+- Acron Aviation - Software Engineer Intern (Phoenix, AZ) https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a/apply
+- RTX - Software Engineer Intern (Fullerton, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741
+- Corewell Health - Digital Services Web and Mobile Developer Intern (Grand Rapids, MI) https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Web-and-Mobile-Development-Internship-Summer-2027_R224434
+- KLA - AI/ML Software Engineer Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1
+- RF-SMART - Software Support Engineer Intern (Jacksonville, FL) https://job-boards.greenhouse.io/rfsmart/jobs/5427723008
+- Life Fitness - Android Software Engineer Intern (Schaumburg, IL) https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277
+- Life Fitness - Embedded Software Engineer Intern (Schaumburg, IL) https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276
+- American Family Insurance Group - Software Engineering Intern (Madison, WI, Boston, MA) https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Software-Engineering--Hybrid-_R39666-1
+- Cboe - Software Engineer Intern - C++ (Kansas City, MO) https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726
+- Manulife Financial - Software Engineer Co-op (Toronto, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1
+- Manulife Financial - Software Engineering Co-op (Toronto, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1
+- Meta - Research Scientist Intern - Robotics (Redmond, WA) https://www.metacareers.com/jobs/2586686598441521
+- Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375
