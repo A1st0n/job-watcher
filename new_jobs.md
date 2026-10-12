@@ -28,3 +28,5 @@
 - RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01875919
 - RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100
 - HPE - Product software development - Internship (Aguadilla, Puerto Rico, Puerto Rico) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045
+- Nvidia - Developer Technology Engineer, Public Sector - New College Grad 2026 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990
+- Aptiv - Cloud Software Engineer Intern (CAN Kanata (2), ON - WR) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375
