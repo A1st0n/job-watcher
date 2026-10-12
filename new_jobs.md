@@ -55,3 +55,4 @@
 - Manulife Financial - Software Engineering Co-op (Toronto, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1
 - Meta - Research Scientist Intern - Robotics (Redmond, WA) https://www.metacareers.com/jobs/2586686598441521
 - Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375
+- Waymo - 2027 Summer Intern, BS/MS, Software Engineering, Commercialization (Warsaw, Poland) https://careers.withwaymo.com/jobs?gh_jid=8268204
