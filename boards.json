@@ -1,0 +1,1134 @@
+{
+ "Apple": null,
+ "Microsoft": null,
+ "Amazon": [
+  "amazon",
+  ""
+ ],
+ "Google": null,
+ "Meta": null,
+ "Nvidia": [
+  "workday",
+  "nvidia.wd5/NVIDIAExternalCareerSite"
+ ],
+ "Oracle": null,
+ "Salesforce": [
+  "workday",
+  "salesforce.wd12/External_Career_Site"
+ ],
+ "Intel": [
+  "workday",
+  "intel.wd1/External"
+ ],
+ "Cisco": null,
+ "IBM": null,
+ "Adobe": [
+  "workday",
+  "adobe.wd5/external_experienced"
+ ],
+ "Netflix": [
+  "eightfold",
+  "explore.jobs.netflix.net|netflix.com"
+ ],
+ "Tesla": null,
+ "Uber": null,
+ "Intuit": null,
+ "Qualcomm": null,
+ "Dell": null,
+ "HP": [
+  "workday",
+  "hp.wd5/ExternalCareerSite"
+ ],
+ "AMD": null,
+ "Micron": [
+  "workday",
+  "micron.wd1/External"
+ ],
+ "Broadcom": [
+  "workday",
+  "broadcom.wd1/External_Career"
+ ],
+ "Texas Instruments": null,
+ "Applied Materials": [
+  "workday",
+  "amat.wd1/External"
+ ],
+ "ServiceNow": [
+  "smartrecruiters",
+  "ServiceNow"
+ ],
+ "Workday": [
+  "workday",
+  "workday.wd5/Workday"
+ ],
+ "Airbnb": [
+  "greenhouse",
+  "airbnb"
+ ],
+ "DoorDash": null,
+ "Booking": null,
+ "Visa": [
+  "smartrecruiters",
+  "Visa"
+ ],
+ "Mastercard": [
+  "workday",
+  "mastercard.wd1/CorporateCareers"
+ ],
+ "PayPal": [
+  "workday",
+  "paypal.wd1/jobs"
+ ],
+ "JPMorgan": null,
+ "Goldman Sachs": null,
+ "Morgan Stanley": [
+  "workday",
+  "ms.wd5/External"
+ ],
+ "Capital One": [
+  "workday",
+  "capitalone.wd12/Capital_One"
+ ],
+ "Bank of America": [
+  "workday",
+  "ghr.wd1/Lateral-US"
+ ],
+ "Wells Fargo": [
+  "workday",
+  "wf.wd1/WellsFargoJobs"
+ ],
+ "Citi": [
+  "workday",
+  "citi.wd5/2"
+ ],
+ "American Express": null,
+ "Walmart": null,
+ "Target": [
+  "workday",
+  "target.wd5/targetcareers"
+ ],
+ "Home Depot": null,
+ "Boeing": [
+  "workday",
+  "boeing.wd1/EXTERNAL_CAREERS"
+ ],
+ "Lockheed Martin": null,
+ "Northrop Grumman": [
+  "workday",
+  "ngc.wd1/Northrop_Grumman_External_Site"
+ ],
+ "RTX": [
+  "workday",
+  "globalhr.wd5/REC_RTX_Ext_Gateway"
+ ],
+ "Verizon": null,
+ "T-Mobile": [
+  "workday",
+  "tmobile.wd1/External"
+ ],
+ "Comcast": null,
+ "eBay": [
+  "workday",
+  "ebay.wd5/apply"
+ ],
+ "Expedia": null,
+ "Block": [
+  "greenhouse",
+  "block"
+ ],
+ "Electronic Arts": null,
+ "Western Digital": null,
+ "Lam Research": null,
+ "KLA": [
+  "workday",
+  "kla.wd1/Search"
+ ],
+ "Analog Devices": [
+  "workday",
+  "analogdevices.wd1/External"
+ ],
+ "Arista": null,
+ "Palo Alto Networks": null,
+ "HPE": [
+  "workday",
+  "hpe.wd5/Jobsathpe"
+ ],
+ "Kyndryl": [
+  "workday",
+  "kyndryl.wd5/KyndrylProfessionalCareers"
+ ],
+ "DXC": null,
+ "CDW": null,
+ "Cognizant": null,
+ "Leidos": [
+  "workday",
+  "leidos.wd5/External"
+ ],
+ "Booz Allen": [
+  "workday",
+  "bah.wd1/BAH_Jobs"
+ ],
+ "SAIC": null,
+ "CACI": [
+  "workday",
+  "caci.wd1/External"
+ ],
+ "General Dynamics": [
+  "workday",
+  "gdit.wd5/External_Career_Site"
+ ],
+ "L3Harris": null,
+ "Honeywell": null,
+ "GE Aerospace": null,
+ "Ford": null,
+ "GM": [
+  "workday",
+  "generalmotors.wd5/Careers_GM"
+ ],
+ "Caterpillar": [
+  "workday",
+  "cat.wd5/CaterpillarCareers"
+ ],
+ "Deere": null,
+ "UnitedHealth": null,
+ "CVS": [
+  "workday",
+  "cvshealth.wd1/CVS_Health_Careers"
+ ],
+ "Elevance": [
+  "workday",
+  "elevancehealth.wd1/ANT"
+ ],
+ "Cigna": [
+  "workday",
+  "cigna.wd5/cignacareers"
+ ],
+ "Humana": [
+  "workday",
+  "humana.wd5/Humana_External_Career_Site"
+ ],
+ "McKesson": [
+  "workday",
+  "mckesson.wd3/External_Careers"
+ ],
+ "Kroger": null,
+ "Costco": null,
+ "Lowe's": [
+  "workday",
+  "lowes.wd5/LWS_External_CS"
+ ],
+ "Best Buy": null,
+ "Nike": [
+  "workday",
+  "nike.wd1/nke"
+ ],
+ "Starbucks": null,
+ "Disney": [
+  "workday",
+  "disney.wd5/disneycareer"
+ ],
+ "Charter": null,
+ "AT&T": null,
+ "Schwab": null,
+ "PNC": [
+  "workday",
+  "pnc.wd5/External"
+ ],
+ "Truist": [
+  "workday",
+  "truist.wd1/Careers"
+ ],
+ "US Bank": [
+  "workday",
+  "usbank.wd1/US_Bank_Careers"
+ ],
+ "Synchrony": [
+  "workday",
+  "synchronyfinancial.wd5/careers"
+ ],
+ "Ally": null,
+ "Fannie Mae": [
+  "workday",
+  "fanniemae.wd1/FannieMaeCareers"
+ ],
+ "Freddie Mac": [
+  "workday",
+  "freddiemac.wd5/External"
+ ],
+ "Progressive": null,
+ "Allstate": [
+  "workday",
+  "allstate.wd5/allstate_careers"
+ ],
+ "State Farm": null,
+ "USAA": [
+  "workday",
+  "usaa.wd1/USAAJOBSWD"
+ ],
+ "Nationwide": [
+  "workday",
+  "nationwide.wd1/Nationwide_Career"
+ ],
+ "Prudential": [
+  "workday",
+  "pru.wd5/Careers"
+ ],
+ "MetLife": null,
+ "BlackRock": [
+  "workday",
+  "blackrock.wd1/BlackRock_Professional"
+ ],
+ "FedEx": null,
+ "UPS": null,
+ "Delta": null,
+ "United Airlines": null,
+ "Fiserv": [
+  "workday",
+  "fiserv.wd5/EXT"
+ ],
+ "FIS": [
+  "workday",
+  "fis.wd5/SearchJobs"
+ ],
+ "Coinbase": [
+  "greenhouse",
+  "coinbase"
+ ],
+ "Chewy": [
+  "workday",
+  "chewy.wd5/External"
+ ],
+ "Wayfair": null,
+ "OpenAI": [
+  "ashby",
+  "openai"
+ ],
+ "Anthropic": [
+  "greenhouse",
+  "anthropic"
+ ],
+ "xAI": [
+  "greenhouse",
+  "xai"
+ ],
+ "Databricks": [
+  "greenhouse",
+  "databricks"
+ ],
+ "Scale AI": [
+  "greenhouse",
+  "scaleai"
+ ],
+ "Anysphere": [
+  "ashby",
+  "cursor"
+ ],
+ "Perplexity": [
+  "ashby",
+  "perplexity"
+ ],
+ "Ramp": [
+  "ashby",
+  "ramp"
+ ],
+ "Rippling": null,
+ "Anduril": [
+  "greenhouse",
+  "andurilindustries"
+ ],
+ "Glean": [
+  "greenhouse",
+  "gleanwork"
+ ],
+ "Cohere": [
+  "ashby",
+  "cohere"
+ ],
+ "Harvey": [
+  "ashby",
+  "harvey"
+ ],
+ "Abridge": [
+  "ashby",
+  "abridge"
+ ],
+ "Sierra": [
+  "ashby",
+  "sierra"
+ ],
+ "Decagon": [
+  "ashby",
+  "decagon"
+ ],
+ "Cognition": [
+  "ashby",
+  "cognition"
+ ],
+ "Replit": [
+  "ashby",
+  "replit"
+ ],
+ "Vercel": [
+  "greenhouse",
+  "vercel"
+ ],
+ "Supabase": [
+  "ashby",
+  "supabase"
+ ],
+ "Clay": [
+  "ashby",
+  "claylabs"
+ ],
+ "Hebbia": [
+  "ashby",
+  "hebbia-ai"
+ ],
+ "ElevenLabs": [
+  "ashby",
+  "elevenlabs"
+ ],
+ "Runway": [
+  "ashby",
+  "runway"
+ ],
+ "Physical Intelligence": [
+  "ashby",
+  "physicalintelligence"
+ ],
+ "Figure AI": [
+  "greenhouse",
+  "figureai"
+ ],
+ "Skild AI": [
+  "greenhouse",
+  "skildai-careers"
+ ],
+ "Saronic": [
+  "ashby",
+  "saronic"
+ ],
+ "Shield AI": [
+  "lever",
+  "shieldai"
+ ],
+ "Chainguard": [
+  "greenhouse",
+  "chainguard"
+ ],
+ "Cyera": null,
+ "Mercor": [
+  "ashby",
+  "mercor"
+ ],
+ "Plaid": [
+  "ashby",
+  "plaid"
+ ],
+ "Temporal": [
+  "ashby",
+  "temporal"
+ ],
+ "ClickHouse": [
+  "ashby",
+  "clickhouse"
+ ],
+ "Cerebras": [
+  "ashby",
+  "cerebras"
+ ],
+ "Groq": null,
+ "Lambda Labs": [
+  "ashby",
+  "lambda"
+ ],
+ "Crusoe": [
+  "ashby",
+  "crusoe"
+ ],
+ "Together AI": [
+  "greenhouse",
+  "togetherai"
+ ],
+ "Baseten": [
+  "ashby",
+  "baseten"
+ ],
+ "Modal": [
+  "ashby",
+  "modal"
+ ],
+ "Fireworks AI": [
+  "ashby",
+  "fireworks"
+ ],
+ "Writer": [
+  "ashby",
+  "writer"
+ ],
+ "Hippocratic AI": null,
+ "Ambience": [
+  "ashby",
+  "ambiencehealthcare"
+ ],
+ "Poolside": [
+  "ashby",
+  "poolside"
+ ],
+ "Mercury": [
+  "greenhouse",
+  "mercury"
+ ],
+ "Linear": [
+  "ashby",
+  "linear"
+ ],
+ "PostHog": [
+  "ashby",
+  "posthog"
+ ],
+ "Applied Intuition": [
+  "ashby",
+  "applied"
+ ],
+ "Hadrian": [
+  "ashby",
+  "hadrian-automation"
+ ],
+ "Base Power": [
+  "ashby",
+  "base-power"
+ ],
+ "Commonwealth Fusion": [
+  "lever",
+  "cfsenergy"
+ ],
+ "Neuralink": [
+  "greenhouse",
+  "neuralink"
+ ],
+ "StackBlitz": [
+  "greenhouse",
+  "stackblitz"
+ ],
+ "LangChain": [
+  "ashby",
+  "langchain"
+ ],
+ "Render": [
+  "ashby",
+  "render"
+ ],
+ "Snorkel": [
+  "greenhouse",
+  "snorkelai"
+ ],
+ "EvenUp": null,
+ "Thinking Machines": [
+  "ashby",
+  "thinkingmachines"
+ ],
+ "Reflection AI": [
+  "ashby",
+  "reflectionai"
+ ],
+ "Periodic Labs": [
+  "ashby",
+  "periodic-labs"
+ ],
+ "Imbue": [
+  "greenhouse",
+  "imbue"
+ ],
+ "Augment Code": null,
+ "Magic": [
+  "greenhouse",
+  "magic"
+ ],
+ "Factory": [
+  "ashby",
+  "factory"
+ ],
+ "CodeRabbit": [
+  "ashby",
+  "coderabbit"
+ ],
+ "Greptile": [
+  "ashby",
+  "greptile"
+ ],
+ "Qodo": null,
+ "Tessl": [
+  "ashby",
+  "tesslcareers"
+ ],
+ "Mintlify": [
+  "ashby",
+  "mintlify"
+ ],
+ "Browserbase": [
+  "ashby",
+  "browserbase"
+ ],
+ "Daytona": null,
+ "E2B": [
+  "ashby",
+  "e2b"
+ ],
+ "Resend": [
+  "ashby",
+  "resend"
+ ],
+ "Warp": [
+  "greenhouse",
+  "warp"
+ ],
+ "Zed": [
+  "ashby",
+  "zed"
+ ],
+ "Clerk": [
+  "ashby",
+  "clerk"
+ ],
+ "Convex": [
+  "ashby",
+  "convex-dev"
+ ],
+ "Inngest": [
+  "ashby",
+  "inngest"
+ ],
+ "Turso": null,
+ "Attio": [
+  "ashby",
+  "attio"
+ ],
+ "Pylon": [
+  "ashby",
+  "pylon"
+ ],
+ "Tines": [
+  "greenhouse",
+  "tines"
+ ],
+ "Tailscale": [
+  "greenhouse",
+  "tailscale"
+ ],
+ "Railway": [
+  "ashby",
+  "railway"
+ ],
+ "LiveKit": [
+  "ashby",
+  "livekit"
+ ],
+ "Vapi": [
+  "ashby",
+  "vapi"
+ ],
+ "Bland AI": [
+  "ashby",
+  "bland"
+ ],
+ "Retell AI": [
+  "ashby",
+  "retell-ai"
+ ],
+ "Cartesia": [
+  "ashby",
+  "cartesia"
+ ],
+ "Deepgram": [
+  "ashby",
+  "deepgram"
+ ],
+ "AssemblyAI": [
+  "greenhouse",
+  "assemblyai"
+ ],
+ "Hume AI": [
+  "greenhouse",
+  "humeai"
+ ],
+ "Tavus": [
+  "ashby",
+  "tavus"
+ ],
+ "Pika": [
+  "ashby",
+  "pika"
+ ],
+ "Luma AI": [
+  "ashby",
+  "lumaai"
+ ],
+ "Black Forest Labs": [
+  "ashby",
+  "black-forest-labs"
+ ],
+ "Suno": [
+  "ashby",
+  "suno"
+ ],
+ "Sesame": [
+  "ashby",
+  "sesame"
+ ],
+ "Gamma": [
+  "ashby",
+  "gamma"
+ ],
+ "Granola": [
+  "ashby",
+  "granola"
+ ],
+ "Legora": [
+  "ashby",
+  "legora"
+ ],
+ "Eudia": [
+  "greenhouse",
+  "eudia"
+ ],
+ "Spellbook": null,
+ "Rox": null,
+ "11x": null,
+ "Fal": [
+  "ashby",
+  "fal-ai"
+ ],
+ "Runpod": [
+  "ashby",
+  "runpod"
+ ],
+ "Vast Data": null,
+ "Weka": null,
+ "Anyscale": [
+  "lever",
+  "anyscale"
+ ],
+ "LlamaIndex": [
+  "ashby",
+  "llamaindex"
+ ],
+ "Braintrust": [
+  "ashby",
+  "braintrust"
+ ],
+ "Arize": [
+  "greenhouse",
+  "arizeai"
+ ],
+ "Galileo": null,
+ "Hex": [
+  "ashby",
+  "hex"
+ ],
+ "Etched": [
+  "ashby",
+  "etched"
+ ],
+ "MatX": [
+  "ashby",
+  "matx"
+ ],
+ "Lightmatter": [
+  "greenhouse",
+  "lightmatter"
+ ],
+ "Ayar Labs": null,
+ "Tenstorrent": [
+  "greenhouse",
+  "tenstorrent"
+ ],
+ "d-Matrix": null,
+ "1X": [
+  "ashby",
+  "1x"
+ ],
+ "Apptronik": [
+  "greenhouse",
+  "apptronik"
+ ],
+ "Agility Robotics": [
+  "greenhouse",
+  "agilityrobotics"
+ ],
+ "Dyna Robotics": [
+  "ashby",
+  "dyna-robotics"
+ ],
+ "Genesis AI": [
+  "ashby",
+  "genesis"
+ ],
+ "Field AI": [
+  "lever",
+  "field-ai"
+ ],
+ "The Bot Company": [
+  "ashby",
+  "thebotcompany"
+ ],
+ "Castelion": null,
+ "Epirus": [
+  "greenhouse",
+  "epirus"
+ ],
+ "Chaos Industries": [
+  "greenhouse",
+  "chaosindustries"
+ ],
+ "Mach Industries": [
+  "greenhouse",
+  "machindustries"
+ ],
+ "Vannevar Labs": [
+  "greenhouse",
+  "vannevarlabs"
+ ],
+ "Flock Safety": null,
+ "Island": [
+  "greenhouse",
+  "island"
+ ],
+ "Socket": null,
+ "Semgrep": [
+  "ashby",
+  "semgrep"
+ ],
+ "Endor Labs": [
+  "greenhouse",
+  "endorlabs"
+ ],
+ "Aikido": null,
+ "Torq": [
+  "greenhouse",
+  "torq"
+ ],
+ "Noma Security": null,
+ "Persona": [
+  "ashby",
+  "persona"
+ ],
+ "Sardine": [
+  "ashby",
+  "sardine"
+ ],
+ "Bilt": null,
+ "Whatnot": null,
+ "OpenEvidence": [
+  "ashby",
+  "openevidence"
+ ],
+ "Function Health": [
+  "ashby",
+  "function-health"
+ ],
+ "Commure": [
+  "ashby",
+  "commure"
+ ],
+ "Tennr": [
+  "ashby",
+  "tennr"
+ ],
+ "Assort Health": [
+  "ashby",
+  "assorthealth"
+ ],
+ "Lila Sciences": [
+  "greenhouse",
+  "lilasciences"
+ ],
+ "Chai Discovery": [
+  "ashby",
+  "chaidiscovery"
+ ],
+ "Profluent": [
+  "greenhouse",
+  "profluent"
+ ],
+ "EvolutionaryScale": null,
+ "Xaira": [
+  "greenhouse",
+  "xairatherapeutics"
+ ],
+ "Zenity": null,
+ "7AI": null,
+ "Unify": [
+  "ashby",
+  "unify"
+ ],
+ "Crosby": [
+  "ashby",
+  "crosby"
+ ],
+ "Speak": [
+  "ashby",
+  "speak"
+ ],
+ "Captions": null,
+ "Mem0": [
+  "ashby",
+  "mem0"
+ ],
+ "Cline": [
+  "greenhouse",
+  "cline"
+ ],
+ "Harmonic": [
+  "ashby",
+  "harmonic"
+ ],
+ "Exa": [
+  "ashby",
+  "exa"
+ ],
+ "Rivian": null,
+ "Lucid": [
+  "greenhouse",
+  "lucidmotors"
+ ],
+ "Waymo": [
+  "greenhouse",
+  "waymo"
+ ],
+ "Zoox": [
+  "lever",
+  "zoox"
+ ],
+ "Aurora": null,
+ "Nuro": [
+  "greenhouse",
+  "nuro"
+ ],
+ "Motional": [
+  "greenhouse",
+  "motional"
+ ],
+ "Kodiak": [
+  "greenhouse",
+  "kodiak"
+ ],
+ "Toyota": null,
+ "Honda": null,
+ "Bosch": [
+  "smartrecruiters",
+  "BoschGroup"
+ ],
+ "Aptiv": [
+  "workday",
+  "aptiv.wd5/APTIV_CAREERS"
+ ],
+ "Continental": null,
+ "Boston Dynamics": [
+  "workday",
+  "bostondynamics.wd1/Boston_Dynamics"
+ ],
+ "Zipline": [
+  "greenhouse",
+  "flyzipline"
+ ],
+ "Serve Robotics": [
+  "ashby",
+  "serverobotics"
+ ],
+ "Gatik": null,
+ "Stack AV": [
+  "greenhouse",
+  "stackav"
+ ],
+ "Bedrock Robotics": [
+  "ashby",
+  "bedrock-robotics"
+ ],
+ "Path Robotics": [
+  "greenhouse",
+  "pathrobotics"
+ ],
+ "Formic": [
+  "greenhouse",
+  "formic"
+ ],
+ "Locus Robotics": [
+  "greenhouse",
+  "locusrobotics"
+ ],
+ "Symbotic": null,
+ "Intuitive Surgical": null,
+ "Wayve": [
+  "ashby",
+  "wayve"
+ ],
+ "Carbon Robotics": [
+  "ashby",
+  "carbon-robotics"
+ ],
+ "Neros": [
+  "greenhouse",
+  "nerostechnologies"
+ ],
+ "Rune Technologies": [
+  "ashby",
+  "runetech"
+ ],
+ "Scout AI": [
+  "ashby",
+  "scout-ai"
+ ],
+ "CX2": [
+  "lever",
+  "cx2"
+ ],
+ "Impulse Space": [
+  "ashby",
+  "impulse"
+ ],
+ "Stoke Space": [
+  "greenhouse",
+  "stokespacetechnologies"
+ ],
+ "Varda Space": [
+  "greenhouse",
+  "vardaspace"
+ ],
+ "True Anomaly": [
+  "greenhouse",
+  "trueanomalyinc"
+ ],
+ "Valar Atomics": [
+  "greenhouse",
+  "valaratomics"
+ ],
+ "Helion": [
+  "ashby",
+  "helion"
+ ],
+ "Pacific Fusion": [
+  "greenhouse",
+  "pacificfusion"
+ ],
+ "Redwood Materials": [
+  "greenhouse",
+  "redwoodmaterials"
+ ],
+ "Fervo Energy": [
+  "greenhouse",
+  "fervoenergy"
+ ],
+ "Trigger.dev": [
+  "ashby",
+  "triggerdev"
+ ],
+ "Parallel Web Systems": [
+  "ashby",
+  "parallel"
+ ],
+ "Dropzone AI": [
+  "greenhouse",
+  "dropzoneai"
+ ],
+ "Prophet Security": [
+  "ashby",
+  "prophet-security"
+ ],
+ "Suki": [
+  "greenhouse",
+  "suki"
+ ],
+ "Rad AI": [
+  "ashby",
+  "radai"
+ ],
+ "Rogo": [
+  "ashby",
+  "rogo"
+ ],
+ "Maven AGI": [
+  "ashby",
+  "maven-agi"
+ ],
+ "Hightouch": [
+  "ashby",
+  "hightouch-inc"
+ ],
+ "Omni": [
+  "ashby",
+  "omni"
+ ],
+ "Invisible Technologies": [
+  "greenhouse",
+  "invisibletech"
+ ],
+ "Polymarket": [
+  "ashby",
+  "polymarket"
+ ],
+ "Kalshi": [
+  "ashby",
+  "kalshi"
+ ],
+ "Harbinger Motors": [
+  "greenhouse",
+  "harbingermotors"
+ ],
+ "Dexterity": [
+  "lever",
+  "dexterity"
+ ],
+ "Standard Bots": [
+  "ashby",
+  "standardbots"
+ ],
+ "Gecko Robotics": [
+  "ashby",
+  "gecko-robotics"
+ ],
+ "Nimble Robotics": [
+  "greenhouse",
+  "nimblerobotics"
+ ],
+ "Radiant Nuclear": [
+  "ashby",
+  "radiant-industries"
+ ],
+ "Krea": [
+  "ashby",
+  "krea"
+ ],
+ "Hedra": [
+  "ashby",
+  "hedra"
+ ],
+ "Cresta": [
+  "greenhouse",
+  "cresta"
+ ],
+ "SF Compute": [
+  "ashby",
+  "sfcompute"
+ ],
+ "TensorWave": [
+  "ashby",
+  "tensorwave"
+ ],
+ "Sanity": [
+  "ashby",
+  "sanity"
+ ],
+ "Chalk": [
+  "ashby",
+  "chalk"
+ ],
+ "Infisical": [
+  "ashby",
+  "infisical"
+ ],
+ "Speakeasy": [
+  "ashby",
+  "speakeasy"
+ ]
+}

@@ -1,0 +1,352 @@
+Apple
+Microsoft
+Amazon
+Google
+Meta
+Nvidia
+Oracle
+Salesforce
+Intel
+Cisco
+IBM
+Adobe
+Netflix
+Tesla
+Uber
+Intuit
+Qualcomm
+Dell
+HP
+AMD
+Micron
+Broadcom
+Texas Instruments
+Applied Materials
+ServiceNow
+Workday
+Airbnb
+DoorDash
+Booking
+Visa
+Mastercard
+PayPal
+JPMorgan
+Goldman Sachs
+Morgan Stanley
+Capital One
+Bank of America
+Wells Fargo
+Citi
+American Express
+Walmart
+Target
+Home Depot
+Boeing
+Lockheed Martin
+Northrop Grumman
+RTX
+Verizon
+T-Mobile
+Comcast
+eBay
+Expedia
+Block
+Electronic Arts
+Western Digital
+Lam Research
+KLA
+Analog Devices
+Arista
+Palo Alto Networks
+HPE
+Kyndryl
+DXC
+CDW
+Cognizant
+Leidos
+Booz Allen
+SAIC
+CACI
+General Dynamics
+L3Harris
+Honeywell
+GE Aerospace
+Ford
+GM
+Caterpillar
+Deere
+UnitedHealth
+CVS
+Elevance
+Cigna
+Humana
+McKesson
+Kroger
+Costco
+Lowe's
+Best Buy
+Nike
+Starbucks
+Disney
+Charter
+AT&T
+Schwab
+PNC
+Truist
+US Bank
+Synchrony
+Ally
+Fannie Mae
+Freddie Mac
+Progressive
+Allstate
+State Farm
+USAA
+Nationwide
+Prudential
+MetLife
+BlackRock
+FedEx
+UPS
+Delta
+United Airlines
+Fiserv
+FIS
+Coinbase
+Chewy
+Wayfair
+OpenAI
+Anthropic
+xAI
+Databricks
+Scale AI
+Anysphere
+Perplexity
+Ramp
+Rippling
+Anduril
+Glean
+Cohere
+Harvey
+Abridge
+Sierra
+Decagon
+Cognition
+Replit
+Vercel
+Supabase
+Clay
+Hebbia
+ElevenLabs
+Runway
+Physical Intelligence
+Figure AI
+Skild AI
+Saronic
+Shield AI
+Chainguard
+Cyera
+Mercor
+Plaid
+Temporal
+ClickHouse
+Cerebras
+Groq
+Lambda Labs
+Crusoe
+Together AI
+Baseten
+Modal
+Fireworks AI
+Writer
+Hippocratic AI
+Ambience
+Poolside
+Mercury
+Linear
+PostHog
+Applied Intuition
+Hadrian
+Base Power
+Commonwealth Fusion
+Neuralink
+StackBlitz
+LangChain
+Render
+Snorkel
+EvenUp
+Thinking Machines
+Reflection AI
+Periodic Labs
+Imbue
+Augment Code
+Magic
+Factory
+CodeRabbit
+Greptile
+Qodo
+Tessl
+Mintlify
+Browserbase
+Daytona
+E2B
+Resend
+Warp
+Zed
+Clerk
+Convex
+Inngest
+Turso
+Attio
+Pylon
+Tines
+Tailscale
+Railway
+LiveKit
+Vapi
+Bland AI
+Retell AI
+Cartesia
+Deepgram
+AssemblyAI
+Hume AI
+Tavus
+Pika
+Luma AI
+Black Forest Labs
+Suno
+Sesame
+Gamma
+Granola
+Legora
+Eudia
+Spellbook
+Rox
+11x
+Fal
+Runpod
+Vast Data
+Weka
+Anyscale
+LlamaIndex
+Braintrust
+Arize
+Galileo
+Hex
+Etched
+MatX
+Lightmatter
+Ayar Labs
+Tenstorrent
+d-Matrix
+1X
+Apptronik
+Agility Robotics
+Dyna Robotics
+Genesis AI
+Field AI
+The Bot Company
+Castelion
+Epirus
+Chaos Industries
+Mach Industries
+Vannevar Labs
+Flock Safety
+Island
+Socket
+Semgrep
+Endor Labs
+Aikido
+Torq
+Noma Security
+Persona
+Sardine
+Bilt
+Whatnot
+OpenEvidence
+Function Health
+Commure
+Tennr
+Assort Health
+Lila Sciences
+Chai Discovery
+Profluent
+EvolutionaryScale
+Xaira
+Zenity
+7AI
+Unify
+Crosby
+Speak
+Captions
+Mem0
+Cline
+Harmonic
+Exa
+Rivian
+Lucid
+Waymo
+Zoox
+Aurora
+Nuro
+Motional
+Kodiak
+Toyota
+Honda
+Bosch
+Aptiv
+Continental
+Boston Dynamics
+Zipline
+Serve Robotics
+Gatik
+Stack AV
+Bedrock Robotics
+Path Robotics
+Formic
+Locus Robotics
+Symbotic
+Intuitive Surgical
+Wayve
+Carbon Robotics
+Neros
+Rune Technologies
+Scout AI
+CX2
+Impulse Space
+Stoke Space
+Varda Space
+True Anomaly
+Valar Atomics
+Helion
+Pacific Fusion
+Redwood Materials
+Fervo Energy
+Trigger.dev
+Parallel Web Systems
+Dropzone AI
+Prophet Security
+Suki
+Rad AI
+Rogo
+Maven AGI
+Hightouch
+Omni
+Invisible Technologies
+Polymarket
+Kalshi
+Harbinger Motors
+Dexterity
+Standard Bots
+Gecko Robotics
+Nimble Robotics
+Radiant Nuclear
+Krea
+Hedra
+Cresta
+SF Compute
+TensorWave
+Sanity
+Chalk
+Infisical
+Speakeasy

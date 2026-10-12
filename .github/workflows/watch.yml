@@ -1,0 +1,33 @@
+name: job-watcher
+on:
+  schedule:
+    - cron: "7,37 * * * *"  # GitHub skips many slots; any one that fires starts a ~5.5h loop
+  workflow_dispatch:
+concurrency:
+  group: watcher
+  cancel-in-progress: false  # a fired schedule waits for the running loop, then takes over
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check every 15 minutes for ~5.5 hours
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+        run: |
+          git config user.name job-watcher
+          git config user.email job-watcher@users.noreply.github.com
+          end=$(( $(date +%s) + 330*60 ))
+          while :; do
+            git pull -q --rebase
+            python3 watcher.py || { sleep 60; python3 watcher.py; }  # one retry, then fail so GitHub emails you
+            touch new_jobs.md
+            git add seen.json boards.json new_jobs.md
+            git diff --cached --quiet || { git commit -qm "Update state" && git pull -q --rebase && git push -q; }
+            [ $(( $(date +%s) + 900 )) -lt "$end" ] || break
+            sleep 900
+          done

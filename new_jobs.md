@@ -1,0 +1,30 @@
+- Varda Space - Flight Software Intern - Spring 2027 (El Segundo, CA) https://job-boards.greenhouse.io/vardaspace/jobs/7824815003
+- Nvidia - Software Engineer, DL Kernel Libraries - New College Grad 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337
+- bioMérieux - Systems Engineering Co-op (Hazelwood, MO) https://jobs.jobvite.com/biofiredx/job/oY7OAfwd?nl=1&nl=1&fr=false
+- Nvidia - Robotics Software Intern, Humanoid Robotics - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758
+- Nvidia - Test Development Software Engineering Intern - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027472
+- Nvidia - Test Development Software Engineering Intern - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347
+- Nvidia - System Software Engineering Intern, GPU and SOC - Summer 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406
+- Intel - AI Software Development Engineer Intern (PRC, Shanghai) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Development-Engineer-Intern_JR0288056
+- Applied Materials - Junior System Engineer (with Software skills) (Treviso,ITA) https://amat.wd1.myworkdayjobs.com/External/job/TrevisoITA/Junior-System-Engineer--with-Software-skills-_R2610496
+- Boeing - Associate Software DevOps Engineer (POL - Gdansk, Poland) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Associate-Software-DevOps-Engineer_JR2026526511-2
+- RTX - Software Engineering Intern (Summer 2027) (US-CA-FULLERTON-675 ~ 1801 Hughes Dr ~ BLDG 675) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741
+- KLA - AI/ML Software Engineer - Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1
+- CACI - Software Engineering Co-op - Summer & Fall 2027 (Danbury, CT, US) https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354
+- Databricks - Software Engineering Intern (2027) (Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada) https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002
+- Bosch - Software Function Developer Intern (Budapest) https://jobs.smartrecruiters.com/BoschGroup/744000155020017
+- Bosch - [EAA] Embedded Test Engineer Intern (C/C++) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000154951930
+- Bosch - [BD] DevOps Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000154925330
+- Bosch - Robotics Research Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/BoschGroup/744000154911489
+- Aptiv - Systems Engineer Intern (Krakow, Poland) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Krakow-Poland/Systems-Engineer-Intern_J000705020
+- GE Aerospace - Engines Engineering Intern - Computer or Software Engineering - Returning Students (Sharonville, OH, Saugus, MA) https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1
+- GE Aerospace - Engines Engineering Co-op - Computer or Software Engineering (Sharonville, OH, Saugus, MA) https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1
+- Bosch Home Comfort - Robotics Research Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/BoschGroup/744000154911489
+- CapTech Consulting - Consulting Software Engineer Intern (Richmond, VA) https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115
+- RTX - Software Engineer Intern (Tucson, AZ) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1
+- Nvidia - Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083
+- Northrop Grumman - 2027 Systems Engineer Intern - Chantilly VA (United States-Virginia-Chantilly) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633
+- RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01881902
+- RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01875919
+- RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100
+- HPE - Product software development - Internship (Aguadilla, Puerto Rico, Puerto Rico) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045
