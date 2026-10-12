@@ -427,3 +427,266 @@
 - [Software Engineer Intern (Spring 2027)](https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003) — South San Francisco, California, USA
 - [Software Systems Validation Intern (Spring 2027)](https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003) — South San Francisco, California, USA
 - [Software Systems Validation Intern (Summer 2027)](https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003) — South San Francisco, California, USA
+
+# Added 2026-10-12: open roles at newly watched companies
+- [Associate Software Engineer](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1) — Abbott, United States - Minnesota - Plymouth
+- [Angular Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Angular-Developer-Internship-Program--She-He-They-_R00355473) — Accenture, 
+- [Backend Developer Internship Program (She/He/They)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950) — Accenture, 
+- [Software Engineer (Machine Learning) Intern (Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8008645003) — Affirm, San Francisco, California, United States
+- [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) — Affirm, Remote Poland
+- [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) — Affirm, Remote Spain
+- [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) — Affirm, Remote Canada
+- [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011590003) — Affirm, San Francisco, California, United States
+- [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) — Affirm, New York, New York, United States
+- [Software Engineer, Early Career (SF)](https://job-boards.greenhouse.io/affirm/jobs/8010617003) — Affirm, San Francisco, California, United States
+- [Associate Software Engineer](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Software-Engineer_R-225731) — Amgen, India - Hyderabad
+- [Associate Software Engineer](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Software-Engineer_R-247516) — Amgen, India - Hyderabad
+- [Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) — Amgen, United States - Remote
+- [Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745) — Amgen, United States - Remote
+- [Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886) — Amgen, US - Puerto Rico - Juncos
+- [Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) — Amgen, United States - Remote
+- [Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) — Amgen, United States - Remote
+- [Full Stack Engineering Intern (2027 Summer Internship)](https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006) — AppLovin, Singapore
+- [Machine Learning Engineering Intern (2027 Summer Internship)](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) — AppLovin, Singapore
+- [Graduate Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Graduate-Software-Engineer_26WD100002-1) — Autodesk, Norway - Oslo
+- [Intern Software Developer, Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) — Autodesk, Montreal, QC, CAN
+- [Intern, AI Data Developer (Winter)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) — Autodesk, Toronto, ON, CAN
+- [Intern, AI/ML Platform (Winter)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) — Autodesk, Toronto, ON, CAN
+- [Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [AEC-AutoCAD Backend]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET - Product Data -  Document Management]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Access-ENG]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Access-ENG]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Access-ENG]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Access-ENG]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Access-ENG]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Connected Delivery]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Localization]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2) — Autodesk, Singapore, SGP
+- [Intern, Software Development Engineer [PSET-Localization]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-2) — Autodesk, Singapore, SGP
+- [Intern, Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Intern--Software-Engineer_26WD101095-1) — Autodesk, Kraków, POL
+- [Intern, Software Engineer [PDMS-DPM-Engineering]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1) — Autodesk, Singapore, SGP
+- [Intern, Software Engineer in Test [AEC Autocad Engineering]](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1) — Autodesk, Singapore, SGP
+- [Software Development Internship (Summer 2027)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) — Autodesk, Toronto, ON, CAN
+- [Software Engineering Fellowship - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824) — CME Group, Chicago - 20 S. Wacker
+- [Software Engineering Internship - Summer 2027](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821) — CME Group, Chicago - 20 S. Wacker
+- [Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788) — Cadence, LIVONIA 01
+- [Graduate Student Intern - Software Engineering](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2) — Cadence, AUSTIN
+- [Intern: Software Engineering Jasper R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) — Cadence, BELO HORIZONTE
+- [Intern: Software Engineering: Hardware Verification R&D](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477) — Cadence, BELO HORIZONTE
+- [Software Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1) — Cadence, SAN JOSE
+- [software engineering intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/software-engineering-intern_R52210) — Cadence, BEIJING
+- [Duales Studium Embedded Systems B.Eng. 2027 (m/w/d)](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Shared-Service-GmbH-Viessmannstrae-1-35107-Allendorf-Eder-Germany/Duales-Studium-Embedded-Systems-BEng-2027--m-w-d-_30209070) — Carrier, Viessmann Shared Service GmbH, Viessmannstraße 1, 35107 Allendorf (Eder), Germany
+- [Duales Studium Softwaretechnologie B.Sc. 2027 (m/w/d)](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Shared-Service-GmbH-Viessmannstrae-1-35107-Allendorf-Eder-Germany/Duales-Studium-Softwaretechnologie-BSc-2027--m-w-d-_30210842) — Carrier, Viessmann Shared Service GmbH, Viessmannstraße 1, 35107 Allendorf (Eder), Germany
+- [People Team: Software Engineer Intern (Winter/Spring 2027)](https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167) — Cloudflare, Hybrid
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) — Cloudflare, In-Office
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) — Cloudflare, In-Office
+- [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) — Cloudflare, In-Office
+- [Software Engineering Intern](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719) — Danaher, Vista, California, United States
+- [Software Quality Engineer I](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Software-Quality-Engineer-I_R1320498) — Danaher, Irvine, California, United States
+- [Software/Firmware Engineer I](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Sunto-Gun-Shizuoka-Japan/Software-Firmware-Engineer-I_R1320272) — Danaher, Sunto-Gun, Shizuoka, Japan
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) — Datadog, Madrid, Spain
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) — Datadog, Paris, France
+- [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) — Datadog, Boston, Massachusetts, USA; New York, New York, USA
+- [Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle](https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1) — Expedia, 3 Locations
+- [Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1) — GE Aerospace, 2 Locations
+- [Engines Engineering Co-op – Computer or Software Engineering – US – Fall 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027---Returning-Students_R5030075-1) — GE Aerospace, 2 Locations
+- [Engines Engineering Co-op – Computer or Software Engineering – US – Spring 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619) — GE Aerospace, 2 Locations
+- [Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) — GE Aerospace, 2 Locations
+- [Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Co-op - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Fall 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Fall-2027---Returning-Students_R5030180-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Co-op - Electrical Engineering & Computer Engineering/Science (Electric Power) - US - Fall 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Fall-2027---Returning-Students_R5030182-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Co-op - Mechanical/Aerospace Engineering (Avionics) - US - Fall 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Avionics----US---Fall-2027---Returning-Students_R5030183-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Fall 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Fall-2027---Returning-Students_R5030184-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027---Returning-Students_R5030173-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027---Returning-Students_R5030174-1) — GE Aerospace, 2 Locations
+- [Systems Engineering Intern - Mechanical/Aerospace Engineering (Avionics) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Avionics----US---Summer-2027---Returning-Students_R5030175) — GE Aerospace, 2 Locations
+- [Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027---Returning-Students_R5030177-1) — GE Aerospace, 2 Locations
+- [Edison Engineering Development Program Intern – Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) — GE HealthCare, Waukesha
+- [LSS Software Engineering Co-op - Madison, WI](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Madison/LSS-Software-Engineering-Co-op---Madison--WI_R4046263-1) — GE HealthCare, Madison
+- [GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2) — GE Vernova, Bellevue
+- [Intern – CFO - IT (Cloud Platform)](https://gilead.wd1.myworkdayjobs.com/GileadCareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--Cloud-Platform-_R0054839) — Gilead, United States - North Carolina - Raleigh
+- [Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) — Hartford, Hartford, CT
+- [2027 Summer Internship - Software Engineering](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) — Home Depot, STORE SUPPORT CENTER, ATLANTA - 9090
+- [Software Test Engineering Co-op (Beatbox)](https://jj.wd5.myworkdayjobs.com/Jj/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707) — Johnson & Johnson, Danvers, Massachusetts, United States of America
+- [Software Test Engineering Co-op (RLM)](https://jj.wd5.myworkdayjobs.com/Jj/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669) — Johnson & Johnson, Danvers, Massachusetts, United States of America
+- [Software/Controls Engineering Grad Intern (Fall Intern)](https://jci.wd5.myworkdayjobs.com/Jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) — Johnson Controls, Salem-Virginia-United States of America
+- [Data Processing Systems Engineer Intern](https://kbr.wd5.myworkdayjobs.com/Kbr_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060) — KBR, Sioux Falls, South Dakota
+- [Image Processing Software Engineer Intern](https://kbr.wd5.myworkdayjobs.com/Kbr_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067) — KBR, Sioux Falls, South Dakota
+- [Junior Systems Engineer](https://kbr.wd5.myworkdayjobs.com/Kbr_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2123987-1) — KBR, Beavercreek, Ohio
+- [Junior Systems Engineer](https://kbr.wd5.myworkdayjobs.com/Kbr_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554) — KBR, Beavercreek, Ohio
+- [Business Systems Engineer Intern, Finance Technology (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002) — Lyft, Toronto, Canada
+- [Développeur Logiciels (Stagiaire), Backend (l'été 2027 - Montreal)](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) — Lyft, Montreal, Canada
+- [Software Engineer Intern, Backend (Summer 2027 - Mexico)](https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002) — Lyft, Mexico City, Mexico
+- [Software Engineer Intern, Backend (Summer 2027 - Montreal)](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) — Lyft, Montreal, Canada
+- [Software Engineer Intern, Backend (Summer 2027 - SF)](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) — Lyft, San Francisco, CA
+- [Software Engineer Intern, Backend (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) — Lyft, Toronto, Canada
+- [Software Engineer Intern, Frontend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002) — Lyft, Mexico City, Mexico
+- [Software Engineer Intern, Fullstack (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) — Lyft, Toronto, Canada
+- [Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) — Lyft, Toronto, Canada
+- [Software Engineer Intern, Test Automation (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) — Lyft, Montreal, Canada
+- [AI Infrastructure Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-Infrastructure-Engineer-Intern_2604499) — Marvell, Petah-Tikva
+- [AI-Native Development Platform Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1) — Marvell, Santa Clara, CA
+- [Firmware Engineer Intern - BS/MS - 2027 Co-Op](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) — Marvell, Toronto, Canada
+- [Firmware Engineer Intern - Winter 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) — Marvell, Ottawa, Canada
+- [Firmware Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513) — Marvell, Santa Clara, CA
+- [Machine Learning Engineer Intern, BS/MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1) — Marvell, Santa Clara, CA
+- [Optical Module Software/Firmware Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216) — Marvell, 2 Locations
+- [Software Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2604258) — Marvell, Madrid
+- [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) — Medtronic, 20 Locations
+- [Junior Software Engineer](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kefar-Sava-Central-Israel/Junior-Software-Engineer_R75851-1) — Medtronic, Kefar Sava, Central, Israel
+- [Software Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) — Medtronic, 21 Locations
+- [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) — MongoDB, Dublin
+- [2027 Software Engineering Summer Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125) — Motorola Solutions, Plantation, FL
+- [Android Platform Software Engineering Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363) — Motorola Solutions, Plantation, FL, More...
+- [Android Software Engineer (Fresh Graduate)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Android-Software-Engineer--Fresh-Graduate-_R62748) — Motorola Solutions, Penang, Malaysia
+- [C# Software Engineer - Temporary from 01/01/2027 for 12 months](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751) — Motorola Solutions, United Kingdom Offsite (ZUK99)
+- [DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734) — Motorola Solutions, Plantation, FL
+- [Graduate Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cambridge-UK-ZUK140/Graduate-Software-Engineer_R69299-1) — Motorola Solutions, Cambridge, UK (ZUK140)
+- [Graduate Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006) — Motorola Solutions, Glasgow, UK (ZUK118)
+- [Graduate Systems Engineer - Mobile MDT](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Systems-Engineer--Guardian-Mobile-_R65951) — Motorola Solutions, Glasgow, UK (ZUK118), More...
+- [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) — Motorola Solutions, Irvine, CA
+- [Intern Software Developer (C#)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R68703) — Motorola Solutions, Krakow, Poland
+- [Intern Software Developer (C++)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C---_R69046) — Motorola Solutions, Krakow, Poland
+- [Intern Software Developer (C/C++)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901) — Motorola Solutions, Krakow, Poland
+- [Intern Software Developer (Java)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285) — Motorola Solutions, Krakow, Poland
+- [Intern Software Developer (Java)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R69454) — Motorola Solutions, Krakow, Poland
+- [Intern Software Developer (React/JS)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879) — Motorola Solutions, Krakow, Poland
+- [Intern Software Developer - Java](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer---Java_R68799) — Motorola Solutions, Krakow, Poland
+- [Presales Systems Engineer - 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140) — Motorola Solutions, Linthicum, MD, More...
+- [Software Engineer (Fresh Graduate)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer--Fresh-Graduate-_R63618) — Motorola Solutions, Penang, Malaysia
+- [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R64760-1) — Motorola Solutions, Penang, Malaysia
+- [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68790) — Motorola Solutions, Penang, Malaysia
+- [Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679) — Motorola Solutions, Greater Chicago Area
+- [Software Engineering Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) — Motorola Solutions, Chicago, IL
+- [Software Engineering Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) — Motorola Solutions, Plantation, FL
+- [Software Engineering Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1) — Motorola Solutions, Cork, Ireland
+- [Embedded SW Developer Intern - Security](https://nxp.wd3.myworkdayjobs.com/Careers/job/Brno/Embedded-SW-Developer-Intern---Security_R-10066538-1) — NXP, 2 Locations
+- [Graduate AI and Software Engineer - Automotive MPUs](https://nxp.wd3.myworkdayjobs.com/Careers/job/Glasgow/Graduate-AI-and-Software-Engineer---Automotive-MPUs_R-10065880-1) — NXP, Glasgow
+- [Intern AI and Software Engineer - Automotive MPUs](https://nxp.wd3.myworkdayjobs.com/Careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) — NXP, Glasgow
+- [Intern Software Engineer – Embedded Benchmarking & Thermal Characterization](https://nxp.wd3.myworkdayjobs.com/Careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1) — NXP, Bucharest
+- [Internship: Software Application Developer - Cryptographic Validation System (m/f/d)](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Software-Application-Developer---Cryptographic-Validation-System--m-f-d-_R-10066725) — NXP, Gratkorn
+- [Software Intern - Linux/Yocto](https://nxp.wd3.myworkdayjobs.com/Careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1) — NXP, 2 Locations
+- [Software Intern Student - RealTime Drivers](https://nxp.wd3.myworkdayjobs.com/Careers/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117) — NXP, Bucharest
+- [Software Intern: Linux/Yocto](https://nxp.wd3.myworkdayjobs.com/Careers/job/Shanghai-Pudong/Software-Intern--Linux-Yocto_R-10066617) — NXP, 2 Locations
+- [Software Internship - Systems Engineering](https://nxp.wd3.myworkdayjobs.com/Careers/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965) — NXP, Bucharest
+- [Web Application Developer Intern](https://nxp.wd3.myworkdayjobs.com/Careers/job/Sibiu/Web-Application-Developer_R-10062194-1) — NXP, Sibiu
+- [Associate Software Analyst](https://ptc.wd1.myworkdayjobs.com/Ptc/job/Pune-India/Associate-Software-Analyst_JR112163) — PTC, Pune, India
+- [Software Developer Intern](https://ptc.wd1.myworkdayjobs.com/Ptc/job/Budapest-Hungary/Software-Developer---Intern_JR110893-1) — PTC, Budapest, Hungary
+- [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) — Palantir, New York, NY
+- [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) — Palantir, Palo Alto, CA
+- [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) — Palantir, Washington, D.C.
+- [Forward Deployed Infrastructure Engineer, New Grad - UK Government](https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6) — Palantir, London, United Kingdom
+- [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) — Palantir, Honolulu, HI
+- [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) — Palantir, New York, NY
+- [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) — Palantir, Palo Alto, CA
+- [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) — Palantir, Washington, D.C.
+- [Forward Deployed Software Engineer, Internship](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a) — Palantir, Paris, France
+- [Forward Deployed Software Engineer, Internship - AUS Government](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) — Palantir, Sydney, Australia
+- [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) — Palantir, Chicago, IL
+- [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) — Palantir, London, United Kingdom
+- [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) — Palantir, New York, NY
+- [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) — Palantir, Seoul, South Korea
+- [Forward Deployed Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) — Palantir, Washington, D.C.
+- [Forward Deployed Software Engineer, Internship - France](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) — Palantir, New York, NY
+- [Forward Deployed Software Engineer, Internship - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) — Palantir, Washington, D.C.
+- [Forward Deployed Software Engineer, Internship - UK Government](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) — Palantir, London, United Kingdom
+- [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) — Palantir, Honolulu, HI
+- [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) — Palantir, New York, NY
+- [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) — Palantir, Washington, D.C.
+- [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) — Palantir, Chicago, IL
+- [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) — Palantir, London, United Kingdom
+- [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) — Palantir, New York, NY
+- [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253) — Palantir, Seoul, South Korea
+- [Forward Deployed Software Engineer, New Grad - Intel, US Government](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) — Palantir, Washington, D.C.
+- [Forward Deployed Software Engineer, New Grad - UK Government](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) — Palantir, London, United Kingdom
+- [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) — Palantir, New York, NY
+- [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) — Palantir, Washington, D.C.
+- [Privacy and Civil Liberties Software Engineer, Internship](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) — Palantir, New York, NY
+- [Software Engineer, Internship](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) — Palantir, Denver, CO
+- [Software Engineer, Internship](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) — Palantir, London, United Kingdom
+- [Software Engineer, Internship](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) — Palantir, New York, NY
+- [Software Engineer, Internship](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) — Palantir, Palo Alto, CA
+- [Software Engineer, Internship](https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1) — Palantir, Singapore, Singapore
+- [Software Engineer, Internship](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) — Palantir, Washington, D.C.
+- [Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) — Palantir, New York, NY
+- [Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) — Palantir, Palo Alto, CA
+- [Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) — Palantir, Washington, D.C.
+- [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) — Palantir, London, United Kingdom
+- [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) — Palantir, New York, NY
+- [Software Engineer, Internship - Infrastructure](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) — Palantir, Palo Alto, CA
+- [Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) — Palantir, New York, NY
+- [Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) — Palantir, Seattle, WA
+- [Software Engineer, Internship - Production Infrastructure](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) — Palantir, Washington, D.C.
+- [Software Engineer, New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) — Palantir, Denver, CO
+- [Software Engineer, New Grad](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e) — Palantir, London, United Kingdom
+- [Software Engineer, New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) — Palantir, New York, NY
+- [Software Engineer, New Grad](https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e) — Palantir, Singapore, Singapore
+- [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) — Palantir, New York, NY
+- [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3) — Palantir, Palo Alto, CA
+- [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79) — Palantir, Washington, D.C.
+- [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b) — Palantir, London, United Kingdom
+- [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) — Palantir, New York, NY
+- [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d) — Palantir, Palo Alto, CA
+- [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) — Palantir, New York, NY
+- [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af) — Palantir, Seattle, WA
+- [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) — Palantir, Washington, D.C.
+- [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) — Palantir, Chicago, IL
+- [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) — Palantir, New York, NY
+- [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) — Palantir, New York, NY
+- [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) — Palantir, Washington, D.C.
+- [Year at Palantir - Software Engineer, Internship](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) — Palantir, New York, NY
+- [Junior Software Developer - TS/SCI](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Herndon/Junior-Software-Developer---TS-SCI_R182648) — Parsons, 
+- [Software Engineer Co-Op - TS/SCI](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) — Parsons, 
+- [Master's University Grad Machine Learning Engineer 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) — Pinterest, San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US
+- [Software Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) — Pinterest, San Francisco, CA, US; Remote, US
+- [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) — Pinterest, Dublin, IE
+- [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) — Pinterest, Toronto, ON, CA
+- [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) — Pinterest, Zurich, CH
+- [University Grad Software Engineer 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — Pinterest, San Francisco, CA, US; Remote, US
+- [IT Engineering (Software, Platform, & Network)  (2027 Grads)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918) — Procter & Gamble, CINCINNATI GENERAL OFFICES
+- [IT Engineering Internship (Software, Platform, & Network)](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503) — Procter & Gamble, CINCINNATI GENERAL OFFICES
+- [2027 Co-op Laboratory Automation & Robotics Engineering](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Laboratory-Automation---Robotics-Engineering_R51030-1) — Regeneron, TARRYTOWN
+- [Software Developer Intern, Backend (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) — Robinhood, Toronto, Canada
+- [Software Developer Intern, Web (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) — Robinhood, Toronto, Canada
+- [Software Developer Intern, iOS (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729) — Robinhood, Toronto, Canada
+- [Software Developer Intern/Co-op, Backend (Winter 2027)](https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428) — Robinhood, Toronto, Canada
+- [Software Engineering Intern, Android (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) — Robinhood, Menlo Park, CA; New York, NY
+- [Software Engineering Intern, Backend (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) — Robinhood, Bellevue, WA; Menlo Park, CA; New York, NY
+- [Software Engineering Intern, Web (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963) — Robinhood, Menlo Park, CA; New York, NY
+- [Software Engineering Intern, iOS (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) — Robinhood, Menlo Park, CA; New York, NY
+- [[2027] Software Engineer, Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) — Roblox, San Mateo, CA, United States
+- [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) — Roblox, San Mateo, CA, United States
+- [Co-op, AI Software Engineering (6-8 months)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1) — Rockwell Automation, 2 Locations
+- [Co-op, Robotics Integration and Development (OTTO by Rockwell Automation)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721-1) — Rockwell Automation, Waterloo, Ontario, Canada
+- [Firmware Engineer – Fresh Graduate](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Firmware-Engineer---Fresh-Graduate_R26-8040) — Rockwell Automation, Singapore, Singapore
+- [Intern Developer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/Intern-Developer_R26-7072) — Rockwell Automation, Medellin, Antioquia, Colombia
+- [Intern, AI Software Engineering (June-August 2027)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1) — Rockwell Automation, 2 Locations
+- [Intern, Firmware and Software Test Development](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1) — Rockwell Automation, 2 Locations
+- [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/Spgi_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) — S&P Global, 2 Locations
+- [Software Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/Spgi_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2) — S&P Global, 2 Locations
+- [Software Engineer Intern - Berlin (2026)](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) — Snowflake, DE-Berlin-Trion Building
+- [Software Engineer Intern - Berlin (2027)](https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8) — Snowflake, DE-Berlin-Trion Building
+- [Software Engineer Intern - Warsaw Security](https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be) — Snowflake, PL-Warsaw-Lixa C
+- [Software Engineer Intern - Zurich (2026)](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) — Snowflake, CH-Zurich-Observe
+- [Embedded Software Engineering Co-Op Student](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Carrigtwohill-Ireland/Embedded-Software-Engineering-Co-Op-Student_R572136) — Stryker, Carrigtwohill, Ireland
+- [Internship Software Test Engineering & Medical Technology – 6 Months | Start Spring 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Software-Test-Engineering---Medical-Technology---6-Months---Start-Spring-2027_R572140) — Stryker, Freiburg, Germany
+- [Internship Software for AI Applications in Robotic-Assisted Surgery – 6 Months | Start Spring 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Internship-Software-for-AI-Applications-in-Robotic-Assisted-Surgery---6-Months---Start-Spring-2027_R572200-1) — Stryker, Freiburg, Germany
+- [Master’s Internship Research & Development – Sports Medicine Software Engineering – 6 Months | Start April 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Freiburg-Germany/Master-s-Internship-Research---Development---Sports-Medicine-Software-Engineering---6-Months---Start-April-2027_R572180) — Stryker, Freiburg, Germany
+- [R&D Software Engineering Graduate Program - September 2027](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Cork-Ireland/R-D-Software-Engineering-Graduate-Program---September-2027_R573070) — Stryker, Cork, Ireland
+- [Software Engineering Co-Op](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Belfast-United-Kingdom/Software-Engineering-Co-Op_R572094) — Stryker, Belfast, United Kingdom
+- [Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941) — Stryker, Flower Mound, Texas
+- [Summer 2027 Internship - Software Engineering - California](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) — Stryker, 2 Locations
+- [Summer 2027 Internship - Software Engineering - Florida](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1) — Stryker, Fort Lauderdale, Florida
+- [Summer 2027 Internship - Software Engineering - Indiana](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631) — Stryker, Fort Wayne, Indiana
+- [Summer 2027 Internship - Software Engineering - Michigan](https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) — Stryker, Portage, Michigan
+- [Intern Software Scientist - X-ray Spectroscopy](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Intern-Software-Scientist---X-ray-Spectroscopy_R-01366276) — Thermo Fisher, Eindhoven, Netherlands
+- [Software Engineer I](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-51276-1) — Travelers, 4 Locations
+- [Hardware/Software Testing Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1) — Trimble, 3 Locations
+- [Software Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) — Trimble, 7 Locations
+- [Associate Software Engineer - 2027 Start Dates](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6) — Veeva, California - Pleasanton
+- [Associate Software Engineer - 2027 Start Dates](https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd) — Veeva, Massachusetts - Boston
+- [Associate Software Engineer - 2027 Start Dates](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9) — Veeva, Ohio - Columbus
+- [Associate Software Engineer - Release Engineer](https://jobs.lever.co/veeva/90e4e761-8dce-407c-a8bb-73781cc8b0d0) — Veeva, India - Hyderabad
+- [Associate Software Engineer - Test Automation](https://jobs.lever.co/veeva/d0704c83-8c0f-4545-8a40-eb48bcfec299) — Veeva, India - Hyderabad
+- [Associate Software Engineer - Test Automation (Infra)](https://jobs.lever.co/veeva/026b7ed5-d247-4b64-974f-b90d8940584b) — Veeva, India - Hyderabad
+- [Associate Software Engineer in Test](https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1) — Veeva, Canada - Toronto
