@@ -26,7 +26,7 @@ jobs:
             git pull -q --rebase
             python3 watcher.py || { sleep 60; python3 watcher.py; }  # one retry, then fail so GitHub emails you
             touch new_jobs.md
-            git add seen.json boards.json new_jobs.md
+            git add seen.json boards.json new_jobs.md seeded.json current_openings.md
             git diff --cached --quiet || { git commit -qm "Update state" && git pull -q --rebase && git push -q; }
             [ $(( $(date +%s) + 900 )) -lt "$end" ] || break
             sleep 900

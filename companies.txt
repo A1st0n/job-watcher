@@ -350,3 +350,86 @@ Sanity
 Chalk
 Infisical
 Speakeasy
+Palantir
+Datadog
+Cloudflare
+Snowflake
+CrowdStrike
+Zscaler
+Okta
+MongoDB
+Autodesk
+Cadence
+Motorola Solutions
+NXP
+Marvell
+Trimble
+PTC
+Fair Isaac
+Global Payments
+Broadridge
+SS&C
+S&P Global
+Nasdaq
+CME Group
+Equifax
+TransUnion
+Robinhood
+SoFi
+Affirm
+Toast
+Lyft
+Pinterest
+Snap
+Reddit
+Roblox
+Take-Two
+Warner Bros Discovery
+Accenture
+Gen Digital
+Twilio
+GoDaddy
+Match Group
+Etsy
+Carvana
+Instacart
+AppLovin
+The Trade Desk
+Dropbox
+GE Vernova
+GE HealthCare
+KBR
+Parsons
+Emerson
+Rockwell Automation
+Johnson Controls
+Carrier
+Trane
+3M
+State Street
+Northern Trust
+Travelers
+AIG
+Hartford
+Centene
+HCA Healthcare
+Medtronic
+Abbott
+Johnson & Johnson
+Pfizer
+Merck
+Bristol Myers Squibb
+Amgen
+Gilead
+Regeneron
+Moderna
+Illumina
+Thermo Fisher
+Danaher
+Agilent
+Stryker
+Edwards Lifesciences
+Veeva
+Chipotle
+Coca-Cola
+Procter & Gamble

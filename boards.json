@@ -33,7 +33,10 @@
  "Tesla": null,
  "Uber": null,
  "Intuit": null,
- "Qualcomm": null,
+ "Qualcomm": [
+  "workday",
+  "qualcomm.wd12/External"
+ ],
  "Dell": null,
  "HP": [
   "workday",
@@ -107,7 +110,10 @@
   "workday",
   "target.wd5/targetcareers"
  ],
- "Home Depot": null,
+ "Home Depot": [
+  "workday",
+  "homedepot.wd5/CareerDepot"
+ ],
  "Boeing": [
   "workday",
   "boeing.wd1/EXTERNAL_CAREERS"
@@ -121,7 +127,10 @@
   "workday",
   "globalhr.wd5/REC_RTX_Ext_Gateway"
  ],
- "Verizon": null,
+ "Verizon": [
+  "workday",
+  "verizon.wd12/verizon-careers"
+ ],
  "T-Mobile": [
   "workday",
   "tmobile.wd1/External"
@@ -131,7 +140,10 @@
   "workday",
   "ebay.wd5/apply"
  ],
- "Expedia": null,
+ "Expedia": [
+  "workday",
+  "expedia.wd108/Search"
+ ],
  "Block": [
   "greenhouse",
   "block"
@@ -148,7 +160,10 @@
   "analogdevices.wd1/External"
  ],
  "Arista": null,
- "Palo Alto Networks": null,
+ "Palo Alto Networks": [
+  "workday-site-unknown",
+  "paloaltonetworks.wd5"
+ ],
  "HPE": [
   "workday",
   "hpe.wd5/Jobsathpe"
@@ -179,7 +194,10 @@
  ],
  "L3Harris": null,
  "Honeywell": null,
- "GE Aerospace": null,
+ "GE Aerospace": [
+  "workday",
+  "geaerospace.wd5/GE_ExternalSite"
+ ],
  "Ford": null,
  "GM": [
   "workday",
@@ -1130,5 +1148,337 @@
  "Speakeasy": [
   "ashby",
   "speakeasy"
+ ],
+ "Palantir": [
+  "lever",
+  "palantir"
+ ],
+ "Datadog": [
+  "greenhouse",
+  "datadog"
+ ],
+ "Cloudflare": [
+  "greenhouse",
+  "cloudflare"
+ ],
+ "Snowflake": [
+  "ashby",
+  "snowflake"
+ ],
+ "CrowdStrike": [
+  "workday",
+  "crowdstrike.wd5/CrowdstrikeCareers"
+ ],
+ "Zscaler": [
+  "greenhouse",
+  "zscaler"
+ ],
+ "Okta": [
+  "greenhouse",
+  "okta"
+ ],
+ "MongoDB": [
+  "greenhouse",
+  "mongodb"
+ ],
+ "Autodesk": [
+  "workday",
+  "autodesk.wd1/Ext"
+ ],
+ "Cadence": [
+  "workday",
+  "cadence.wd1/External_Careers"
+ ],
+ "Motorola Solutions": [
+  "workday",
+  "motorolasolutions.wd5/Careers"
+ ],
+ "NXP": [
+  "workday",
+  "nxp.wd3/Careers"
+ ],
+ "Marvell": [
+  "workday",
+  "marvell.wd1/MarvellCareers"
+ ],
+ "Trimble": [
+  "workday",
+  "trimble.wd1/TrimbleCareers"
+ ],
+ "PTC": [
+  "workday",
+  "ptc.wd1/Ptc"
+ ],
+ "Fair Isaac": [
+  "workday",
+  "fico.wd1/External"
+ ],
+ "Global Payments": [
+  "workday",
+  "tsys.wd1/Tsys"
+ ],
+ "Broadridge": [
+  "workday",
+  "broadridge.wd5/Careers"
+ ],
+ "SS&C": [
+  "workday",
+  "ssctech.wd1/SSCTechnologies"
+ ],
+ "S&P Global": [
+  "workday",
+  "spgi.wd5/Spgi_Careers"
+ ],
+ "Nasdaq": [
+  "workday",
+  "nasdaq.wd1/Global_External_Site"
+ ],
+ "CME Group": [
+  "workday",
+  "cmegroup.wd1/cme_careers"
+ ],
+ "Equifax": [
+  "workday",
+  "equifax.wd5/External"
+ ],
+ "TransUnion": [
+  "workday",
+  "transunion.wd5/Transunion"
+ ],
+ "Robinhood": [
+  "greenhouse",
+  "robinhood"
+ ],
+ "SoFi": [
+  "greenhouse",
+  "sofi"
+ ],
+ "Affirm": [
+  "greenhouse",
+  "affirm"
+ ],
+ "Toast": [
+  "greenhouse",
+  "toast"
+ ],
+ "Lyft": [
+  "greenhouse",
+  "lyft"
+ ],
+ "Pinterest": [
+  "greenhouse",
+  "pinterest"
+ ],
+ "Snap": [
+  "workday",
+  "snapchat.wd1/snap"
+ ],
+ "Reddit": [
+  "greenhouse",
+  "reddit"
+ ],
+ "Roblox": [
+  "greenhouse",
+  "roblox"
+ ],
+ "Take-Two": [
+  "greenhouse",
+  "taketwo"
+ ],
+ "Warner Bros Discovery": [
+  "workday",
+  "warnerbros.wd5/Global"
+ ],
+ "Accenture": [
+  "workday",
+  "accenture.wd103/AccentureCareers"
+ ],
+ "Gen Digital": [
+  "workday",
+  "gen.wd1/Careers"
+ ],
+ "Twilio": [
+  "greenhouse",
+  "twilio"
+ ],
+ "GoDaddy": [
+  "greenhouse",
+  "godaddy"
+ ],
+ "Match Group": [
+  "lever",
+  "matchgroup"
+ ],
+ "Etsy": [
+  "workday",
+  "etsy.wd5/Etsy_Careers"
+ ],
+ "Carvana": [
+  "greenhouse",
+  "carvana"
+ ],
+ "Instacart": [
+  "greenhouse",
+  "instacart"
+ ],
+ "AppLovin": [
+  "greenhouse",
+  "applovin"
+ ],
+ "The Trade Desk": [
+  "greenhouse",
+  "thetradedesk"
+ ],
+ "Dropbox": [
+  "greenhouse",
+  "dropbox"
+ ],
+ "GE Vernova": [
+  "workday",
+  "gevernova.wd5/Vernova_ExternalSite"
+ ],
+ "GE HealthCare": [
+  "workday",
+  "gehc.wd5/GEHC_ExternalSite"
+ ],
+ "KBR": [
+  "workday",
+  "kbr.wd5/Kbr_Careers"
+ ],
+ "Parsons": [
+  "workday",
+  "parsons.wd5/Search"
+ ],
+ "Emerson": [
+  "workday-site-unknown",
+  "emerson.wd5"
+ ],
+ "Rockwell Automation": [
+  "workday",
+  "rockwellautomation.wd1/External_Rockwell_Automation"
+ ],
+ "Johnson Controls": [
+  "workday",
+  "jci.wd5/Jci"
+ ],
+ "Carrier": [
+  "workday",
+  "carrier.wd5/jobs"
+ ],
+ "Trane": [
+  "workday-site-unknown",
+  "tranetechnologies.wd12"
+ ],
+ "3M": [
+  "workday",
+  "3m.wd1/Search"
+ ],
+ "State Street": [
+  "workday",
+  "statestreet.wd1/Global"
+ ],
+ "Northern Trust": [
+  "workday",
+  "ntrs.wd1/northerntrust"
+ ],
+ "Travelers": [
+  "workday",
+  "travelers.wd5/External"
+ ],
+ "AIG": [
+  "workday",
+  "aig.wd1/Aig"
+ ],
+ "Hartford": [
+  "workday",
+  "thehartford.wd5/Careers_External"
+ ],
+ "Centene": [
+  "workday",
+  "centene.wd5/Centene_External"
+ ],
+ "HCA Healthcare": [
+  "workday-site-unknown",
+  "hcahealthcare.wd3"
+ ],
+ "Medtronic": [
+  "workday",
+  "medtronic.wd1/MedtronicCareers"
+ ],
+ "Abbott": [
+  "workday",
+  "abbott.wd5/AbbottCareers"
+ ],
+ "Johnson & Johnson": [
+  "workday",
+  "jj.wd5/Jj"
+ ],
+ "Pfizer": [
+  "workday",
+  "pfizer.wd1/PfizerCareers"
+ ],
+ "Merck": [
+  "workday",
+  "msd.wd5/SearchJobs"
+ ],
+ "Bristol Myers Squibb": [
+  "workday",
+  "bristolmyerssquibb.wd5/BMS"
+ ],
+ "Amgen": [
+  "workday",
+  "amgen.wd1/Careers"
+ ],
+ "Gilead": [
+  "workday",
+  "gilead.wd1/GileadCareers"
+ ],
+ "Regeneron": [
+  "workday",
+  "regeneron.wd1/Careers"
+ ],
+ "Moderna": [
+  "workday",
+  "modernatx.wd1/M_tx"
+ ],
+ "Illumina": [
+  "workday",
+  "illumina.wd1/illumina-careers"
+ ],
+ "Thermo Fisher": [
+  "workday",
+  "thermofisher.wd5/ThermofisherCareers"
+ ],
+ "Danaher": [
+  "workday",
+  "danaher.wd1/DanaherJobs"
+ ],
+ "Agilent": [
+  "workday",
+  "agilent.wd5/Agilent_Careers"
+ ],
+ "Stryker": [
+  "workday",
+  "stryker.wd1/strykercareers"
+ ],
+ "Edwards Lifesciences": [
+  "workday",
+  "edwards.wd5/EdwardsCareers"
+ ],
+ "Veeva": [
+  "lever",
+  "veeva"
+ ],
+ "Chipotle": [
+  "workday",
+  "chipotle.wd5/chipotlecareers"
+ ],
+ "Coca-Cola": [
+  "workday",
+  "coke.wd1/coca-cola-careers"
+ ],
+ "Procter & Gamble": [
+  "workday",
+  "pg.wd5/1000"
  ]
 }

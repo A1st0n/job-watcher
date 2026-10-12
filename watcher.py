@@ -3,7 +3,7 @@
 
 Run with --dry-run to print instead of email. State lives next to this file.
 """
-import json, os, re, smtplib, subprocess, sys, urllib.request
+import json, os, re, smtplib, subprocess, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from email.message import EmailMessage
 from pathlib import Path
@@ -11,6 +11,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 COMPANIES = HERE / "companies.txt"  # the startup routine pushes new companies here
 BOARDS, SEEN, LOG = HERE / "boards.json", HERE / "seen.json", HERE / "new_jobs.md"
+SEEDED, OPENINGS = HERE / "seeded.json", HERE / "current_openings.md"
 ME = os.environ.get("GMAIL_ADDRESS", "")  # GitHub secret; kept out of the public code
 SIMPLIFY = "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
 
@@ -166,18 +167,35 @@ def main():
     jobs = collect(boards)
     first_run = not SEEN.exists() or "--seed" in sys.argv  # --seed: record current postings without emailing
     seen = set(json.loads(SEEN.read_text())) if not first_run else set()
-    new = [jobs[i] for i in jobs if i not in seen]
-    print(f"{len(jobs)} matching postings ({sum(i.startswith('sj:') for i in jobs)} Simplify), {len(new)} new")
+    # A company's first appearance would dump all its open roles at once, so those go to the catch-up file instead.
+    seeded = set(json.loads(SEEDED.read_text())) if SEEDED.exists() else {c for c, b in boards.items() if b}
+    fresh = {i: v for i, v in jobs.items() if i not in seen}
+    quiet = {i: v for i, v in fresh.items() if not i.startswith("sj:") and v[0] not in seeded}
+    new, dupes = [], set()
+    for i, v in fresh.items():  # one line per company+title even when posted in several locations
+        if i not in quiet and (v[0], v[1].strip().lower()) not in dupes:
+            dupes.add((v[0], v[1].strip().lower()))
+            new.append(v)
+    print(f"{len(jobs)} matching postings ({sum(i.startswith('sj:') for i in jobs)} Simplify), "
+          f"{len(new)} new, {len(quiet)} from newly added companies")
     if not jobs:
         sys.exit("Fetched nothing: network or source problem.")  # fail the run instead of passing silently
+    if dry:
+        print("\n".join(f"{c} - {t} | {u}" for c, t, loc, u in new))
+        return
 
     if first_run:  # seed only, so the first email isn't thousands of old postings
         print(f"Seeded {len(jobs)} current postings from {sum(1 for b in boards.values() if b)} boards + Simplify.")
     elif new:
-        print("\n".join(f"{c} - {t} | {u}" for c, t, loc, u in new)) if dry else send(new)  # send() exits on failure
+        send(new)  # exits on failure, so nothing below runs and the jobs retry next time
         with LOG.open("a") as f:
             f.writelines(f"- {c} - {t} ({loc}) {u}\n" for c, t, loc, u in new)
+    if quiet and not first_run:
+        with OPENINGS.open("a") as f:
+            f.write(f"\n# Added {time.strftime('%Y-%m-%d')}: open roles at newly watched companies\n")
+            f.writelines(f"- [{t.strip()}]({u}) — {c}, {loc}\n" for c, t, loc, u in sorted(quiet.values()))
     SEEN.write_text(json.dumps(sorted(seen | set(jobs))))  # only after a successful send, so failures retry
+    SEEDED.write_text(json.dumps(sorted(seeded | {c for c, b in boards.items() if b})))
 
 
 if __name__ == "__main__":
