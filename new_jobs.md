@@ -90,3 +90,6 @@
 - Sun Life - Student Associate Software Engineer Intern (Toronto, ON, Canada, Waterloo, ON, Canada) https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer--Fall--2026-_JR00128496
 - Boston Scientific - R&D Firmware Engineer Intern (Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813547667
 - Vestmark - Software Engineer Co-op (Boston, MA) https://job-boards.greenhouse.io/vestmark/jobs/8204509
+- Intel - GPU Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894
+- Bosch - IT Operations Engineer (Junior) - Enterprise Collaboration Platforms (Huarte, Pamplona) https://jobs.smartrecruiters.com/BoschGroup/744000155290644
+- Autodesk - Software Development Intern (Toronto, ON, Canada) https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435
