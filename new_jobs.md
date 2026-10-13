@@ -111,3 +111,35 @@
 - ServiceNow - AI Engineering - Software Engineer Internships - Summer 2027 (Masters) (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000155345689
 - RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726
 - Netflix - Software Engineer Intern - Summer 2027 (Los Gatos,California,United States of America) https://explore.jobs.netflix.net/careers/job/790318904468
+- Atoms - Software Engineer Intern - Winter 2027 (Seattle, WA, SF, LA, NYC, Mountain View, CA) https://job-boards.greenhouse.io/cssmerge/jobs/8687915002
+- Atoms - Software Engineer Intern - Summer 2027 (Seattle, WA, SF, LA, NYC, Mountain View, CA) https://job-boards.greenhouse.io/cssmerge/jobs/8687896002
+- Emerson Electric - Firmware Engineer Co-op (Marshalltown, IA) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761
+- Marvell - Firmware Engineer Intern (Santa Clara, CA, Westlake Village, CA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461
+- RTX - Software Engineering Intern (Huntsville, AL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655
+- Axon - Software Engineer Intern - R&D Program (Seattle, WA) https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003
+- Boston Scientific - Software Engineer Intern - R&D (Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813542900
+- Autodesk - Software Development Intern (Toronto, ON, Canada) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1
+- GoTo Group - Software Developer Intern - Contacts (Remote in Canada) https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249
+- State Affairs - Software Engineer Intern (Washington, DC) https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009
+- Pebl - Software Engineering Intern (Toronto, ON, Canada) https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true
+- KLA - Machine Learning Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872
+- KLA - Software Engineer Intern - AI (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817
+- Amazon - Hardware Development Engineer Intern Co-op - Robotics (North Reading, MA, Westborough, MA) https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027
+- Carbon Robotics - Engineering Intern - Hardware & Software (Seattle, WA) https://carbonrobotics.com/job-openings?gh_jid=4721558006
+- Rolls-Royce - Integrated Control Systems Engineer Intern - Software (Indianapolis, IN) https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452
+- Skydio - Embedded Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true
+- Netflix - Software Engineer Intern (LA, Los Gatos, CA) https://explore.jobs.netflix.net/careers/job/790318904468
+- Unity - Machine Learning Engineer Intern (Washington, Mountain View, CA) https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965
+- Medpace - Python Developer Intern (Cincinnati, OH) https://careers.medpace.com/jobs/13059?icims=1
+- Motorola - Software Engineering Co-op Intern (Chicago, IL, Schaumburg, IL, Illinois) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641
+- Rhombus - Software Engineer Intern (Sacramento, CA) https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply
+- D2L - Software Developer Co-op (Vancouver, BC, Canada) https://www.d2l.com/careers/jobs/?job_id=8279317&gh_jid=8279317
+- H&R Block - Software Engineer Intern (Kansas City, MO) https://careers.hrblock.com/jobs/76987?icims=1
+- Jain Global - Quantitative Developer Intern (NYC) https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608
+- Sun Life - AI Developer Student Intern (Toronto, ON, Canada, Waterloo, ON, Canada) https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1
+- ServiceNow - Software Engineer Intern (Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA) https://jobs.smartrecruiters.com/ServiceNow/744000155345689
+- ServiceNow - AI Engineering Associate Software Engineer Intern (Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA) https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+- Meta - Production Systems Engineer Intern (Menlo Park, CA) https://www.metacareers.com/jobs/1423159169992675
+- Meta - Research Scientist Intern - Multimodal Generative AI and Robotics (Redmond, WA, Sunnyvale, CA) https://www.metacareers.com/jobs/1139865145249047
+- Meta - Research Scientist Intern - 3D World Modeling - Robotics and Generative AI (Burlingame, CA, Redmond, WA, Sunnyvale, CA) https://www.metacareers.com/jobs/1839680137188723
+- Bose - Embedded Audio Machine Learning Engineer Co-op (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719
