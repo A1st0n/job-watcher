@@ -149,3 +149,5 @@
 - Schweitzer Engineering Laboratories - Software Engineer Intern (Spokane Valley, WA) https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231
 - Eurostar International - Software Developer Intern (London, UK) https://apply.workable.com/eurostar/j/D69651A000/apply
 - RTX - Electro-Optics Systems Engineer Intern (Onsite) (US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586
+- RTX - Systems Engineering Intern (Summer 2027) (US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304
+- RTX - RF Systems Engineer Intern (Onsite) (US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592
