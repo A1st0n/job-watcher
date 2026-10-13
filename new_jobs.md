@@ -101,3 +101,4 @@
 - Amazon - Software Development Engineer Intern, Amazon University Talent Acquisition  (Zapopan, Jalisco, MEX) https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition
 - Marvell - Firmware Engineer Intern, BS - Summer 2027 (2 Locations) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461
 - Autodesk - Software Development Internship (Winter 2027) (Toronto, ON, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1
+- GE Aerospace - Fluid Systems Engineering Master Degree Intern - GE9X/LEAP Accessories (Queretaro) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Fluid-Systems-Engineering-Intern---GE9X-LEAP-Accessories_R5037675-1
