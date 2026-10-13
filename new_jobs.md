@@ -57,3 +57,4 @@
 - Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375
 - Waymo - 2027 Summer Intern, BS/MS, Software Engineering, Commercialization (Warsaw, Poland) https://careers.withwaymo.com/jobs?gh_jid=8268204
 - Nvidia - Software Engineering Intern, Deep Learning - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596
+- RTX - Systems Engineering Test Equipment Intern (Summer 2027) (US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955
