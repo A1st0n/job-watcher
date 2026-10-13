@@ -93,3 +93,5 @@
 - Intel - GPU Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894
 - Bosch - IT Operations Engineer (Junior) - Enterprise Collaboration Platforms (Huarte, Pamplona) https://jobs.smartrecruiters.com/BoschGroup/744000155290644
 - Autodesk - Software Development Intern (Toronto, ON, Canada) https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435
+- KLA - Software Engineering Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821
+- KLA - Software Engineer Intern - AI (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817
