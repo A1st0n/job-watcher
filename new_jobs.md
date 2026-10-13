@@ -104,3 +104,4 @@
 - GE Aerospace - Fluid Systems Engineering Master Degree Intern - GE9X/LEAP Accessories (Queretaro) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Fluid-Systems-Engineering-Intern---GE9X-LEAP-Accessories_R5037675-1
 - Nvidia - Developer Technology Engineering Intern - Compute Performance (3 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775
 - Leidos - Junior Software Developer (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110
+- Motorola Solutions - Software Engineer Co-op Intern - 2026/2027 (Illinois Remote Work, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641
