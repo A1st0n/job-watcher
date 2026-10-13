@@ -78,3 +78,4 @@
 - Aptiv - Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1
 - Mastercard - Software Engineer I (Pune, India) https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I_R-292435
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69438
+- Rockwell Automation - Firmware Engineer (Communication Protocol) – Fresh Graduate (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Firmware-Engineer--Communication-Protocol----Fresh-Graduate_R26-8188
