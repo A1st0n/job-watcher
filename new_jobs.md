@@ -62,3 +62,4 @@
 - RTX - Systems Engineering Test Equipment Intern (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955
 - Schweitzer Engineering Laboratories - Software Engineer Intern (Boise, ID) https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958
 - Expedia Group - Software Development Engineer Intern (Seattle, WA, Austin, TX, San Jose, CA) https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1
+- Bosch - [EAA] Embedded Test Engineer Intern (C/C++) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000155154629
