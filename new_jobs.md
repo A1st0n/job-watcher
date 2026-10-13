@@ -63,3 +63,4 @@
 - Schweitzer Engineering Laboratories - Software Engineer Intern (Boise, ID) https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958
 - Expedia Group - Software Development Engineer Intern (Seattle, WA, Austin, TX, San Jose, CA) https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1
 - Bosch - [EAA] Embedded Test Engineer Intern (C/C++) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000155154629
+- HPE - Firmware Engineering Intern (Sunnyvale, California, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254
