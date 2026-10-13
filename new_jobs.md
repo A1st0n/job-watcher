@@ -107,3 +107,6 @@
 - Motorola Solutions - Software Engineer Co-op Intern - 2026/2027 (Illinois Remote Work, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641
 - RTX - Software Engineer I (Onsite) (US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283
 - RTX - Software Engineering Intern (Summer 2027) (US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr ~ DAVIS 382) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655
+- ServiceNow - AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors) (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000155345889
+- ServiceNow - AI Engineering - Software Engineer Internships - Summer 2027 (Masters) (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000155345689
+- RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726
