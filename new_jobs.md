@@ -72,3 +72,4 @@
 - RTX - EW and Missile Defense Systems Engineer I - Onsite (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Entry-Level-Engineer---EW-and-Missile-Defense-Systems_01879709
 - RTX - Systems Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I----Onsite-_01880576
 - RTX - Systems Engineering Intern 2027 - Onsite (US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineering-Intern-2027---Onsite_01878041
+- HPE - Backend Intern (Herzliya, Israel) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Herzliya-Israel/Backend-Intern_1211019-1
