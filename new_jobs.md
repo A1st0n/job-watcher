@@ -58,3 +58,7 @@
 - Waymo - 2027 Summer Intern, BS/MS, Software Engineering, Commercialization (Warsaw, Poland) https://careers.withwaymo.com/jobs?gh_jid=8268204
 - Nvidia - Software Engineering Intern, Deep Learning - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596
 - RTX - Systems Engineering Test Equipment Intern (Summer 2027) (US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955
+- Tyler Technologies - Software Development Intern - Summer 2027 (Yarmouth, ME, Orono, ME, Falmouth, ME) https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false
+- RTX - Systems Engineering Test Equipment Intern (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955
+- Schweitzer Engineering Laboratories - Software Engineer Intern (Boise, ID) https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958
+- Expedia Group - Software Development Engineer Intern (Seattle, WA, Austin, TX, San Jose, CA) https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1
