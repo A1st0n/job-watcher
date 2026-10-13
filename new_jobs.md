@@ -85,3 +85,8 @@
 - American Family Insurance Group - Front End Developer Intern - Digital Sales (Madison, WI, Boston, MA) https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491
 - NVIDIA - Software Engineering Intern (Canada, Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
 - S&P Global - Associate Software Development Engineer - Information Security (Hyderabad, Telangana) https://spgi.wd5.myworkdayjobs.com/Spgi_Careers/job/Hyderabad-Telangana/Associate-Software-Development-Engineer---Information-Security_329638-1
+- RTX - Software Engineer Intern (Annapolis Junction, MD) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1
+- SOTI - Software Developer Intern (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2
+- Sun Life - Student Associate Software Engineer Intern (Toronto, ON, Canada, Waterloo, ON, Canada) https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer--Fall--2026-_JR00128496
+- Boston Scientific - R&D Firmware Engineer Intern (Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813547667
+- Vestmark - Software Engineer Co-op (Boston, MA) https://job-boards.greenhouse.io/vestmark/jobs/8204509
