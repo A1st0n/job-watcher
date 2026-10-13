@@ -145,3 +145,6 @@
 - Bose - Embedded Audio Machine Learning Engineer Co-op (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719
 - Nvidia - SoC Software Engineer - New College Grad 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744
 - Nvidia - SoC Software Engineer – New College Graduate 2026 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1
+- Anduril - 2027 Firmware Engineer Intern (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007
+- Schweitzer Engineering Laboratories - Software Engineer Intern (Spokane Valley, WA) https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231
+- Eurostar International - Software Developer Intern (London, UK) https://apply.workable.com/eurostar/j/D69651A000/apply
