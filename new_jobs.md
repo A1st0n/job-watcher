@@ -106,3 +106,4 @@
 - Leidos - Junior Software Developer (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110
 - Motorola Solutions - Software Engineer Co-op Intern - 2026/2027 (Illinois Remote Work, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641
 - RTX - Software Engineer I (Onsite) (US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283
+- RTX - Software Engineering Intern (Summer 2027) (US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr ~ DAVIS 382) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655
