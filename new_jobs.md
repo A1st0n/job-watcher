@@ -97,3 +97,4 @@
 - KLA - Software Engineer Intern - AI (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817
 - HPE - Software Engineering(Systems) Intern (Heredia, Heredia, Costa Rica) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981
 - CACI - Systems Engineer Intern - Summer 2027 (Ashburn, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048
+- RTX - Flight Control Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038
