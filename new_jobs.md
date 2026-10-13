@@ -110,3 +110,4 @@
 - ServiceNow - AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors) (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000155345889
 - ServiceNow - AI Engineering - Software Engineer Internships - Summer 2027 (Masters) (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000155345689
 - RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726
+- Netflix - Software Engineer Intern - Summer 2027 (Los Gatos,California,United States of America) https://explore.jobs.netflix.net/careers/job/790318904468
