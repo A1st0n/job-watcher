@@ -73,3 +73,6 @@
 - RTX - Systems Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I----Onsite-_01880576
 - RTX - Systems Engineering Intern 2027 - Onsite (US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineering-Intern-2027---Onsite_01878041
 - HPE - Backend Intern (Herzliya, Israel) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Herzliya-Israel/Backend-Intern_1211019-1
+- Hewlett Packard Enterprise - Firmware Engineer Intern (Sunnyvale, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254
+- General Dynamics Information Technology - Software Developer Intern - Defense Agencies - Software Development (Falls Church, VA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--SW-DEV-_RQ230270
+- Aptiv - Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1
