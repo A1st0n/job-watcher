@@ -84,3 +84,4 @@
 - Amazon - 2027 Software Dev Engineer Intern - ZAF (Cape Town, Western Cape, ZAF) https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf
 - American Family Insurance Group - Front End Developer Intern - Digital Sales (Madison, WI, Boston, MA) https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491
 - NVIDIA - Software Engineering Intern (Canada, Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
+- S&P Global - Associate Software Development Engineer - Information Security (Hyderabad, Telangana) https://spgi.wd5.myworkdayjobs.com/Spgi_Careers/job/Hyderabad-Telangana/Associate-Software-Development-Engineer---Information-Security_329638-1
