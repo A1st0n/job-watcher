@@ -102,3 +102,5 @@
 - Marvell - Firmware Engineer Intern, BS - Summer 2027 (2 Locations) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461
 - Autodesk - Software Development Internship (Winter 2027) (Toronto, ON, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1
 - GE Aerospace - Fluid Systems Engineering Master Degree Intern - GE9X/LEAP Accessories (Queretaro) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Fluid-Systems-Engineering-Intern---GE9X-LEAP-Accessories_R5037675-1
+- Nvidia - Developer Technology Engineering Intern - Compute Performance (3 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775
+- Leidos - Junior Software Developer (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110
