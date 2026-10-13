@@ -82,3 +82,4 @@
 - Northrop Grumman - Evergreen-Cyber and Intelligence Software Engineering Graduate (United Kingdom-Cheltenham) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Evergreen-Cyber-and-Intelligence-Software-Engineering-Graduate_R10255705
 - Bedrock Robotics - Sensor Systems Engineer Intern (SF) https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true
 - Amazon - 2027 Software Dev Engineer Intern - ZAF (Cape Town, Western Cape, ZAF) https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf
+- American Family Insurance Group - Front End Developer Intern - Digital Sales (Madison, WI, Boston, MA) https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491
