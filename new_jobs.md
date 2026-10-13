@@ -98,3 +98,5 @@
 - HPE - Software Engineering(Systems) Intern (Heredia, Heredia, Costa Rica) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210981
 - CACI - Systems Engineer Intern - Summer 2027 (Ashburn, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/Systems-Engineer-Intern---Summer-2027_333048
 - RTX - Flight Control Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871038
+- Amazon - Software Development Engineer Intern, Amazon University Talent Acquisition  (Zapopan, Jalisco, MEX) https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition
+- Marvell - Firmware Engineer Intern, BS - Summer 2027 (2 Locations) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461
