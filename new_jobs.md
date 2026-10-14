@@ -167,3 +167,4 @@
 - Northrop Grumman - 2027 S/W Embedded Engineering Intern – Annapolis MD (United States-Maryland-Annapolis) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697
 - Northrop Grumman - 2027 Associate Systems Engineer – Annapolis MD (United States-Maryland-Annapolis) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-Systems-Engineer---Annapolis-MD_R10254912
 - Northrop Grumman - 2027 Systems Engineering Intern – Annapolis MD (United States-Maryland-Annapolis) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Systems-Engineering-Intern---Annapolis-MD_R10254656
+- Nike - Software Engineer I, ITC (Karnataka, India) https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-I--ITC_R-86257-1
