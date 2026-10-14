@@ -209,3 +209,5 @@
 - RTX - Electro-Optics Systems Engineer I (Onsite) (US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-I--Onsite-_01880578
 - Medtronic - Software Quality Engineer I (Reliability/Compliance) (2 Locations) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R71062-1
 - RTX - RF Systems Engineer I (Onsite) (US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/RF-Systems-Engineer-I--Onsite-_01880949
+- RTX - Software Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01881518
+- Figure AI - Embedded Software Engineering Intern, Platform (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4722086006
