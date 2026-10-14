@@ -163,3 +163,4 @@
 - Nvidia - Developer Technology Engineer - New College Graduate 2027 (3 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566
 - Intel - Platform Validation Engineering Intern (Mexico, Guadalajara) https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927
 - Bosch - [SX/BSV-VN] Embedded Test Engineer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000155409889
+- RTX - 2027 Spring/Summer Co-Op, Systems Engineering - Onsite (US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Spring-Summer-Co-Op--Systems-Engineering---Onsite_01876249
