@@ -177,3 +177,4 @@
 - Electronic Arts - Software Engineer Intern (Orlando, FL) https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241
 - Blue Origin - Avionics Software Intern (Washington, LA, Denver, CO) https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
 - Parsons - Software Engineering Intern (Summer 2027) () https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299
+- RTX - Systems Engineer Intern -Portsmouth, RI (US-RI-PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094
