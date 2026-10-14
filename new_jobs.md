@@ -176,3 +176,4 @@
 - Nvidia - System Software Engineering Intern, GPU - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334
 - Electronic Arts - Software Engineer Intern (Orlando, FL) https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241
 - Blue Origin - Avionics Software Intern (Washington, LA, Denver, CO) https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
+- Parsons - Software Engineering Intern (Summer 2027) () https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299
