@@ -188,3 +188,13 @@
 - RTX - Systems Engineer Intern (Portsmouth, RI) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094
 - NVIDIA - Data Processing Developer Technology Intern (Bristol, UK) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948
 - KION Group - Software Engineer Intern (Grand Rapids, MI, Wauwatosa, WI) https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1
+- Amazon - Software Development Engineer , Amazon University Talent Aquisition (AUTA) (Asti, Piedmont, ITA) https://www.amazon.jobs/en/jobs/10476343/software-development-engineer-amazon-university-talent-aquisition-auta
+- Amazon - Software Development Graduate, 2027 Melbourne  (Melbourne, Victoria, AUS) https://www.amazon.jobs/en/jobs/10462011/software-development-graduate-2027-melbourne
+- Amazon - Software Development Graduate, AWS, 2027 Sydney (Sydney, New South Wales, AUS) https://www.amazon.jobs/en/jobs/10462014/software-development-graduate-aws-2027-sydney
+- Amazon - Software Development Graduate (2027, Stores), Brisbane (Brisbane, Queensland, AUS) https://www.amazon.jobs/en/jobs/10419485/software-development-graduate-2027-stores-brisbane
+- Amazon - Software Development Graduate, AWS, 2026 Sydney (Sydney, New South Wales, AUS) https://www.amazon.jobs/en/jobs/10378826/software-development-graduate-aws-2026-sydney
+- Amazon - Software Development Graduate , 2026 Melbourne (Melbourne, Victoria, AUS) https://www.amazon.jobs/en/jobs/2852628/software-development-graduate-2026-melbourne
+- Amazon - Embedded Firmware Co-op, Amazon Robotics - Spring 2027 (North Reading, Massachusetts, USA) https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027
+- Amazon - Software Development Engineer, ROBOTICS, Early Career - 2027 (North Reading, Massachusetts, USA) https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027
+- Amazon - Software Development Engineer I, Annapurna Labs, Early Career - 2027 (Cupertino, California, USA) https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027
+- RTX - Systems Engineer I – Advanced Airborne RF Sensors (Onsite) (US-TX-PLANO-465 ~ 465 Independence Pkwy ~ INDEPENDENCE) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Systems-Engineer-I---Advanced-Airborne-RF-Sensors--Onsite-_01882388
