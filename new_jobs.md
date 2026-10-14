@@ -211,3 +211,4 @@
 - RTX - RF Systems Engineer I (Onsite) (US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/RF-Systems-Engineer-I--Onsite-_01880949
 - RTX - Software Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01881518
 - Figure AI - Embedded Software Engineering Intern, Platform (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4722086006
+- RTX - Systems Engineering Intern (US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697
