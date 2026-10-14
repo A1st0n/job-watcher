@@ -212,3 +212,4 @@
 - RTX - Software Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01881518
 - Figure AI - Embedded Software Engineering Intern, Platform (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4722086006
 - RTX - Systems Engineering Intern (US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697
+- Northrop Grumman - 2027 Cyber Software Engineer Intern - Cincinnati OH (United States-Ohio-Cincinnati) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186
