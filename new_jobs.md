@@ -173,3 +173,4 @@
 - Profound Medical - Software Development Co-op (Mississauga, ON, Canada) https://profoundmedical.bamboohr.com/careers/353/
 - Northrop Grumman - Software Embedded Engineer Intern (Annapolis, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697
 - Motorola Solutions - Software Engineer (Fresh Graduate) (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer--Fresh-Graduate-_R69344
+- Nvidia - System Software Engineering Intern, GPU - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334
