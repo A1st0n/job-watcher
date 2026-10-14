@@ -175,3 +175,4 @@
 - Motorola Solutions - Software Engineer (Fresh Graduate) (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer--Fresh-Graduate-_R69344
 - Nvidia - System Software Engineering Intern, GPU - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334
 - Electronic Arts - Software Engineer Intern (Orlando, FL) https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241
+- Blue Origin - Avionics Software Intern (Washington, LA, Denver, CO) https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
