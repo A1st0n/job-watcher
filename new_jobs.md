@@ -183,3 +183,4 @@
 - Parsons - Software Engineer Intern (Huntsville, AL) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299
 - Point72 - Software Engineer Intern (NYC) https://boards.greenhouse.io/point72/jobs/8885733002
 - KION Group - Software Engineer Intern (Grand Rapids, MI, Wauwatosa, WI) https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732
+- Amazon - Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 (Westborough, Massachusetts, USA) https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027
