@@ -157,3 +157,6 @@
 - Astera Labs - Firmware Engineer Co-op Intern (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005
 - Astera Labs - Firmware Engineer Intern Co-op (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005
 - Field AI - Robotics Research Intern - Embodied AI (Irvine, CA) https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply
+- TikTok - Machine Learning Engineer Intern - E-Commerce User Growth (Seattle, WA) https://lifeattiktok.com/search/7694357619162532149
+- Brain Co. - Machine Learning Engineer – Applied AI Co-op Intern (SF) https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true
+- L3Harris Technologies - Associate Software Engineering Intern (Chantilly, VA) https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors
