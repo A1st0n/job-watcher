@@ -184,3 +184,7 @@
 - Point72 - Software Engineer Intern (NYC) https://boards.greenhouse.io/point72/jobs/8885733002
 - KION Group - Software Engineer Intern (Grand Rapids, MI, Wauwatosa, WI) https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732
 - Amazon - Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 (Westborough, Massachusetts, USA) https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027
+- CACI - Software Engineering Intern - Summer 2027 (Florham Park, NJ, US) https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543
+- RTX - Systems Engineer Intern (Portsmouth, RI) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094
+- NVIDIA - Data Processing Developer Technology Intern (Bristol, UK) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948
+- KION Group - Software Engineer Intern (Grand Rapids, MI, Wauwatosa, WI) https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1
