@@ -215,3 +215,16 @@
 - Northrop Grumman - 2027 Cyber Software Engineer Intern - Cincinnati OH (United States-Ohio-Cincinnati) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186
 - RTX - RF Systems Engineer I (Onsite) (US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-I--Onsite-_01880587
 - RTX - Electro-Optics Systems Engineer I (Onsite) (US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-I--Onsite-_01880584
+- Geotab - Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months (Waterloo, ON, Canada) https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008
+- Solink - Software Engineer Co-op - Apps (Ottawa, ON, Canada) https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true
+- Certara - Junior Software Developer Intern (Sheffield, UK) https://careers.certara.com/jobs/2627?icims=1
+- LSEG - Software Engineer Intern (NYC) https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1
+- Covestro - Supply Chain Application Developer Co-op (Pittsburgh, PA) https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1
+- Sierra Nevada Corporation - Software Engineer Intern (Sparks, NV) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031074
+- CACI - Software Engineer Intern (Florham Park, NJ) https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543
+- RTX - Systems Engineer Intern (Marlborough, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697
+- RTX - Electro-Optics Systems Engineer Intern (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960
+- Macy's - Software Engineer Intern (Johns Creek, GA) https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780
+- Assurant - Software Engineer Intern (Miami, FL, Chicago, IL, Atlanta, GA) https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
+- Skydio - Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true
+- Skydio - Manufacturing Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true
