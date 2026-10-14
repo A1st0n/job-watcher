@@ -161,3 +161,5 @@
 - Brain Co. - Machine Learning Engineer – Applied AI Co-op Intern (SF) https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true
 - L3Harris Technologies - Associate Software Engineering Intern (Chantilly, VA) https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors
 - Nvidia - Developer Technology Engineer - New College Graduate 2027 (3 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566
+- Intel - Platform Validation Engineering Intern (Mexico, Guadalajara) https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927
+- Bosch - [SX/BSV-VN] Embedded Test Engineer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000155409889
