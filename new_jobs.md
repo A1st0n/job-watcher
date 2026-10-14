@@ -229,3 +229,17 @@
 - Skydio - Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true
 - Skydio - Manufacturing Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true
 - Field AI - Robotics Research Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027) (Irvine, CA) https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e
+- TikTok - Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance (Seattle, WA) https://lifeattiktok.com/search/7694360101507762485
+- TikTok - Machine Learning Engineer Intern - E-Commerce Recommendation Video (Seattle, WA) https://lifeattiktok.com/search/7694362230074673461
+- TikTok - Machine Learning Engineer Intern - E-Commerce Recommendation Live (Seattle, WA) https://lifeattiktok.com/search/7694360097210861829
+- TikTok - Machine Learning Engineer Intern - E-Commerce Knowledge Graph (Seattle, WA) https://lifeattiktok.com/search/7679220954338494773
+- TikTok - Machine Learning Engineer Intern - E-Commerce Recommendation Mall (Seattle, WA) https://lifeattiktok.com/search/7694362229701069109
+- TikTok - Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent (Seattle, WA) https://lifeattiktok.com/search/7694365861943953717
+- TikTok - Machine Learning Engineer Intern - E-Commerce Governance (Seattle, WA) https://lifeattiktok.com/search/7694366551807265029
+- L3Harris Technologies - Associate Software Engineer Intern (Mason, OH) https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors
+- Nissan Global - Software Engineer Intern (Santa Clara, CA) https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269
+- Nissan Global - AI Robotics Research Intern (Santa Clara, CA) https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267
+- ICF International - Software Engineer Intern (Reston, VA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522
+- Manulife Financial - Software Engineer Intern (Waterloo, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1
+- Figure - Embedded Software Engineer Intern - Platform (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4722086006
+- Atoms - Software Engineer Intern (Seattle, WA) https://job-boards.greenhouse.io/cssmerge/jobs/8888411002
