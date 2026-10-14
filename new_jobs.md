@@ -228,3 +228,4 @@
 - Assurant - Software Engineer Intern (Miami, FL, Chicago, IL, Atlanta, GA) https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1
 - Skydio - Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true
 - Skydio - Manufacturing Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true
+- Field AI - Robotics Research Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027) (Irvine, CA) https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e
