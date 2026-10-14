@@ -178,3 +178,8 @@
 - Blue Origin - Avionics Software Intern (Washington, LA, Denver, CO) https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
 - Parsons - Software Engineering Intern (Summer 2027) () https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299
 - RTX - Systems Engineer Intern -Portsmouth, RI (US-RI-PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094
+- Salesforce - Software Engineer - Junior / SSR - Automation & Reliability (Mexico - Mexico City) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer---Junior---SSR---Automation---Reliability_JR364275
+- SPS Commerce - Software Engineer Intern (Brampton, ON, Canada) https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001352
+- Parsons - Software Engineer Intern (Huntsville, AL) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299
+- Point72 - Software Engineer Intern (NYC) https://boards.greenhouse.io/point72/jobs/8885733002
+- KION Group - Software Engineer Intern (Grand Rapids, MI, Wauwatosa, WI) https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732
