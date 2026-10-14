@@ -171,3 +171,4 @@
 - Intel - Software Engineering Undergraduate Intern (f/m/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923
 - Rakuten International - Intern Software Engineering (Bellevue, WA, San Mateo, CA) https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437
 - Profound Medical - Software Development Co-op (Mississauga, ON, Canada) https://profoundmedical.bamboohr.com/careers/353/
+- Northrop Grumman - Software Embedded Engineer Intern (Annapolis, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697
