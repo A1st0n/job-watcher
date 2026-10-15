@@ -279,3 +279,21 @@
 - Field AI - Robotics Research, Embodied AI Intern (Irvine, CA) https://jobs.lever.co/field-ai/fac5c4a0-eec9-43b8-9d65-000b08c7f7fe
 - Affirm - Software Engineer I, Fullstack (Search) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8017342003
 - T-Mobile - Summer 2027 Software Engineering Intern (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
+- GE Vernova - Hardware Engineer Intern - Critical Infrastructure Communications (Rochester, NY) https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1
+- TD Bank - Portfolio Analytics Developer Intern/Co-op - Winter 2027 (Toronto, ON, Canada) https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223
+- Centene - AI Software Developer Intern (Missouri) https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710
+- Commonwealth Fusion Systems - AI & Infrastructure Engineer Intern (Devens, MA) https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878/apply
+- RTX - Software Engineering Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996
+- RTX - Software Engineer Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414
+- RTX - Software Engineer Intern (Sterling, VA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317
+- Wikimedia Foundation - Software Engineering Intern (Remote in USA) https://job-boards.greenhouse.io/wikimedia/jobs/8268853
+- Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Intern (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016165496
+- SPS Commerce - Software Engineer Intern (Brampton, ON, Canada) https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353
+- Sierra Nevada Corporation - Software Engineer Intern (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098
+- General Motors - AI/ML Engineer Intern - Mapping - Masters (Warren, MI) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539
+- Rivian - Software Engineer Intern Co-op - Machine Learning Research - Perception (Palo Alto, CA) https://careers.rivian.com/jobs/33801?icims=1
+- Carrier Global - Software Engineer Intern (East Syracuse, NY) https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161
+- TechInsights - Software Development Co-op Student (Ottawa, ON, Canada) https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026
+- Muon Space - Ground Software Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/muonspace/jobs/5266679007
+- Nokia - Embedded C/C++ Software Developer Co-op Intern (Ottawa, ON, Canada) https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311
+- OpenGov - Software Engineer Intern (Boston, MA) https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b/application?embed=true
