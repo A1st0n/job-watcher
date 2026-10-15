@@ -251,3 +251,4 @@
 - Tessera Labs - Full Stack Software Engineer Intern - Full Stack (San Jose, CA, Remote in USA, NYC) https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true
 - PA Consulting - Software and AI Systems Intern (Melbourn, Royston, UK) https://jobs.smartrecruiters.com/PAConsulting/744000155685700
 - Brunswick - G3 Software Engineer Intern (Oshkosh, WI) https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160
+- NXP - AI Software developer - Intern (Brno) https://nxp.wd3.myworkdayjobs.com/Careers/job/Brno/AI-Software-developer---Intern_R-10064017-1
