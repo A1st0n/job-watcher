@@ -258,3 +258,4 @@
 - RTX - Software Engineer Intern (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282
 - RTX - Software Engineer I - Test (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961
 - Accenture - Junior .NET Developer - Fresh Graduates () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Junior-NET-Developer---Fresh-Graduates_R00332478
+- Nvidia - Developer Technology Engineering Intern - Compute Performance (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949
