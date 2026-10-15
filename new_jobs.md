@@ -278,3 +278,4 @@
 - GM - 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) (Warren, Michigan, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539
 - Field AI - Robotics Research, Embodied AI Intern (Irvine, CA) https://jobs.lever.co/field-ai/fac5c4a0-eec9-43b8-9d65-000b08c7f7fe
 - Affirm - Software Engineer I, Fullstack (Search) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8017342003
+- T-Mobile - Summer 2027 Software Engineering Intern (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
