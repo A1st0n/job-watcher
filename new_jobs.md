@@ -245,3 +245,4 @@
 - Atoms - Software Engineer Intern (Seattle, WA) https://job-boards.greenhouse.io/cssmerge/jobs/8888411002
 - General Motors - AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure (Sunnyvale, CA) https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410
 - The Aerospace Corporation - Software Tools and Assurance Intern - Information Systems and Cyber Division (El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429
+- RTX - Summer 2027 RF Systems Engineer Intern - Onsite (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963
