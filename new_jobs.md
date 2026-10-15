@@ -264,3 +264,7 @@
 - Northrop Grumman - 2027  Associate/ Embedded Software Engineer - Dulles VA (United States-Virginia-Dulles) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217
 - Expedia Group - Software Development Engineer Intern (London, UK) https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551
 - NVIDIA - Developer Technology Engineer Intern - Compute Performance (Bristol, UK, Zürich, Switzerland) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949
+- Amazon - Software Development Engineer I (Hyderabad, Telangana, IND) https://www.amazon.jobs/en/jobs/10580008/software-development-engineer-i
+- Boeing - Intern Software Engineer (2 Locations) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026492187-1
+- CACI - Software Development Intern - Summer 2027 (Ashburn, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051
+- FIS - Junior Software Engineer (IND NOID C-25 SEC-62 TWR 1) https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-NOID-C-25-SEC-62-TWR-1/Junior-Software-Engineer_JR0309238-1
