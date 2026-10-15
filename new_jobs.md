@@ -243,3 +243,4 @@
 - Manulife Financial - Software Engineer Intern (Waterloo, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1
 - Figure - Embedded Software Engineer Intern - Platform (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4722086006
 - Atoms - Software Engineer Intern (Seattle, WA) https://job-boards.greenhouse.io/cssmerge/jobs/8888411002
+- General Motors - AI/ML Engineer Intern - Autonomous Vehicle ML Infrastructure (Sunnyvale, CA) https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410
