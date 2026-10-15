@@ -275,3 +275,4 @@
 - Commonwealth Fusion - Intern - AI & Infrastructure Engineer - Spring 2027 (Devens, MA) https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878
 - Carrier - Software Engineering Intern - Summer (CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA) https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161
 - Centene - AI Software Developer Intern (Undergraduate - Summer 2027) (Remote-MO) https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710
+- GM - 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) (Warren, Michigan, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539
