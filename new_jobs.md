@@ -255,3 +255,5 @@
 - Accenture - Junior Java Developer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belvaux-Naos-1/Junior-Java-Developer_R00364631
 - Amazon - Software Development Engineer Intern, Amazon University Talent Acquisition  (Sao Paulo, Sao Paulo, BRA) https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition
 - CACI - Software Test Engineer Intern - Spring 2027 (Remote (Any State)) https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Test-Engineer-Intern---Spring-2027_333422
+- RTX - Software Engineer Intern (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282
+- RTX - Software Engineer I - Test (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961
