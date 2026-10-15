@@ -254,3 +254,4 @@
 - NXP - AI Software developer - Intern (Brno) https://nxp.wd3.myworkdayjobs.com/Careers/job/Brno/AI-Software-developer---Intern_R-10064017-1
 - Accenture - Junior Java Developer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belvaux-Naos-1/Junior-Java-Developer_R00364631
 - Amazon - Software Development Engineer Intern, Amazon University Talent Acquisition  (Sao Paulo, Sao Paulo, BRA) https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition
+- CACI - Software Test Engineer Intern - Spring 2027 (Remote (Any State)) https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Test-Engineer-Intern---Spring-2027_333422
