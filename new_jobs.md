@@ -248,3 +248,4 @@
 - RTX - Summer 2027 RF Systems Engineer Intern - Onsite (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963
 - NXP - Junior Embedded Software Engineer - Secure IoT Firmware (m/f/d) (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Junior-Embedded-Software-Engineer---Secure-IoT-Firmware--m-f-d-_R-10066519
 - Manulife Financial - Software Engineer Intern - Software Engineering (Waterloo, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1
+- Tessera Labs - Full Stack Software Engineer Intern - Full Stack (San Jose, CA, Remote in USA, NYC) https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true
