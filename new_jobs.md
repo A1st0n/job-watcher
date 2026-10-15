@@ -252,3 +252,4 @@
 - PA Consulting - Software and AI Systems Intern (Melbourn, Royston, UK) https://jobs.smartrecruiters.com/PAConsulting/744000155685700
 - Brunswick - G3 Software Engineer Intern (Oshkosh, WI) https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160
 - NXP - AI Software developer - Intern (Brno) https://nxp.wd3.myworkdayjobs.com/Careers/job/Brno/AI-Software-developer---Intern_R-10064017-1
+- Accenture - Junior Java Developer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belvaux-Naos-1/Junior-Java-Developer_R00364631
