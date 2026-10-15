@@ -249,3 +249,5 @@
 - NXP - Junior Embedded Software Engineer - Secure IoT Firmware (m/f/d) (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Junior-Embedded-Software-Engineer---Secure-IoT-Firmware--m-f-d-_R-10066519
 - Manulife Financial - Software Engineer Intern - Software Engineering (Waterloo, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1
 - Tessera Labs - Full Stack Software Engineer Intern - Full Stack (San Jose, CA, Remote in USA, NYC) https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true
+- PA Consulting - Software and AI Systems Intern (Melbourn, Royston, UK) https://jobs.smartrecruiters.com/PAConsulting/744000155685700
+- Brunswick - G3 Software Engineer Intern (Oshkosh, WI) https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160
