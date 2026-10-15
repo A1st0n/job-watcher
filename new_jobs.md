@@ -268,3 +268,5 @@
 - Boeing - Intern Software Engineer (2 Locations) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026492187-1
 - CACI - Software Development Intern - Summer 2027 (Ashburn, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051
 - FIS - Junior Software Engineer (IND NOID C-25 SEC-62 TWR 1) https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-NOID-C-25-SEC-62-TWR-1/Junior-Software-Engineer_JR0309238-1
+- RTX - Software Engineering Co-op (Summer/Fall 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414
+- RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996
