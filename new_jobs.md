@@ -313,3 +313,4 @@
 - Intel - Software Engineering Intern (PRC, Shanghai) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Software-Engineering-Intern_JR0288193
 - Nvidia - Developer Tools DevOps Engineering Intern - 2027 (Poland, Warsaw) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826
 - Field AI - Robotics Research – Humanoid Manipulation Intern (Boston, MA) https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply
+- Field AI - Robotics Research – Humanoid Manipulation Intern (Boston, MA) https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply
