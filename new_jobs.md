@@ -299,3 +299,4 @@
 - OpenGov - Software Engineer Intern (Boston, MA) https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b/application?embed=true
 - Global Payments - software engineer I (CUAJIMALPA, , MEXICO) https://tsys.wd1.myworkdayjobs.com/Tsys/job/CUAJIMALPA--MEXICO/software-engineer-I_R0071768
 - Ciena - Embedded Software Developer Intern (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890
+- Saronic - Systems Engineer I (Austin, TX) https://jobs.ashbyhq.com/saronic/846faa91-763f-4c16-aec5-2cd48830d3ff
