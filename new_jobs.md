@@ -316,3 +316,4 @@
 - Field AI - Robotics Research – Humanoid Manipulation Intern (Boston, MA) https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply
 - Tesla - Software Engineer Intern - SI Data Infrastructure (Palo Alto, CA) https://www.tesla.com/careers/search/job/282292
 - NXP - Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1
+- Salesforce - Software Engineer Junior — Automation & Reliability (Mexico - Mexico City) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer-Junior---Automation---Reliability_JR364628
