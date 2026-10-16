@@ -304,3 +304,8 @@
 - Axiom Space - Software Engineer Intern (Houston, TX) https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767
 - Healthpeak Properties - Forward Deployed Software Engineer Intern (NYC) https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship
 - T-Mobile - Software Engineer Intern (Bellevue, WA) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322
+- TikTok - Software Engineer Intern - Recommendation Performance Efficiency (San Jose, CA) https://lifeattiktok.com/search/7673636206961641781
+- Keysight Technologies - R&D Software Engineer Intern (Santa Rosa, CA) https://jobs.keysight.com/jobs/54673?icims=1
+- Microsoft - Research Intern - Efficient AI Software Systems (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557041731
+- BC Pensions - Application Developer Co-op (Victoria, BC, Canada) https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227
+- Apple - SoC Machine Learning Software Engineer Intern (Sunnyvale, CA) https://jobs.apple.com/en-us/details/200689488
