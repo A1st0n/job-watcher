@@ -315,3 +315,4 @@
 - Field AI - Robotics Research – Humanoid Manipulation Intern (Boston, MA) https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply
 - Field AI - Robotics Research – Humanoid Manipulation Intern (Boston, MA) https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply
 - Tesla - Software Engineer Intern - SI Data Infrastructure (Palo Alto, CA) https://www.tesla.com/careers/search/job/282292
+- NXP - Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1
