@@ -311,3 +311,4 @@
 - Apple - SoC Machine Learning Software Engineer Intern (Sunnyvale, CA) https://jobs.apple.com/en-us/details/200689488
 - CME Group - Platform Engineer I (Chicago - 20 S. Wacker) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119
 - Intel - Software Engineering Intern (PRC, Shanghai) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Software-Engineering-Intern_JR0288193
+- Nvidia - Developer Tools DevOps Engineering Intern - 2027 (Poland, Warsaw) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826
