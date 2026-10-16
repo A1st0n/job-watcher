@@ -326,3 +326,4 @@
 - Electronic Arts - Client AI Software Engineer Intern (Manchester, UK) https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364
 - Leonardo - Software Engineer Intern (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283
 - Leonardo - Software Engineering Apprentice (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281
+- InfiniteQuant - Quantitative Developer Intern (Dubai - United Arab Emirates, NYC) https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879
