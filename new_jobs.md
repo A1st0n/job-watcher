@@ -317,3 +317,12 @@
 - Tesla - Software Engineer Intern - SI Data Infrastructure (Palo Alto, CA) https://www.tesla.com/careers/search/job/282292
 - NXP - Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1
 - Salesforce - Software Engineer Junior — Automation & Reliability (Mexico - Mexico City) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Software-Engineer-Junior---Automation---Reliability_JR364628
+- Amazon - 2027 Software Dev Engineer Intern - United Kingdom (London, England, GBR) https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom
+- Intel - DevOps Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1
+- Allegion - Firmware Engineer Intern (Farmington, CT) https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1
+- Amazon - Software Developer Intern (London, UK, Edinburgh, UK, Bristol, UK, Cambridge, UK) https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom
+- Electronic Arts - Software Engineer Tools Intern (Birmingham, UK) https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192
+- Electronic Arts - Software Engineer Intern - Gameplay UI (Birmingham, UK) https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190
+- Electronic Arts - Client AI Software Engineer Intern (Manchester, UK) https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364
+- Leonardo - Software Engineer Intern (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283
+- Leonardo - Software Engineering Apprentice (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281
