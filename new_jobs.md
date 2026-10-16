@@ -337,3 +337,4 @@
 - Northrop Grumman - 2027 Systems Engineering Intern - Colorado Springs CO (United States-Colorado-Colorado Springs) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088
 - Assort Health - Software Engineering Internship (Jan - Apr 2027) (San Francisco) https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee
 - Rockwell Automation - Intern, Firmware Engineering (Milwaukee, Wisconsin, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1
+- Tesco - Software Engineer Intern (Welwyn Garden City, UK) https://tesco.avature.net/en_GB/careers/JobDetail/209138
