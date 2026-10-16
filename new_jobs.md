@@ -309,3 +309,4 @@
 - Microsoft - Research Intern - Efficient AI Software Systems (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557041731
 - BC Pensions - Application Developer Co-op (Victoria, BC, Canada) https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227
 - Apple - SoC Machine Learning Software Engineer Intern (Sunnyvale, CA) https://jobs.apple.com/en-us/details/200689488
+- CME Group - Platform Engineer I (Chicago - 20 S. Wacker) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119
