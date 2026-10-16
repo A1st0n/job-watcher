@@ -339,3 +339,25 @@
 - Rockwell Automation - Intern, Firmware Engineering (Milwaukee, Wisconsin, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1
 - Tesco - Software Engineer Intern (Welwyn Garden City, UK) https://tesco.avature.net/en_GB/careers/JobDetail/209138
 - Apptronik - CoRL 2026 - Robotics & AI Talent  (Austin, Texas & Sunnyvale, California ) https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004
+- S&C Electric Company - Software Engineer Co-op (Chicago, IL) https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107307
+- Kepler Communications - Software Engineer Intern (Toronto, ON, Canada) https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply
+- Rockwell Automation - Firmware Engineer Intern (Milwaukee, WI) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1
+- AGCO - Embedded Software Engineer Intern (Hesston, KS, Jackson, MN) https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors
+- Apple - Software Engineer Intern - Apple Services Engineering (London, UK) https://jobs.apple.com/en-us/details/200689473
+- Eaton - C++ Developer Intern - Research & Development Engineering (Brossard, QC, Canada) https://eaton.eightfold.ai/careers/job/687239542740
+- Impulse Space - Enterprise Software Engineer Intern (Redondo Beach, CA) https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq
+- D2L - Software Developer Co-op - Custom Development Services (Kitchener, ON, Canada) https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767
+- Booz Allen - Software Engineer Intern (Fayetteville, NC) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802
+- Assort Health - Software Engineer Intern (SF) https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true
+- Northrop Grumman - Software Engineer Intern (Aurora, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243
+- Ryan - Software Development Intern (Plano, TX) https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822
+- Meta - Production Systems Engineer Intern (Menlo Park, CA) https://www.metacareers.com/jobs/4536253699919879
+- AgZen - Software Engineer Co-op (Somerville, MA) https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true
+- Northrop Grumman - Software Engineering Intern (Colorado Springs, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080
+- Altera - Software Engineer Intern (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320
+- Wellmark - Software Engineer Intern - Technology Health Plan (Des Moines, IA) https://jobs.smartrecruiters.com/WellmarkInc/744000156043218
+- John Deere - Software Engineering Student Intern - Technology (CA) (Ames, IA) https://johndeere.eightfold.ai/careers/job/137483908089
+- Electronic Arts - AI/ML Software Engineer Co-op Intern (Vancouver, BC, Canada) https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234
+- Keysight Technologies - R&D Software Engineer Intern (Austin, TX) https://jobs.keysight.com/jobs/54848?icims=1
+- AeroVironment - Software Engineer Intern (Moorpark, CA) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094
+- National Bank of Canada - Artificial Intelligence Developer Intern (Canada) https://bnc.avature.net/en_CA/careers/JobDetail/36120
