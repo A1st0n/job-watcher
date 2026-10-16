@@ -327,3 +327,4 @@
 - Leonardo - Software Engineer Intern (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283
 - Leonardo - Software Engineering Apprentice (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281
 - InfiniteQuant - Quantitative Developer Intern (Dubai - United Arab Emirates, NYC) https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879
+- Mastercard - Software Engineer I-1 (Pune, India) https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1
