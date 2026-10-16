@@ -329,3 +329,6 @@
 - InfiniteQuant - Quantitative Developer Intern (Dubai - United Arab Emirates, NYC) https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879
 - Mastercard - Software Engineer I-1 (Pune, India) https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1
 - Booz Allen - University, Software Engineer Intern (Fayetteville, NC) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802
+- Northrop Grumman - 2027 Systems Engineering Intern - Aurora CO (United States-Colorado-Aurora) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237
+- Northrop Grumman - 2027 Software Engineering Intern - Aurora CO (United States-Colorado-Aurora) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393
+- Northrop Grumman - 2027 Software Engineering Intern - Colorado Springs (United States-Colorado-Colorado Springs) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259
