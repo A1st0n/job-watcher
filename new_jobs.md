@@ -367,3 +367,5 @@
 - Amazon - Data Center Infrastructure Engineering Intern, Colocation Regional Engineering (SGP) https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering
 - The Focusrite Group - Production Systems Developer Intern (High Wycombe, UK) https://apply.workable.com/focusrite/j/EB05509AE0/apply
 - The Focusrite Group - Hardware – Electronics and Firmware Intern (High Wycombe, UK) https://apply.workable.com/focusrite/j/4296FAD493/apply
+- HCSC - Finance Data & Analytics Developer Intern (Chicago, IL, Richardson, TX) https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478
+- HCSC - Finance Application Developer Intern (Chicago, IL, Richardson, TX) https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477
