@@ -365,3 +365,5 @@
 - Ryan - Software Engineer Intern (Plano, TX) https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1
 - The Focusrite Group - Software Developer Placement Intern (Letchworth Garden City, UK) https://apply.workable.com/focusrite/j/BFA6731604/apply
 - Amazon - Data Center Infrastructure Engineering Intern, Colocation Regional Engineering (SGP) https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering
+- The Focusrite Group - Production Systems Developer Intern (High Wycombe, UK) https://apply.workable.com/focusrite/j/EB05509AE0/apply
+- The Focusrite Group - Hardware – Electronics and Firmware Intern (High Wycombe, UK) https://apply.workable.com/focusrite/j/4296FAD493/apply
