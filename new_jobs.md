@@ -361,3 +361,5 @@
 - Keysight Technologies - R&D Software Engineer Intern (Austin, TX) https://jobs.keysight.com/jobs/54848?icims=1
 - AeroVironment - Software Engineer Intern (Moorpark, CA) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094
 - National Bank of Canada - Artificial Intelligence Developer Intern (Canada) https://bnc.avature.net/en_CA/careers/JobDetail/36120
+- Autodesk - Stagiaire en Développement Cloud, Intern Cloud Developer (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400
+- Ryan - Software Engineer Intern (Plano, TX) https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1
