@@ -376,3 +376,5 @@
 - Leonardo - Software Engineer Apprentice (Luton, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102
 - Leonardo - Software Engineer Intern (Edinburgh, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1
 - Leonardo - Software Engineer Placement Intern (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282
+- Leonardo - Software Engineer Intern (Newcastle upon Tyne, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876
+- Tesla - Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure (Austin, TX) https://www.tesla.com/careers/search/job/287024
