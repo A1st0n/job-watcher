@@ -369,3 +369,10 @@
 - The Focusrite Group - Hardware – Electronics and Firmware Intern (High Wycombe, UK) https://apply.workable.com/focusrite/j/4296FAD493/apply
 - HCSC - Finance Data & Analytics Developer Intern (Chicago, IL, Richardson, TX) https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478
 - HCSC - Finance Application Developer Intern (Chicago, IL, Richardson, TX) https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477
+- Leonardo - Test Software Engineer Intern (Edinburgh, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205
+- Leonardo - Test Systems Engineer Intern (Edinburgh, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207
+- Leonardo - Firmware Engineer Intern (Luton, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Firmware-Engineer_R0032906
+- Leonardo - Software Engineer Graduate Apprentice (Edinburgh, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Engineer-Graduate-Apprenticeship_R0034176
+- Leonardo - Software Engineer Apprentice (Luton, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102
+- Leonardo - Software Engineer Intern (Edinburgh, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1
+- Leonardo - Software Engineer Placement Intern (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282
