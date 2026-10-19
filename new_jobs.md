@@ -391,3 +391,4 @@
 - Adobe - 2027 Intern- Software Engineer (Basel) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015
 - Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267119-1
 - Adobe - 2027 Intern- Software Engineer (Bucharest) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018
+- Bosch - Software Engineering Co-Op - Spring 2027 (Fountain Inn, SC) https://jobs.smartrecruiters.com/BoschGroup/744000156311682
