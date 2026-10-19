@@ -450,3 +450,6 @@
 - L3Harris Technologies - Systems Engineering Co-op (Clifton, NJ) https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Spring-Co-Op-NJ-07014/1441503600/?ats=successfactors
 - Westinghouse Electric Company - Software Development Intern (Cranberry Township, PA) https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors
 - L3Harris Technologies - Software Engineering Intern (Salt Lake City, UT) https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors
+- Palantir - Software Engineer, Internship - Query Engines (New York, NY) https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13
+- Palantir - Software Engineer, New Grad - Query Engines (New York, NY) https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac
+- Accenture - Práctica Fullstack/Prompt Engineering -ChangeMakers Internship Program - Ing. Informatica/Programación () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Fullstack-Prompt-Engineering--ChangeMakers-Internship-Program---Ing-Informatica-Programacin_R00365391
