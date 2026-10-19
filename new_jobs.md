@@ -402,3 +402,4 @@
 - Wise - Software Engineer Intern (London, UK) https://jobs.smartrecruiters.com/Wise/744000156266767
 - Autodesk - Software Engineer Intern (Cambridge, UK) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105
 - Robert Bosch Venture Capital - Software Engineering Co-op (Fountain Inn, SC) https://jobs.smartrecruiters.com/BoschGroup/744000156311682
+- RTX - Software Engineering Co-op (Summer / Fall 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368
