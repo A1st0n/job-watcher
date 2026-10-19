@@ -378,3 +378,4 @@
 - Leonardo - Software Engineer Placement Intern (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282
 - Leonardo - Software Engineer Intern (Newcastle upon Tyne, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876
 - Tesla - Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure (Austin, TX) https://www.tesla.com/careers/search/job/287024
+- HeyGen - Software Engineer Intern (Toronto, ON, Canada, SF, LA, Singapore) https://job-boards.greenhouse.io/heygen/jobs/4540716007
