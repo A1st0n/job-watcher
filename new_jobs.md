@@ -415,3 +415,4 @@
 - Citi - Angular Developer / Frontend Engineer (Entry-Level) (Irving Texas United States) https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296
 - Amazon - Software Development Engineer, Early Career - 2027 (CAN) (Vancouver, British Columbia, CAN) https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can
 - Adobe - 2027 Intern- Software Engineer (Yerevan) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/XMLNAME-2027-Intern--Software-Engineer_R173019
+- Northrop Grumman - 2027 Software Engineer Intern - Linthicum Maryland (United States-Maryland-Linthicum) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910
