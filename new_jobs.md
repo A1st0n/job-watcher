@@ -396,3 +396,9 @@
 - RTX - Software Engineer I - Aircraft Interiors (ONSITE) (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177
 - Autodesk - Intern, Software Engineer (Cambridge, GBR) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105
 - Intel - Development Tools Software Engineer Intern (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205
+- Accenture - AWS Backend Developer (Python/Node.js) Internship Program (She/He/They) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz-University-Business-Park/AWS-Backend-Developer--Python-Nodejs--Internship-Program--She-He-They-_R00311112
+- MBDA - Software Engineer (Stevenage, UK) https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759
+- RTX - Software Engineer Intern (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499
+- Wise - Software Engineer Intern (London, UK) https://jobs.smartrecruiters.com/Wise/744000156266767
+- Autodesk - Software Engineer Intern (Cambridge, UK) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105
+- Robert Bosch Venture Capital - Software Engineering Co-op (Fountain Inn, SC) https://jobs.smartrecruiters.com/BoschGroup/744000156311682
