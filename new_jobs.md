@@ -382,3 +382,4 @@
 - Citi - Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027 (Taguig  Philippines) https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885
 - NXP - 2027 Intern - STA agent developer Intern (Tianjin (Teda)) https://nxp.wd3.myworkdayjobs.com/Careers/job/Tianjin-Teda/XMLNAME-2027-Intern---STA-agent-developer-Intern_R-10066785
 - Motorola Solutions - Software Developer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69694
+- GM - 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles (Sunnyvale, California, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406
