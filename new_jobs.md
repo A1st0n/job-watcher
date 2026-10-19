@@ -435,3 +435,18 @@
 - Heron Power - Firmware Engineer Intern (Scotts Valley, CA) http://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da/application?embed=true
 - GlobalFoundries - AI/ML Systems Engineering Intern (Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051
 - Amplify - Software Engineer Intern (Remote in USA) https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true
+- Northrop Grumman - Software Engineer Intern (Linthicum Heights, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910
+- L3Harris Technologies - Software Engineer Intern (Rochester, NY) https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610-1839/1409318800/?ats=successfactors
+- Solink - Software Engineer Co-op - Agents (Ottawa, ON, Canada, Remote in Canada) https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true
+- Electronic Arts - Software Engineer Intern (Orlando, FL) https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250
+- RTX - Software Engineering Co-op - Summer / Fall 2027 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368
+- Nuovo Photography - Software Developer Intern (Montreal, QC, Canada) https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply
+- General Dynamics Information Technology - Software Developer Intern (Egg Harbor Township, NJ) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643
+- Patreon - Software Engineer Intern (SF, NYC) https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true
+- Inversion Space - AI & Internal Tools Software Engineer Intern (Playa Vista, LA) https://job-boards.greenhouse.io/inversionspace/jobs/4745076005
+- Meta - Research Scientist Intern - Robotics Hardware (Redmond, WA) https://www.metacareers.com/jobs/2105411693413958
+- Meta - Research Scientist Intern - 3D-grounded Generalist Model for Robotics (Redmond, WA) https://www.metacareers.com/jobs/2267351860492630
+- Inversion Space - Vehicle Software Engineer Intern (Playa Vista, LA) https://job-boards.greenhouse.io/inversionspace/jobs/4745083005
+- L3Harris Technologies - Systems Engineering Co-op (Clifton, NJ) https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Spring-Co-Op-NJ-07014/1441503600/?ats=successfactors
+- Westinghouse Electric Company - Software Development Intern (Cranberry Township, PA) https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors
+- L3Harris Technologies - Software Engineering Intern (Salt Lake City, UT) https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors
