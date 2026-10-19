@@ -388,3 +388,4 @@
 - Accenture - Talent Pool - Óbuda Job Fair - C# Developer Intern - Manufacturing Area () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest/C--Developer---Intern_R00273549
 - Applied Materials - 【2026 New College Graduate 新鮮人專區】Global Software Support Engineer (Hsinchu,TWN) https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/XMLNAME--2026-New-College-Graduate--Global-Software-Support-Engineer_R2631537
 - Autodesk - Intern, Software Engineer (Birmingham, GBR) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1
+- Adobe - 2027 Intern- Software Engineer (Basel) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015
