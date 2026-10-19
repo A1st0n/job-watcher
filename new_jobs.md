@@ -395,3 +395,4 @@
 - RTX - Software Engineering Intern (Summer 2027) (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499
 - RTX - Software Engineer I - Aircraft Interiors (ONSITE) (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177
 - Autodesk - Intern, Software Engineer (Cambridge, GBR) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105
+- Intel - Development Tools Software Engineer Intern (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205
