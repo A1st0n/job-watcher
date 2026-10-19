@@ -389,3 +389,4 @@
 - Applied Materials - 【2026 New College Graduate 新鮮人專區】Global Software Support Engineer (Hsinchu,TWN) https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/XMLNAME--2026-New-College-Graduate--Global-Software-Support-Engineer_R2631537
 - Autodesk - Intern, Software Engineer (Birmingham, GBR) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1
 - Adobe - 2027 Intern- Software Engineer (Basel) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015
+- Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267119-1
