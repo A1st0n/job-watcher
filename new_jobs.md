@@ -418,3 +418,20 @@
 - Northrop Grumman - 2027 Software Engineer Intern - Linthicum Maryland (United States-Maryland-Linthicum) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910
 - Amazon - Software Development Engineer, Early Career - 2027 (US) (Seattle, Washington, USA) https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us
 - Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312
+- The Allen Institute for AI - Research Intern - Robotics (Seattle, WA) https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641
+- Keysight Technologies - Optical Design Software & Automation Engineer Intern (Pasadena, CA, Santa Clara, CA) https://jobs.keysight.com/jobs/54614?icims=1
+- Keysight Technologies - Photonics Design Software & Automation Engineer Intern (Pasadena, CA, Santa Clara, CA) https://jobs.keysight.com/jobs/54619?icims=1
+- Keysight Technologies - R&D Software Engineer Intern (Santa Clara, CA) https://jobs.keysight.com/jobs/54805?icims=1
+- Salesforce - Software Engineer Intern (SF, Bellevue, WA) https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911
+- Point72 - Quantitative Developer Intern (NYC) https://boards.greenhouse.io/point72/jobs/7609197002
+- NetApp - Software Engineer Intern (Wichita, KS) https://jobs.netapp.com/job/Wichita-Software-Engineer-Intern-KS-67208/1441378400/?ats=successfactors
+- Braze - Software Engineer Intern (NYC) https://job-boards.greenhouse.io/braze/jobs/8301086
+- Cognex - Software Engineer Intern (Wauwatosa, WI) https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549
+- American Fidelity - Software Developer Intern (Oklahoma City, OK) https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118
+- The Toro Company - Cloud Software Developer Intern (Frederick, CO) https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498
+- Citco - Software Engineer Intern (Toronto, ON, Canada) https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964
+- GM financial - Oracle Application Developer Intern (Irving, TX) https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804
+- Tyler Technologies - Software Developer Intern (Orono, ME) https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false
+- Heron Power - Firmware Engineer Intern (Scotts Valley, CA) http://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da/application?embed=true
+- GlobalFoundries - AI/ML Systems Engineering Intern (Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051
+- Amplify - Software Engineer Intern (Remote in USA) https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true
