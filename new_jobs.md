@@ -379,3 +379,4 @@
 - Leonardo - Software Engineer Intern (Newcastle upon Tyne, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876
 - Tesla - Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure (Austin, TX) https://www.tesla.com/careers/search/job/287024
 - HeyGen - Software Engineer Intern (Toronto, ON, Canada, SF, LA, Singapore) https://job-boards.greenhouse.io/heygen/jobs/4540716007
+- Citi - Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027 (Taguig  Philippines) https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885
