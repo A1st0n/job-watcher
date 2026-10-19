@@ -383,3 +383,6 @@
 - NXP - 2027 Intern - STA agent developer Intern (Tianjin (Teda)) https://nxp.wd3.myworkdayjobs.com/Careers/job/Tianjin-Teda/XMLNAME-2027-Intern---STA-agent-developer-Intern_R-10066785
 - Motorola Solutions - Software Developer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69694
 - GM - 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles (Sunnyvale, California, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406
+- Nvidia - Software Engineer Intern, Robotics - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630
+- Nvidia - Software Engineering Intern, Test Development - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707
+- Accenture - Talent Pool - Óbuda Job Fair - C# Developer Intern - Manufacturing Area () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest/C--Developer---Intern_R00273549
