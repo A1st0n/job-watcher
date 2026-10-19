@@ -392,3 +392,6 @@
 - Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267119-1
 - Adobe - 2027 Intern- Software Engineer (Bucharest) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018
 - Bosch - Software Engineering Co-Op - Spring 2027 (Fountain Inn, SC) https://jobs.smartrecruiters.com/BoschGroup/744000156311682
+- RTX - Software Engineering Intern (Summer 2027) (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499
+- RTX - Software Engineer I - Aircraft Interiors (ONSITE) (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177
+- Autodesk - Intern, Software Engineer (Cambridge, GBR) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105
