@@ -501,3 +501,4 @@
 - Sierra - Software Engineer Intern, Agent (London 2027) (London) https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff
 - Rockwell Automation - Intern - Embedded Controls Engineering (Orlando, Florida, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2
 - Analog Devices - Software Tools Engineering Intern (United Kingdom, Edinburgh, SC, Freer) https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128
+- RTX - Software Engineer I, Core Services and Libraries (Onsite) (US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr ~ DAVIS 382) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494
