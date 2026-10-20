@@ -500,3 +500,4 @@
 - Sierra - Software Engineer, Agent (New Grad) (London) https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252
 - Sierra - Software Engineer Intern, Agent (London 2027) (London) https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff
 - Rockwell Automation - Intern - Embedded Controls Engineering (Orlando, Florida, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2
+- Analog Devices - Software Tools Engineering Intern (United Kingdom, Edinburgh, SC, Freer) https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128
