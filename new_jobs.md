@@ -453,3 +453,5 @@
 - Palantir - Software Engineer, Internship - Query Engines (New York, NY) https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13
 - Palantir - Software Engineer, New Grad - Query Engines (New York, NY) https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac
 - Accenture - Práctica Fullstack/Prompt Engineering -ChangeMakers Internship Program - Ing. Informatica/Programación () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Fullstack-Prompt-Engineering--ChangeMakers-Internship-Program---Ing-Informatica-Programacin_R00365391
+- Palantir - Software Engineer, Internship - Query Engines (London, United Kingdom) https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963
+- Palantir - Software Engineer, New Grad - Query Engines (London, United Kingdom) https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa
