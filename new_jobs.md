@@ -465,3 +465,4 @@
 - Boston Scientific - R&D Software Engineer Intern (Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813563514
 - Palantir - Software Engineer Intern - Query Engines (London, UK) https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963/apply
 - Intel - AI Software Engineer Intern (PRC, Shanghai) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261
+- Stryker - Summer 2027 Internship - Sales Systems Engineer - Michigan (Portage, Michigan) https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850
