@@ -455,3 +455,4 @@
 - Accenture - Práctica Fullstack/Prompt Engineering -ChangeMakers Internship Program - Ing. Informatica/Programación () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Fullstack-Prompt-Engineering--ChangeMakers-Internship-Program---Ing-Informatica-Programacin_R00365391
 - Palantir - Software Engineer, Internship - Query Engines (London, United Kingdom) https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963
 - Palantir - Software Engineer, New Grad - Query Engines (London, United Kingdom) https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa
+- OpenAI - Backend Software Engineer, Cooperative AI (Evals)  (San Francisco) https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2
