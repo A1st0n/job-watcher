@@ -507,3 +507,16 @@
 - Nvidia - Software Engineering Intern, AI Agent Test Development - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477
 - RTX - Systems Engineer I - Guidance, Navigation, and Control (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I---Guidance--Navigation--and-Control--Onsite-_01882432
 - Carrier - Systems Engineering Intern - Summer (CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI23-Carrier-Indianapolis-7310-West-Morris-Street-Indianapolis-IN-46231-USA/Systems-Engineering-Intern---Summer_30220210
+- Northrop Grumman - 2027 Systems Engineer Intern - Woodland Hills CA (United States-California-Woodland Hills) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1
+- Intuit - Software Developer Co-op (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680
+- Boston Scientific - Equipment Engineering Software Engineer Intern (Maple Grove, MN) https://bostonscientific.eightfold.ai/careers/job/563602813584306
+- SOTI - Software Developer Intern (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604
+- Meta - Research Scientist Intern - Computational Imaging and Robotics (Redmond, WA) https://www.metacareers.com/jobs/2857194467985784
+- RTX - Software Engineering Intern (San Jose, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026
+- Skydio - Embedded Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application?embed=true
+- Skydio - Mobile Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true
+- Analog Devices - Software Tools Engineer Intern (Edinburgh, UK) https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128
+- Schweitzer Engineering Laboratories - Software Engineer Intern (Pullman, WA) https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190
+- CommonAI C.I.C. - Software Engineer Intern (Cambridge, UK) https://apply.workable.com/commonai/j/021D3FCF3E/apply
+- AeroVironment - Software Engineer Intern (Minneapolis, MN) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Software-Engineering-Intern_8940
+- Sierra - Software Engineer Intern - Agent (London, UK) https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application?embed=true
