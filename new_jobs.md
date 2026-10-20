@@ -482,3 +482,10 @@
 - Intel - DevOps Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210
 - Northrop Grumman - 2027 Cyber Systems Engineer Intern-Tampa FL (United States-Florida-Tampa) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196
 - GE HealthCare - Software Engineer Intern (Krakow) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613
+- RTX - Software Engineer Co-op (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545
+- Textron - Industrial Software Engineer Intern (Williamsport, PA) https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345735
+- Steel - Software Engineer Intern (Toronto, ON, Canada) https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true
+- Leonardo - Software Engineer Intern (London, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Sofware-Engineer_R0033508
+- GeoSpectrum Technologies - Software Developer Co-op (Dartmouth, NS, Canada) https://geospectrum.bamboohr.com/careers/286/
+- Redgate - Software Engineer Intern (Cambridge, UK) https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true
+- Ciena - Software Engineer Intern - Security (Atlanta, GA) https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926
