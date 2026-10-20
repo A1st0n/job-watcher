@@ -467,3 +467,4 @@
 - Intel - AI Software Engineer Intern (PRC, Shanghai) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261
 - Stryker - Summer 2027 Internship - Sales Systems Engineer - Michigan (Portage, Michigan) https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850
 - Motorola Solutions - Software Engineer Intern (Ho Chi Minh, Vietnam) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883
+- RTX - Flight Control Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083
