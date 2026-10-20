@@ -459,3 +459,4 @@
 - CIBC - Application Developer Co-op - Enterprise Technology & Business Management (Toronto, ON, Canada) https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524
 - CIBC - Application/Software Developer Co-op - Capital Markets Technology (Toronto, ON, Canada) https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1
 - Trimble - Hardware/Software Testing Intern (Dayton, OH, Portsmouth, NH, Lake Oswego, OR, Westminster, CO) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1
+- Intel - Intern Systems Software Development Engineer (Vietnam, Ho_Chi_Minh_City) https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313
