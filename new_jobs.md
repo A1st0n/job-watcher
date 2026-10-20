@@ -520,3 +520,4 @@
 - CommonAI C.I.C. - Software Engineer Intern (Cambridge, UK) https://apply.workable.com/commonai/j/021D3FCF3E/apply
 - AeroVironment - Software Engineer Intern (Minneapolis, MN) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Software-Engineering-Intern_8940
 - Sierra - Software Engineer Intern - Agent (London, UK) https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application?embed=true
+- Micron - Intern - Machine Learning Engineering (Richardson, TX) https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750
