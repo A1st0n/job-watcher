@@ -495,3 +495,5 @@
 - Graphcore - Software Engineer Intern - Drivers and Utilities (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894376002
 - Graphcore - Software Engineer Intern - AI Compute Libraries & Performance (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894868002
 - Graphcore - Firmware Intern (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894770002
+- Intel - Middleware Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213
+- RTX - Software Engineering Intern (Summer 2027) (US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026
