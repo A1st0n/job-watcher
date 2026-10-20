@@ -521,3 +521,8 @@
 - AeroVironment - Software Engineer Intern (Minneapolis, MN) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Software-Engineering-Intern_8940
 - Sierra - Software Engineer Intern - Agent (London, UK) https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application?embed=true
 - Micron - Intern - Machine Learning Engineering (Richardson, TX) https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750
+- Fresenius Medical Care - Software Engineering Co-op (Lawrence, MA) https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309
+- Humble Robotics - Embedded Software Engineer Intern (SF) https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3/apply
+- Micron Technology - SSD Firmware Intern (San Jose, CA, Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210
+- Berkshire Hathaway Energy - Software Engineer Intern (Des Moines, IA) https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930
+- Keysight Technologies - R&D Software Engineer Intern (Santa Rosa, CA) https://jobs.keysight.com/jobs/55110?icims=1
