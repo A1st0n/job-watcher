@@ -489,3 +489,9 @@
 - GeoSpectrum Technologies - Software Developer Co-op (Dartmouth, NS, Canada) https://geospectrum.bamboohr.com/careers/286/
 - Redgate - Software Engineer Intern (Cambridge, UK) https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true
 - Ciena - Software Engineer Intern - Security (Atlanta, GA) https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926
+- RTX - Systems Engineering Intern, Weather Radar (US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern--Weather-Radar_01876489
+- Texas Instruments - Software Engineer Intern - Compiler (Sugar Land, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103
+- Allstate - Software Engineer Intern (North Carolina) https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266
+- Graphcore - Software Engineer Intern - Drivers and Utilities (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894376002
+- Graphcore - Software Engineer Intern - AI Compute Libraries & Performance (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894868002
+- Graphcore - Firmware Intern (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894770002
