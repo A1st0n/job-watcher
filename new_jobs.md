@@ -526,3 +526,4 @@
 - Micron Technology - SSD Firmware Intern (San Jose, CA, Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210
 - Berkshire Hathaway Energy - Software Engineer Intern (Des Moines, IA) https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930
 - Keysight Technologies - R&D Software Engineer Intern (Santa Rosa, CA) https://jobs.keysight.com/jobs/55110?icims=1
+- Applied Materials - 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara) (Santa Clara,CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672
