@@ -478,3 +478,4 @@
 - Bosch - Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.) (Ovar) https://jobs.smartrecruiters.com/BoschGroup/744000156523049
 - RTX - Software/Developer Engineer I (Onsite) (US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887
 - CVS - Full-Stack Engineer Training Program - June 2027 Cohort (50 Locations) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830
+- Intel - AI Software Development Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225
