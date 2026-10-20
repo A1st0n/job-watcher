@@ -473,3 +473,5 @@
 - Zipline - Long Range Platform Hardware Engineering Intern (South SF) https://www.zipline.com/open-roles?gh_jid=7891460003
 - Parallel Wireless - PHY Software Engineer Intern (Bristol, UK) https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply
 - RTX - Part time Software Engineer Co-op (Remote) (US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452
+- Amazon - Data Center Infrastructure Engineer Internship 2027 - UAE nationals (Dubai, ARE) https://www.amazon.jobs/en/jobs/10583818/data-center-infrastructure-engineer-internship-2027-uae-nationals
+- Salesforce - Software Engineer Intern (SF, Bellevue, WA) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
