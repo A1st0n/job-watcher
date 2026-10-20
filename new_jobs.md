@@ -475,3 +475,4 @@
 - RTX - Part time Software Engineer Co-op (Remote) (US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452
 - Amazon - Data Center Infrastructure Engineer Internship 2027 - UAE nationals (Dubai, ARE) https://www.amazon.jobs/en/jobs/10583818/data-center-infrastructure-engineer-internship-2027-uae-nationals
 - Salesforce - Software Engineer Intern (SF, Bellevue, WA) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1
+- Bosch - Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.) (Ovar) https://jobs.smartrecruiters.com/BoschGroup/744000156523049
