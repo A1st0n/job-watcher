@@ -502,3 +502,4 @@
 - Rockwell Automation - Intern - Embedded Controls Engineering (Orlando, Florida, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2
 - Analog Devices - Software Tools Engineering Intern (United Kingdom, Edinburgh, SC, Freer) https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128
 - RTX - Software Engineer I, Core Services and Libraries (Onsite) (US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr ~ DAVIS 382) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494
+- Micron - Intern - SSD Firmware (2 Locations) https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209
