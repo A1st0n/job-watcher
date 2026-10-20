@@ -497,3 +497,6 @@
 - Graphcore - Firmware Intern (Bristol, UK) https://job-boards.greenhouse.io/graphcore/jobs/8894770002
 - Intel - Middleware Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213
 - RTX - Software Engineering Intern (Summer 2027) (US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026
+- Sierra - Software Engineer, Agent (New Grad) (London) https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252
+- Sierra - Software Engineer Intern, Agent (London 2027) (London) https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff
+- Rockwell Automation - Intern - Embedded Controls Engineering (Orlando, Florida, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2
