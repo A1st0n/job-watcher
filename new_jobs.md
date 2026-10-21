@@ -552,3 +552,4 @@
 - TruStage - Information Technology Development and Infrastructure Intern (Madison, WI) https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155
 - Nvidia - Software Engineering Intern - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972
 - Intel - Media AI Software Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216
+- RTX - Part Time Systems Engineer Co-Op (Remote) (US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883866
