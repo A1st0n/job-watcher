@@ -584,3 +584,4 @@
 - Safran - Software Engineering Intern (Bedford, NH) https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors
 - RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684
 - Affirm - Analyst, Early Career (Full Stack) (New York, New York, United States; San Francisco, California, United States) https://job-boards.greenhouse.io/affirm/jobs/8039471003
+- Anduril - Winter 2027 Robotics Engineer Co-op (Quincy, Massachusetts, United States) https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007
