@@ -580,3 +580,5 @@
 - Northrop Grumman - Associate Software Test Engineer (United States-Nebraska-Bellevue) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Test-Engineer_R10257161
 - Chewy - Software Engineer I (2 Locations) https://chewy.wd5.myworkdayjobs.com/External/job/Plantation-FL/Software-Engineer-I_R31182-1
 - Waymo - 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech (San Francisco, California) https://careers.withwaymo.com/jobs?gh_jid=8203200
+- L3Harris Technologies - Software Engineer Intern (Salt Lake City, UT) https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors
+- Safran - Software Engineering Intern (Bedford, NH) https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors
