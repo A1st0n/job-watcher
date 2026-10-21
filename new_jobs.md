@@ -599,3 +599,15 @@
 - ICF International - Seasonal Associate Intern - Full Stack Developer (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571
 - ICF International - Full-Stack Developer Intern (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570
 - Newell Brands - Sales AI & Analytics Developer Intern (Huntersville, NC) https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors
+- Crusoe - Software Engineering Intern, Summer 2027 (San Francisco, CA - US) https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5
+- The Aerospace Corporation - Software Engineer Intern (Chantilly, VA, El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759
+- RTX - Software Engineering Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137
+- The Aerospace Corporation - Embedded Software Engineer Intern - Multiple Teams (El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949
+- The Aerospace Corporation - Embedded Software Engineer Grad Intern (El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950
+- Baker Hughes - Software Engineer Intern (Cramlington, UK) https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942
+- GlobalFoundries - AI Software Intern (Santa Clara, CA, Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029
+- Sierra Space - Flight Software Engineer Intern (Louisville, CO) https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456
+- GlobalFoundries - Software Engineer Intern - Cloud Platform (Santa Clara, CA) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034
+- Walrus - Full Stack Developer Intern (NYC) https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true
+- Zillow - Software Development Engineer Intern (Seattle, WA, Remote in USA) https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630
+- Motorola Solutions - Software Engineering Co-op (Remote in USA, Chicago, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662
