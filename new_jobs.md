@@ -538,3 +538,4 @@
 - Uber - Software Engineer Intern (Seattle, WA, SF, Sunnyvale, CA) https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
 - AeroVironment - Software Engineer Intern (San Diego, CA) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineering-Intern_8828
 - Micron Technology - Machine Learning Engineering Intern (Richardson, TX) https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750
+- RTX - Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite (US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973
