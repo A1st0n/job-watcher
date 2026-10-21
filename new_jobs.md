@@ -566,3 +566,6 @@
 - Exegy - Software Developer Intern (Montreal, QC, Canada) https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true
 - Expedia Group - Software Developer 1 Intern (Springfield, MO) https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635
 - Northrop Grumman - Software Engineer Intern (Roy, UT) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
+- HP - Software Engineering Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1
+- RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134
+- RTX - Software Engineering Co-op (Summer/Fall 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137
