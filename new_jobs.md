@@ -550,3 +550,4 @@
 - Nvidia - Software Intern - Embedded Systems 2027 (UK, Bristol) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1
 - Honeywell - Embedded Engineer Intern (Leicestershire, UK) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159023
 - TruStage - Information Technology Development and Infrastructure Intern (Madison, WI) https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155
+- Nvidia - Software Engineering Intern - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972
