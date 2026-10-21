@@ -569,3 +569,4 @@
 - HP - Software Engineering Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1
 - RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134
 - RTX - Software Engineering Co-op (Summer/Fall 2027) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137
+- Motorola Solutions - Junior Software QA Engineer (Brazil Remote Work) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/Junior-Software-QA-Engineer_R69183
