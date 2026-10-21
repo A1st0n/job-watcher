@@ -527,3 +527,5 @@
 - Berkshire Hathaway Energy - Software Engineer Intern (Des Moines, IA) https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930
 - Keysight Technologies - R&D Software Engineer Intern (Santa Rosa, CA) https://jobs.keysight.com/jobs/55110?icims=1
 - Applied Materials - 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara) (Santa Clara,CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672
+- Amazon - Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs (Cupertino, California, USA) https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs
+- RTX - Software Engineering Intern (Summer 2027) (US-MD-ANNAPOLIS-905 ~ 2551 Riva Rd ~ BLDG 905) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939
