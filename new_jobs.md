@@ -537,3 +537,4 @@
 - Applied Materials - Software Engineer Intern (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672
 - Uber - Software Engineer Intern (Seattle, WA, SF, Sunnyvale, CA) https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
 - AeroVironment - Software Engineer Intern (San Diego, CA) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineering-Intern_8828
+- Micron Technology - Machine Learning Engineering Intern (Richardson, TX) https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750
