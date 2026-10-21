@@ -530,3 +530,10 @@
 - Amazon - Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs (Cupertino, California, USA) https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs
 - RTX - Software Engineering Intern (Summer 2027) (US-MD-ANNAPOLIS-905 ~ 2551 Riva Rd ~ BLDG 905) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939
 - Nvidia - Software Engineer, Agent Performance Modeling - New College Grad 2026 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350
+- HPE - Embedded Software Engineering Intern (Roseville, California, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088
+- Rakuten International - Software Engineer Intern (San Mateo, CA) https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171
+- LinkedIn - Software Engineer Intern (Mountain View, CA) https://jobs.smartrecruiters.com/LinkedIn3/744000156616169
+- RTX - Software Engineer Intern (Annapolis, MD) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939
+- Applied Materials - Software Engineer Intern (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672
+- Uber - Software Engineer Intern (Seattle, WA, SF, Sunnyvale, CA) https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922
+- AeroVironment - Software Engineer Intern (San Diego, CA) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineering-Intern_8828
