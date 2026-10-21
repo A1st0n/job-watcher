@@ -557,3 +557,4 @@
 - Medtronic - Software Cloud Engineer I (Nanakramguda, Hyderabad, India) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Software-Cloud-Engineer-I_R80297-1
 - Aptiv - Linux Software Development Intern (San Antonio, TX) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399
 - Intel - System Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207
+- RTX - Secure Systems Engineer I (Onsite) (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Secure-Systems-Engineer-I--Onsite-_01883612
