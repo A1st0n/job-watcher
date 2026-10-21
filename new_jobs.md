@@ -585,3 +585,17 @@
 - RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684
 - Affirm - Analyst, Early Career (Full Stack) (New York, New York, United States; San Francisco, California, United States) https://job-boards.greenhouse.io/affirm/jobs/8039471003
 - Anduril - Winter 2027 Robotics Engineer Co-op (Quincy, Massachusetts, United States) https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007
+- Emerson Electric - Software Engineering Co-op (Marshalltown, IA) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442
+- Waymo - Software Engineering Intern - Maneuvering Tech (SF) https://careers.withwaymo.com/jobs?gh_jid=8203200
+- Qualcomm - Display Systems Engineer Intern (Markham, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446721661677
+- Expedia Group - Software Development Engineer Intern (London, UK) https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551
+- John Deere - Software Engineer Student Intern - Product Engineering (Cary, NC) https://johndeere.eightfold.ai/careers/job/137483990019
+- Verisk - Software Engineer Intern (Manchester, UK) https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997
+- Parsons - Computer Vision/Robotics Intern (Westminster, CO) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402
+- Metalenz - Camera Software Intern (Boston, MA) https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true
+- Meta - Research Scientist Intern - Foundational Models for Robotics Research (Menlo Park, CA) https://www.metacareers.com/jobs/1078644001656413
+- Hitachi - Software Engineering Co-op (Greenville, SC) https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733
+- Anduril - Robotics Engineer Co-op (Quincy, MA) https://boards.greenhouse.io/andurilindustries/jobs/5271842007
+- ICF International - Seasonal Associate Intern - Full Stack Developer (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571
+- ICF International - Full-Stack Developer Intern (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570
+- Newell Brands - Sales AI & Analytics Developer Intern (Huntersville, NC) https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors
