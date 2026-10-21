@@ -560,3 +560,9 @@
 - RTX - Secure Systems Engineer I (Onsite) (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Secure-Systems-Engineer-I--Onsite-_01883612
 - NVIDIA - Software Intern - Embedded Systems (Bristol, UK) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1
 - Northrop Grumman - 2027 Software Engineering Intern - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
+- RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-I--Onsite-_01883922
+- Anduril - 2027 New Grad Software Development in Test (Dublin, Dublin, Ireland) https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007
+- Parsons - Computer Vision/Robotics Intern () https://parsons.wd5.myworkdayjobs.com/Search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402
+- Exegy - Software Developer Intern (Montreal, QC, Canada) https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true
+- Expedia Group - Software Developer 1 Intern (Springfield, MO) https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635
+- Northrop Grumman - Software Engineer Intern (Roy, UT) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053
