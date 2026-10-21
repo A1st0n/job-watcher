@@ -543,3 +543,5 @@
 - Northrop Grumman - Associate Software Engineer (United States-Nebraska-Bellevue) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006
 - RTX - 2027 Summer Intern - Systems Engineering - Onsite (US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Systems-Engineering---Onsite_01881121
 - Nvidia - Systems Software Intern, Aerial PHY- Summer 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530
+- Rhoda AI - Software Engineer Intern - Inference (Mountain View, CA) https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true
+- Hewlett Packard Enterprise - Embedded Software Engineer Intern (Roseville, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088
