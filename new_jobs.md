@@ -546,3 +546,4 @@
 - Rhoda AI - Software Engineer Intern - Inference (Mountain View, CA) https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true
 - Hewlett Packard Enterprise - Embedded Software Engineer Intern (Roseville, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088
 - NVIDIA - Systems Software Intern - Aerial PHY (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530
+- Accenture - Junior Software Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Junior-Software-Engineer_R00304871
