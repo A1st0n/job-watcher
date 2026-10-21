@@ -548,3 +548,4 @@
 - NVIDIA - Systems Software Intern - Aerial PHY (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530
 - Accenture - Junior Software Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Junior-Software-Engineer_R00304871
 - Nvidia - Software Intern - Embedded Systems 2027 (UK, Bristol) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1
+- Honeywell - Embedded Engineer Intern (Leicestershire, UK) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159023
