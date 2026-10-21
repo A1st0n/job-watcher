@@ -555,3 +555,4 @@
 - RTX - Part Time Systems Engineer Co-Op (Remote) (US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-Time-Systems-Engineer-Co-Op--Remote-_01883866
 - RTX - Software Engineer Intern (Summer 2027) (US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127
 - Medtronic - Software Cloud Engineer I (Nanakramguda, Hyderabad, India) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Software-Cloud-Engineer-I_R80297-1
+- Aptiv - Linux Software Development Intern (San Antonio, TX) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399
