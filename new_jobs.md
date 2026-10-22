@@ -630,3 +630,4 @@
 - Intel - DevOps Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209
 - Danaher - Intern PLC developer thesis worker (Uppsala, Sweden) https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652
 - Intel - Software Development Intern (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215
+- CACI - Embedded Software Engineering Co-op - Spring 2027 (Danbury, CT, US) https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368
