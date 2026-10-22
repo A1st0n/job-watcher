@@ -619,3 +619,4 @@
 - Nvidia - Client System Firmware Engineer (RDSS Intern) (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560
 - Coinbase - Software Engineer Intern (Hybrid - Singapore) https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873
 - Aptiv - Software Development Intern (Troy, MI - USA) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Software-Development-Intern_J000704861
+- Rockwell Automation - AI & Embedded Engineering Intern (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305
