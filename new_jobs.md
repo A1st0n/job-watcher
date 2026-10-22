@@ -613,3 +613,5 @@
 - Motorola Solutions - Software Engineering Co-op (Remote in USA, Chicago, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662
 - HPE - Software Development Intern, AI-Assisted Development (Summer 2027)  /  Stagiaire en développement de  logiciel, développement assisté par l’IA (Été 2027) (St. Laurent, Quebec, Canada) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1
 - Keysight Technologies - Software Engineer Intern (Calabasas, CA) https://jobs.keysight.com/jobs/55115?icims=1
+- Tesla - Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027 (Palo Alto, CA, Fremont, CA) https://www.tesla.com/careers/search/job/287407
+- Crusoe - Software Engineer Intern (SF) https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true
