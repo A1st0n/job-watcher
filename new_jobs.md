@@ -634,3 +634,5 @@
 - Target - Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) (7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445) https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082
 - CACI - Embedded Software Engineer Co-op (Danbury, CT) https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368
 - Nutanix - Software Developer Co-op (Vancouver, BC, Canada) https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false
+- RTX - Part-Time Software Engineer Co-op(Remote) (US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451
+- Leidos - Systems Engineering Intern (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148
