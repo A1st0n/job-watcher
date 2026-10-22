@@ -617,3 +617,4 @@
 - Crusoe - Software Engineer Intern (SF) https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true
 - Nvidia - Enterprise System Firmware Engineer (RDSS Intern) (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055
 - Nvidia - Client System Firmware Engineer (RDSS Intern) (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560
+- Coinbase - Software Engineer Intern (Hybrid - Singapore) https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873
