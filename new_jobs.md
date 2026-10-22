@@ -627,3 +627,5 @@
 - Microsoft - Full-Stack Product Engineer Intern - Web + Services (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556922922
 - RTX - Software Engineering  Intern (Summer 2027) (US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520
 - Uline - Software Developer Intern (Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI) https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537
+- Intel - DevOps Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209
+- Danaher - Intern PLC developer thesis worker (Uppsala, Sweden) https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652
