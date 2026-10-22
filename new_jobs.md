@@ -658,3 +658,29 @@
 - Palantir - Forward Deployed Software Engineer, Internship - Warp Speed (New York, NY) https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb
 - Palantir - Forward Deployed Software Engineer, New Grad - Warp Speed (New York, NY) https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7
 - Amazon - System Development Engineer Intern/Co-op, ROBOTICS -  2027 (North Reading, Massachusetts, USA) https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027
+- Rockwell Automation - Intern, Firmware Engineer (2 Locations) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321
+- Citadel - Software Engineer Intern (London, UK) https://www.citadel.com/careers/details/software-engineer-intern-europe/
+- Northrop Grumman - Cyber Software Engineer Intern (Tampa, FL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530
+- Westinghouse Electric Company - Software Engineering Intern (Warrendale, PA) https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors
+- Ciena - Software Developer Intern (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1
+- Pattern - AI Infrastructure Engineer Intern (Lehi, UT) https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply
+- Northrop Grumman - Systems Engineering Intern - AI Experience (Dulles, VA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423
+- 1Password - Developer Intern - Vault Team (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true
+- KION Group - Software Analytics Co-op (Grand Rapids, MI) https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1
+- 1Password - Developer Intern - Extension Excellence (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true
+- 1Password - Developer Intern - Provisioning (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true
+- 1Password - Developer Intern - Machine Identity (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true
+- 1Password - Developer Intern - Front-End Platform (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true
+- M&T Bank - Technology Intern - Software Engineering - Enterprise API Services Development Team (Buffalo, NY) https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812
+- Schweitzer Engineering Laboratories - Software Engineer Intern (Pullman, WA) https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-23816
+- Skydio - Frontend Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true
+- Twitch - Undergrad Software Engineer Intern (SF) https://job-boards.greenhouse.io/twitch/jobs/8886605002
+- Twitch - Undergrad Software Engineering Intern (SF) https://job-boards.greenhouse.io/twitch/jobs/8886748002
+- L3Harris Technologies - Software Engineer Intern (Tulsa, OK) https://jobs.l3harris.com/job/Tulsa-Intern,-Software-Engineer-OK-74115/1442777600/?ats=successfactors
+- Formlabs - Manufacturing Test Software Intern (Somerville, MA) https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004
+- Veeda AI - Software Engineering Intern (Toronto, ON, Canada) https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true
+- SPS Commerce - Software Engineer Intern (Minneapolis, MN) https://spscommerce.wd108.myworkdayjobs.com/SPS/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398
+- Rokt - Junior Software Engineer Resident (NYC) https://apply.workable.com/rokt/j/616F2D0286/apply
+- Ursa Major - Software Development Intern (Berthoud, CO) https://ursamajor.com/careers/?gh_jid=4746827005
+- Ursa Major - Embedded Flight Software Intern (Longmont, CO) https://ursamajor.com/careers/?gh_jid=4746825005
+- Ivalua - Marketing Web Developer Intern (NYC) https://boards.greenhouse.io/ivalua/jobs/8293704
