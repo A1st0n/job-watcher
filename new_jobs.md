@@ -641,3 +641,5 @@
 - Apple - Software Engineer Intern - iCloud Platform (London, UK) https://jobs.apple.com/en-us/details/200690044
 - CIBC - Machine Learning Engineer Co-op (Toronto, ON, Canada) https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721
 - RTX - Software Engineer Intern (Aurora, CO) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520
+- Northrop Grumman - 2027 Cyber Software Engineer Intern - San Antonio TX (United States-Texas-San Antonio) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311
+- Analog Devices - Software QA Intern (Spain, Valencia, Cortes Valencianas) https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125
