@@ -657,3 +657,4 @@
 - True Anomaly - Software Engineer I, QA (New Grad) (Denver, CO; Long Beach, CA) https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007
 - Palantir - Forward Deployed Software Engineer, Internship - Warp Speed (New York, NY) https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb
 - Palantir - Forward Deployed Software Engineer, New Grad - Warp Speed (New York, NY) https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7
+- Amazon - System Development Engineer Intern/Co-op, ROBOTICS -  2027 (North Reading, Massachusetts, USA) https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027
