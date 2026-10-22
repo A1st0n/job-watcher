@@ -644,3 +644,4 @@
 - Northrop Grumman - 2027 Cyber Software Engineer Intern - San Antonio TX (United States-Texas-San Antonio) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311
 - Analog Devices - Software QA Intern (Spain, Valencia, Cortes Valencianas) https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125
 - RTX - Automation Systems Engineering Intern (Spring 2027) (US-AZ-TUCSON-801 A20 ~ 1151 E Hermans Rd ~ BLDG A20 (External Site)) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801-A20--1151-E-Hermans-Rd--BLDG-A20-External-Site/Automation-Systems-Engineering-Intern--Spring-2027-_01884308
+- Anduril - 2027 Early Career Software Engineer (Dublin, Dublin, Ireland) https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007
