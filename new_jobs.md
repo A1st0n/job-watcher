@@ -684,3 +684,14 @@
 - Ursa Major - Software Development Intern (Berthoud, CO) https://ursamajor.com/careers/?gh_jid=4746827005
 - Ursa Major - Embedded Flight Software Intern (Longmont, CO) https://ursamajor.com/careers/?gh_jid=4746825005
 - Ivalua - Marketing Web Developer Intern (NYC) https://boards.greenhouse.io/ivalua/jobs/8293704
+- Royal Bank of Canada - Developer & IT Specialist Co-op - Global Asset Management (Toronto, ON, Canada, Vancouver, BC, Canada) https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669
+- Moog - Software Engineer Intern (Mineral Wells, TX) https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965
+- CIBC - Machine Learning Engineer Co-op (Toronto, ON, Canada) https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1
+- KION Group - Software Analytics Co-op (Grand Rapids, MI) https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723
+- Palantir - Forward Deployed Software Engineer Intern - Warp Speed (NYC) https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply
+- CVS Health - Innovation & Technology Software Engineering: Data & Intelligence Intern (NYC) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128
+- CVS Health - Software Engineer Intern - Platform & Applications (Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193
+- CVS Health - Innovation & Technology Software Engineering: Platform & Applications Intern (Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216
+- CVS Health - Innovation & Technology Internship - Software Engineering: Data & Intelligence (NYC) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114
+- RTX - Software Engineer Co-op (Remote in USA, Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451
+- Texas Instruments - Software Engineer Intern (Toronto, ON, Canada, Canada) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757
