@@ -636,3 +636,8 @@
 - Nutanix - Software Developer Co-op (Vancouver, BC, Canada) https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false
 - RTX - Part-Time Software Engineer Co-op(Remote) (US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451
 - Leidos - Systems Engineering Intern (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148
+- Analog Devices - Embedded Software Engineering Intern (Turkey, Istanbul, Bilisim Vadisi) https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Embedded-Software-Engineering-Intern_R267001
+- Target - Software Engineer Intern (Brooklyn Park, MN) https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082
+- Apple - Software Engineer Intern - iCloud Platform (London, UK) https://jobs.apple.com/en-us/details/200690044
+- CIBC - Machine Learning Engineer Co-op (Toronto, ON, Canada) https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721
+- RTX - Software Engineer Intern (Aurora, CO) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520
