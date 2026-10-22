@@ -631,3 +631,6 @@
 - Danaher - Intern PLC developer thesis worker (Uppsala, Sweden) https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652
 - Intel - Software Development Intern (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215
 - CACI - Embedded Software Engineering Co-op - Spring 2027 (Danbury, CT, US) https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368
+- Target - Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) (7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445) https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082
+- CACI - Embedded Software Engineer Co-op (Danbury, CT) https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368
+- Nutanix - Software Developer Co-op (Vancouver, BC, Canada) https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false
