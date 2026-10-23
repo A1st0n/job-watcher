@@ -720,3 +720,6 @@
 - JP Morgan Chase - Software Engineer Intern - Immersion Program (Glasgow, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813
 - RTX - Systems Engineering Intern (Huntsville, AL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering---Intern--Onsite-_01870675
 - Saab - Systems Engineering Co-op (East Syracuse, NY) https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Spring---Summer-2027-_R-03226-1
+- CACI - Cleared Software Engineer Intern - Summer 2027 (2 Locations) https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999
+- MongoDB - 2027 - Summer Software Engineer Intern, Dublin (Dublin) https://www.mongodb.com/careers/job/?gh_jid=8267099
+- General Dynamics UK - Systems Engineering Co-op - TacNET 8 (Ottawa, ON, Canada) https://jobs.smartrecruiters.com/GDMSI/744000147537709
