@@ -715,3 +715,4 @@
 - TikTok - Software Engineer Project Intern - Recommendation Infrastructure (San Jose, CA) https://lifeattiktok.com/search/7629500062003218741
 - TikTok - Platform Campaign Project Intern - TikTok Shop - Operations (Seattle, WA) https://lifeattiktok.com/search/7592014594232142085
 - Rockwell Automation - Graduate Engineer - Embedded Software (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Graduate-Engineer---Embedded-Software_R26-8517
+- Gritt - ML & Cloud Infrastructure Engineer Intern (South SF) https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application?embed=true
