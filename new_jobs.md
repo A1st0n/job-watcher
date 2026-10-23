@@ -708,3 +708,4 @@
 - Amazon - Junior Software Development Engineer Intern - Jr. Developer Program (Detroit, MI) https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program
 - Amazon - Software Engineer Intern - Embedded Systems (United States) https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa
 - Micron - Intern - STPG PE Firmware (MSB, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318
+- Hartford - IND Associate Software Engineer -  Red Team Engineer (India GCC-Puppalaguda Village) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341
