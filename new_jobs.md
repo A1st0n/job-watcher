@@ -716,3 +716,7 @@
 - TikTok - Platform Campaign Project Intern - TikTok Shop - Operations (Seattle, WA) https://lifeattiktok.com/search/7592014594232142085
 - Rockwell Automation - Graduate Engineer - Embedded Software (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Graduate-Engineer---Embedded-Software_R26-8517
 - Gritt - ML & Cloud Infrastructure Engineer Intern (South SF) https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application?embed=true
+- JP Morgan Chase - Software Engineer Intern (London, UK, Glasgow, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738
+- JP Morgan Chase - Software Engineer Intern - Immersion Program (Glasgow, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813
+- RTX - Systems Engineering Intern (Huntsville, AL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering---Intern--Onsite-_01870675
+- Saab - Systems Engineering Co-op (East Syracuse, NY) https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Spring---Summer-2027-_R-03226-1
