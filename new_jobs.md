@@ -723,3 +723,7 @@
 - CACI - Cleared Software Engineer Intern - Summer 2027 (2 Locations) https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999
 - MongoDB - 2027 - Summer Software Engineer Intern, Dublin (Dublin) https://www.mongodb.com/careers/job/?gh_jid=8267099
 - General Dynamics UK - Systems Engineering Co-op - TacNET 8 (Ottawa, ON, Canada) https://jobs.smartrecruiters.com/GDMSI/744000147537709
+- Nvidia - Software Engineer Intern - NVEX, 2027 (China, Beijing) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186
+- Nvidia - System Software Engineer Intern, Embedded - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298
+- Shield AI - Software Engineer I - New Grad (R6052) (Seattle, Washington) https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196
+- MongoDB - 2027 - Software Engineering Intern, AMER (Austin; New York City; Palo Alto; San Francisco; Seattle) https://www.mongodb.com/careers/job/?gh_jid=8209134
