@@ -734,3 +734,9 @@
 - CoStar Group - Associate Software Engineer Intern (Irvine, CA) https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736
 - CAE - Software Developer Intern - Operating System Image & Configuration (Montreal, QC, Canada) https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1
 - Qorvo - Digital Systems Engineer Intern (Greensboro, NC) https://careers.qorvo.com/job/Greensboro-Digital-Systems-Engineering-Intern-NC-27409/1432264400/?ats=successfactors
+- Rockwell Automation - Firmware Engineering Intern (Katowice, Poland) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Firmware-Engineering-Intern_R26-7747-1
+- CACI - Software Engineer Intern - Summer 2027 (Remote in USA, Sterling, VA, Denver, CO) https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999
+- Astranis - Software Developer Associate - Network Software (SF) https://job-boards.greenhouse.io/astranis/jobs/4705617006
+- RTX - AGS Software Engineering Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646
+- The Toro Company - Electrical/Software Co-op (Iron Mountain, MI) https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089
+- Muon Space - GNC Software Engineer Intern (Mountain View, CA) https://job-boards.greenhouse.io/muonspace/jobs/5252680007
