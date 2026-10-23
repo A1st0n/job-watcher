@@ -707,3 +707,4 @@
 - Amazon - Software Engineer Intern - AWS Database (United States) https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
 - Amazon - Junior Software Development Engineer Intern - Jr. Developer Program (Detroit, MI) https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program
 - Amazon - Software Engineer Intern - Embedded Systems (United States) https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa
+- Micron - Intern - STPG PE Firmware (MSB, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318
