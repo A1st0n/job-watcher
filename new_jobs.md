@@ -752,3 +752,9 @@
 - RTX - Electro-Optics Systems Engineer Intern (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880582
 - Walgreens - Mobile App Developer Intern (Deerfield, IL) https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1950723
 - RTX - Software Engineer I (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1
+- Affirm - Software Engineer I (New Grad 2027) - Instruments team (Remote UK) https://job-boards.greenhouse.io/affirm/jobs/8011718003
+- Carrier - Software Engineering Intern - Summer (CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588
+- 1Password - Developer Intern - Developer Interfaces (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true
+- 1Password - Developer Intern - Credential Brokering (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true
+- MongoDB - Software Engineer Intern (Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC) https://www.mongodb.com/careers/job/?gh_jid=8209134
+- Coretek Services - AI & Data Automation Developer Co-op (Remote in USA) https://apply.workable.com/coretek-services/j/21D19CC253/apply
