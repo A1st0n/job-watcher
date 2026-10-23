@@ -730,3 +730,7 @@
 - Draper - Systems Engineering Co-op - Spring 2027 (Cambridge, MA) https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882
 - Entegris - Operations Technical Training Platforms Co-op (Colorado Springs, CO, Billerica, MA) https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416
 - L3Harris Technologies - Systems Engineering Intern (Rochester, NY) https://jobs.l3harris.com/job/Rochester-Systems-Engineering-Intern-NY-14609/1428445600/?ats=successfactors
+- RTX - Systems Engineer Intern (Woburn, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985
+- CoStar Group - Associate Software Engineer Intern (Irvine, CA) https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736
+- CAE - Software Developer Intern - Operating System Image & Configuration (Montreal, QC, Canada) https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1
+- Qorvo - Digital Systems Engineer Intern (Greensboro, NC) https://careers.qorvo.com/job/Greensboro-Digital-Systems-Engineering-Intern-NC-27409/1432264400/?ats=successfactors
