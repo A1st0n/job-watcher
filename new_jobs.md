@@ -727,3 +727,6 @@
 - Nvidia - System Software Engineer Intern, Embedded - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298
 - Shield AI - Software Engineer I - New Grad (R6052) (Seattle, Washington) https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196
 - MongoDB - 2027 - Software Engineering Intern, AMER (Austin; New York City; Palo Alto; San Francisco; Seattle) https://www.mongodb.com/careers/job/?gh_jid=8209134
+- Draper - Systems Engineering Co-op - Spring 2027 (Cambridge, MA) https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882
+- Entegris - Operations Technical Training Platforms Co-op (Colorado Springs, CO, Billerica, MA) https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416
+- L3Harris Technologies - Systems Engineering Intern (Rochester, NY) https://jobs.l3harris.com/job/Rochester-Systems-Engineering-Intern-NY-14609/1428445600/?ats=successfactors
