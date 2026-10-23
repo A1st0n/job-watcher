@@ -758,3 +758,4 @@
 - 1Password - Developer Intern - Credential Brokering (Remote in USA, Remote in Canada) https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true
 - MongoDB - Software Engineer Intern (Palo Alto, CA, Seattle, WA, SF, Austin, TX, NYC) https://www.mongodb.com/careers/job/?gh_jid=8209134
 - Coretek Services - AI & Data Automation Developer Co-op (Remote in USA) https://apply.workable.com/coretek-services/j/21D19CC253/apply
+- Trimble - Navigation & Machine Learning Engineering Intern (16 Months) (Canada - Richmond Hill, Ontario (Applanix)) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980
