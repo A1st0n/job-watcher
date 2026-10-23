@@ -779,3 +779,10 @@
 - Trimble - Software Engineer Intern (Richmond Hill, ON, Canada) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963
 - KLA - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1
 - KLA - Software Engineer Intern - AI/ML for Diagnostics & Calibration (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1
+- John Deere - Software Engineer Intern - Product Engineering (Waterloo, IA, Cary, NC) https://johndeere.eightfold.ai/careers/job/137483990265
+- RTX - Software Engineer Intern (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01884054
+- Microsoft - Software Engineer Intern - Security & Identity (United States) https://apply.careers.microsoft.com/careers/job/1970393557044771
+- Siemens - Python Backend Developer Intern - Energy Flexibility Platform (Princeton, NJ) https://siemens.avature.net/en_US/externaljobs/JobDetail/526984
+- Carrier Global - Software Engineer Intern (East Syracuse, NY) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588
+- Skydio - Embedded Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true
+- Flagship Pioneering - AI/ML Engineering Co-op - SAGE Platform (Watertown, MA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002
