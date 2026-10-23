@@ -740,3 +740,5 @@
 - RTX - AGS Software Engineering Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646
 - The Toro Company - Electrical/Software Co-op (Iron Mountain, MI) https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089
 - Muon Space - GNC Software Engineer Intern (Mountain View, CA) https://job-boards.greenhouse.io/muonspace/jobs/5252680007
+- RTX - Software Engineering Co-op (Spring/Summer 2027) (US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727
+- RTX - Software Engineering Co-op (Summer /Fall 2027) (US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739
