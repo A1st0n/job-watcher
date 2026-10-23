@@ -710,3 +710,4 @@
 - Micron - Intern - STPG PE Firmware (MSB, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318
 - Hartford - IND Associate Software Engineer -  Red Team Engineer (India GCC-Puppalaguda Village) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341
 - Mastercard - Software Engineer I - Java Full Stack React/Angular (Pune, India) https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544
+- CME Group - Site Reliability Engineer I -  India (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762
