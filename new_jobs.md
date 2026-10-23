@@ -747,3 +747,4 @@
 - L3Harris Technologies - Systems Engineering Intern (Clifton, NJ) https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1435252900/?ats=successfactors
 - KLA - Software Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1
 - Astera Labs - Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure (Vancouver, BC, Canada) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005
+- RTX - Systems Engineer Co-op (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432
