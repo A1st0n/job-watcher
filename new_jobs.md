@@ -746,3 +746,4 @@
 - RTX - Systems Engineer Intern (Tewksbury, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer---Intern--Onsite_01879053
 - L3Harris Technologies - Systems Engineering Intern (Clifton, NJ) https://jobs.l3harris.com/job/Clifton-Systems-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1435252900/?ats=successfactors
 - KLA - Software Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1
+- Astera Labs - Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure (Vancouver, BC, Canada) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005
