@@ -712,3 +712,5 @@
 - Mastercard - Software Engineer I - Java Full Stack React/Angular (Pune, India) https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544
 - CME Group - Site Reliability Engineer I -  India (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I----India_34762
 - Appian - Software Engineer Intern (McLean, VA) https://job-boards.greenhouse.io/appian/jobs/8041237
+- TikTok - Software Engineer Project Intern - Recommendation Infrastructure (San Jose, CA) https://lifeattiktok.com/search/7629500062003218741
+- TikTok - Platform Campaign Project Intern - TikTok Shop - Operations (Seattle, WA) https://lifeattiktok.com/search/7592014594232142085
