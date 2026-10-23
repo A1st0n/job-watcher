@@ -698,3 +698,12 @@
 - ABB - R&D Software Engineer Intern (Greenville, SC) https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035
 - Rockwell Automation - Firmware Engineer Intern (Mequon, WI, Eden Prairie, MN) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321
 - Altera - Software Intern (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373
+- Danaher - Software Engineer Intern (Chaska, MN) https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747
+- Quantinuum - Software Engineering Intern (Broomfield, CO) https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf/apply
+- Amazon - Embedded Firmware Co-op (North Reading, MA, Westborough, MA) https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027
+- Amazon - Frontier AI & Robotics Intern - Undergraduate (SF) https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics
+- Amazon - Applied Science Intern - Frontier AI & Robotics (Seattle, WA, SF) https://amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics
+- Amazon - Software Engineer Intern (Redmond, WA) https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa
+- Amazon - Software Engineer Intern - AWS Database (United States) https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us
+- Amazon - Junior Software Development Engineer Intern - Jr. Developer Program (Detroit, MI) https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program
+- Amazon - Software Engineer Intern - Embedded Systems (United States) https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa
