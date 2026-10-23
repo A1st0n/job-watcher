@@ -761,3 +761,21 @@
 - Trimble - Navigation & Machine Learning Engineering Intern (16 Months) (Canada - Richmond Hill, Ontario (Applanix)) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980
 - Trimble - Software Engineering Intern (Canada - Richmond Hill, Ontario (Applanix)) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963
 - Amazon - Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) (Redmond, Washington, USA) https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
+- Sun Life - Software Engineer Co-op (Waterloo, ON, Canada) https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612
+- Amperesand - AI/ML Engineer Intern (Sunnyvale, CA) https://job-boards.greenhouse.io/amperesand/jobs/4465899009
+- Auto-Owners Insurance - Business Intelligence Developer Intern (Lansing, MI) https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772
+- Amazon - Software Engineer Intern (Redmond, WA) https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa
+- Copart - Software Engineer Intern (Dallas, TX) https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861
+- Simbe Robotics - Robot Software Engineer Intern (Burlingame, CA) https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply
+- Multiply Labs - Software Intern (SF) https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply
+- Multiply Labs - Robotics Software Engineer Intern (SF) https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply
+- American Family Insurance Group - AI Platform Engineering Intern (Madison, WI) https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462
+- TELUS Digital - Software Engineering Intern Co-op (Vancouver, BC, Canada) https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true
+- KLA Corporation - Software Engineer Intern - C++ - Linux (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878
+- KLA Corporation - Software Engineer Intern - AI/ML for Diagnostics & Calibration (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129
+- KLA Corporation - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2642189
+- Trimble - Navigation & Machine Learning Engineer Intern (Richmond Hill, ON, Canada) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980
+- Trace Labs - Robotics Engineer Intern - Hardware & Software (NYC) https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true
+- Trimble - Software Engineer Intern (Richmond Hill, ON, Canada) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963
+- KLA - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1
+- KLA - Software Engineer Intern - AI/ML for Diagnostics & Calibration (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1
