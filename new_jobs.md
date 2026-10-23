@@ -714,3 +714,4 @@
 - Appian - Software Engineer Intern (McLean, VA) https://job-boards.greenhouse.io/appian/jobs/8041237
 - TikTok - Software Engineer Project Intern - Recommendation Infrastructure (San Jose, CA) https://lifeattiktok.com/search/7629500062003218741
 - TikTok - Platform Campaign Project Intern - TikTok Shop - Operations (Seattle, WA) https://lifeattiktok.com/search/7592014594232142085
+- Rockwell Automation - Graduate Engineer - Embedded Software (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Graduate-Engineer---Embedded-Software_R26-8517
