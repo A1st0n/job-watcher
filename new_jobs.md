@@ -695,3 +695,6 @@
 - CVS Health - Innovation & Technology Internship - Software Engineering: Data & Intelligence (NYC) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114
 - RTX - Software Engineer Co-op (Remote in USA, Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451
 - Texas Instruments - Software Engineer Intern (Toronto, ON, Canada, Canada) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757
+- ABB - R&D Software Engineer Intern (Greenville, SC) https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035
+- Rockwell Automation - Firmware Engineer Intern (Mequon, WI, Eden Prairie, MN) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321
+- Altera - Software Intern (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373
