@@ -788,3 +788,4 @@
 - Flagship Pioneering - AI/ML Engineering Co-op - SAGE Platform (Watertown, MA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002
 - Figure AI - Developer Productivity Intern [Winter 2027] (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4724521006
 - RTX - Engineer I, Software Engineer - Test Engineering (Onsite) (US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521
+- StudyFetch - Robotics Intern - Learning Kits & Curriculum (Beverly Hills, CA) https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5
