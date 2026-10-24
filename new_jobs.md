@@ -786,3 +786,4 @@
 - Carrier Global - Software Engineer Intern (East Syracuse, NY) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588
 - Skydio - Embedded Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true
 - Flagship Pioneering - AI/ML Engineering Co-op - SAGE Platform (Watertown, MA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002
+- Figure AI - Developer Productivity Intern [Winter 2027] (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4724521006
