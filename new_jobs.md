@@ -787,3 +787,4 @@
 - Skydio - Embedded Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true
 - Flagship Pioneering - AI/ML Engineering Co-op - SAGE Platform (Watertown, MA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002
 - Figure AI - Developer Productivity Intern [Winter 2027] (San Jose, CA) https://job-boards.greenhouse.io/figureai/jobs/4724521006
+- RTX - Engineer I, Software Engineer - Test Engineering (Onsite) (US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521
