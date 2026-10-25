@@ -690,3 +690,239 @@
 - [Associate Software Engineer - Test Automation](https://jobs.lever.co/veeva/d0704c83-8c0f-4545-8a40-eb48bcfec299) — Veeva, India - Hyderabad · posted 2021-04-27
 - [Associate Software Engineer - Test Automation (Infra)](https://jobs.lever.co/veeva/026b7ed5-d247-4b64-974f-b90d8940584b) — Veeva, India - Hyderabad
 - [Associate Software Engineer in Test](https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1) — Veeva, Canada - Toronto · posted 2026-10-02
+
+# Added 2026-10-25: open roles at newly watched companies
+- [Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945) — American Express, Charlotte, NC, United States · posted 2026-09-02
+- [Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940) — American Express, New York, NY, United States · posted 2026-09-02
+- [Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264) — American Express, Phoenix, AZ, United States · posted 2026-09-01
+- [Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II, Enterprise Technology Services- Sunrise, FL](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944) — American Express, Sunrise, FL, United States · posted 2026-09-02
+- [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) — American Express, Charlotte, NC, United States · posted 2026-08-17
+- [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) — American Express, New York, NY, United States · posted 2026-08-17
+- [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) — American Express, Phoenix, AZ, United States · posted 2026-08-17
+- [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) — American Express, Sunrise, FL, United States · posted 2026-08-17
+- [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869) — American Express, Charlotte, NC, United States · posted 2026-09-02
+- [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) — American Express, New York, NY, United States · posted 2026-09-02
+- [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259) — American Express, Phoenix, AZ, United States · posted 2026-09-01
+- [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Sunrise, FL](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801) — American Express, Sunrise, FL, United States · posted 2026-09-02
+- [Aeon Modeling Software Intern](https://jobs.apple.com/en-us/details/200690119/aeon-modeling-software-intern) — Apple, Munich · posted 2026-10-19
+- [Intern - Full Stack Engineer](https://jobs.apple.com/en-us/details/200688776/intern-full-stack-engineer) — Apple, Prague · posted 2026-10-14
+- [Internship - Software Engineering](https://jobs.apple.com/en-us/details/200690139/internship-software-engineering) — Apple, Munich · posted 2026-10-20
+- [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) — Apple, Munich · posted 2026-10-19
+- [Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test](https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test) — Apple, Munich · posted 2026-10-19
+- [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) — Apple, Munich · posted 2026-10-07
+- [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) — Apple, Shanghai · posted 2026-07-21
+- [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200688946/software-engineering-intern-ai-tools-for-hardware-engineering) — Apple, Shanghai · posted 2026-10-16
+- [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering) — Apple, Shenzhen · posted 2026-08-10
+- [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200688942/software-engineering-intern-ai-tools-for-hardware-engineering) — Apple, Shenzhen · posted 2026-10-16
+- [Wireless Software & AI/ML Engineer Intern - Beijing](https://jobs.apple.com/en-us/details/200688346/wireless-software-ai-ml-engineer-intern-beijing) — Apple, Beijing · posted 2026-10-16
+- [Intern Software Engineer - C/C++](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) — Arista, Poland - Remote · posted 2026-09-11
+- [Software Engineer Graduate 2026/2027](https://jobs.smartrecruiters.com/AristaNetworks/744000152521250) — Arista, Dublin, County Dublin · posted 2026-09-29
+- [Software Engineer Intern 2026/2027](https://jobs.smartrecruiters.com/AristaNetworks/744000152369329) — Arista, Dublin, County Dublin · posted 2026-09-29
+- [Flight Software Associate (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704716006) — Astranis, San Francisco · posted 2026-09-22
+- [Flight Software Associate (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704714006) — Astranis, San Francisco · posted 2026-09-22
+- [Flight Software Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704598006) — Astranis, San Francisco · posted 2026-09-22
+- [Flight Software Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704595006) — Astranis, San Francisco · posted 2026-09-22
+- [Software Defined Radio Hardware Associate (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4715983006) — Astranis, San Francisco · posted 2026-09-23
+- [Software Defined Radio Hardware Associate (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4715985006) — Astranis, San Francisco · posted 2026-09-23
+- [Software Defined Radio Hardware Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4716088006) — Astranis, San Francisco · posted 2026-09-23
+- [Software Defined Radio Hardware Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4716087006) — Astranis, San Francisco · posted 2026-09-23
+- [Software Developer, Network Software Associate (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705615006) — Astranis, San Francisco · posted 2026-09-24
+- [Software Developer, Network Software Associate (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705617006) — Astranis, San Francisco · posted 2026-09-24
+- [Software Developer, Network Software Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705597006) — Astranis, San Francisco · posted 2026-09-24
+- [Software Developer, Network Software Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705599006) — Astranis, San Francisco · posted 2026-09-24
+- [Software Engineer - Enterprise Systems Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705610006) — Astranis, San Francisco, CA · posted 2026-09-22
+- [Software Engineer Backend Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705214006) — Astranis, San Francisco, CA · posted 2026-09-22
+- [Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts)](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Aerospace-Systems-Engineer-I---Early-Career--2027-Starts-_R71322) — Blue Origin, 5 Locations · posted 30+ days ago
+- [Aerospace Systems Engineer I – Early Career (2026 Starts)](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Aerospace-Systems-Engineer-I---Early-Career--2026-Starts-_R70060) — Blue Origin, 4 Locations · posted 30+ days ago
+- [Avionics / Embedded Software Engineer I - Early Career & New Graduate Rotation (2027 Starts)](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324) — Blue Origin, 5 Locations · posted 30+ days ago
+- [Software Development Engineer I - Early Career (2027 Starts)](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326) — Blue Origin, 5 Locations · posted 30+ days ago
+- [Summer 2027 Avionics Software Internship - Graduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) — Blue Origin, 3 Locations · posted 2026-10-13
+- [Summer 2027 Avionics Software Internship - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424) — Blue Origin, 4 Locations · posted 2026-10-13
+- [Summer 2027 Software Developer Internship - Graduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434) — Blue Origin, 4 Locations · posted 2026-10-13
+- [Summer 2027 Software Developer Internship - Undergraduate](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425) — Blue Origin, 3 Locations · posted 2026-10-13
+- [Machine Learning Engineer I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) — Cisco, 4 Locations · posted 2026-10-21
+- [Machine Learning Engineer II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) — Cisco, 4 Locations · posted 2026-10-21
+- [Software Developer Embedded Systems II (Co-op) – Canada](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136) — Cisco, 7 Locations · posted 2026-10-16
+- [Software Engineer - Graduate - Lysaker, Norway](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Software-Engineer---Graduate---Lysaker--Norway_2024362) — Cisco, Lysaker, Norway · posted 30+ days ago
+- [Software Engineer - Intern](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Harpenden-United-Kingdom/Software-Engineer---Intern_2023625) — Cisco, Harpenden, United Kingdom · posted 30+ days ago
+- [Software Engineer Data & AI I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306) — Cisco, 4 Locations · posted 2026-10-21
+- [Software Engineer Data & AI II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) — Cisco, 4 Locations · posted 2026-10-23
+- [Software Engineer Embedded Systems I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926) — Cisco, 4 Locations · posted 2026-10-21
+- [Software Engineer Embedded Systems II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) — Cisco, 4 Locations · posted 2026-10-21
+- [2027 Graduate - AI & Innovation Full Stack Engineer](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/XMLNAME-2027-Graduate---AI---Innovation-Full-Stack-Engineer_51591714) — DXC, 6 Locations · posted 2026-10-14
+- [Graduate Academy – Full Stack & AI Assisted Development](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179) — DXC, ITA - BA - BARI · posted 2026-10-20
+- [Graduate Academy – Full Stack & AI Assisted Development](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592178) — DXC, ITA - RM - ROME · posted 2026-10-20
+- [Junior / Mid Software Tester with German](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---DS---WROCLAW/Junior---Mid-Software-Tester-with-German_51590150-1) — DXC, POL - DS - WROCLAW · posted 2026-09-29
+- [Junior Java Developer](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Junior-Java-Developer_51584530) — DXC, VNM - HO CHI MINH CITY · posted 2026-10-05
+- [Junior Java Developer (Mandarin)](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Junior-Java-Developer--Mandarin-_51584524) — DXC, VNM - HO CHI MINH CITY · posted 2026-10-05
+- [Junior Java Developer (Mandarin)](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Junior-Java-Developer--Mandarin-_51591599) — DXC, VNM - HO CHI MINH CITY · posted 2026-10-13
+- [Network / Infrastructure Engineer Internship (2026 Intake)](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Network---Infrastructure-Engineer-Internship--2026-Intake-_51580569) — DXC, MYS - PETALING JAYA · posted 2026-10-08
+- [ServiceNow Developer Intern](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061) — DXC, SGP - SINGAPORE · posted 2026-10-22
+- [2027 Software Engineer Campus Hire](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299350) — Dell, Taiwan · posted 2026-10-19
+- [Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) — DoorDash, Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA · posted 2026-09-04
+- [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) — DoorDash, New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA · posted 2026-09-14
+- [Software Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) — DoorDash,  San Francisco, CA; Sunnyvale, CA · posted 2026-10-08
+- [Frontend Programmer Intern](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) — Epic Games, Cary,North Carolina,United States · posted 2026-08-31
+- [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) — Figma, London, England · posted 2026-09-14
+- [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) — Figma, San Francisco, CA • New York, NY · posted 2026-09-14
+- [Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607) — Ford, Palo Alto, CA, United States · posted 2026-10-22
+- [Software Engineer | Associate | Birmingham | 2026](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/157072) — Goldman Sachs, Birmingham, West Midlands, England, United Kingdom · posted 2026-10-05
+- [Software Engineer | Associate | London | 2026](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180562) — Goldman Sachs, London, Greater London, England, United Kingdom · posted 2026-09-07
+- [Early Career Software Engineer, People with Disabilities](https://www.google.com/about/careers/applications/jobs/results/136778768644481734) — Google, Belo Horizonte, State of Minas Gerais, Brazil; São Paulo, State of São Paulo, Brazil · posted 2023-11-29
+- [Mobile Software Engineer, Multiplatform, Early Careers](https://www.google.com/about/careers/applications/jobs/results/123365080841495238) — Google, Mexico City, CDMX, Mexico · posted 2025-12-17
+- [Part-Time Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) — Google, Tel Aviv, Israel; Haifa, Israel · posted 2026-09-03
+- [Silicon Engineer, Platform and Devices, University Graduate, 2026](https://www.google.com/about/careers/applications/jobs/results/73379279982731974) — Google, Bengaluru, Karnataka, India · posted 2026-05-14
+- [Software Engineer, Compilers, Runtimes and Toolchains, Early Career](https://www.google.com/about/careers/applications/jobs/results/111182182432547526) — Google, Mexico City, CDMX, Mexico · posted 2025-05-06
+- [Software Engineer, Early Career (For Women in Tech Candidates)](https://www.google.com/about/careers/applications/jobs/results/80313547497579206) — Google, Belo Horizonte, State of Minas Gerais, Brazil; São Paulo, State of São Paulo, Brazil · posted 2025-10-15
+- [Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) — Google, Bucharest, Romania · posted 2026-09-03
+- [Software Engineering Intern, 2027 (English)](https://www.google.com/about/careers/applications/jobs/results/104489346874122950) — Google, Singapore · posted 2026-10-13
+- [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109864326646375110) — Google, Shanghai, China · posted 2026-10-15
+- [Software Engineering Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85430979253936838) — Google, Taipei, Taiwan; New Taipei, Banqiao District, New Taipei City, Taiwan · posted 2026-10-15
+- [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) — Google, London, UK · posted 2026-09-03
+- [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) — Google, Warsaw, Poland; Kraków, Poland · posted 2026-09-03
+- [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) — Google, Zürich, Switzerland; Munich, Germany; Paris, France; Dublin, Ireland; Stockholm, Sweden · posted 2026-09-03
+- [Flight Software & GNC Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) — Hermeus, Atlanta, GA · posted 2026-09-03
+- [Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) — Hermeus, Los Angeles, CA · posted 2026-09-29
+- [Mission Systems Engineering Intern - Spring/Summer 2027](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) — Hermeus, Atlanta, GA · posted 2026-09-03
+- [Software Engineering Intern (Command & Control) - Spring/Summer 2027](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) — Hermeus, Atlanta, GA · posted 2026-09-03
+- [Software Engineering Intern (HIL) - Spring/Summer 2027](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) — Hermeus, Atlanta, GA · posted 2026-09-01
+- [Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) — Hermeus, Los Angeles, CA · posted 2026-09-01
+- [2027 UR Early Career Program-Software Engr I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157279) — Honeywell, Chongqing, China · posted 2026-09-07
+- [Embedded Engineer - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) — Honeywell, United States · posted 2026-08-25
+- [Embedded Engineer - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) — Honeywell, United States · posted 2026-08-25
+- [Intern Bachelors Embedded Engineer (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159023) — Honeywell, Leicester, Leicestershire, United Kingdom · posted 2026-10-21
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160476) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-22
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160477) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-22
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160479) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-22
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160481) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-22
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160483) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-22
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160491) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-24
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160492) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-24
+- [Intern Bachelors Software Eng](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160495) — Honeywell, Bengaluru, Karnataka, India · posted 2026-10-24
+- [Software & Cloud Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160316) — Honeywell, Singapore, Singapore, Singapore · posted 2026-10-20
+- [Software Engineer & Computer Science - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558) — Honeywell, United States · posted 2026-08-25
+- [Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557) — Honeywell, United States · posted 2026-08-25
+- [Software Engineer Co-Op - Spring/Summer 2027](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088) — Honeywell, Pittsford, NY, United States · posted 2026-09-17
+- [Spring 2027 Software Engineering Co-op](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) — Honeywell, United States · posted 2026-09-29
+- [​Software & Cloud Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160317) — Honeywell, Singapore, Singapore, Singapore · posted 2026-10-20
+- [C++ Software Engineer, Early Careers](https://job-boards.eu.greenhouse.io/imc/jobs/4945420101) — IMC, Amsterdam, Netherlands · posted 2026-08-05
+- [CHI - 2026 - Systems Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/5004989101) — IMC, Chicago, United States · posted 2026-10-21
+- [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) — IMC, Aarhus, Central Denmark Region, Denmark; Amsterdam, Netherlands · posted 2025-08-27
+- [Graduate Software Engineer (2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4667814101) — IMC, Aarhus, Central Denmark Region, Denmark; Amsterdam, Netherlands · posted 2026-07-31
+- [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) — IMC, New York, United States · posted 2026-10-08
+- [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) — IMC, Amsterdam, Netherlands · posted 2026-05-07
+- [Software Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) — IMC, Chicago, United States · posted 2026-07-01
+- [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) — IMC, Hong Kong, Hong Kong · posted 2026-08-12
+- [Software Engineer, Early Career](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) — IMC, Chicago, United States · posted 2026-09-30
+- [2027 Software Engineer Immersion Program - Summer Internship - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) — JPMorgan, GLASGOW, LANARKSHIRE, United Kingdom · posted 2026-08-31
+- [2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738) — JPMorgan, GLASGOW, LANARKSHIRE, United Kingdom · posted 2026-08-31
+- [2027 Software Engineer Program - Full Time Analyst - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780870) — JPMorgan, Singapore, Singapore · posted 2026-08-18
+- [2027 Software Engineer Program - Full-Time - United States - February Start](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102) — JPMorgan, Chicago, IL, United States · posted 2026-08-03
+- [2027 Software Engineer Program - Full-Time - United States - July Start](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111) — JPMorgan, Chicago, IL, United States · posted 2026-08-03
+- [2027 Software Engineer Program - Full-time - Dublin](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777641) — JPMorgan, Dublin, Ireland · posted 2026-09-01
+- [2027 Software Engineer Program - Full-time - Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781) — JPMorgan, LONDON, LONDON, United Kingdom · posted 2026-08-31
+- [2027 Software Engineer Program - Summer Internship - Dublin](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776172) — JPMorgan, Dublin, Ireland · posted 2026-08-31
+- [2027 Software Engineer Program - Summer Internship - Glasgow, London](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) — JPMorgan, LONDON, LONDON, United Kingdom · posted 2026-08-31
+- [2027 Software Engineer Program - Summer Internship - Singapore](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754425) — JPMorgan, Singapore · posted 2026-06-30
+- [Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,](https://apply.careers.microsoft.com/careers/job/1970393556922922) — Microsoft, United States, Washington, Redmond · posted 2026-10-22
+- [Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge](https://apply.careers.microsoft.com/careers/job/1970393557044765) — Microsoft, United States, Massachusetts, Cambridge · posted 2026-10-21
+- [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) — Notion, San Francisco, California · posted 2026-08-14
+- [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) — Notion, San Francisco, California · posted 2026-08-14
+- [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) — Notion, San Francisco, California · posted 2026-09-24
+- [Software Engineer, Early Career](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) — Notion, San Francisco, California · posted 2026-07-06
+- [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) — Notion, San Francisco, California · posted 2026-07-06
+- [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) — Notion, San Francisco, California · posted 2026-08-14
+- [February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357) — Oracle, Nashville, TN, United States · posted 2026-09-30
+- [Flight Software Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003) — Rocket Lab, Littleton, CO · posted 2026-09-09
+- [Flight Software Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) — Rocket Lab, Littleton, CO · posted 2026-09-09
+- [Ground Systems Engineer I, Electrical](https://job-boards.greenhouse.io/rocketlab/jobs/7593331003) — Rocket Lab, Stennis Space Center, MS · posted 2026-01-15
+- [Ground Systems Engineering Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7821140003) — Rocket Lab, Auckland, NZ · posted 2026-08-02
+- [Ground Systems Engineering Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) — Rocket Lab, Stennis Space Center, MS · posted 2026-10-12
+- [Ground Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) — Rocket Lab, Stennis Space Center, MS · posted 2026-10-19
+- [Junior Ground Systems Engineer - Instrumentation & Control](https://job-boards.greenhouse.io/rocketlab/jobs/8034180003) — Rocket Lab, Auckland, NZ · posted 2026-10-15
+- [Junior Software Engineer](https://job-boards.greenhouse.io/rocketlab/jobs/8029637003) — Rocket Lab, Auckland, NZ · posted 2026-10-14
+- [Spacecraft Propulsion Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7993156003) — Rocket Lab, Long Beach, CA · posted 2026-09-11
+- [Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7996430003) — Rocket Lab, Long Beach, CA · posted 2026-09-15
+- [Systems Engineering Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987044003) — Rocket Lab, Long Beach, CA · posted 2026-09-09
+- [Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) — Rocket Lab, Chantilly, VA · posted 2026-09-17
+- [Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) — Rocket Lab, Long Beach, CA · posted 2026-09-09
+- [Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Rocket Lab, Pasadena, CA · posted 2026-09-17
+- [Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) — Rocket Lab, Tucson, AZ · posted 2026-09-17
+- [Java Developer Junior](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618245) — SAIC, Ashburn, VA, United States · posted 2026-10-21
+- [Firmware Engineer Co-Op](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) — Samsara, San Francisco - SF9 · posted 2026-09-24
+- [Software Engineering Internship - San Francisco](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) — Samsara, San Francisco - SF9 · posted 2026-08-03
+- [Software Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1) — Sierra Nevada Corporation, Folsom, CA · posted 30+ days ago
+- [Systems Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750) — Sierra Nevada Corporation, Lone Tree, CO · posted 2026-10-22
+- [Embedded Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366) — Skydio, San Mateo, California, United States · posted 2026-10-23
+- [Frontend Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) — Skydio, San Mateo, California, United States · posted 2026-10-22
+- [Manufacturing Software Engineer Intern - Winter 2027](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb) — Skydio, San Mateo, California, United States · posted 2026-10-14
+- [Mobile Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) — Skydio, San Mateo, California, United States · posted 2026-10-20
+- [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c) — Skydio, San Mateo, California, United States · posted 2026-10-13
+- [New Graduate Engineer, Infrastructure](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) — SpaceX, Starbase, TX · posted 2026-10-15
+- [New Graduate Engineer, Security Software (Starshield)](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) — SpaceX, Hawthorne, CA · posted 2026-09-11
+- [New Graduate Engineer, Security Software (Starshield)](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002) — SpaceX, Washington, DC · posted 2026-09-11
+- [New Graduate Engineer, Software](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) — SpaceX, Hawthorne, CA · posted 2026-04-03
+- [New Graduate Engineer, Software  - '26/'27  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) — SpaceX, Bastrop, TX · posted 2026-08-14
+- [New Graduate Engineer, Software (Application Software)](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) — SpaceX, Hawthorne, CA · posted 2026-08-19
+- [New Graduate Engineer, Software (Starfall)](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) — SpaceX, Hawthorne, CA · posted 2026-09-28
+- [New Graduate Engineer, Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) — SpaceX, Hawthorne, CA · posted 2026-09-08
+- [New Graduate Engineer, Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) — SpaceX, Starbase, TX · posted 2026-08-19
+- [New Graduate Engineer, Software - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) — SpaceX, Palo Alto, CA · posted 2026-08-14
+- [New Graduate Engineer, Software - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) — SpaceX, Redmond, WA · posted 2026-08-14
+- [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) — SpaceX, Bastrop, TX · posted 2026-08-14
+- [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) — SpaceX, Hawthorne, CA · posted 2026-08-19
+- [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) — SpaceX, Palo Alto, CA · posted 2026-08-14
+- [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) — SpaceX, Redmond, WA · posted 2026-08-14
+- [Spring 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) — SpaceX, Flexible - Any SpaceX Site · posted 2026-08-03
+- [Summer 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) — SpaceX, Flexible - Any SpaceX Site · posted 2026-08-03
+- [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) — Stripe, Seattle, San Francisco · posted 2026-09-30
+- [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Stripe, San Francisco, Seattle, New York · posted 2026-09-17
+- [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212517) — Stripe, Toronto · posted 2026-09-17
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Stripe, Bengaluru · posted 2026-07-10
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) — Stripe, London · posted 2026-08-31
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) — Stripe, Singapore · posted 2026-09-07
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) — Stripe, Bucharest · posted 2026-08-31
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) — Stripe, Dublin · posted 2026-08-17
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) — Stripe, San Francisco, Seattle, New York City · posted 2026-08-31
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805) — Stripe, Toronto · posted 2026-08-31
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130922) — Stripe, Bucharest · posted 2026-08-31
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881) — Stripe, Dublin · posted 2026-08-31
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130930) — Stripe, London · posted 2026-08-31
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Stripe, San Francisco, Seattle, New York · posted 2026-08-31
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8160776) — Stripe, Singapore · posted 2026-09-02
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8202299) — Stripe, Taiwan · posted 2026-10-22
+- [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8157838) — Stripe, Toronto · posted 2026-08-31
+- [Software Engineer, New Grad - Frontend](https://stripe.com/jobs/search?gh_jid=8130927) — Stripe, Barcelona · posted 2026-08-31
+- [Co-op - Software Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111) — Symbotic, USA Wilmington,  MA - HQ · posted 30+ days ago
+- [Intern- Software Engineer](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963) — Symbotic, USA Wilmington,  MA - HQ · posted 2026-10-12
+- [Software Engineering Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017573) — Texas Instruments, Dallas, TX, United States · posted 2026-09-09
+- [Software Engineering Intern (Canada)](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) — Texas Instruments, Canada · posted 2026-10-22
+- [Software Engineering Intern - Compiler](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) — Texas Instruments, United States · posted 2026-10-20
+- [Software Engineering Intern - Embedded Software](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014491) — Texas Instruments, OSLO, Norway · posted 2026-10-15
+- [Software Engineering Intern - Infrastructure and Test](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014490) — Texas Instruments, OSLO, Norway · posted 2026-10-15
+- [Systems Engineering Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017917) — Texas Instruments, Dallas, TX, United States · posted 2026-09-11
+- [Systems Engineering Intern(SEM) - A&D](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017921) — Texas Instruments, Dallas, TX, United States · posted 2026-09-15
+- [Software Engineer I](https://job-boards.greenhouse.io/twitch/jobs/8879673002) — Twitch, San Francisco, CA · posted 2026-10-08
+- [Software Engineer I](https://job-boards.greenhouse.io/twitch/jobs/8906750002) — Twitch, Seattle, WA · posted 2026-10-21
+- [Software Engineer I, Payments](https://job-boards.greenhouse.io/twitch/jobs/8700578002) — Twitch, San Francisco, CA · posted 2026-08-14
+- [Undergrad Software Engineering Intern (Grad Year: Spring 2028)](https://job-boards.greenhouse.io/twitch/jobs/8886748002) — Twitch, San Francisco, CA · posted 2026-10-22
+- [Undergrad Software Engineering Intern (Grad Year: Winter 2027)](https://job-boards.greenhouse.io/twitch/jobs/8886605002) — Twitch, San Francisco, CA · posted 2026-10-22
+- [2027 Buildings and Systems Engineering Summer Intern](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715) — UPS, US - UPS CORPORATE OFFICES (GACOR) · posted 30+ days ago
+- [Backend Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5210813007) — Verkada, San Mateo, CA United States · posted 2026-08-25
+- [Embedded Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5211595007) — Verkada, San Mateo, CA United States · posted 2026-08-25
+- [Frontend Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5210942007) — Verkada, San Mateo, CA United States · posted 2026-08-25
+- [Mobile Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5219131007) — Verkada, San Mateo, CA United States · posted 2026-08-25
+- [Security Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5213881007) — Verkada, San Mateo, CA United States · posted 2026-08-25
+- [Summer 2027 Intern:: Software Engineer II](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) — Walmart, (USA) ISD Office - DGTC AR BENTONVILLE Home Office · posted 30+ days ago
+- [Intern Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141227773) — Western Digital, Petaling Jaya, Selangor · posted 2026-08-03
+- [Intern, Firmware Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000141840819) — Western Digital, Petaling Jaya, Selangor · posted 2026-08-06
+- [Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000134410659) — Western Digital, Petaling Jaya, Selangor · posted 2026-06-26
+- [Internship - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000157066549) — Western Digital, Petaling Jaya, Selangor · posted 2026-10-22
+- [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) — Western Digital, San Jose, CA · posted 2026-08-12
+- [Data Infra Software Engineering Intern, Summer 2027](https://wing.com/careers/8872471002?gh_jid=8872471002) — Wing, Palo Alto, California · posted 2026-10-13
+- [Execution & Topology Software Engineering Intern, Summer 2027](https://wing.com/careers/8872477002?gh_jid=8872477002) — Wing, Palo Alto, California · posted 2026-10-13
+- [Machine Learning Engineering Intern, Summer 2027](https://wing.com/careers/8872479002?gh_jid=8872479002) — Wing, Palo Alto, California · posted 2026-10-13
+- [Manufacturing Software Test Intern, Summer 2027](https://wing.com/careers/8872468002?gh_jid=8872468002) — Wing, Palo Alto, California · posted 2026-10-13
+- [Route Planning Software Engineering Intern, Summer 2027](https://wing.com/careers/8872472002?gh_jid=8872472002) — Wing, Palo Alto, California · posted 2026-10-13
+- [Software Engineering Intern, Summer 2027](https://wing.com/careers/8872476002?gh_jid=8872476002) — Wing, Palo Alto, California · posted 2026-10-13
+- [Software Development Engineer - Intern](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) — Zillow, Seattle-WA-2nd Ave · posted 2026-10-23

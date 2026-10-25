@@ -791,3 +791,9 @@
 - StudyFetch - Robotics Intern - Learning Kits & Curriculum (Beverly Hills, CA) https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5
 - Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366
 - Aptiv - Cloud Software Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364
+- Emerson - Graduate Software Engineering Intern (Round Rock, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295 · posted 2026-09-22
+- Emerson - Software Product Management Intern (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799 · posted 2026-09-11
+- Emerson - Software Engineering Intern - ADG System R&D (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008230 · posted 2026-09-15
+- Emerson - Software Engineering Co-Op (Marshalltown, IA, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442 · posted 2026-10-21
+- Emerson - Software Engineering Co-Op (Jan-Aug 2027) (Eden Prairie, MN, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048 · posted 2026-09-14
+- Emerson - Software Engineering Co-op (Jun-Dec 2027) (Eden Prairie, MN, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738 · posted 2026-09-10
