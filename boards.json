@@ -1,6 +1,9 @@
 {
  "Apple": null,
- "Microsoft": null,
+ "Microsoft": [
+  "eightfold",
+  "apply.careers.microsoft.com|microsoft.com"
+ ],
  "Amazon": [
   "amazon",
   ""
@@ -11,7 +14,10 @@
   "workday",
   "nvidia.wd5/NVIDIAExternalCareerSite"
  ],
- "Oracle": null,
+ "Oracle": [
+  "oracle",
+  "eeho.fa.us2.oraclecloud.com|CX_45001"
+ ],
  "Salesforce": [
   "workday",
   "salesforce.wd12/External_Career_Site"
@@ -20,7 +26,10 @@
   "workday",
   "intel.wd1/External"
  ],
- "Cisco": null,
+ "Cisco": [
+  "workday",
+  "cisco.wd5/cisco_careers"
+ ],
  "IBM": null,
  "Adobe": [
   "workday",
@@ -37,7 +46,10 @@
   "workday",
   "qualcomm.wd12/External"
  ],
- "Dell": null,
+ "Dell": [
+  "oracle",
+  "iawmqy.fa.ocs.oraclecloud.com|careers"
+ ],
  "HP": [
   "workday",
   "hp.wd5/ExternalCareerSite"
@@ -51,7 +63,10 @@
   "workday",
   "broadcom.wd1/External_Career"
  ],
- "Texas Instruments": null,
+ "Texas Instruments": [
+  "oracle",
+  "edbz.fa.us2.oraclecloud.com|CX"
+ ],
  "Applied Materials": [
   "workday",
   "amat.wd1/External"
@@ -68,7 +83,10 @@
   "greenhouse",
   "airbnb"
  ],
- "DoorDash": null,
+ "DoorDash": [
+  "greenhouse",
+  "doordashusa"
+ ],
  "Booking": null,
  "Visa": [
   "smartrecruiters",
@@ -82,8 +100,14 @@
   "workday",
   "paypal.wd1/jobs"
  ],
- "JPMorgan": null,
- "Goldman Sachs": null,
+ "JPMorgan": [
+  "oracle",
+  "jpmc.fa.oraclecloud.com|CX_1001"
+ ],
+ "Goldman Sachs": [
+  "oracle",
+  "hdpc.fa.us2.oraclecloud.com|LateralHiring"
+ ],
  "Morgan Stanley": [
   "workday",
   "ms.wd5/External"
@@ -104,8 +128,14 @@
   "workday",
   "citi.wd5/2"
  ],
- "American Express": null,
- "Walmart": null,
+ "American Express": [
+  "oracle",
+  "egug.fa.us2.oraclecloud.com|CX_1"
+ ],
+ "Walmart": [
+  "workday",
+  "walmart.wd504/WalmartExternal"
+ ],
  "Target": [
   "workday",
   "target.wd5/targetcareers"
@@ -149,7 +179,10 @@
   "block"
  ],
  "Electronic Arts": null,
- "Western Digital": null,
+ "Western Digital": [
+  "smartrecruiters",
+  "WesternDigital"
+ ],
  "Lam Research": null,
  "KLA": [
   "workday",
@@ -159,10 +192,13 @@
   "workday",
   "analogdevices.wd1/External"
  ],
- "Arista": null,
+ "Arista": [
+  "smartrecruiters",
+  "AristaNetworks"
+ ],
  "Palo Alto Networks": [
-  "workday-site-unknown",
-  "paloaltonetworks.wd5"
+  "workday",
+  "paloaltonetworks.wd5/panwexternalcareers"
  ],
  "HPE": [
   "workday",
@@ -172,8 +208,14 @@
   "workday",
   "kyndryl.wd5/KyndrylProfessionalCareers"
  ],
- "DXC": null,
- "CDW": null,
+ "DXC": [
+  "workday",
+  "dxctechnology.wd1/dxcjobs"
+ ],
+ "CDW": [
+  "workday",
+  "cdw.wd5/careers"
+ ],
  "Cognizant": null,
  "Leidos": [
   "workday",
@@ -183,7 +225,10 @@
   "workday",
   "bah.wd1/BAH_Jobs"
  ],
- "SAIC": null,
+ "SAIC": [
+  "oracle",
+  "eihu.fa.us8.oraclecloud.com|CX"
+ ],
  "CACI": [
   "workday",
   "caci.wd1/External"
@@ -193,12 +238,18 @@
   "gdit.wd5/External_Career_Site"
  ],
  "L3Harris": null,
- "Honeywell": null,
+ "Honeywell": [
+  "oracle",
+  "ibqbjb.fa.ocs.oraclecloud.com|Honeywell"
+ ],
  "GE Aerospace": [
   "workday",
   "geaerospace.wd5/GE_ExternalSite"
  ],
- "Ford": null,
+ "Ford": [
+  "oracle",
+  "efds.fa.em5.oraclecloud.com|CX_1"
+ ],
  "GM": [
   "workday",
   "generalmotors.wd5/Careers_GM"
@@ -207,7 +258,10 @@
   "workday",
   "cat.wd5/CaterpillarCareers"
  ],
- "Deere": null,
+ "Deere": [
+  "eightfold",
+  "johndeere.eightfold.ai|johndeere.com"
+ ],
  "UnitedHealth": null,
  "CVS": [
   "workday",
@@ -240,13 +294,19 @@
   "workday",
   "nike.wd1/nke"
  ],
- "Starbucks": null,
+ "Starbucks": [
+  "eightfold",
+  "starbucks.eightfold.ai|starbucks.com"
+ ],
  "Disney": [
   "workday",
   "disney.wd5/disneycareer"
  ],
  "Charter": null,
- "AT&T": null,
+ "AT&T": [
+  "workday",
+  "att.wd1/ATTGeneral"
+ ],
  "Schwab": null,
  "PNC": [
   "workday",
@@ -297,7 +357,10 @@
   "blackrock.wd1/BlackRock_Professional"
  ],
  "FedEx": null,
- "UPS": null,
+ "UPS": [
+  "workday",
+  "hcmportal.wd5/Search"
+ ],
  "Delta": null,
  "United Airlines": null,
  "Fiserv": [
@@ -484,7 +547,10 @@
   "ashby",
   "writer"
  ],
- "Hippocratic AI": null,
+ "Hippocratic AI": [
+  "ashby",
+  "Hippocratic%20AI"
+ ],
  "Ambience": [
   "ashby",
   "ambiencehealthcare"
@@ -721,7 +787,10 @@
   "ashby",
   "runpod"
  ],
- "Vast Data": null,
+ "Vast Data": [
+  "greenhouse",
+  "vast"
+ ],
  "Weka": null,
  "Anyscale": [
   "lever",
@@ -761,7 +830,10 @@
   "greenhouse",
   "tenstorrent"
  ],
- "d-Matrix": null,
+ "d-Matrix": [
+  "ashby",
+  "d-Matrix"
+ ],
  "1X": [
   "ashby",
   "1x"
@@ -807,12 +879,18 @@
   "greenhouse",
   "vannevarlabs"
  ],
- "Flock Safety": null,
+ "Flock Safety": [
+  "ashby",
+  "Flock%20Safety"
+ ],
  "Island": [
   "greenhouse",
   "island"
  ],
- "Socket": null,
+ "Socket": [
+  "ashby",
+  "socket"
+ ],
  "Semgrep": [
   "ashby",
   "semgrep"
@@ -918,7 +996,10 @@
   "lever",
   "zoox"
  ],
- "Aurora": null,
+ "Aurora": [
+  "ashby",
+  "aurora-operations-inc"
+ ],
  "Nuro": [
   "greenhouse",
   "nuro"
@@ -931,7 +1012,10 @@
   "greenhouse",
   "kodiak"
  ],
- "Toyota": null,
+ "Toyota": [
+  "workday",
+  "toyota.wd503/tmna"
+ ],
  "Honda": null,
  "Bosch": [
   "smartrecruiters",
@@ -941,7 +1025,10 @@
   "workday",
   "aptiv.wd5/APTIV_CAREERS"
  ],
- "Continental": null,
+ "Continental": [
+  "smartrecruiters",
+  "Continental"
+ ],
  "Boston Dynamics": [
   "workday",
   "bostondynamics.wd1/Boston_Dynamics"
@@ -975,8 +1062,14 @@
   "greenhouse",
   "locusrobotics"
  ],
- "Symbotic": null,
- "Intuitive Surgical": null,
+ "Symbotic": [
+  "workday",
+  "symbotic.wd504/Symbotic"
+ ],
+ "Intuitive Surgical": [
+  "smartrecruiters",
+  "Intuitive"
+ ],
  "Wayve": [
   "ashby",
   "wayve"
@@ -1350,8 +1443,8 @@
   "parsons.wd5/Search"
  ],
  "Emerson": [
-  "workday-site-unknown",
-  "emerson.wd5"
+  "oracle",
+  "hdjq.fa.us2.oraclecloud.com|CX_1"
  ],
  "Rockwell Automation": [
   "workday",
@@ -1502,5 +1595,125 @@
  "Causa Prima": [
   "ashby",
   "causaprima"
+ ],
+ "Zillow": [
+  "workday",
+  "zillow.wd5/Zillow_Group_External"
+ ],
+ "Blue Origin": [
+  "workday",
+  "blueorigin.wd5/blueorigin"
+ ],
+ "Sierra Nevada Corporation": [
+  "workday",
+  "snc.wd1/snc_external_career_site"
+ ],
+ "Figma": [
+  "greenhouse",
+  "figma"
+ ],
+ "SpaceX": [
+  "greenhouse",
+  "spacex"
+ ],
+ "Duolingo": [
+  "greenhouse",
+  "duolingounirecruitment"
+ ],
+ "Notion": [
+  "ashby",
+  "notion"
+ ],
+ "Stripe": [
+  "greenhouse",
+  "stripe"
+ ],
+ "Discord": [
+  "greenhouse",
+  "discord"
+ ],
+ "Samsara": [
+  "greenhouse",
+  "samsara"
+ ],
+ "Epic Games": [
+  "greenhouse",
+  "epicgames"
+ ],
+ "Asana": [
+  "greenhouse",
+  "asana"
+ ],
+ "Brex": [
+  "greenhouse",
+  "brex"
+ ],
+ "Chime": [
+  "greenhouse",
+  "chime"
+ ],
+ "Gusto": [
+  "greenhouse",
+  "gusto"
+ ],
+ "Airtable": [
+  "greenhouse",
+  "airtable"
+ ],
+ "Coupang": [
+  "greenhouse",
+  "coupang"
+ ],
+ "IMC": [
+  "greenhouse",
+  "imc"
+ ],
+ "Jane Street": [
+  "greenhouse",
+  "janestreet"
+ ],
+ "Jump": [
+  "ashby",
+  "jump"
+ ],
+ "Verkada": [
+  "greenhouse",
+  "verkada"
+ ],
+ "Benchling": [
+  "ashby",
+  "benchling"
+ ],
+ "Squarespace": [
+  "greenhouse",
+  "squarespace"
+ ],
+ "Peloton": [
+  "greenhouse",
+  "peloton"
+ ],
+ "Twitch": [
+  "greenhouse",
+  "twitch"
+ ],
+ "Wing": [
+  "greenhouse",
+  "wing"
+ ],
+ "Rocket Lab": [
+  "greenhouse",
+  "rocketlab"
+ ],
+ "Astranis": [
+  "greenhouse",
+  "astranis"
+ ],
+ "Hermeus": [
+  "lever",
+  "hermeus"
+ ],
+ "Skydio": [
+  "ashby",
+  "skydio"
  ]
 }

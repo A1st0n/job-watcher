@@ -443,3 +443,33 @@ Mistlabs
 Healthleap
 Pluto Security
 Causa Prima
+Zillow
+Blue Origin
+Sierra Nevada Corporation
+Figma
+SpaceX
+Duolingo
+Notion
+Stripe
+Discord
+Samsara
+Epic Games
+Asana
+Brex
+Chime
+Gusto
+Airtable
+Coupang
+IMC
+Jane Street
+Jump
+Verkada
+Benchling
+Squarespace
+Peloton
+Twitch
+Wing
+Rocket Lab
+Astranis
+Hermeus
+Skydio

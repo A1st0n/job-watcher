@@ -14,6 +14,7 @@ BOARDS, SEEN, LOG = HERE / "boards.json", HERE / "seen.json", HERE / "new_jobs.m
 SEEDED, OPENINGS = HERE / "seeded.json", HERE / "current_openings.md"
 ME = os.environ.get("GMAIL_ADDRESS", "")  # GitHub secret; kept out of the public code
 SIMPLIFY = "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+SIMPLIFY_NG = "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
 
 ROLE = re.compile(r"software|\bswe\b|\bsde\b|developer|\bsre\b|site reliability|devops|platform|infrastructure|"
                   r"embedded|firmware|robotics|back-?end|front-?end|full[- ]?stack|systems engineer|"
@@ -94,8 +95,21 @@ def board_jobs(company, ats, s):
     elif ats == "eightfold":  # s = "host|domain"
         host, dom = s.split("|")
         for q in ("intern", "new grad", "university"):
-            for j in (get(f"https://{host}/api/apply/v2/jobs?domain={dom}&query={q.replace(' ', '%20')}&num=50") or {}).get("positions", []):
-                yield f"ef:{dom}:{j['id']}", j["name"], j.get("location", ""), j.get("canonicalPositionUrl", "")
+            q = q.replace(' ', '%20')
+            r = get(f"https://{host}/api/apply/v2/jobs?domain={dom}&query={q}&num=50") or {}
+            # newer Eightfold sites only answer the pcsx API (10 per page, enough for these narrow queries)
+            for j in r.get("positions") or ((get(f"https://{host}/api/pcsx/search?domain={dom}&query={q}&start=0") or {})
+                                            .get("data") or {}).get("positions", []):
+                yield f"ef:{dom}:{j['id']}", j["name"], j.get("location") or ", ".join(j.get("locations", [])), \
+                    j.get("canonicalPositionUrl") or f"https://{host}/careers/job/{j['id']}"
+    elif ats == "oracle":  # Oracle Recruiting Cloud; s = "host|siteNumber"
+        host, site = s.split("|")
+        for q in QUERIES:
+            r = get(f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList"
+                    f"&finder=findReqs;siteNumber={site},keyword={q.replace(' ', '%20')},limit=100") or {}
+            for j in (r.get("items") or [{}])[0].get("requisitionList", []):
+                yield f"or:{host}:{j['Id']}", j["Title"], j.get("PrimaryLocation", ""), \
+                    f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j['Id']}"
     elif ats == "greenhouse":
         for j in (get(f"https://boards-api.greenhouse.io/v1/boards/{s}/jobs") or {}).get("jobs", []):
             yield f"gh:{s}:{j['id']}", j["title"], (j.get("location") or {}).get("name", ""), j["absolute_url"]
@@ -130,6 +144,9 @@ def collect(boards):
     for j in get(SIMPLIFY) or []:  # every Simplify listing is an internship, so only the role filter applies
         if j.get("active") and j.get("is_visible") and wanted(j["title"], need_level=False):
             jobs[f"sj:{j['id']}"] = [j["company_name"], j["title"], ", ".join(j.get("locations", [])), j["url"]]
+    for j in get(SIMPLIFY_NG) or []:  # new grad list: level is implied, so only the role filter applies
+        if j.get("active") and j.get("is_visible") and wanted(j["title"], need_level=False):
+            jobs[f"sn:{j['id']}"] = [j["company_name"], j["title"], ", ".join(j.get("locations", [])), j["url"]]
     return jobs
 
 
@@ -167,10 +184,12 @@ def main():
     jobs = collect(boards)
     first_run = not SEEN.exists() or "--seed" in sys.argv  # --seed: record current postings without emailing
     seen = set(json.loads(SEEN.read_text())) if not first_run else set()
+    if not any(i.startswith("sn:") for i in seen):  # new-grad list's first run: record it instead of emailing all of it
+        seen |= {i for i in jobs if i.startswith("sn:")}
     # A company's first appearance would dump all its open roles at once, so those go to the catch-up file instead.
     seeded = set(json.loads(SEEDED.read_text())) if SEEDED.exists() else {c for c, b in boards.items() if b}
     fresh = {i: v for i, v in jobs.items() if i not in seen}
-    quiet = {i: v for i, v in fresh.items() if not i.startswith("sj:") and v[0] not in seeded}
+    quiet = {i: v for i, v in fresh.items() if not i.startswith(("sj:", "sn:")) and v[0] not in seeded}
     new, dupes = [], set()
     for i, v in fresh.items():  # one line per company+title even when posted in several locations
         if i not in quiet and (v[0], v[1].strip().lower()) not in dupes:
