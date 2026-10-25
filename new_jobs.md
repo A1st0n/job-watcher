@@ -797,3 +797,5 @@
 - Emerson - Software Engineering Co-Op (Marshalltown, IA, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442 · posted 2026-10-21
 - Emerson - Software Engineering Co-Op (Jan-Aug 2027) (Eden Prairie, MN, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048 · posted 2026-09-14
 - Emerson - Software Engineering Co-op (Jun-Dec 2027) (Eden Prairie, MN, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738 · posted 2026-09-10
+- Intuit - Software Developer Co-op - Front End (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392 · posted 2026-10-25
+- Guidehouse - Technical Associate Application Developer (Chicago, IL) https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783 · posted 2026-10-22
