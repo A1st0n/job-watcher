@@ -71,8 +71,27 @@ def post(url, body):
         return None
 
 
+def day(x):
+    """Posting date as YYYY-MM-DD from epoch s/ms, ISO text, Amazon's "October 20, 2026" or Workday's "Posted 3 Days Ago"."""
+    if not x:
+        return ""
+    if isinstance(x, (int, float)):
+        return time.strftime("%Y-%m-%d", time.gmtime(x / 1000 if x > 1e11 else x))
+    if m := re.match(r"\d{4}-\d\d-\d\d", x):
+        return m[0]
+    if "30+" in x:
+        return "30+ days ago"
+    n = 0 if "Today" in x else 1 if "Yesterday" in x else int(m[1]) if (m := re.search(r"(\d+) Days?", x)) else None
+    if n is None:
+        try:
+            return time.strftime("%Y-%m-%d", time.strptime(x, "%B %d, %Y"))
+        except ValueError:
+            return ""
+    return time.strftime("%Y-%m-%d", time.gmtime(time.time() - n * 86400))
+
+
 def board_jobs(company, ats, s):
-    """Yield (id, title, location, url)."""
+    """Yield (id, title, location, url, posted date)."""
     if ats == "workday":  # s = "tenant.wdN/Site"; search is relevance-ranked, so ask targeted queries
         host, site = s.split("/")
         for q in QUERIES:
@@ -81,17 +100,18 @@ def board_jobs(company, ats, s):
                 if not j.get("externalPath"):
                     continue
                 yield f"wd:{host}:{j['externalPath']}", j.get("title", ""), j.get("locationsText", ""), \
-                    f"https://{host}.myworkdayjobs.com/{site}{j['externalPath']}"
+                    f"https://{host}.myworkdayjobs.com/{site}{j['externalPath']}", day(j.get("postedOn"))
     elif ats == "smartrecruiters":
         for q in ("intern", "graduate"):
             for j in (get(f"https://api.smartrecruiters.com/v1/companies/{s}/postings?q={q}&limit=100") or {}).get("content", []):
                 loc = j.get("location") or {}
                 yield f"sr:{s}:{j['id']}", j["name"], ", ".join(filter(None, [loc.get("city"), loc.get("region")])), \
-                    f"https://jobs.smartrecruiters.com/{s}/{j['id']}"
+                    f"https://jobs.smartrecruiters.com/{s}/{j['id']}", day(j.get("releasedDate"))
     elif ats == "amazon":
         for q in QUERIES:
             for j in (get(f"https://www.amazon.jobs/en/search.json?base_query={q.replace(' ', '%20')}&result_limit=100&sort=recent") or {}).get("jobs", []):
-                yield f"az:{j['id_icims']}", j["title"], j.get("normalized_location", ""), f"https://www.amazon.jobs{j['job_path']}"
+                yield f"az:{j['id_icims']}", j["title"], j.get("normalized_location", ""), f"https://www.amazon.jobs{j['job_path']}", \
+                    day(j.get("posted_date"))
     elif ats == "eightfold":  # s = "host|domain"
         host, dom = s.split("|")
         for q in ("intern", "new grad", "university"):
@@ -101,7 +121,7 @@ def board_jobs(company, ats, s):
             for j in r.get("positions") or ((get(f"https://{host}/api/pcsx/search?domain={dom}&query={q}&start=0") or {})
                                             .get("data") or {}).get("positions", []):
                 yield f"ef:{dom}:{j['id']}", j["name"], j.get("location") or ", ".join(j.get("locations", [])), \
-                    j.get("canonicalPositionUrl") or f"https://{host}/careers/job/{j['id']}"
+                    j.get("canonicalPositionUrl") or f"https://{host}/careers/job/{j['id']}", day(j.get("t_create") or j.get("postedTs"))
     elif ats == "oracle":  # Oracle Recruiting Cloud; s = "host|siteNumber"
         host, site = s.split("|")
         for q in QUERIES:
@@ -109,16 +129,46 @@ def board_jobs(company, ats, s):
                     f"&finder=findReqs;siteNumber={site},keyword={q.replace(' ', '%20')},limit=100") or {}
             for j in (r.get("items") or [{}])[0].get("requisitionList", []):
                 yield f"or:{host}:{j['Id']}", j["Title"], j.get("PrimaryLocation", ""), \
-                    f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j['Id']}"
+                    f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j['Id']}", day(j.get("PostedDate"))
+    elif ats == "apple":  # search API wants a CSRF token plus its cookie
+        op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor())
+        tok = op.open("https://jobs.apple.com/api/v1/CSRFToken", timeout=20).headers["x-apple-csrf-token"]
+        # multi-word queries are ignored, so take the whole Students > Internships team plus a "graduate" search
+        intern = {"teams": [{"team": "teamsAndSubTeams-STDNT", "subTeam": "subTeam-INTRN"}]}
+        for q, filters, pages in (("", intern, range(1, 16)), ("graduate", {}, (1, 2))):
+            for page in pages:
+                req = urllib.request.Request("https://jobs.apple.com/api/v1/search", headers={
+                    "x-apple-csrf-token": tok, "content-type": "application/json"}, data=json.dumps(
+                    {"query": q, "filters": filters, "page": page, "locale": "en-us", "sort": "relevance",
+                     "format": {"longDate": "MMMM D, YYYY", "mediumDate": "MMM D, YYYY"}}).encode())  # empty without "format"
+                found = json.load(op.open(req, timeout=20))["res"]["searchResults"]
+                if not found:
+                    break
+                for j in found:
+                    yield f"ap:{j['positionId']}", j["postingTitle"], ", ".join(l["name"] for l in j.get("locations", [])), \
+                        f"https://jobs.apple.com/en-us/details/{j['positionId']}/{j['transformedPostingTitle']}", \
+                        day(j.get("postDateInGMT"))
+    elif ats == "google":  # no public API; the results page embeds its jobs as JSON
+        for q in QUERIES:
+            for page in (1, 2):
+                req = urllib.request.Request(f"https://www.google.com/about/careers/applications/jobs/results?q="
+                                             f"{q.replace(' ', '%20')}&page={page}", headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    m = re.search(r"key: 'ds:1', hash: '\d+', data:(.*?), sideChannel", r.read().decode(), re.S)
+                for j in json.loads(m[1])[0] or [] if m else []:
+                    yield f"go:{j[0]}", j[1], "; ".join(l[0] for l in j[9] or []), \
+                        f"https://www.google.com/about/careers/applications/jobs/results/{j[0]}", day((j[12] or [0])[0])
     elif ats == "greenhouse":
         for j in (get(f"https://boards-api.greenhouse.io/v1/boards/{s}/jobs") or {}).get("jobs", []):
-            yield f"gh:{s}:{j['id']}", j["title"], (j.get("location") or {}).get("name", ""), j["absolute_url"]
+            yield f"gh:{s}:{j['id']}", j["title"], (j.get("location") or {}).get("name", ""), j["absolute_url"], \
+                day(j.get("first_published"))
     elif ats == "lever":
         for j in get(f"https://api.lever.co/v0/postings/{s}?mode=json") or []:
-            yield f"lv:{s}:{j['id']}", j["text"], (j.get("categories") or {}).get("location", ""), j["hostedUrl"]
+            yield f"lv:{s}:{j['id']}", j["text"], (j.get("categories") or {}).get("location", ""), j["hostedUrl"], \
+                day(j.get("createdAt"))
     elif ats == "ashby":
         for j in (get(f"https://api.ashbyhq.com/posting-api/job-board/{s}") or {}).get("jobs", []):
-            yield f"ab:{s}:{j['id']}", j["title"], j.get("location", ""), j["jobUrl"]
+            yield f"ab:{s}:{j['id']}", j["title"], j.get("location", ""), j["jobUrl"], day(j.get("publishedAt"))
 
 
 def wanted(title, need_level=True):
@@ -131,9 +181,9 @@ def collect(boards):
         company, (ats, s) = item
         out = []
         try:  # one odd posting or broken source must never sink the whole run
-            for i, t, loc, u in board_jobs(company, ats, s):
+            for i, t, loc, u, d in board_jobs(company, ats, s):
                 if t and wanted(t):
-                    out.append((i, company, t, loc, u))
+                    out.append((i, company, t, loc, u, d))
         except Exception as e:
             print(f"skipped {company} ({ats}): {type(e).__name__}: {e}")
         return out
@@ -143,10 +193,12 @@ def collect(boards):
                 jobs[i] = rest
     for j in get(SIMPLIFY) or []:  # every Simplify listing is an internship, so only the role filter applies
         if j.get("active") and j.get("is_visible") and wanted(j["title"], need_level=False):
-            jobs[f"sj:{j['id']}"] = [j["company_name"], j["title"], ", ".join(j.get("locations", [])), j["url"]]
+            jobs[f"sj:{j['id']}"] = [j["company_name"], j["title"], ", ".join(j.get("locations", [])), j["url"],
+                                     day(j.get("date_posted"))]
     for j in get(SIMPLIFY_NG) or []:  # new grad list: level is implied, so only the role filter applies
         if j.get("active") and j.get("is_visible") and wanted(j["title"], need_level=False):
-            jobs[f"sn:{j['id']}"] = [j["company_name"], j["title"], ", ".join(j.get("locations", [])), j["url"]]
+            jobs[f"sn:{j['id']}"] = [j["company_name"], j["title"], ", ".join(j.get("locations", [])), j["url"],
+                                     day(j.get("date_posted"))]
     return jobs
 
 
@@ -166,7 +218,7 @@ def send(new):
     msg = EmailMessage()
     msg["From"] = msg["To"] = ME
     msg["Subject"] = f"[New Job] {len(new)} new: " + ", ".join(names[:4]) + (" ..." if len(names) > 4 else "")
-    msg.set_content("\n\n".join(f"{c} - {t}\n{loc}\n{u}" for c, t, loc, u in new))
+    msg.set_content("\n\n".join(f"{c} - {t}\n{loc}" + (f" · posted {d}" if d else "") + f"\n{u}" for c, t, loc, u, d in new))
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(ME, pw)
         s.send_message(msg)
@@ -200,7 +252,7 @@ def main():
     if not jobs:
         sys.exit("Fetched nothing: network or source problem.")  # fail the run instead of passing silently
     if dry:
-        print("\n".join(f"{c} - {t} | {u}" for c, t, loc, u in new))
+        print("\n".join(f"{c} - {t} | {d} | {u}" for c, t, loc, u, d in new))
         return
 
     if first_run:  # seed only, so the first email isn't thousands of old postings
@@ -208,11 +260,12 @@ def main():
     elif new:
         send(new)  # exits on failure, so nothing below runs and the jobs retry next time
         with LOG.open("a") as f:
-            f.writelines(f"- {c} - {t} ({loc}) {u}\n" for c, t, loc, u in new)
+            f.writelines(f"- {c} - {t} ({loc}) {u}" + (f" · posted {d}" if d else "") + "\n" for c, t, loc, u, d in new)
     if quiet and not first_run:
         with OPENINGS.open("a") as f:
             f.write(f"\n# Added {time.strftime('%Y-%m-%d')}: open roles at newly watched companies\n")
-            f.writelines(f"- [{t.strip()}]({u}) — {c}, {loc}\n" for c, t, loc, u in sorted(quiet.values()))
+            f.writelines(f"- [{t.strip()}]({u}) — {c}, {loc}" + (f" · posted {d}" if d else "") + "\n"
+                         for c, t, loc, u, d in sorted(quiet.values()))
     SEEN.write_text(json.dumps(sorted(seen | set(jobs))))  # only after a successful send, so failures retry
     SEEDED.write_text(json.dumps(sorted(seeded | {c for c, b in boards.items() if b})))
 

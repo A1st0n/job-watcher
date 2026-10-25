@@ -1,5 +1,8 @@
 {
- "Apple": null,
+ "Apple": [
+  "apple",
+  ""
+ ],
  "Microsoft": [
   "eightfold",
   "apply.careers.microsoft.com|microsoft.com"
@@ -8,7 +11,10 @@
   "amazon",
   ""
  ],
- "Google": null,
+ "Google": [
+  "google",
+  ""
+ ],
  "Meta": null,
  "Nvidia": [
   "workday",
