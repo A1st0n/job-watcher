@@ -815,3 +815,7 @@
 - Tesla - Robotics Engineering Technician - Harnessing & PCB Rework - Optimus (Palo Alto, CA) https://www.tesla.com/careers/search/job/281505 · posted 2026-08-28
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160480 · posted 2026-10-26
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160484 · posted 2026-10-26
+- Amazon - 2027 Software Dev Engineer Intern - Italy (Turin, Piedmont, ITA) https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy · posted 2026-09-22
+- RTX - Part Time Software Platform Engineer Co-Op  (Remote) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Part-Time-Software-Platform-Engineer-Co-Op---Remote-_01884756 · posted 2026-10-26
+- RTX - Software Engineer I (Onsite) (US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492 · posted 2026-10-26
+- PTC - Software Engineer Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943 · posted 2026-10-26
