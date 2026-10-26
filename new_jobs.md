@@ -905,3 +905,12 @@
 - Amentum - Entry Level Software Engineer (Dahlgren, VA) https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771 · posted 2026-10-26
 - T-Mobile - Associate Software Engineer: Billing Platform (Frisco, TX, Atlanta, GA, Overland Park, KS) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1 · posted 2026-10-26
 - Applied Materials - Algorithm Developer New Grad (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II---New-College-Grad--Masters---Santa-Clara--CA-_R2631924 · posted 2026-10-26
+- RTX - Systems Engineer I - Datalinks - Onsite (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112 · posted 2026-10-26
+- Aurora - Core Autonomy Software (C++) Intern (Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12 · posted 2026-09-25
+- Aurora - Data & ML Platform Engineering Intern (Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0 · posted 2026-09-24
+- Aquatic Capital Management - Software Engineer – Early Career (Chicago, IL, NYC) https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002 · posted 2026-04-01
+- Microsoft - Software Engineer (Redmond, WA, Reston, VA) https://apply.careers.microsoft.com/careers/job/1970393557025694 · posted 2026-10-26
+- Cummins - Electronic Systems Engineer - Software (Columbus, IN) https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427178 · posted 2026-10-26
+- Madhive - Software Engineer - Financial Systems (NYC) https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application?embed=true · posted 2026-10-26
+- Everfox - Software Engineer 1 (Richardson, TX) https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927 · posted 2026-10-26
+- Ciena - Software Engineer New Grad - Security (Atlanta, GA) https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1 · posted 2026-10-26
