@@ -807,3 +807,4 @@
 - HPE - Graduate Software Engineer (2 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2 · posted 2026-10-26
 - Hewlett Packard Enterprise - AI/ML Developer Intern (San Jose, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413 · posted 2026-10-25
 - Evolent - Associate Software Engineer (Remote in USA) https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896 · posted 2026-10-26
+- Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1 · posted 2026-10-26
