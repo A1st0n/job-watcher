@@ -821,3 +821,6 @@
 - PTC - Software Engineer Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943 · posted 2026-10-26
 - Microsoft - Research Intern - Efficient AI Software Systems (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557041731 · posted 2026-10-15
 - American Express - Campus - Full Time - Software Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783 · posted 2026-10-26
+- American Express - Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - London) (LONDON, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769 · posted 2026-10-26
+- American Express - Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771 · posted 2026-10-26
+- American Express - Campus - Full Time - Software Engineer - 2027 (UK - London) (LONDON, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782 · posted 2026-10-26
