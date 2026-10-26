@@ -824,3 +824,12 @@
 - American Express - Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - London) (LONDON, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769 · posted 2026-10-26
 - American Express - Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771 · posted 2026-10-26
 - American Express - Campus - Full Time - Software Engineer - 2027 (UK - London) (LONDON, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782 · posted 2026-10-26
+- Booz Allen - University - 2027 Summer Games Systems Engineer Intern - Lexington, MA (Lexington, MA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273 · posted 2026-10-26
+- Eaton - Engineering Technology Intern - Embedded Systems - Research & Development Engineering (Moon Twp, PA) https://eaton.eightfold.ai/careers/job/687238043804 · posted 2026-09-01
+- Royal Bank of Canada - Developer Intern (Halifax Regional Municipality, NS, Canada) https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196 · posted 2026-10-26
+- PTC - Software Engineer Intern (Boston, MA) https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943 · posted 2026-10-26
+- JD.com - Graduate Software Engineer (London, UK) https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Graduate-Software-Engineer_JR104096 · posted 2026-10-13
+- RELX - Software Engineer New Grad (London, UK) https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818-1 · posted 2026-10-26
+- L3Harris Technologies - Associate Software Engineering (Rochester, NY) https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1443517100/?ats=successfactors · posted 2026-10-26
+- Leonardo - Graduate FPGA/Firmware Engineer (Edinburgh, UK, Newcastle upon Tyne, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-FPGA-Firmware-Engineer_R0034561 · posted 2026-10-26
+- Welo Global - Robotics Teleoperator (Palo Alto, CA) https://jobs.lever.co/weloglobal/bfe28852-4fab-41fb-a2eb-5365dc0fdc82/apply · posted 2026-10-26
