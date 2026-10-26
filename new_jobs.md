@@ -863,3 +863,4 @@
 - Booz Allen - University - 2027 Summer Games, Systems Engineer Intern - Albuquerque, NM (Albuquerque, NM) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337 · posted 2026-10-26
 - Anduril - Early Career Software Engineer, Battlespace Awareness (Broomfield, Colorado, United States; Fort Collins, Colorado, United States) https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007 · posted 2026-10-26
 - Glean - Software Engineer, Intern (Summer 2027) (Mountain View, CA) https://job-boards.greenhouse.io/gleanwork/jobs/4747670005 · posted 2026-10-26
+- Booz Allen - University - 2027 Summer Games Software Developer Intern - Dayton, OH (Dayton, OH) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345 · posted 2026-10-26
