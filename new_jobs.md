@@ -805,3 +805,5 @@
 - Caterpillar - Software Intern (Wuxi, Jiangsu) https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000401086 · posted 2026-10-26
 - Nike - Software Engineer I (Dong Nai) (Đồng Nai, Vietnam) https://nike.wd1.myworkdayjobs.com/nke/job/ng-Nai-Vietnam/Software-Engineer-I--Dong-Nai-_R-95178 · posted 2026-10-26
 - HPE - Graduate Software Engineer (2 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2 · posted 2026-10-26
+- Hewlett Packard Enterprise - AI/ML Developer Intern (San Jose, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413 · posted 2026-10-25
+- Evolent - Associate Software Engineer (Remote in USA) https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896 · posted 2026-10-26
