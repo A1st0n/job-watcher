@@ -812,3 +812,4 @@
 - Intel - Intern Software QA Test Engineer (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220 · posted 2026-10-21
 - Honeywell - Intern Bachelors Software Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160864 · posted 2026-10-26
 - Vigil Labs - Software Engineer Intern (Palo Alto, CA) https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2 · posted 2026-10-26
+- Tesla - Robotics Engineering Technician - Harnessing & PCB Rework - Optimus (Palo Alto, CA) https://www.tesla.com/careers/search/job/281505 · posted 2026-08-28
