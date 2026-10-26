@@ -809,3 +809,6 @@
 - Evolent - Associate Software Engineer (Remote in USA) https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896 · posted 2026-10-26
 - Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Software-Engineer-Intern_R00342918-1 · posted 2026-10-26
 - DXC - Associate Software Developer (SAU - RIYADH) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SAU---RIYADH/Associate-Software-Developer_51592526 · posted 2026-10-26
+- Intel - Intern Software QA Test Engineer (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220 · posted 2026-10-21
+- Honeywell - Intern Bachelors Software Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160864 · posted 2026-10-26
+- Vigil Labs - Software Engineer Intern (Palo Alto, CA) https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2 · posted 2026-10-26
