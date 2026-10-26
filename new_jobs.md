@@ -856,3 +856,4 @@
 - Twitch - Software Engineer I (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8917377002 · posted 2026-10-26
 - Toyota - Software Engineer (Early Career Professional) (Plano, Texas) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071 · posted 2026-10-26
 - Northrop Grumman - 2027 Software Engineering Intern - Beavercreek OH (United States-Ohio-Beavercreek) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656 · posted 2026-10-26
+- Amazon - 2027 Software Dev Engineer Intern (Embedded Systems) - UK (London, England, GBR) https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk · posted 2026-10-26
