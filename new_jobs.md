@@ -835,3 +835,10 @@
 - Welo Global - Robotics Teleoperator (Palo Alto, CA) https://jobs.lever.co/weloglobal/bfe28852-4fab-41fb-a2eb-5365dc0fdc82/apply · posted 2026-10-26
 - RTX - Systems Engineering Co-op (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039 · posted 2026-10-26
 - Analog Devices - Embedded Systems Co-Op (US, MA, Boston) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689 · posted 2026-10-26
+- Royal Bank of Canada - Developer Intern (Toronto, ON, Canada) https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1 · posted 2026-10-26
+- Royal Bank of Canada - Developer Intern - RBC Amplify (Montreal, QC, Canada) https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1 · posted 2026-10-26
+- American Express - Software Engineer New Grad (Burgess Hill, UK) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783 · posted 2026-09-14
+- RTX - Embedded Security Software Engineer 1 (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355 · posted 2026-10-08
+- Jabil - AI and Data Solutions Developer - Global Supply Chain (Tampa, FL, St. Petersburg, FL) https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953 · posted 2026-10-14
+- RTX - Software Engineer 1 (Indianapolis, IN) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492 · posted 2026-10-26
+- LexisNexis Risk Solutions - Software Engineer New Grad (London, UK) https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818 · posted 2026-10-26
