@@ -801,3 +801,4 @@
 - Guidehouse - Technical Associate Application Developer (Chicago, IL) https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783 · posted 2026-10-22
 - Northrop Grumman - Associate Embedded Software Engineer (Morrisville, NC) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541 · posted 2026-10-25
 - Deere - Junior SAP ABAP Developer - Indaiatuba/SP (Indaiatuba,Sao Paulo,Brazil) https://johndeere.eightfold.ai/careers/job/137483713681 · posted 2026-10-13
+- Microsoft - Software Engineering Intern - CTJ - TS (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393556983221 · posted 2026-09-11
