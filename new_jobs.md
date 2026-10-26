@@ -855,3 +855,4 @@
 - Honeywell - Intern - Embedded Systems (CMX, Mexico) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160031 · posted 2026-10-26
 - Twitch - Software Engineer I (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8917377002 · posted 2026-10-26
 - Toyota - Software Engineer (Early Career Professional) (Plano, Texas) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071 · posted 2026-10-26
+- Northrop Grumman - 2027 Software Engineering Intern - Beavercreek OH (United States-Ohio-Beavercreek) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656 · posted 2026-10-26
