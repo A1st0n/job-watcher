@@ -820,3 +820,4 @@
 - RTX - Software Engineer I (Onsite) (US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492 · posted 2026-10-26
 - PTC - Software Engineer Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943 · posted 2026-10-26
 - Microsoft - Research Intern - Efficient AI Software Systems (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557041731 · posted 2026-10-15
+- American Express - Campus - Full Time - Software Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783 · posted 2026-10-26
