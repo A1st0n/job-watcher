@@ -848,3 +848,4 @@
 - Skydio - Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich) (Zurich, Switzerland) https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5 · posted 2026-10-26
 - Skydio - Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich) (Zurich, Switzerland) https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a · posted 2026-10-26
 - Skydio - Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ) (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17 · posted 2026-10-26
+- T-Mobile - Associate Software Engineer- Billing Platform (3 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1 · posted 2026-10-26
