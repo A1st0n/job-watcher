@@ -814,3 +814,4 @@
 - Vigil Labs - Software Engineer Intern (Palo Alto, CA) https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2 · posted 2026-10-26
 - Tesla - Robotics Engineering Technician - Harnessing & PCB Rework - Optimus (Palo Alto, CA) https://www.tesla.com/careers/search/job/281505 · posted 2026-08-28
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160480 · posted 2026-10-26
+- Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160484 · posted 2026-10-26
