@@ -914,3 +914,20 @@
 - Madhive - Software Engineer - Financial Systems (NYC) https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application?embed=true · posted 2026-10-26
 - Everfox - Software Engineer 1 (Richardson, TX) https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927 · posted 2026-10-26
 - Ciena - Software Engineer New Grad - Security (Atlanta, GA) https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1 · posted 2026-10-26
+- Aurora - Safety & Systems Engineering Intern (Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5 · posted 2026-09-24
+- Aurora - Full Stack Intern (Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9 · posted 2026-09-24
+- Cencora - Software Developer Intern - EDI IT (Conshohocken, PA) https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376 · posted 2026-09-25
+- Space Dynamics Laboratory - Software Engineer Intern (Logan, UT) https://spacedynamicslaboratory.applytojob.com/apply/Xb4whC202X/Student-Software-Engineer · posted 2026-10-26
+- Analog Devices - Embedded Systems Co-op (Boston, MA) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689 · posted 2026-10-26
+- Sun Life - Software Engineer Co-op - Security (Toronto, ON, Canada) https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065 · posted 2026-10-26
+- Booz Allen - Summer Games Software Developer Intern (Detroit, MI) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340 · posted 2026-10-26
+- Booz Allen - Software Developer Intern (Lexington, MA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274 · posted 2026-10-26
+- Booz Allen - Systems Engineer Intern (Albuquerque, NM) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337 · posted 2026-10-26
+- Booz Allen - Summer Games Systems Engineer Intern (Lexington, MA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273 · posted 2026-10-26
+- Booz Allen - Systems Engineer Intern - Summer Games (Detroit, MI) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341 · posted 2026-10-26
+- Booz Allen - Software Developer Intern - University - Summer Games (Dayton, OH) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345 · posted 2026-10-26
+- SOTI - Software Developer Intern - Server (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647 · posted 2026-10-26
+- SOTI - Software Developer Intern - Android (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620 · posted 2026-10-26
+- Cohesity - Software Engineer Intern (Santa Clara, CA) https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2 · posted 2026-10-26
+- Glean - Software Engineer Intern (SF, Mountain View, CA) https://job-boards.greenhouse.io/gleanwork/jobs/4747670005 · posted 2026-10-26
+- Skydio - Autonomy Engineer Intern - Simulation & Robotics (San Mateo, CA) https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true · posted 2026-10-26
