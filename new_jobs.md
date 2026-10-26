@@ -844,3 +844,7 @@
 - LexisNexis Risk Solutions - Software Engineer New Grad (London, UK) https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818 · posted 2026-10-26
 - Motorola Solutions - Junior Software Engineer, Emergency Call Handling (Gatineau, Canada, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731 · posted 2026-10-26
 - RTX - Embedded Software Engineer I (Onsite) (US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234 · posted 2026-10-26
+- Skydio - Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ) (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb · posted 2026-10-26
+- Skydio - Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich) (Zurich, Switzerland) https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5 · posted 2026-10-26
+- Skydio - Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich) (Zurich, Switzerland) https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a · posted 2026-10-26
+- Skydio - Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ) (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17 · posted 2026-10-26
