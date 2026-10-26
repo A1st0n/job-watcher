@@ -842,3 +842,4 @@
 - Jabil - AI and Data Solutions Developer - Global Supply Chain (Tampa, FL, St. Petersburg, FL) https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953 · posted 2026-10-14
 - RTX - Software Engineer 1 (Indianapolis, IN) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492 · posted 2026-10-26
 - LexisNexis Risk Solutions - Software Engineer New Grad (London, UK) https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818 · posted 2026-10-26
+- Motorola Solutions - Junior Software Engineer, Emergency Call Handling (Gatineau, Canada, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731 · posted 2026-10-26
