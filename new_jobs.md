@@ -854,3 +854,4 @@
 - Booz Allen - University - 2027 Summer Games Software Developer Intern - Lexington, MA (Lexington, MA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274 · posted 2026-10-26
 - Honeywell - Intern - Embedded Systems (CMX, Mexico) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160031 · posted 2026-10-26
 - Twitch - Software Engineer I (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8917377002 · posted 2026-10-26
+- Toyota - Software Engineer (Early Career Professional) (Plano, Texas) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071 · posted 2026-10-26
