@@ -833,3 +833,5 @@
 - L3Harris Technologies - Associate Software Engineering (Rochester, NY) https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1443517100/?ats=successfactors · posted 2026-10-26
 - Leonardo - Graduate FPGA/Firmware Engineer (Edinburgh, UK, Newcastle upon Tyne, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-FPGA-Firmware-Engineer_R0034561 · posted 2026-10-26
 - Welo Global - Robotics Teleoperator (Palo Alto, CA) https://jobs.lever.co/weloglobal/bfe28852-4fab-41fb-a2eb-5365dc0fdc82/apply · posted 2026-10-26
+- RTX - Systems Engineering Co-op (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039 · posted 2026-10-26
+- Analog Devices - Embedded Systems Co-Op (US, MA, Boston) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689 · posted 2026-10-26
