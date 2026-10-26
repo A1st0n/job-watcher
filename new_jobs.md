@@ -849,3 +849,8 @@
 - Skydio - Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich) (Zurich, Switzerland) https://jobs.ashbyhq.com/skydio/05f020b1-9023-49c5-bac4-42dbd8552d3a · posted 2026-10-26
 - Skydio - Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ) (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17 · posted 2026-10-26
 - T-Mobile - Associate Software Engineer- Billing Platform (3 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1 · posted 2026-10-26
+- Amazon - 2027 Software Dev Engineer Intern (Machine Learning) - UK (London, England, GBR) https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk · posted 2026-10-26
+- RTX - Systems Engineer I - Onsite (US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineer-I---Onsite_01883286 · posted 2026-10-26
+- Booz Allen - University - 2027 Summer Games Software Developer Intern - Lexington, MA (Lexington, MA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274 · posted 2026-10-26
+- Honeywell - Intern - Embedded Systems (CMX, Mexico) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160031 · posted 2026-10-26
+- Twitch - Software Engineer I (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8917377002 · posted 2026-10-26
