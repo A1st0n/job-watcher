@@ -804,3 +804,4 @@
 - Microsoft - Software Engineering Intern - CTJ - TS (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393556983221 · posted 2026-09-11
 - Caterpillar - Software Intern (Wuxi, Jiangsu) https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000401086 · posted 2026-10-26
 - Nike - Software Engineer I (Dong Nai) (Đồng Nai, Vietnam) https://nike.wd1.myworkdayjobs.com/nke/job/ng-Nai-Vietnam/Software-Engineer-I--Dong-Nai-_R-95178 · posted 2026-10-26
+- HPE - Graduate Software Engineer (2 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2 · posted 2026-10-26
