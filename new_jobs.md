@@ -943,3 +943,9 @@
 - Lawrence Livermore National Laboratory (LLNL) - Data Visualization Software Engineer (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016422126 · posted 2026-10-27
 - Planview - Software Engineer 1 (Vancouver, BC, Canada) https://careers.planview.com/jobs/5182?icims=1 · posted 2026-10-26
 - RTX - Systems Engineer 1 - Datalinks (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112 · posted 2026-10-26
+- L3Harris Technologies - Associate – Software Engineering Intern (Greenville, TX) https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors · posted 2026-10-27
+- L3Harris Technologies - Software Engineer Intern (Rochester, NY) https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors · posted 2026-10-27
+- Aurora Innovation - Core Autonomy Software Intern - C++ (Pittsburgh, PA, Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true · posted 2026-09-25
+- Aurora Innovation - Full Stack Engineer Intern (Pittsburgh, PA, Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true · posted 2026-09-24
+- Aurora Innovation - Data & ML Platform Engineer Intern (SF, Pittsburgh, PA, Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true · posted 2026-09-24
+- NVIDIA - Applied Machine Learning Engineer - AI for VLSI Design (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576 · posted 2026-09-29
