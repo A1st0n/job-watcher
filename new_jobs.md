@@ -1008,3 +1008,4 @@
 - Commonwealth Fusion - Intern - Scientific Software Engineer - Summer 2027 (Devens, MA) https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619 · posted 2026-10-27
 - Commonwealth Fusion - Intern - Systems Engineer - Summer 2027 (Devens, MA) https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707 · posted 2026-10-27
 - Accenture - Full-Stack Developer – Data Platform Junior () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Torino/Full-Stack-Developer---Data-Platform-Junior_R00367526 · posted 2026-10-27
+- RTX - Software Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645 · posted 2026-10-27
