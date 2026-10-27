@@ -959,3 +959,5 @@
 - GE Aerospace - Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Summer 2027 (2 Locations) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1 · posted 30+ days ago
 - Honeywell - Intern Bachelors Software Eng (Pune City, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160868 · posted 2026-10-27
 - Microsoft - Software Engineer (Mountain View, CA) https://apply.careers.microsoft.com/careers/job/1970393557045516 · posted 2026-10-27
+- Honeywell - Intern Bachelors Software Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160936 · posted 2026-10-27
+- Rockwell Automation - Software - Intern (Katowice, Poland) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Software---Intern_R26-8101 · posted 2026-10-27
