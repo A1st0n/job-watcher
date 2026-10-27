@@ -1010,3 +1010,4 @@
 - Accenture - Full-Stack Developer – Data Platform Junior () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Torino/Full-Stack-Developer---Data-Platform-Junior_R00367526 · posted 2026-10-27
 - RTX - Software Engineer I - (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645 · posted 2026-10-27
 - Leidos - SharePoint & Systems Engineering Intern (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00195538 · posted 2026-10-27
+- Northrop Grumman - 2027 Systems Engineering Intern - Aurora CO (United States-Colorado-Aurora) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10257892 · posted 2026-10-27
