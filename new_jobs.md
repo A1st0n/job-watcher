@@ -932,3 +932,4 @@
 - Glean - Software Engineer Intern (SF, Mountain View, CA) https://job-boards.greenhouse.io/gleanwork/jobs/4747670005 · posted 2026-10-26
 - Skydio - Autonomy Engineer Intern - Simulation & Robotics (San Mateo, CA) https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true · posted 2026-10-26
 - RTX - Software Engineer I, Gen4 Airborne Radar (US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039 · posted 2026-10-27
+- Sierra Nevada Corporation - Systems Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084 · posted 2026-10-27
