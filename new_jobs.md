@@ -1040,3 +1040,28 @@
 - Amazon - Software Developer Engineer 1 - Graviton Software - Annapurna Labs (Austin, TX) https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs · posted 2026-10-27
 - Amazon - Software Development Engineer (United Kingdom) https://amazon.jobs/en/jobs/10590147/software-development-engineer-2027 · posted 2026-10-27
 - RTX - Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187 · posted 2026-10-27
+- Northrop Grumman - 2027 Associate Software Engineer/Software Engineer (4 Locations) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957 · posted 2026-10-27
+- RTX - Radar Systems Engineer I (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Radar-Systems-Engineer-I_01874482 · posted 2026-10-27
+- Rockwell Automation - Embedded Software Engineer Co-op (Mayfield Heights, OH) https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473 · posted 2026-08-10
+- Intel - AI Software Engineer Intern - Artificial Intelligence (Hillsboro, OR, Phoenix, AZ) https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730 · posted 2026-09-10
+- JM Family - Power Platform & Analytics Intern (Mobile, AL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133 · posted 2026-10-27
+- RTX - Systems Engineering Co-op (St. Petersburg, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435 · posted 2026-10-27
+- ACLU Kentucky - Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod (NYC) https://job-boards.greenhouse.io/acluinternships/jobs/8919540002 · posted 2026-10-27
+- Great American Insurance Company - Cloud Data Platform Intern (Cincinnati, OH) https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795 · posted 2026-10-27
+- Great American Insurance Company - Claims Lab Developer Intern (Cincinnati, OH) https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803 · posted 2026-10-27
+- Uber - Software Engineer Intern (Toronto, ON, Canada) https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178 · posted 2026-10-27
+- Sonos - Software Engineer Intern (Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871 · posted 2026-10-27
+- CACI - Software Engineer Intern - Summer 2027 (Sarasota, FL) https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618 · posted 2026-10-27
+- Nomad GCS - Software Engineer Intern (Columbia Falls, MT) https://nomadgcs.bamboohr.com/careers/506/ · posted 2026-10-27
+- Databricks - Software Engineer New Grad (Mountain View, CA) https://boards.greenhouse.io/embed/job_app?token=6865698002 · posted 2026-10-27
+- Databricks - Software Engineer New Grad - Distributed Data Systems (Bellevue, WA, Mountain View, CA) https://boards.greenhouse.io/embed/job_app?token=6865704002 · posted 2026-10-27
+- Resurgent Industries - Entry-Level Embedded Firmware and Controls Engineer Intern (Austin, TX) https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf/application?embed=true · posted 2026-10-27
+- RTX - Software Engineer 1 (Tucson, AZ) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645 · posted 2026-10-27
+- Generate Capital - Software Engineer - Data (SF) https://jobs.ashbyhq.com/generate/91d20c40-c3e8-46f2-bea8-a42b565e31c8/application?embed=true · posted 2026-10-27
+- SambaNova Systems - ML Infrastructure Engineer New Grad (Austin, TX, San Jose, CA) https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004 · posted 2026-10-27
+- ServiceNow - Software Engineer New Grad - AI/ML (Mountain View, CA) https://jobs.smartrecruiters.com/ServiceNow/744000157900224 · posted 2026-10-26
+- Amentum - Junior Software Engineer (Vandenberg Space Force Base, CA) https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629 · posted 2026-10-27
+- Sierra - Software Engineer New Grad - Agent (London, UK) https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true · posted 2026-10-27
+- SAIC - Software Engineer Associate (Crane, IN) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618492 · posted 2026-10-27
+- Intuit - Software Developer 1 (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744 · posted 2026-10-27
+- Intuit - Software Developer 1 - API Management Platform (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064 · posted 2026-10-27
