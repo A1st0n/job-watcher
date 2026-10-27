@@ -962,3 +962,7 @@
 - Honeywell - Intern Bachelors Software Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160936 · posted 2026-10-27
 - Rockwell Automation - Software - Intern (Katowice, Poland) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Software---Intern_R26-8101 · posted 2026-10-27
 - Bosch - [BD] JavaScript Developer Intern (6-month fulltime internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000157957589 · posted 2026-10-27
+- RTX - Flight Control Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923 · posted 2026-10-27
+- Field AI - Embedded Systems Engineer (Irvine, CA) https://jobs.lever.co/field-ai/5aa0a3ef-b693-4404-829a-63d8b9dad776/apply · posted 2026-05-12
+- Swarm Aero - Software Engineer Early Career - Real-Time Systems (SF) https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application?embed=true · posted 2026-09-28
+- CoreWeave - Software Engineer - Inference (Bellevue, WA, Sunnyvale, CA) https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006 · posted 2026-09-25
