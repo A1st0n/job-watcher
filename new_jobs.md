@@ -961,3 +961,4 @@
 - Microsoft - Software Engineer (Mountain View, CA) https://apply.careers.microsoft.com/careers/job/1970393557045516 · posted 2026-10-27
 - Honeywell - Intern Bachelors Software Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160936 · posted 2026-10-27
 - Rockwell Automation - Software - Intern (Katowice, Poland) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Software---Intern_R26-8101 · posted 2026-10-27
+- Bosch - [BD] JavaScript Developer Intern (6-month fulltime internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000157957589 · posted 2026-10-27
