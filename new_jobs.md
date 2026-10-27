@@ -966,3 +966,5 @@
 - Field AI - Embedded Systems Engineer (Irvine, CA) https://jobs.lever.co/field-ai/5aa0a3ef-b693-4404-829a-63d8b9dad776/apply · posted 2026-05-12
 - Swarm Aero - Software Engineer Early Career - Real-Time Systems (SF) https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application?embed=true · posted 2026-09-28
 - CoreWeave - Software Engineer - Inference (Bellevue, WA, Sunnyvale, CA) https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006 · posted 2026-09-25
+- Astranis - Software Defined Radio Hardware Associate (SF) https://job-boards.greenhouse.io/astranis/jobs/4715985006 · posted 2026-09-24
+- Goldman Sachs - Data Platform Engineering (Dallas, TX) https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810 · posted 2026-08-18
