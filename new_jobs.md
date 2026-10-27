@@ -970,3 +970,4 @@
 - Goldman Sachs - Data Platform Engineering (Dallas, TX) https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810 · posted 2026-08-18
 - Northrop Grumman - 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO (United States-Colorado-Colorado Springs) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768 · posted 2026-10-27
 - Medtronic - Software Cloud Engineer I - Cloud Infrastructure (Galway, County Galway, Ireland) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Software-Cloud-Engineer-I_R69474-1 · posted 2026-10-27
+- Snowflake - Software Engineer Intern AI/ML - Warsaw (2027) (PL-Warsaw-Lixa C) https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215 · posted 2026-10-12
