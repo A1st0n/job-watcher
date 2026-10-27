@@ -1020,3 +1020,22 @@
 - Shield AI - Engineer II, Software - Factory (R6217) - New Grad (Washington, D.C.) https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5 · posted 2026-10-10
 - Shield AI - Engineer II, Software Test and Automation (R6221) - New Grad (Washington, D.C.) https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab · posted 2026-10-10
 - ServiceNow - Software Engineer Graduate (AI/ML) - Moveworks (Mountain View, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000157900224 · posted 2026-10-26
+- Betterment - Software Engineer Intern (NYC) https://job-boards.greenhouse.io/bettermentcampusrecruiting/jobs/8168098 · posted 2026-09-03
+- Northrop Grumman - Software Engineer Intern (Azusa, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903 · posted 2026-10-27
+- Texas Instruments - Web Marketing Intern - Front-end Developer (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753 · posted 2026-10-15
+- ASML - Frontend Developer Intern (San Jose, CA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852 · posted 2026-10-27
+- Emerson Electric - Software Engineer Intern (Austin, TX) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630 · posted 2026-10-27
+- Hitachi - Software Analyst Intern (Toronto, ON, Canada) https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741 · posted 2026-10-27
+- Micron Technology - Product Yield Enhancement Software Engineer Intern (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864 · posted 2026-10-27
+- Commonwealth Fusion Systems - Scientific Software Engineer Intern (Devens, MA) https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply · posted 2026-10-27
+- Centific - Robotics Intern (Palo Alto, CA, Redmond, WA) https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Robotics-Intern_JR107981 · posted 2026-10-27
+- Otter.ai - Software Engineer New Grad - Front-End (Mountain View, CA) https://otter.ai/careers?gh_jid=8016078003 · posted 2026-10-07
+- Northrop Grumman - Associate Software Engineer (Huntsville, AL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823 · posted 2026-10-27
+- Pacific Northwest National Laboratory - Software Engineer 1 (United States) https://careers.pnnl.gov/jobs/12640?icims=1 · posted 2026-10-27
+- AT&T - AI-Native Software Engineer Analyst - Full-Stack Python (Bothell, WA, Dallas, TX, Alpharetta, GA) https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXDallas--208-S-Akard-St---Concourse208-S-Akard-St--Concourse/AI-Native-Software-Engineer-Analyst--Full-Stack-Python_R-124488-1 · posted 2026-10-27
+- Agile Defense - Software Engineer 1 (McLean, VA) https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply · posted 2026-10-27
+- Fab2 - Computer Vision Software Engineer (Austin, TX) https://jobs.ashbyhq.com/fab2/d9edb922-6cae-4e65-9b20-ba452f3e2edf/application?embed=true · posted 2026-10-27
+- Emerson Electric - Software Engineer (Austin, TX) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042 · posted 2026-10-27
+- RainFocus - Junior UI Developer (Remote in USA) https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply · posted 2026-10-27
+- Amazon - Software Developer Engineer 1 - Graviton Software - Annapurna Labs (Austin, TX) https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs · posted 2026-10-27
+- Amazon - Software Development Engineer (United Kingdom) https://amazon.jobs/en/jobs/10590147/software-development-engineer-2027 · posted 2026-10-27
