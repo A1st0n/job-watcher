@@ -1019,3 +1019,4 @@
 - Databricks - Software Engineer - New Grad, Distributed Data Systems (2027 Start) (Bellevue, Washington; Mountain View, California) https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002 · posted 2023-08-04
 - Shield AI - Engineer II, Software - Factory (R6217) - New Grad (Washington, D.C.) https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5 · posted 2026-10-10
 - Shield AI - Engineer II, Software Test and Automation (R6221) - New Grad (Washington, D.C.) https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab · posted 2026-10-10
+- ServiceNow - Software Engineer Graduate (AI/ML) - Moveworks (Mountain View, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000157900224 · posted 2026-10-26
