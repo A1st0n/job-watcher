@@ -1039,3 +1039,4 @@
 - RainFocus - Junior UI Developer (Remote in USA) https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply · posted 2026-10-27
 - Amazon - Software Developer Engineer 1 - Graviton Software - Annapurna Labs (Austin, TX) https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs · posted 2026-10-27
 - Amazon - Software Development Engineer (United Kingdom) https://amazon.jobs/en/jobs/10590147/software-development-engineer-2027 · posted 2026-10-27
+- RTX - Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187 · posted 2026-10-27
