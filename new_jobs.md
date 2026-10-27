@@ -987,3 +987,12 @@
 - Amazon - Software Development Engineer (United Kingdom) https://amazon.jobs/en/jobs/10589773/software-development-engineer-2027 · posted 2026-10-27
 - Amazon - Software Developer Engineer (United Kingdom) https://amazon.jobs/en/jobs/10589671/software-dev-engineer-ed-amazon-devices-ring-blink · posted 2026-10-27
 - CrossCountry Consulting - Forward Deployed Software Engineer New Grad (NYC) https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply · posted 2026-10-27
+- CACI - Software Engineering Intern - Summer 2027 (Sarasota, FL, US) https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618 · posted 2026-10-27
+- Visa - Software Engineer Intern (Foster City, CA) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1 · posted 2026-10-27
+- Visa - Sophomore Program Software Engineer Intern (Ashburn, VA) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1 · posted 2026-10-27
+- RTX - Software Engineer Intern (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074 · posted 2026-10-27
+- RTX - Secure Software Intern (Woburn, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942 · posted 2026-10-27
+- RTX - Embedded Software Engineer Intern (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782 · posted 2026-10-27
+- RTX - Embedded Software Engineer 1 (McKinney, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232 · posted 2026-10-08
+- Octasic - Software Developer (Montreal, QC, Canada) https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570 · posted 2026-10-27
+- RTX - Software Engineer 2 (Marlborough, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II--Onsite-_01885126 · posted 2026-10-27
