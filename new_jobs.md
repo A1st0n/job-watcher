@@ -933,3 +933,13 @@
 - Skydio - Autonomy Engineer Intern - Simulation & Robotics (San Mateo, CA) https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true · posted 2026-10-26
 - RTX - Software Engineer I, Gen4 Airborne Radar (US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039 · posted 2026-10-27
 - Sierra Nevada Corporation - Systems Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084 · posted 2026-10-27
+- LPL Financial Holdings - Software Engineer Intern (Austin, TX, Fort Mill, SC, Charlotte, NC) https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921 · posted 2026-08-10
+- Toyota Research Institute - Robotics Intern - Trustworthy Learning under Uncertainty (Los Altos, CA) https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply · posted 2026-10-27
+- Niantic Spatial - Software Engineer Intern - Native SDK & Mobile Platforms (SF) https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true · posted 2026-10-26
+- Altera - Software Engineer Intern (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382 · posted 2026-10-26
+- LPL Financial Holdings - Software Engineering New Grad (Austin, TX, Fort Mill, SC, Charlotte, NC) https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475 · posted 2026-08-10
+- Datalab USA - Production Programmer - SQL Developer (Westminster, CO) https://jobs.lever.co/datalabusa/9254110c-d83f-4921-aca6-b26d203bbc53/apply · posted 2026-09-22
+- RTX - Software Engineer 1 - Gen4 Airborne Radar (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039 · posted 2026-09-25
+- Lawrence Livermore National Laboratory (LLNL) - Data Visualization Software Engineer (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016422126 · posted 2026-10-27
+- Planview - Software Engineer 1 (Vancouver, BC, Canada) https://careers.planview.com/jobs/5182?icims=1 · posted 2026-10-26
+- RTX - Systems Engineer 1 - Datalinks (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112 · posted 2026-10-26
