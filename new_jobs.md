@@ -1004,3 +1004,4 @@
 - Sierra - Software Engineer, Agent (New Grad 2027) (London) https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db · posted 2026-10-27
 - GE HealthCare - Advanced Visualization software engineering intern (HUN02-01-Budapest-Vaci Greens C) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4044596-1 · posted 2026-10-27
 - Northrop Grumman - 2027 Nuclear Surety Systems Engineering Intern- Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Nuclear-Surety-Systems-Engineering-Intern--Roy-UT_R10257831 · posted 2026-10-27
+- Micron - Intern -  AI Engineer Platform (Boise, ID - Main Site) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934 · posted 2026-10-27
