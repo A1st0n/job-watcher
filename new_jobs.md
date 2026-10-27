@@ -996,3 +996,4 @@
 - RTX - Embedded Software Engineer 1 (McKinney, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232 · posted 2026-10-08
 - Octasic - Software Developer (Montreal, QC, Canada) https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570 · posted 2026-10-27
 - RTX - Software Engineer 2 (Marlborough, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II--Onsite-_01885126 · posted 2026-10-27
+- Northrop Grumman - 2027 Software Engineering Intern - Boulder CO (United States-Colorado-Boulder) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798 · posted 2026-10-27
