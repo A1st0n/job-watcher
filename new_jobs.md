@@ -1146,3 +1146,5 @@
 - WebFX - Web Developer Intern (Harrisburg, PA) https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true · posted 2026-09-14
 - USAA - Software Engineer (Plano, TX, San Antonio, TX) https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1 · posted 2026-10-28
 - Leidos - Energy & Infrastructure Consulting Summer Intern (Denver, CO) https://leidos.wd5.myworkdayjobs.com/External/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1 · posted 2026-10-28
+- RTX - Software Engineering Intern (Summer 2027) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169 · posted 2026-10-28
+- Hartford - IND Associate Software Engineer (India GCC-Puppalaguda Village) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer_R2627620 · posted 2026-10-28
