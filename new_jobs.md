@@ -1118,3 +1118,4 @@
 - Fellow - Software Engineer New Grad (Ottawa, ON, Canada) https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true · posted 2026-10-02
 - Takt - Associate Software Engineer - Frontend (Reston, VA) https://jobs.ashbyhq.com/takt/e1e94261-9016-42c8-ab86-3b5adaf3cb98/application?embed=true · posted 2026-08-24
 - StarTree - Software Engineer 1 (Remote in USA) https://job-boards.greenhouse.io/startree/jobs/6235909004 · posted 2026-10-28
+- HP - College Intern - Firmware Engineering (Singapore, South West, Singapore) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1 · posted 2026-10-28
