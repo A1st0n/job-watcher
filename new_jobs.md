@@ -1149,3 +1149,6 @@
 - RTX - Software Engineering Intern (Summer 2027) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169 · posted 2026-10-28
 - Hartford - IND Associate Software Engineer (India GCC-Puppalaguda Village) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer_R2627620 · posted 2026-10-28
 - Amgen - Associate Software Engineer - Full Stack (India - Hyderabad) https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Software-Engineer--Full-Stack-_R-246001 · posted 30+ days ago
+- T-Mobile - Summer 2027 Software Engineering Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441 · posted 2026-10-28
+- Samsara - Software Engineer I (New Grad) (London - UK2) https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345 · posted 2026-08-05
+- Samsara - Software Engineering Internship - London (London - UK2) https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093 · posted 2026-08-03
