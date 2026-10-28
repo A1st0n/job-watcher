@@ -1132,3 +1132,8 @@
 - VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046 · posted 2026-10-28
 - Nasdaq - Software Developer Intern - Summer 2027 (Sweden - Skolgatan - Umeå) https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232 · posted 2026-10-28
 - Boeing - Associate Software Engineer (USA - Huntsville, AL) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135 · posted 2026-10-28
+- WorldEngine AI - Research Intern - Robotics Data - Real-to-Sim (SF) https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true · posted 2026-10-28
+- Infleqtion - Quantum Software Intern - Quantum Software (Chicago, IL) https://apply.workable.com/coldquanta/j/EB77DE8198/apply · posted 2026-10-28
+- Allegion - Software Systems Engineering Intern (Golden, CO) https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1 · posted 2026-10-28
+- Leidos - Junior Software Engineer (Bethesda, MD) https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656 · posted 2026-10-28
+- Northrop Grumman - Associate Software Engineer / Software Engineer (Huntsville, AL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986 · posted 2026-10-28
