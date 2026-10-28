@@ -1119,3 +1119,4 @@
 - Takt - Associate Software Engineer - Frontend (Reston, VA) https://jobs.ashbyhq.com/takt/e1e94261-9016-42c8-ab86-3b5adaf3cb98/application?embed=true · posted 2026-08-24
 - StarTree - Software Engineer 1 (Remote in USA) https://job-boards.greenhouse.io/startree/jobs/6235909004 · posted 2026-10-28
 - HP - College Intern - Firmware Engineering (Singapore, South West, Singapore) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1 · posted 2026-10-28
+- Stripe - Software Engineer, New Grad (Bangalore) https://stripe.com/jobs/search?gh_jid=8130876 · posted 2026-10-28
