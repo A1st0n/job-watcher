@@ -1120,3 +1120,4 @@
 - StarTree - Software Engineer 1 (Remote in USA) https://job-boards.greenhouse.io/startree/jobs/6235909004 · posted 2026-10-28
 - HP - College Intern - Firmware Engineering (Singapore, South West, Singapore) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1 · posted 2026-10-28
 - Stripe - Software Engineer, New Grad (Bangalore) https://stripe.com/jobs/search?gh_jid=8130876 · posted 2026-10-28
+- Bosch - [SX/BSV-VN] Embedded Test Engineer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000158244934 · posted 2026-10-28
