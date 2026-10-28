@@ -1139,3 +1139,9 @@
 - Northrop Grumman - Associate Software Engineer / Software Engineer (Huntsville, AL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986 · posted 2026-10-28
 - Intuitive Surgical - Manufacturing Software Engineering Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000158313919 · posted 2026-10-28
 - Intuitive Surgical - Robotics Engineering Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000158313717 · posted 2026-10-28
+- Ace Hardware - IT Associate Software Engineer Intern (Oak Brook, IL) https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797 · posted 2026-10-28
+- RTX - Software Engineer Co-op (Marlborough, MA, Tewksbury, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371 · posted 2026-10-28
+- Sonos - Software Product Management Intern (Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1 · posted 2026-10-28
+- Autodesk - Software Engineer Intern - Javascript (Sheffield, UK) https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2 · posted 2026-10-28
+- WebFX - Web Developer Intern (Harrisburg, PA) https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true · posted 2026-09-14
+- USAA - Software Engineer (Plano, TX, San Antonio, TX) https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1 · posted 2026-10-28
