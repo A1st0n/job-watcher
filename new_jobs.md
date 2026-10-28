@@ -1092,3 +1092,4 @@
 - Options Technology - PHP/SQL Web Developer (Cambridge, UK) https://jobs.ashbyhq.com/options-it/cb8e50e4-5ef8-4140-bcb6-2193e047cfb8/application?embed=true · posted 2026-09-22
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137 · posted 2026-10-28
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69896-1 · posted 2026-10-28
+- Intel - AI Software Engineer Intern (3 Locations) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692 · posted 2026-10-28
