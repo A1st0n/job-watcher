@@ -1152,3 +1152,4 @@
 - T-Mobile - Summer 2027 Software Engineering Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441 · posted 2026-10-28
 - Samsara - Software Engineer I (New Grad) (London - UK2) https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345 · posted 2026-08-05
 - Samsara - Software Engineering Internship - London (London - UK2) https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093 · posted 2026-08-03
+- Glean - Software Engineer, University Grad (Mountain View, CA) https://job-boards.greenhouse.io/gleanwork/jobs/4748567005 · posted 2026-10-28
