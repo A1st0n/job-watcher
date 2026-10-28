@@ -1129,3 +1129,4 @@
 - VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071 · posted 2026-10-28
 - USAA - Software Engineer - Entry Level (2 Locations) https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1 · posted 2026-10-28
 - Fiserv - Android Application Framework Developer - Device Engineering (Sunnyvale, CA) https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880 · posted 2026-10-13
+- VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046 · posted 2026-10-28
