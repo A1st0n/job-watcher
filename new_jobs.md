@@ -1093,3 +1093,22 @@
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137 · posted 2026-10-28
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69896-1 · posted 2026-10-28
 - Intel - AI Software Engineer Intern (3 Locations) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692 · posted 2026-10-28
+- Shield AI - Software Engineer Intern (San Diego, CA) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true · posted 2026-09-23
+- Ixian Robotics - Software Intern (SF) https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true · posted 2026-10-22
+- General Magic - Backend Engineer Co-op (Toronto, ON, Canada) https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true · posted 2026-10-16
+- VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068 · posted 2026-10-28
+- VSP Vision - Software Engineer Intern - Technology Innovation (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020 · posted 2026-10-28
+- Mural - Forward Deployed Software Engineer (NYC, Denver, CO) https://jobs.ashbyhq.com/careers.mural/5a15f088-d06a-484a-9d87-79aa9e2ee3a1/application?embed=true · posted 2026-10-08
+- Pure - Software Engineer (NYC) https://jobs.ashbyhq.com/pureapp/c37cdf2d-18a8-417e-b429-16875859a29a/application?embed=true · posted 2026-10-06
+- Pelico - Fullstack Software Engineer - Adk (Boston, MA) https://jobs.ashbyhq.com/pelico/cbf163e3-42c4-4ded-aa1a-f4559e78bbbc/application?embed=true · posted 2026-08-31
+- Veritus - Software Engineer (SF) https://jobs.ashbyhq.com/veritus/0fb55f11-e9b4-4a5f-90f5-f22e8ba38801/application?embed=true · posted 2026-07-22
+- Bags - Junior Full Stack Engineer (NYC) https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4/application?embed=true · posted 2026-08-18
+- Shield AI - Autonomous Software Engineer New Grad (San Diego, CA) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true · posted 2026-10-27
+- Shield AI - Software Engineer 2 New Grad (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true · posted 2026-10-27
+- Nio - AI Robotics Researcher (San Jose, CA) https://jobs.lever.co/nio-usa/aeb18492-fd65-481d-88a3-00dcceb55840/apply · posted 2026-10-28
+- Shield AI - Software Engineer New Grad (Seattle, WA) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true · posted 2026-10-23
+- Shield AI - Software Integration Engineer 1 New Grad - Software Integration (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true · posted 2026-10-27
+- Agave - Full-Stack Software Engineer New Grad (SF) https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application?embed=true · posted 2026-10-27
+- Within - AI Frontend Engineer (SF) https://jobs.ashbyhq.com/within.ai/fc094114-4d6e-4bf5-977f-c5b37d7e33e1/application?embed=true · posted 2026-04-06
+- Within - AI Backend Engineer (SF, NYC) https://jobs.ashbyhq.com/within.ai/99de9d9b-d0c6-42a6-9e4d-2df097dae008/application?embed=true · posted 2026-04-04
+- Boeing - Entry-Level Software Engineer (Maryland Heights, MO, Hazelwood, MO) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1 · posted 2026-10-27
