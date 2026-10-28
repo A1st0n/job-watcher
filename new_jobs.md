@@ -1182,3 +1182,15 @@
 - CCLIM - Quantitative Equity - Quantitative Equity Developer (Vancouver, BC, Canada) https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223796009 · posted 2026-04-21
 - Glean - Software Engineer (Mountain View, CA) https://job-boards.greenhouse.io/gleanwork/jobs/4748567005 · posted 2026-10-28
 - CCLIM - Quantitative Equity - Software Development Engineer (Vancouver, BC, Canada) https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4373010009 · posted 2026-08-17
+- Virtu Financial - Frontend Developer Internship (NYC) https://job-boards.greenhouse.io/virtu/jobs/8657500002 · posted 2026-07-29
+- L3Harris Technologies - Software Engineer Intern (Carlsbad, CA) https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-(Carlsbad,-CA)-CA-92009/1444689600/?ats=successfactors · posted 2026-10-28
+- AMD - Masters AI Training Software & Performance Co-op (San Jose, CA) https://careers.amd.com/jobs/93476?icims=1 · posted 2026-10-28
+- Sonos - Software Engineer Intern (Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885 · posted 2026-10-28
+- Javelin Global Commodities - Software Engineering Intern (London, UK) https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply · posted 2026-10-28
+- Ascensus - Associate Software Engineer (Remote in USA) https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417 · posted 2026-04-30
+- Crusoe - Software Engineer 1 - Network (SF, Sunnyvale, CA) https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true · posted 2026-08-20
+- Ciena - Routing/IP Software Engineer New Grad (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006 · posted 2026-10-28
+- William Hill - Junior Java Developer (Leeds, UK) https://amswh.avature.net/careers/JobDetail/41813 · posted 2026-10-28
+- Motorola Solutions - Software Engineer - Java / Python (Chicago, IL, Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271 · posted 2026-10-28
+- Priceline - Junior Software Engineer - Front End (NYC) https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885 · posted 2026-10-28
+- AMD - Distributed Systems Software Engineer - Collectives (Austin, TX, San Jose, CA) https://careers.amd.com/jobs/93894?icims=1 · posted 2026-10-28
