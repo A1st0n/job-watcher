@@ -1148,3 +1148,4 @@
 - Leidos - Energy & Infrastructure Consulting Summer Intern (Denver, CO) https://leidos.wd5.myworkdayjobs.com/External/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1 · posted 2026-10-28
 - RTX - Software Engineering Intern (Summer 2027) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169 · posted 2026-10-28
 - Hartford - IND Associate Software Engineer (India GCC-Puppalaguda Village) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer_R2627620 · posted 2026-10-28
+- Amgen - Associate Software Engineer - Full Stack (India - Hyderabad) https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Software-Engineer--Full-Stack-_R-246001 · posted 30+ days ago
