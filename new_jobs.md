@@ -1127,3 +1127,5 @@
 - Grayce - Mobile Software Developer - Android / iOS (Burgess Hill, UK) https://apply.workable.com/grayce/j/9D6835622E/apply · posted 2026-10-16
 - RTX - Software Engineer Co-op (January 2027) (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371 · posted 2026-10-28
 - VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071 · posted 2026-10-28
+- USAA - Software Engineer - Entry Level (2 Locations) https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1 · posted 2026-10-28
+- Fiserv - Android Application Framework Developer - Device Engineering (Sunnyvale, CA) https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880 · posted 2026-10-13
