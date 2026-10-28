@@ -1158,3 +1158,27 @@
 - Texas Instruments - Information Technology Intern – Software (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017625 · posted 2026-10-28
 - Northrop Grumman - 2027 Associate Systems Engineer / Systems Engineer (United States-Oklahoma-Oklahoma City) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Systems-Engineer---Systems-Engineer_R10258192 · posted 2026-10-28
 - Rocket Lab - Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8054797003 · posted 2026-10-28
+- Samsara - Software Engineering Intern (London, UK) https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093 · posted 2026-08-03
+- Genesis Molecular AI - Software Engineer Intern (San Mateo, CA, NYC) https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true · posted 2026-09-24
+- Clean Harbors - Software & Field Technology Intern IS (Deer Park, TX) https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672 · posted 2026-10-28
+- ABB - AI Robotics Intern (San Jose, CA) https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846 · posted 2026-10-28
+- RTX - Software Engineer Intern (Sterling, VA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169 · posted 2026-10-28
+- Intuitive Surgical - Manufacturing Software Engineer Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000158313919 · posted 2026-10-28
+- Intuitive Surgical - Robotics Engineer Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000158313717 · posted 2026-10-28
+- LinkedIn - Software Engineer Intern - First Play (Mountain View, CA) https://jobs.smartrecruiters.com/LinkedIn3/744000158394370 · posted 2026-10-28
+- Johnson Controls - Software Engineering Co-op (Burlington, MA) https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2 · posted 2026-10-28
+- CCLIM - Quantitative Equity - Quantitative Equity Developer Intern (Vancouver, BC, Canada) https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383943009 · posted 2026-08-26
+- Micron Technology - Embedded Software Engineer Intern (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959 · posted 2026-10-28
+- Subtotal - Software Engineer Intern (Remote in USA) https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true · posted 2026-10-28
+- T-Mobile - Software Engineer Intern (Overland Park, KS) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441 · posted 2026-10-28
+- Amazon - Robotics Applied Scientist 2 Intern (Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA) https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states · posted 2026-10-28
+- Autodesk - Software Engineer Intern - C++/.Net (Sheffield, UK) https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2 · posted 2026-10-28
+- Samsara - Software Engineer 1 New Grad (London, UK) https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345 · posted 2026-08-05
+- Barclays - Full Stack Developer (Hanover, NJ) https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Full-Stack-Developer_JR-0000098421-1 · posted 2026-10-28
+- Amazon - Software Developer Engineer - Product Knowledge Store (Seattle, WA, United States) https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store · posted 2026-10-28
+- Northrop Grumman - Associate Software Engineer - Pathways Program (Aurora, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160 · posted 2026-10-28
+- Rubrik - Software Engineer - Entra ID (Palo Alto, CA) https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709 · posted 2026-10-28
+- Cambridge Mobile Telematics - Software Engineer, Cloud (Cambridge, MA) https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=8331436 · posted 2026-10-28
+- CCLIM - Quantitative Equity - Quantitative Equity Developer (Vancouver, BC, Canada) https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223796009 · posted 2026-04-21
+- Glean - Software Engineer (Mountain View, CA) https://job-boards.greenhouse.io/gleanwork/jobs/4748567005 · posted 2026-10-28
+- CCLIM - Quantitative Equity - Software Development Engineer (Vancouver, BC, Canada) https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4373010009 · posted 2026-08-17
