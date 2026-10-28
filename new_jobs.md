@@ -1112,3 +1112,9 @@
 - Within - AI Frontend Engineer (SF) https://jobs.ashbyhq.com/within.ai/fc094114-4d6e-4bf5-977f-c5b37d7e33e1/application?embed=true · posted 2026-04-06
 - Within - AI Backend Engineer (SF, NYC) https://jobs.ashbyhq.com/within.ai/99de9d9b-d0c6-42a6-9e4d-2df097dae008/application?embed=true · posted 2026-04-04
 - Boeing - Entry-Level Software Engineer (Maryland Heights, MO, Hazelwood, MO) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1 · posted 2026-10-27
+- Wabtec - Software Engineering Co-op (Schenectady, NY) https://jobs.smartrecruiters.com/Wabtec/3743990016452226 · posted 2026-10-28
+- Certa - Frontend Engineer Intern (London, UK, Remote in India, SF, Jaipur, Rajasthan, India) https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true · posted 2026-10-28
+- Boeing - Entry-Level Software Engineer (Maryland Heights, MO, Hazelwood, MO) https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992 · posted 2026-10-27
+- Fellow - Software Engineer New Grad (Ottawa, ON, Canada) https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true · posted 2026-10-02
+- Takt - Associate Software Engineer - Frontend (Reston, VA) https://jobs.ashbyhq.com/takt/e1e94261-9016-42c8-ab86-3b5adaf3cb98/application?embed=true · posted 2026-08-24
+- StarTree - Software Engineer 1 (Remote in USA) https://job-boards.greenhouse.io/startree/jobs/6235909004 · posted 2026-10-28
