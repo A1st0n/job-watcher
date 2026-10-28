@@ -1131,3 +1131,4 @@
 - Fiserv - Android Application Framework Developer - Device Engineering (Sunnyvale, CA) https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880 · posted 2026-10-13
 - VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046 · posted 2026-10-28
 - Nasdaq - Software Developer Intern - Summer 2027 (Sweden - Skolgatan - Umeå) https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sweden---Skolgatan---Ume/Software-Developer-Intern---Summer-2027_R0027232 · posted 2026-10-28
+- Boeing - Associate Software Engineer (USA - Huntsville, AL) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135 · posted 2026-10-28
