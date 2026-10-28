@@ -1082,3 +1082,11 @@
 - Northrop Grumman - Software Engineer (Redondo Beach, CA, Palmdale, CA, San Diego, CA, El Segundo, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957 · posted 2026-10-27
 - Hyphenate - Software Engineer New Grad (NYC) https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true · posted 2026-08-25
 - Old Mission - Software Engineer New Grad (Chicago, IL) https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true · posted 2026-07-13
+- Relling - Robotics Software Engineer Intern (SF) https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true · posted 2026-10-02
+- NUVACORE - CPU Software Intern (Markham, ON, Canada) https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply · posted 2026-10-28
+- Samsung - Power-Thermal Simulation Software Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003 · posted 2026-10-28
+- RTX - Receiver – & Processing Architecture Software Engineer Intern - Exciter (Marlborough, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187 · posted 2026-10-27
+- Relling - Robotics Software Engineer New Grad (SF) https://jobs.ashbyhq.com/relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e/application?embed=true · posted 2026-10-02
+- Amplitude - Software Engineer 1 (SF) https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application?embed=true · posted 2026-10-07
+- CoreTech Security Services - Graduate Software Engineer (Cheltenham, UK) https://jobs.eu.lever.co/coretechsecurity/31809178-6182-46d2-9baf-700f410a45de/apply · posted 2026-10-28
+- Options Technology - PHP/SQL Web Developer (Cambridge, UK) https://jobs.ashbyhq.com/options-it/cb8e50e4-5ef8-4140-bcb6-2193e047cfb8/application?embed=true · posted 2026-09-22
