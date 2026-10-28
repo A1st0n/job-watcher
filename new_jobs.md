@@ -1121,3 +1121,7 @@
 - HP - College Intern - Firmware Engineering (Singapore, South West, Singapore) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1 · posted 2026-10-28
 - Stripe - Software Engineer, New Grad (Bangalore) https://stripe.com/jobs/search?gh_jid=8130876 · posted 2026-10-28
 - Bosch - [SX/BSV-VN] Embedded Test Engineer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000158244934 · posted 2026-10-28
+- Northrop Grumman - 2027 Associate Software Engineer / Software Engineer - Huntsville AL (United States-Alabama-Huntsville) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986 · posted 2026-10-28
+- Latent Defense - Software Engineer Intern (NYC) https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487/application?embed=true · posted 2026-04-15
+- RosaicLabs - Software Engineering Intern (Austin, TX, Santa Clara, CA) https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply · posted 2026-10-28
+- Grayce - Mobile Software Developer - Android / iOS (Burgess Hill, UK) https://apply.workable.com/grayce/j/9D6835622E/apply · posted 2026-10-16
