@@ -1156,3 +1156,5 @@
 - Micron - Intern - Embedded Software Engineer (Boise, ID - SIG Building) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959 · posted 2026-10-28
 - RTX - Radar Systems Engineer I (On-Site) (US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Radar-Systems-Engineer-I--On-Site-_01857088 · posted 2026-10-28
 - Texas Instruments - Information Technology Intern – Software (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017625 · posted 2026-10-28
+- Northrop Grumman - 2027 Associate Systems Engineer / Systems Engineer (United States-Oklahoma-Oklahoma City) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Systems-Engineer---Systems-Engineer_R10258192 · posted 2026-10-28
+- Rocket Lab - Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8054797003 · posted 2026-10-28
