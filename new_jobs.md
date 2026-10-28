@@ -1066,3 +1066,19 @@
 - Intuit - Software Developer 1 (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744 · posted 2026-10-27
 - Intuit - Software Developer 1 - API Management Platform (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064 · posted 2026-10-27
 - Motorola Solutions - Software Engineer Intern (Ho Chi Minh, Vietnam) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931 · posted 2026-10-28
+- GrayMatter Robotics - Robotics Engineering Intern: Systems & Applications (Carson, CA) https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true · posted 2026-10-28
+- Skyband Systems - Software Engineer Intern (Kirkland, WA) https://jobs.ashbyhq.com/skyband%20systems/84c94947-8a35-46a7-86b2-1867b31c92e9/application?embed=true · posted 2026-10-01
+- Hyphenate - Software Engineer Intern (NYC) https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application?embed=true · posted 2026-08-25
+- FUTO - Software Engineer Intern (Austin, TX) https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply · posted 2026-10-28
+- Old Mission - Software Engineer Intern (Chicago, IL) https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true · posted 2026-07-15
+- Bridge Neurotech - Machine Learning Software Engineer Intern (Redwood City, CA) https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf/application?embed=true · posted 2026-10-12
+- Powertown - Machine Learning Engineer Intern (Boston, MA) https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true · posted 2026-09-05
+- Integrate - Software Engineer Intern (Seattle, WA) https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true · posted 2026-10-20
+- Paccar - Application Developer Intern (Chillicothe, OH) https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors · posted 2026-10-28
+- Zus Health - Data Acquisition Software Engineer Co-op (Boston, MA) https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c/application?embed=true · posted 2026-10-14
+- Zus Health - Platform Software Engineering Co-op (Boston, MA) https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a/application?embed=true · posted 2026-10-22
+- Elveo - Flight Software Engineer (Chantilly, VA) https://jobs.ashbyhq.com/elveo/5ff6f792-dbe9-49ed-80df-52f0079e0189/application?embed=true · posted 2026-09-12
+- Viggle AI - Full-Stack Software Engineer New Grad - AI & 3D Creator Tools (Toronto, ON, Canada) https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true · posted 2026-09-16
+- Northrop Grumman - Software Engineer (Redondo Beach, CA, Palmdale, CA, San Diego, CA, El Segundo, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957 · posted 2026-10-27
+- Hyphenate - Software Engineer New Grad (NYC) https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true · posted 2026-08-25
+- Old Mission - Software Engineer New Grad (Chicago, IL) https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true · posted 2026-07-13
