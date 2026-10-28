@@ -1145,3 +1145,4 @@
 - Autodesk - Software Engineer Intern - Javascript (Sheffield, UK) https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2 · posted 2026-10-28
 - WebFX - Web Developer Intern (Harrisburg, PA) https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true · posted 2026-09-14
 - USAA - Software Engineer (Plano, TX, San Antonio, TX) https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1 · posted 2026-10-28
+- Leidos - Energy & Infrastructure Consulting Summer Intern (Denver, CO) https://leidos.wd5.myworkdayjobs.com/External/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1 · posted 2026-10-28
