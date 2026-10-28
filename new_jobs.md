@@ -1090,3 +1090,4 @@
 - Amplitude - Software Engineer 1 (SF) https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application?embed=true · posted 2026-10-07
 - CoreTech Security Services - Graduate Software Engineer (Cheltenham, UK) https://jobs.eu.lever.co/coretechsecurity/31809178-6182-46d2-9baf-700f410a45de/apply · posted 2026-10-28
 - Options Technology - PHP/SQL Web Developer (Cambridge, UK) https://jobs.ashbyhq.com/options-it/cb8e50e4-5ef8-4140-bcb6-2193e047cfb8/application?embed=true · posted 2026-09-22
+- Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137 · posted 2026-10-28
