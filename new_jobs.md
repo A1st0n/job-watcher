@@ -1126,3 +1126,4 @@
 - RosaicLabs - Software Engineering Intern (Austin, TX, Santa Clara, CA) https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply · posted 2026-10-28
 - Grayce - Mobile Software Developer - Android / iOS (Burgess Hill, UK) https://apply.workable.com/grayce/j/9D6835622E/apply · posted 2026-10-16
 - RTX - Software Engineer Co-op (January 2027) (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371 · posted 2026-10-28
+- VSP Vision - Software Engineer Intern (Remote in USA) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071 · posted 2026-10-28
