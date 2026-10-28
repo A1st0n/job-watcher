@@ -1137,3 +1137,5 @@
 - Allegion - Software Systems Engineering Intern (Golden, CO) https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1 · posted 2026-10-28
 - Leidos - Junior Software Engineer (Bethesda, MD) https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656 · posted 2026-10-28
 - Northrop Grumman - Associate Software Engineer / Software Engineer (Huntsville, AL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986 · posted 2026-10-28
+- Intuitive Surgical - Manufacturing Software Engineering Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000158313919 · posted 2026-10-28
+- Intuitive Surgical - Robotics Engineering Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000158313717 · posted 2026-10-28
