@@ -1065,3 +1065,4 @@
 - SAIC - Software Engineer Associate (Crane, IN) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618492 · posted 2026-10-27
 - Intuit - Software Developer 1 (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744 · posted 2026-10-27
 - Intuit - Software Developer 1 - API Management Platform (Toronto, ON, Canada) https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064 · posted 2026-10-27
+- Motorola Solutions - Software Engineer Intern (Ho Chi Minh, Vietnam) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931 · posted 2026-10-28
