@@ -1244,3 +1244,4 @@
 - Booz Allen - Software Developer Intern - University (Atlanta, GA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138 · posted 2026-08-28
 - Tesla - Software Engineer Intern - Software Engineer - Infotainment Platforms Validation (Palo Alto, CA) https://www.tesla.com/careers/search/job/286261 · posted 2026-10-09
 - Cloudflare - Systems Engineer - Browser Isolation (United States) https://boards.greenhouse.io/cloudflare/jobs/8276155 · posted 2026-10-13
+- West Monroe - Software Engineering Consultant Intern - AI Concentration (NYC) https://westmonroe.com/careers/job-details-students?gh_jid=6181199004 · posted 2026-10-06
