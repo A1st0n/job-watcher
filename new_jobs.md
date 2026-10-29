@@ -1247,3 +1247,6 @@
 - West Monroe - Software Engineering Consultant Intern - AI Concentration (NYC) https://westmonroe.com/careers/job-details-students?gh_jid=6181199004 · posted 2026-10-06
 - Capital de Recherche Tower - Software Developer Intern (Montreal, QC, Canada) https://www.tower-research.ca/postes-vacants/?gh_jid=8212194 · posted 2026-09-17
 - Capital de Recherche Tower - C++ Software Developer New Grad (Montreal, QC, Canada) https://www.tower-research.ca/postes-vacants/?gh_jid=8126668 · posted 2026-09-15
+- Amazon - 2027 Software Dev Engineer Intern - Haifa, Israel (Haifa, Haifa, ISR) https://www.amazon.jobs/en/jobs/10592105/2027-software-dev-engineer-intern-haifa-israel · posted 2026-10-29
+- Amazon - 2027 Software Dev Engineer Intern - Tel-Aviv, Israel (Tel Aviv-Yafo, Tel Aviv, ISR) https://www.amazon.jobs/en/jobs/10592104/2027-software-dev-engineer-intern-tel-aviv-israel · posted 2026-10-29
+- Nuclear Graduates - Graduate Software Engineer New Grad (United Kingdom) https://nucleargraduates.com/careers/?gh_jid=4967926101 · posted 2026-09-03
