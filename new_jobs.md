@@ -1324,3 +1324,4 @@
 - Ciena - Photonic Card Software Developer New Grad (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379 · posted 2026-08-11
 - RTX - Software Engineer 1 (San Jose, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857 · posted 2026-10-29
 - Queueco - Quantitative Developer Graduate (London, UK) https://apply.workable.com/queueco/j/4E1AB7A939/apply · posted 2026-10-29
+- Northrop Grumman - 2027 Systems Engineering Intern - Boulder CO (United States-Colorado-Boulder) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1 · posted 2026-10-29
