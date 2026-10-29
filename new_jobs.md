@@ -1250,3 +1250,6 @@
 - Amazon - 2027 Software Dev Engineer Intern - Haifa, Israel (Haifa, Haifa, ISR) https://www.amazon.jobs/en/jobs/10592105/2027-software-dev-engineer-intern-haifa-israel · posted 2026-10-29
 - Amazon - 2027 Software Dev Engineer Intern - Tel-Aviv, Israel (Tel Aviv-Yafo, Tel Aviv, ISR) https://www.amazon.jobs/en/jobs/10592104/2027-software-dev-engineer-intern-tel-aviv-israel · posted 2026-10-29
 - Nuclear Graduates - Graduate Software Engineer New Grad (United Kingdom) https://nucleargraduates.com/careers/?gh_jid=4967926101 · posted 2026-09-03
+- Tesla - Distributed Systems Software Engineer Intern - Energy Engineering (Palo Alto, CA) https://www.tesla.com/careers/search/job/285508 · posted 2026-10-02
+- KLA - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721 · posted 2026-10-29
+- KLA - System Software Engineer - Distributed Computing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720 · posted 2026-10-29
