@@ -1299,3 +1299,28 @@
 - SAIC - MACH-TB Junior Mission Systems Engineer (Crane, IN, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618619 · posted 2026-10-29
 - Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast (Austin, Texas, USA) https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast · posted 2026-10-29
 - RTX - Systems Engineer I (US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673 · posted 2026-10-29
+- RTX - Systems Engineer I- Onsite (US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineer-I_01874215 · posted 2026-10-29
+- Qualcomm - AI Software Engineering Co-op Intern (Toronto, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446721862429 · posted 2026-10-29
+- Qualcomm - AI Software Systems Co-op Intern (Toronto, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446721862430 · posted 2026-10-29
+- SmartFlower Solar - Embedded Systems Engineering Intern (Woburn, MA) https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/apply · posted 2026-10-29
+- Altera - Software Engineer Intern - Factory Apps (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384 · posted 2026-10-29
+- Ciena - Embedded Software Engineer Co-op (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005 · posted 2026-10-29
+- KLA Corporation - Software Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642700 · posted 2026-10-29
+- Interco - Software Development Intern - Software Development - React (St. Louis, MO) https://jobs.smartrecruiters.com/Interco/744000158581114 · posted 2026-10-29
+- RTX - Software Engineer Intern (Sterling, VA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791 · posted 2026-10-29
+- Danaher - Application Integration Developer Intern (Brea, CA) https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Intern---Application-Integration-Developer_R1316677 · posted 2026-10-29
+- Golden Analytics - Software Engineer Intern (Bellevue, WA) https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5 · posted 2026-10-29
+- General Motors - AI/ML Engineer Intern - Autonomous Vehicles (Seattle, WA, Sunnyvale, CA) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439 · posted 2026-10-29
+- Western Magnetics - Software Engineer Intern (South SF) https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882/application?embed=true · posted 2026-10-29
+- Schweitzer Engineering Laboratories - Software Engineer Intern (Charlotte, NC) https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468 · posted 2026-10-29
+- Path Robotics - Machine Learning & Robotics Intern (Columbus, OH) https://boards.greenhouse.io/pathrobotics/jobs/8924241002 · posted 2026-10-29
+- KLA - Software Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1 · posted 2026-10-29
+- Tyler Technologies - Software Development Intern (Troy, MI, Overland Park, KS) https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false · posted 2026-09-28
+- Amazon - Front-End Engineer (Seattle, WA) https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us · posted 2026-05-22
+- Zoox - Contract Student Worker - Software Engineer (Foster City, CA, San Diego, CA) https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d/apply · posted 2026-10-29
+- Argonne National Laboratory - Robotics Software Developer Postbaccalaureate Appointee - Rapid Prototyping Laboratory (Lemont, IL) https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1 · posted 2026-10-29
+- Booz Allen - Software Developer (Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA) https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252601 · posted 2026-10-29
+- Intelliforce-IT Solutions Group - Junior Software Engineer - Prime (Annapolis Junction, MD) https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime · posted 2026-10-29
+- Ciena - Photonic Card Software Developer New Grad (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379 · posted 2026-08-11
+- RTX - Software Engineer 1 (San Jose, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857 · posted 2026-10-29
+- Queueco - Quantitative Developer Graduate (London, UK) https://apply.workable.com/queueco/j/4E1AB7A939/apply · posted 2026-10-29
