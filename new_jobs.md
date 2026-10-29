@@ -1194,3 +1194,5 @@
 - Motorola Solutions - Software Engineer - Java / Python (Chicago, IL, Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271 · posted 2026-10-28
 - Priceline - Junior Software Engineer - Front End (NYC) https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885 · posted 2026-10-28
 - AMD - Distributed Systems Software Engineer - Collectives (Austin, TX, San Jose, CA) https://careers.amd.com/jobs/93894?icims=1 · posted 2026-10-28
+- HP - Software Systems Intern (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1 · posted 2026-10-29
+- Rocket Lab - Spacecraft Propulsion Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8058455003 · posted 2026-10-28
