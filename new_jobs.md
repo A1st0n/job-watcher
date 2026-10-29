@@ -1198,3 +1198,25 @@
 - Rocket Lab - Spacecraft Propulsion Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8058455003 · posted 2026-10-28
 - HP - Software Engineering Intern - HP IQ (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1 · posted 2026-10-29
 - HP - Software Quality Assurance Intern (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1 · posted 2026-10-29
+- HP - Software Engineering Intern, Connectivity - HP IQ (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1 · posted 2026-10-29
+- HP - Software Product Security Intern - HP IQ (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2 · posted 2026-10-29
+- New York ISO - Software Engineering Co-op - Software Engineering (Rensselaer, NY) https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007 · posted 2026-09-15
+- HP Inc. - Software Systems Intern - IQ (SF) https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801 · posted 2026-10-28
+- HP Inc. - Software Quality Assurance Intern (SF) https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802 · posted 2026-10-28
+- Coveo - Frontend Developer Intern (Montreal, QC, Canada) https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002 · posted 2026-09-28
+- Coveo - Software Developer Intern - Solutions Engineering Core Team (Montreal, QC, Canada) https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002 · posted 2026-10-06
+- Graphcore - Software Engineer Intern - AI Compute Libraries & Performance (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002 · posted 2026-10-20
+- Graphcore - Firmware Engineer Intern (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902588002 · posted 2026-10-20
+- Graphcore - Software Engineer Intern - Drivers and Utilities (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902141002 · posted 2026-10-20
+- Indie - Applications Software Developer Intern (Aliso Viejo, CA) https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007 · posted 2026-10-14
+- Akuna Capital - Junior Quantitative Developer & Strategist (Chicago, IL) https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065051 · posted 2026-07-15
+- Hearst - AI Newsroom Developer Fellow (SF) https://job-boards.greenhouse.io/hearst/jobs/4466321009 · posted 2026-10-26
+- TextNow - Software Developer - Backend (SF) https://job-boards.greenhouse.io/textnowinc/jobs/4221596009 · posted 2026-05-08
+- TextNow - Software Developer - Android (SF) https://job-boards.greenhouse.io/textnowinc/jobs/4221551009 · posted 2026-05-08
+- Graphcore - Graduate Software Engineer - Accelerator Modelling (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902319002 · posted 2026-10-20
+- Graphcore - Graduate Firmware Engineer (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902146002 · posted 2026-10-20
+- Graphcore - Graduate Software Engineer - Analysis Tools (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902328002 · posted 2026-10-20
+- Graphcore - Graduate Software Engineer - Frameworks (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902281002 · posted 2026-10-20
+- Graphcore - Software Engineer New Grad - AI Compute Libraries & Performance (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002 · posted 2026-10-20
+- Graphcore - Graduate Software Engineer - Drivers and Utilities (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902099002 · posted 2026-10-20
+- Graphcore - Graduate Machine Learning Engineer (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902058002 · posted 2026-10-20
