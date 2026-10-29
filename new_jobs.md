@@ -1294,3 +1294,4 @@
 - Emerson - Software Engineering Intern (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010840 · posted 2026-10-29
 - Leidos - Software Developer Intern (Annapolis Junction, MD) https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829 · posted 2026-10-29
 - Path Robotics - Machine Learning & Robotics Internship 2027 (Columbus, Ohio) https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002 · posted 2026-10-29
+- Johnson & Johnson - Robotics Controls & Autonomy Intern - Robotics R&D (Santa Clara, California, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1 · posted 2026-10-29
