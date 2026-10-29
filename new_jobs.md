@@ -1288,3 +1288,4 @@
 - Sonos - Software Engineer Intern - Partner Engineering (Boston, MA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1 · posted 2026-10-29
 - TSC - Software Engineer 1 (Plymouth, MA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890 · posted 2026-10-29
 - Base Power - Power Systems Engineering Intern (Austin, TX) https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443 · posted 2026-10-29
+- Saronic - Systems Engineer I (Austin, TX) https://jobs.ashbyhq.com/saronic/e7ee6a31-551a-434b-8864-98cc341668b9 · posted 2026-10-29
