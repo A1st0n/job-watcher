@@ -1287,3 +1287,4 @@
 - Burns Engineering - Software Engineer Intern (Pittsburgh, PA) https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009 · posted 2026-10-26
 - Sonos - Software Engineer Intern - Partner Engineering (Boston, MA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1 · posted 2026-10-29
 - TSC - Software Engineer 1 (Plymouth, MA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890 · posted 2026-10-29
+- Base Power - Power Systems Engineering Intern (Austin, TX) https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443 · posted 2026-10-29
