@@ -1257,3 +1257,4 @@
 - KLA Corporation - System Software Engineer - Distributed Computing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1 · posted 2026-10-29
 - CACI - Software Engineering Co-op/Intern - Spring 2027 (Rochester, NY, US) https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160 · posted 2026-10-29
 - CACI - Systems Engineering Co-op/Intern - Spring 2027 (Rochester, NY, US) https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157 · posted 2026-10-29
+- Salesforce - Software Engineer New Grad (Indianapolis, IN, Dallas, TX) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598 · posted 2026-10-27
