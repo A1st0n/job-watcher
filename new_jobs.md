@@ -1233,3 +1233,8 @@
 - HP Inc. - Software Engineer Intern (SF) https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806 · posted 2026-10-28
 - USAFacts - AI & Software Engineer Intern (Bellevue, WA) https://job-boards.greenhouse.io/usafacts/jobs/4472154009 · posted 2026-10-29
 - Atomic Object - Software Developer Accelerator (Grand Rapids, MI, Raleigh, NC, Ann Arbor, MI, Chicago, IL) https://job-boards.greenhouse.io/atomicobject/jobs/4390717009 · posted 2026-09-01
+- Rendezvous Robotics - Software Engineer Intern (Golden, CO) https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009 · posted 2026-09-16
+- Castelion - Embedded Software Engineer Intern (Torrance, CA) https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009 · posted 2026-09-07
+- Rendezvous Robotics - Flight Software Engineer – Early Career (Golden, CO) https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009 · posted 2026-10-22
+- Star Catcher - Software Engineer (Jacksonville, FL) https://job-boards.greenhouse.io/star-catcher/jobs/4438607009 · posted 2026-10-08
+- Castelion - Flight Software Engineer (Torrance, CA) https://job-boards.greenhouse.io/castelioncorporation/jobs/4386832009 · posted 2026-09-07
