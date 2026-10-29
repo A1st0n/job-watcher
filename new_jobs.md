@@ -1277,3 +1277,13 @@
 - Thoughtworks - Software Developer New Grad (Chicago, IL) https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235 · posted 2026-10-29
 - RTX - Software Security Engineer 1 (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443 · posted 2026-10-29
 - Lodestar - Graduate Software Engineer - State Estimation & Prediction - III (LA) https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4965825101 · posted 2026-09-07
+- Northrop Grumman - 2027 Software Test Engineering Intern- Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1 · posted 2026-10-29
+- RTX - Software Engineer I (Onsite) (US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857 · posted 2026-10-29
+- Netcraft - Software Engineer Intern (London, UK, Bath, UK, Manchester, UK) https://job-boards.eu.greenhouse.io/netcraft/jobs/4975674101 · posted 2026-09-21
+- Qube Research & Technologies - Software Engineering Intern - Quantitative Development (Aarhus, Denmark, London, UK, Wrocław, Poland, Paris, France, Amsterdam, Netherlands, Dubai - United Arab Emirates, Zürich, Switzerland) https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002 · posted 2026-09-08
+- Two Six Technologies - Systems Software Engineer Intern (Arlington County, Arlington, VA) https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004 · posted 2026-10-29
+- Mantari - Software Engineering Intern (LA) https://job-boards.greenhouse.io/mantari/jobs/4173646009 · posted 2026-03-05
+- OLIX - Software Engineer Intern (London, UK) https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true · posted 2026-10-29
+- Burns Engineering - Software Engineer Intern (Pittsburgh, PA) https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009 · posted 2026-10-26
+- Sonos - Software Engineer Intern - Partner Engineering (Boston, MA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1 · posted 2026-10-29
+- TSC - Software Engineer 1 (Plymouth, MA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890 · posted 2026-10-29
