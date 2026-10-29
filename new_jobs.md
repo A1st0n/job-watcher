@@ -1196,3 +1196,5 @@
 - AMD - Distributed Systems Software Engineer - Collectives (Austin, TX, San Jose, CA) https://careers.amd.com/jobs/93894?icims=1 · posted 2026-10-28
 - HP - Software Systems Intern (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1 · posted 2026-10-29
 - Rocket Lab - Spacecraft Propulsion Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8058455003 · posted 2026-10-28
+- HP - Software Engineering Intern - HP IQ (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1 · posted 2026-10-29
+- HP - Software Quality Assurance Intern (San Francisco, California, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1 · posted 2026-10-29
