@@ -1295,3 +1295,5 @@
 - Leidos - Software Developer Intern (Annapolis Junction, MD) https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829 · posted 2026-10-29
 - Path Robotics - Machine Learning & Robotics Internship 2027 (Columbus, Ohio) https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002 · posted 2026-10-29
 - Johnson & Johnson - Robotics Controls & Autonomy Intern - Robotics R&D (Santa Clara, California, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1 · posted 2026-10-29
+- RTX - Software Engineer I (Onsite) (US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432 · posted 2026-10-29
+- SAIC - MACH-TB Junior Mission Systems Engineer (Crane, IN, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618619 · posted 2026-10-29
