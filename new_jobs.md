@@ -1239,3 +1239,4 @@
 - Star Catcher - Software Engineer (Jacksonville, FL) https://job-boards.greenhouse.io/star-catcher/jobs/4438607009 · posted 2026-10-08
 - Castelion - Flight Software Engineer (Torrance, CA) https://job-boards.greenhouse.io/castelioncorporation/jobs/4386832009 · posted 2026-09-07
 - KLA - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1 · posted 2026-10-29
+- TransUnion - Associate Software Engineer (Bengaluru) https://transunion.wd5.myworkdayjobs.com/Transunion/job/Bengaluru/Associate-Software-Engineer_19042895 · posted 2026-10-29
