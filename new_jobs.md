@@ -1259,3 +1259,21 @@
 - CACI - Systems Engineering Co-op/Intern - Spring 2027 (Rochester, NY, US) https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157 · posted 2026-10-29
 - Salesforce - Software Engineer New Grad (Indianapolis, IN, Dallas, TX) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598 · posted 2026-10-27
 - Accenture - Junior DevOps Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Junior-DevOps-Engineer_R00358855 · posted 2026-10-29
+- RTX - Software Engineering Intern (Summer 2027) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791 · posted 2026-10-29
+- Altera - FPGA Software Design Engineer Intern (Marlow, UK) https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749 · posted 2026-10-29
+- CIBC - AI Developer Co-op - Bilingual (Montreal, QC, Canada) https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390 · posted 2026-10-29
+- CACI - Systems Engineering Co-op Intern (Rochester, NY) https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157 · posted 2026-10-29
+- JM Family - Software Engineer Intern (Deerfield Beach, FL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158 · posted 2026-10-29
+- CACI - Software Engineering Co-op Intern (Rochester, NY) https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160 · posted 2026-10-29
+- Quantiq - Software Developer Intern (Austin, TX) https://job-boards.greenhouse.io/quantiq/jobs/4287936009 · posted 2026-06-17
+- Riverlane - Software Engineering Intern (Cambridge, UK) https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies · posted 2026-10-09
+- Advanced Space - Software Engineer Intern (Westminster, CO) https://job-boards.greenhouse.io/advancedspace/jobs/4324855009 · posted 2026-08-24
+- Astronics - Software Engineer Intern (Kirkland, WA) https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009 · posted 2026-10-05
+- First Due - Cloud Security Software Engineer (Remote in USA) https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009 · posted 2026-08-13
+- Beauhurst - Junior Web Developer (Nottingham, UK) https://job-boards.greenhouse.io/beauhurst/jobs/8375802002 · posted 2026-10-23
+- Quantiq - Software Developer New Grad (Austin, TX) https://job-boards.greenhouse.io/quantiq/jobs/4280650009 · posted 2026-06-11
+- Quantiq - Hardware Developer New Grad (Chicago, IL) https://job-boards.greenhouse.io/quantiq/jobs/4280673009 · posted 2026-06-11
+- Thoughtworks - Associate Developer (Toronto, ON, Canada) https://www.thoughtworks.com/careers/jobs/8333236?gh_jid=8333236 · posted 2026-10-29
+- Thoughtworks - Software Developer New Grad (Chicago, IL) https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235 · posted 2026-10-29
+- RTX - Software Security Engineer 1 (El Segundo, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443 · posted 2026-10-29
+- Lodestar - Graduate Software Engineer - State Estimation & Prediction - III (LA) https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4965825101 · posted 2026-09-07
