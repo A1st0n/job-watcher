@@ -1228,3 +1228,4 @@
 - General Dynamics Information Technology - AI/ML Software Development and Engineering Intern (Bossier City, LA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939 · posted 2026-09-26
 - Human Interest - Software Engineer 1 (SF) https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833 · posted 2026-08-19
 - i360technologies - Oracle Analytics FDI Developer (Washington, DC) https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009 · posted 2026-10-14
+- Bosch - Intern, Software Development (Singapore, Singapore) https://jobs.smartrecruiters.com/BoschGroup/744000158429749 · posted 2026-10-29
