@@ -1220,3 +1220,11 @@
 - Graphcore - Software Engineer New Grad - AI Compute Libraries & Performance (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002 · posted 2026-10-20
 - Graphcore - Graduate Software Engineer - Drivers and Utilities (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902099002 · posted 2026-10-20
 - Graphcore - Graduate Machine Learning Engineer (Bristol, UK) https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902058002 · posted 2026-10-20
+- HP Inc. - Software Engineer Intern (SF) https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1 · posted 2026-10-28
+- HP Inc. - Software Systems Intern - IQ (SF) https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1 · posted 2026-10-28
+- HP Inc. - Software Engineer Intern - Connectivity (SF) https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1 · posted 2026-10-28
+- HP Inc. - Software Quality Assurance Intern (SF) https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1 · posted 2026-10-28
+- Boston Scientific - R&D Software Design Intern (Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813862687 · posted 2026-10-29
+- General Dynamics Information Technology - AI/ML Software Development and Engineering Intern (Bossier City, LA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939 · posted 2026-09-26
+- Human Interest - Software Engineer 1 (SF) https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833 · posted 2026-08-19
+- i360technologies - Oracle Analytics FDI Developer (Washington, DC) https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009 · posted 2026-10-14
