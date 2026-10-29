@@ -1241,3 +1241,6 @@
 - KLA - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1 · posted 2026-10-29
 - TransUnion - Associate Software Engineer (Bengaluru) https://transunion.wd5.myworkdayjobs.com/Transunion/job/Bengaluru/Associate-Software-Engineer_19042895 · posted 2026-10-29
 - Western Digital - Internship - Software Engineering (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/WesternDigital/744000158456500 · posted 2026-10-29
+- Booz Allen - Software Developer Intern - University (Atlanta, GA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138 · posted 2026-08-28
+- Tesla - Software Engineer Intern - Software Engineer - Infotainment Platforms Validation (Palo Alto, CA) https://www.tesla.com/careers/search/job/286261 · posted 2026-10-09
+- Cloudflare - Systems Engineer - Browser Isolation (United States) https://boards.greenhouse.io/cloudflare/jobs/8276155 · posted 2026-10-13
