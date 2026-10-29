@@ -1255,3 +1255,5 @@
 - KLA - System Software Engineer - Distributed Computing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720 · posted 2026-10-29
 - KLA Corporation - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1 · posted 2026-10-29
 - KLA Corporation - System Software Engineer - Distributed Computing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1 · posted 2026-10-29
+- CACI - Software Engineering Co-op/Intern - Spring 2027 (Rochester, NY, US) https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160 · posted 2026-10-29
+- CACI - Systems Engineering Co-op/Intern - Spring 2027 (Rochester, NY, US) https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157 · posted 2026-10-29
