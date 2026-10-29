@@ -1229,3 +1229,7 @@
 - Human Interest - Software Engineer 1 (SF) https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833 · posted 2026-08-19
 - i360technologies - Oracle Analytics FDI Developer (Washington, DC) https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009 · posted 2026-10-14
 - Bosch - Intern, Software Development (Singapore, Singapore) https://jobs.smartrecruiters.com/BoschGroup/744000158429749 · posted 2026-10-29
+- HP Inc. - Software Engineer Intern - Connectivity (SF) https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812 · posted 2026-10-28
+- HP Inc. - Software Engineer Intern (SF) https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806 · posted 2026-10-28
+- USAFacts - AI & Software Engineer Intern (Bellevue, WA) https://job-boards.greenhouse.io/usafacts/jobs/4472154009 · posted 2026-10-29
+- Atomic Object - Software Developer Accelerator (Grand Rapids, MI, Raleigh, NC, Ann Arbor, MI, Chicago, IL) https://job-boards.greenhouse.io/atomicobject/jobs/4390717009 · posted 2026-09-01
