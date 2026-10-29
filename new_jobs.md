@@ -1253,3 +1253,5 @@
 - Tesla - Distributed Systems Software Engineer Intern - Energy Engineering (Palo Alto, CA) https://www.tesla.com/careers/search/job/285508 · posted 2026-10-02
 - KLA - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721 · posted 2026-10-29
 - KLA - System Software Engineer - Distributed Computing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720 · posted 2026-10-29
+- KLA Corporation - Software Engineer Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1 · posted 2026-10-29
+- KLA Corporation - System Software Engineer - Distributed Computing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1 · posted 2026-10-29
