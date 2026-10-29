@@ -1245,3 +1245,5 @@
 - Tesla - Software Engineer Intern - Software Engineer - Infotainment Platforms Validation (Palo Alto, CA) https://www.tesla.com/careers/search/job/286261 · posted 2026-10-09
 - Cloudflare - Systems Engineer - Browser Isolation (United States) https://boards.greenhouse.io/cloudflare/jobs/8276155 · posted 2026-10-13
 - West Monroe - Software Engineering Consultant Intern - AI Concentration (NYC) https://westmonroe.com/careers/job-details-students?gh_jid=6181199004 · posted 2026-10-06
+- Capital de Recherche Tower - Software Developer Intern (Montreal, QC, Canada) https://www.tower-research.ca/postes-vacants/?gh_jid=8212194 · posted 2026-09-17
+- Capital de Recherche Tower - C++ Software Developer New Grad (Montreal, QC, Canada) https://www.tower-research.ca/postes-vacants/?gh_jid=8126668 · posted 2026-09-15
