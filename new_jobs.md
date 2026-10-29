@@ -1291,3 +1291,4 @@
 - Saronic - Systems Engineer I (Austin, TX) https://jobs.ashbyhq.com/saronic/e7ee6a31-551a-434b-8864-98cc341668b9 · posted 2026-10-29
 - KLA - Software Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1 · posted 2026-10-29
 - Johnson & Johnson - Electrical Engineering Intern - Robotics R&D (Santa Clara, California, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1 · posted 2026-10-29
+- Emerson - Software Engineering Intern (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010840 · posted 2026-10-29
