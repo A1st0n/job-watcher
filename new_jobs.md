@@ -1325,3 +1325,44 @@
 - RTX - Software Engineer 1 (San Jose, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857 · posted 2026-10-29
 - Queueco - Quantitative Developer Graduate (London, UK) https://apply.workable.com/queueco/j/4E1AB7A939/apply · posted 2026-10-29
 - Northrop Grumman - 2027 Systems Engineering Intern - Boulder CO (United States-Colorado-Boulder) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Systems-Engineering-Intern---Boulder-CO_R10258456-1 · posted 2026-10-29
+- Toyota Research Institute - Robotics Intern - Human-Machine Interaction Research (Los Altos, CA) https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8/apply · posted 2026-10-29
+- Garda Capital Partners - Software Engineer Intern - C# (Wayzata, MN) https://job-boards.greenhouse.io/gardacp/jobs/6238021004 · posted 2026-10-28
+- Toyota Research Institute - Human Interactive Driving Intern - Platform Research Systems Integration (Los Altos, CA) https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3/apply · posted 2026-10-29
+- GlobalFoundries - Digital Design Backend Engineering Intern - 3D and AI Flows (Santa Clara, CA) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355 · posted 2026-10-29
+- Samsung - Systems Software Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003 · posted 2026-10-29
+- NVIDIA - Compiler Software Engineer Intern (Redmond, WA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607 · posted 2026-10-29
+- NVIDIA - AI Systems Software Engineer Intern (Austin, TX) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170 · posted 2026-10-29
+- Great American Insurance Company - DevOps Developer Intern (Cincinnati, OH) https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826 · posted 2026-10-29
+- Great American Insurance Company - Content Publishing Developer Intern (Cincinnati, OH) https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813 · posted 2026-10-29
+- CareSource - Full Stack AI Development Intern (Remote in USA) https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181 · posted 2026-10-29
+- Overland AI - Software Engineering Intern (Seattle, WA) https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e · posted 2026-10-29
+- Northrop Grumman - Systems Engineer Intern (Woodland Hills, LA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1 · posted 2026-10-29
+- Leidos - Software Developer Intern (Annapolis Junction, MD) https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829 · posted 2026-10-29
+- SOTI - Software Developer Intern (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611 · posted 2026-10-29
+- Waggoner Financial - Software Engineer Intern (Lansing, MI) https://apply.workable.com/waggoner-financial/j/FA0B644142/apply · posted 2026-10-29
+- Baker Hughes - Software Engineer Intern (Cramlington, UK) https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R171503 · posted 2026-10-29
+- Genius AI - Software Engineer Intern (NYC) https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27/application?embed=true · posted 2026-10-29
+- Moog  - Associate Software Engineer (Santa Barbara, CA) https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229 · posted 2026-04-23
+- Amazon - Software Privacy Engineer - Multiple Teams (Bellevue, WA) https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa · posted 2026-10-29
+- Amazon - Software Development Engineer (Cupertino, CA) https://amazon.jobs/en/jobs/10592066/software-development-engineer · posted 2026-10-29
+- CACI - Front End Software Developer (Aurora, CO, Sterling, VA) https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Front-End-Software-Developer_334352 · posted 2026-10-29
+- Analog Devices - Associate System Platforms Engineer - FPGA - Software (Durham, NC) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Platforms-Engineer--FPGA-and-Software-_R266680 · posted 2026-10-29
+- Johns Hopkins Applied Physics Laboratory - Software Systems Engineer (Laurel, MD) https://careers.jhuapl.edu/jobs/60601?icims=1 · posted 2026-10-29
+- neurohire.ai - Software Developer (Remote in Canada) https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply · posted 2026-10-29
+- Thoughtworks - Associate Developer (Toronto, ON, Canada) https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333236 · posted 2026-10-29
+- Thoughtworks - Software Developer New Grad (Chicago, IL) https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235 · posted 2026-10-29
+- DraftKings - Software Engineer (Boston, MA) https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389 · posted 2026-10-29
+- Morningstar - Associate Software Engineer - Central Tech AI (Chicago, IL) https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108 · posted 2026-10-29
+- Northrop Grumman - Associate Cyber Software Engineer - Pathways Program (Aurora, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279 · posted 2026-10-29
+- Allegion - Software Systems Engineer (Indianapolis, IN) https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Software-Systems-Engineer---Indianapolis--IN_JR38122 · posted 2026-10-29
+- Waggoner Financial - Software Engineer (Lansing, MI) https://apply.workable.com/waggoner-financial/j/ECBC946186/apply · posted 2026-10-29
+- Raydar - Machine Learning Infrastructure Engineer (SF) https://apply.workable.com/raydar/j/6083239DEE/apply · posted 2026-10-29
+- Raydar - Founding Software Engineer (SF) https://apply.workable.com/raydar/j/29870CA1DE/apply · posted 2026-10-29
+- Raydar - Backend Software Engineer (SF) https://apply.workable.com/raydar/j/943D7BFDEF/apply · posted 2026-10-29
+- Raydar - Full Stack Engineer (SF) https://apply.workable.com/raydar/j/2EB8E9A042/apply · posted 2026-10-29
+- Raydar - Hardware Embedded Engineer (SF) https://apply.workable.com/raydar/j/69354E1C00/apply · posted 2026-10-29
+- Raydar - Full-Stack Software Engineer (SF) https://apply.workable.com/raydar/j/247E466DF2/apply · posted 2026-10-29
+- Raydar - Founding Software Engineer - AI Agents (SF) https://apply.workable.com/raydar/j/F452EE23A1/apply · posted 2026-10-29
+- Raydar - Machine Learning Engineer (SF) https://apply.workable.com/raydar/j/B4B389F0C9/apply · posted 2026-10-29
+- Lawrence Livermore National Laboratory (LLNL) - Geographic Information System Software Developer (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016508806 · posted 2026-10-29
+- Citi - Python Developer (NYC) https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1 · posted 2026-10-16
