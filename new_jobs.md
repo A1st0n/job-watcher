@@ -1411,3 +1411,5 @@
 - Capital on Tap - Frontend Software Engineer (London, UK, Porto, Portugal) https://job-boards.greenhouse.io/capitalontap/jobs/8924924002 · posted 2026-10-30
 - TSC - Software Engineer 1 (Huntsville, AL) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897 · posted 2026-10-30
 - BodySpec - Junior Software Engineer (Austin, TX) https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer · posted 2026-10-30
+- Sierra Nevada Corporation - Firmware Engineering Intern (Folsom, CA) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219 · posted 2026-10-30
+- Stripe - Master's Machine Learning Engineer, Intern (Toronto) https://stripe.com/jobs/search?gh_jid=8333122 · posted 2026-10-30
