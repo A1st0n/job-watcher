@@ -1420,3 +1420,4 @@
 - HPE - Software Engineering Intern (Sunnyvale, California, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146 · posted 2026-10-30
 - Analog Devices - Software Engineer Intern (Turkey, Istanbul, Bilisim Vadisi) https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Engineer-Intern_R267005 · posted 2026-10-30
 - Rocket Lab - Flight Software Engineer I (Littleton, CO) https://job-boards.greenhouse.io/rocketlab/jobs/8038139003 · posted 2026-10-19
+- Boeing - Associate Software Engineer (2 Locations) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1 · posted 2026-10-30
