@@ -1457,3 +1457,12 @@
 - The Aerospace Corporation - Software Integration Engineer New Grad (Chantilly, VA) https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007 · posted 2026-10-30
 - Star Mountain Capital - Financial Systems Engineer (Tampa, FL, NYC) https://job-boards.greenhouse.io/starmountaincapital/jobs/4466686009 · posted 2026-10-24
 - Amazon - Software Development Engineer - Database (Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA) https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us · posted 2026-10-30
+- Nvidia - Server Firmware Developer (RDSS Intern) (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2028570 · posted 2026-10-29
+- OLG - Front End Developer Student Intern (Toronto, ON, Canada, Sault Ste. Marie, ON, Canada) https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665 · posted 2026-10-30
+- Elucid - Software Engineer Intern (Boston, MA) https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027 · posted 2026-10-30
+- Farmers Mutual Hail - Software Developer Intern (West Des Moines, IA) https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009 · posted 2026-09-11
+- AiDash - Software Engineer Intern - Backend (Palo Alto, CA) https://job-boards.greenhouse.io/aidashinc/jobs/4436057009 · posted 2026-10-16
+- Stripe - Machine Learning Engineer Intern (Seattle, WA, SF, NYC) https://stripe.com/jobs/search?gh_jid=8328662 · posted 2026-10-30
+- Amazon - Software Development Engineer Intern (Cupertino, CA) https://amazon.jobs/en/jobs/10593872/software-development-engineer · posted 2026-10-30
+- Itron - Systems Engineer Intern (West Union, SC) https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2 · posted 2026-10-30
+- Hewlett Packard Enterprise - Software Engineer Intern (Sunnyvale, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146 · posted 2026-10-30
