@@ -1396,3 +1396,4 @@
 - PTC - Software Engineering Summer Internship 2027 - Cambridge (Cambridge, United Kingdom) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998 · posted 2026-10-30
 - Honeywell - Intern Bachelors Software Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161061 · posted 2026-10-30
 - Voyager Technologies - Software Engineer Intern (Long Beach, CA) https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009 · posted 2026-09-28
+- Bosch - [BD] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD ) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158706539 · posted 2026-10-30
