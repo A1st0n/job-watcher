@@ -1400,3 +1400,14 @@
 - GE Vernova - Software Engineering Intern () https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Software-Engineering-Intern_R5057006-2 · posted 2026-10-30
 - NXP - Master's Internship Project: Information-aware signal processing for software-defined EIS (Eindhoven) https://nxp.wd3.myworkdayjobs.com/Careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367 · posted 2026-10-30
 - Thermo Fisher - Software Engineering / AI Engineering Intern (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1 · posted 2026-10-30
+- Amazon - Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 (Seattle, Washington, USA) https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027 · posted 2026-10-30
+- Honeywell - Intern Bachelors - Software Engineering (QA Automation) (1-year full-time contract) (Bucuresti, Romania) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159184 · posted 2026-10-30
+- GM - Java Software Engineer Intern (Dublin, Ireland) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1 · posted 2026-10-30
+- GE Vernova - Software Engineer Intern (Cambridge, UK) https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Software-Engineering-Intern_R5057006-2 · posted 2026-10-30
+- PTC - Software Engineering Intern (Cambridge, UK) https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998 · posted 2026-10-30
+- Gearset - Software Engineer Intern (Cambridge, UK) https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true · posted 2026-10-29
+- Johns Hopkins Applied Physics Laboratory - Robotics Engineer Intern - Maritime Systems (Laurel, MD) https://careers.jhuapl.edu/jobs/60742?icims=1 · posted 2026-10-30
+- RTX - Embedded Software Security Engineer 1 - S3E (Tucson, AZ) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692 · posted 2026-09-29
+- Capital on Tap - Frontend Software Engineer (London, UK, Porto, Portugal) https://job-boards.greenhouse.io/capitalontap/jobs/8924924002 · posted 2026-10-30
+- TSC - Software Engineer 1 (Huntsville, AL) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897 · posted 2026-10-30
+- BodySpec - Junior Software Engineer (Austin, TX) https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer · posted 2026-10-30
