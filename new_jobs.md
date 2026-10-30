@@ -1414,3 +1414,6 @@
 - Sierra Nevada Corporation - Firmware Engineering Intern (Folsom, CA) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219 · posted 2026-10-30
 - Stripe - Master's Machine Learning Engineer, Intern (Toronto) https://stripe.com/jobs/search?gh_jid=8333122 · posted 2026-10-30
 - Bosch - DevOps Intern (Beograd) https://jobs.smartrecruiters.com/BoschGroup/744000158802889 · posted 2026-10-30
+- RTX - Systems Engineer I - Tac Comm - Onsite (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm---Onsite_01879878 · posted 2026-10-30
+- RTX - Systems Engineer I (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I_01885964 · posted 2026-10-30
+- RTX - Systems Engineer Intern (Summer 2027)  - Tac Comm - Onsite (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283 · posted 2026-10-30
