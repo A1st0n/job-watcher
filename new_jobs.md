@@ -1387,3 +1387,6 @@
 - Verizon Communications - Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) (Temple Terrace, FL) https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1 · posted 2026-10-30
 - Microsoft - Firmware Engineer (Redmond, WA, Mountain View, CA) https://apply.careers.microsoft.com/careers/job/1970393557039426 · posted 2026-10-30
 - TrellisWare Technologies - Software Engineer - Applications - Real-Time (San Diego, CA) https://job-boards.greenhouse.io/trelliswaretechnologies-newgrads/jobs/4381984009 · posted 2026-08-25
+- Bosch - [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674821 · posted 2026-10-30
+- Bosch - [Internship Program Q1 2027] DevOps Engineer Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158675019 · posted 2026-10-30
+- Bosch - [Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674399 · posted 2026-10-30
