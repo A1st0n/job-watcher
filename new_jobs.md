@@ -1421,3 +1421,25 @@
 - Analog Devices - Software Engineer Intern (Turkey, Istanbul, Bilisim Vadisi) https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Engineer-Intern_R267005 · posted 2026-10-30
 - Rocket Lab - Flight Software Engineer I (Littleton, CO) https://job-boards.greenhouse.io/rocketlab/jobs/8038139003 · posted 2026-10-19
 - Boeing - Associate Software Engineer (2 Locations) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1 · posted 2026-10-30
+- Amazon - Software Development Engineer (Database) Early Career- 2027 (US) (Seattle, Washington, USA) https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us · posted 2026-10-30
+- Rocket Lab - Business Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8087292003 · posted 2026-10-30
+- Amazon - Software Engineer Intern - Machine Learning/Automated Reasoning (Boston, MA, Seattle, WA, Austin, TX, Irvine, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, Sunnyvale, CA, San Diego, CA) https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027 · posted 2026-10-30
+- Protagonist - Software Engineer Intern (Washington, DC) https://job-boards.greenhouse.io/protagonist/jobs/6236620004 · posted 2026-10-27
+- The New York Times - Backend Engineer Intern (NYC) https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005 · posted 2026-10-30
+- Nokia - Software Engineer Co-op (United States) https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339 · posted 2026-10-30
+- Sophinea - Mobile App Developer Intern (Manassas, VA) https://apply.workable.com/sophinea/j/B392177653/apply · posted 2026-10-30
+- Sierra Nevada Corporation - Firmware Engineer Intern (Folsom, CA) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219 · posted 2026-10-30
+- Itron - Systems Engineer Intern (West Union, SC) https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1 · posted 2026-10-30
+- Wex - Software Engineer Intern (Remote in USA) https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585 · posted 2026-10-30
+- Brain Co. - Machine Learning Engineer – Applied AI Intern (SF) https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true · posted 2026-09-14
+- Brain Co. - AI Platform Engineer Intern (SF) https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true · posted 2026-09-12
+- Dow Jones - Software Engineer Intern (NYC) https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892 · posted 2026-10-30
+- Cartesian Systems - Software Engineer Intern (Cambridge, MA) https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009 · posted 2026-09-16
+- Revvity - Full-stack AI Developer Intern (Ontario, Canada) https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792 · posted 2026-10-30
+- Motorola Solutions - Embedded Software Engineer (Allen, TX) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1 · posted 2026-10-21
+- Frazer-Nash Consultancy - Data Science and Software Graduate (Bristol, UK) https://apply.workable.com/frazer-nash-15/j/37A3E1F4E3/apply · posted 2026-10-30
+- Mitel Networks - Junior Full Stack Web Developer (Ottawa, ON, Canada) https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211 · posted 2026-10-30
+- Intel - Software Application Development Engineer New Grad (Hillsboro, OR, Phoenix, AZ) https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523 · posted 2026-10-30
+- Kairos Power - Firmware Development Engineer (Alameda, CA) https://job-boards.greenhouse.io/kairospower/jobs/6193295004 · posted 2026-10-30
+- RTX - Entry-Level Software Developer - Application Support & Sustainment (Remote in USA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356 · posted 2026-10-30
+- BlackLine - Associate Software Engineer (Toronto, ON, Canada) https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014 · posted 2026-10-30
