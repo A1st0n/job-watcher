@@ -1390,3 +1390,4 @@
 - Bosch - [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674821 · posted 2026-10-30
 - Bosch - [Internship Program Q1 2027] DevOps Engineer Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158675019 · posted 2026-10-30
 - Bosch - [Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674399 · posted 2026-10-30
+- Bosch - [BD] OutSystems Developer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000158680239 · posted 2026-10-30
