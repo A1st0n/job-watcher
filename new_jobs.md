@@ -1393,3 +1393,4 @@
 - Bosch - [BD] OutSystems Developer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000158680239 · posted 2026-10-30
 - Western Digital -  Internship - Software Development (Embedded) (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/WesternDigital/744000158684529 · posted 2026-10-30
 - Formlabs - Embedded Software Engineer (Boston, MA) https://careers.formlabs.com/job/7909577/apply/?gh_jid=7909577 · posted 2026-06-26
+- PTC - Software Engineering Summer Internship 2027 - Cambridge (Cambridge, United Kingdom) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998 · posted 2026-10-30
