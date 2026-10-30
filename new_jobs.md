@@ -1369,3 +1369,4 @@
 - Bosch - IT Systems Engineering Intern (19 hours per week) (Roseville, CA) https://jobs.smartrecruiters.com/BoschGroup/744000158620079 · posted 2026-10-29
 - Dee Zee - Software Development Intern (Des Moines, IA) https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471 · posted 2026-10-29
 - TSC - Junior Software Engineer (Arlington County, Arlington, VA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896 · posted 2026-10-29
+- Axon - Software Engineer Intern (Seattle, WA, Arlington County, Arlington, VA) https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003 · posted 2026-10-30
