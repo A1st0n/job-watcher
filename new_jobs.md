@@ -1371,3 +1371,14 @@
 - TSC - Junior Software Engineer (Arlington County, Arlington, VA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896 · posted 2026-10-29
 - Axon - Software Engineer Intern (Seattle, WA, Arlington County, Arlington, VA) https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003 · posted 2026-10-30
 - Verizon - Engineer I-Systems Engineering (Temple Terrace, Florida) https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1 · posted 2026-10-30
+- Microsoft - Software Engineering Intern (United States, Oklahoma, Tulsa) https://apply.careers.microsoft.com/careers/job/1970393557044771 · posted 2026-10-23
+- RTX - Software Engineer Intern - Summer 2027 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129 · posted 2026-08-14
+- New York ISO - Information Technology Software Development Intern (Rensselaer, NY) https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007 · posted 2026-09-15
+- Ncino - Software Engineer Intern (Lehi, UT) https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009 · posted 2026-09-30
+- DRW - Software Developer Intern (Montreal, QC, Canada) https://job-boards.greenhouse.io/drwfr/jobs/7991197 · posted 2026-07-13
+- C3.ai - Software Engineer Intern (Redwood City, CA) https://job-boards.greenhouse.io/c3ascend/jobs/8739036002 · posted 2026-08-31
+- BitGo - Software Engineer Intern - Settlement Systems/Go Network (Toronto, ON, Canada) https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002 · posted 2026-09-03
+- BitGo - Software Engineer Intern - Custody (Toronto, ON, Canada) https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002 · posted 2026-09-04
+- BitGo - Software Engineer Intern - Prime Trade (Toronto, ON, Canada) https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002 · posted 2026-09-03
+- F&G - IT Software Engineer Intern - Summer (Des Moines, IA) https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003 · posted 2026-09-15
+- Dexcom - Software Development Engineer 1 (San Diego, CA) https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR121808 · posted 2026-10-29
