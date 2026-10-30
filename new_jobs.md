@@ -1370,3 +1370,4 @@
 - Dee Zee - Software Development Intern (Des Moines, IA) https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471 · posted 2026-10-29
 - TSC - Junior Software Engineer (Arlington County, Arlington, VA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896 · posted 2026-10-29
 - Axon - Software Engineer Intern (Seattle, WA, Arlington County, Arlington, VA) https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003 · posted 2026-10-30
+- Verizon - Engineer I-Systems Engineering (Temple Terrace, Florida) https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1 · posted 2026-10-30
