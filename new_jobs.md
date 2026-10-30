@@ -1399,3 +1399,4 @@
 - Bosch - [BD] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD ) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158706539 · posted 2026-10-30
 - GE Vernova - Software Engineering Intern () https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Software-Engineering-Intern_R5057006-2 · posted 2026-10-30
 - NXP - Master's Internship Project: Information-aware signal processing for software-defined EIS (Eindhoven) https://nxp.wd3.myworkdayjobs.com/Careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367 · posted 2026-10-30
+- Thermo Fisher - Software Engineering / AI Engineering Intern (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1 · posted 2026-10-30
