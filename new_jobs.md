@@ -1413,3 +1413,4 @@
 - BodySpec - Junior Software Engineer (Austin, TX) https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer · posted 2026-10-30
 - Sierra Nevada Corporation - Firmware Engineering Intern (Folsom, CA) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219 · posted 2026-10-30
 - Stripe - Master's Machine Learning Engineer, Intern (Toronto) https://stripe.com/jobs/search?gh_jid=8333122 · posted 2026-10-30
+- Bosch - DevOps Intern (Beograd) https://jobs.smartrecruiters.com/BoschGroup/744000158802889 · posted 2026-10-30
