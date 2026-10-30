@@ -1382,3 +1382,8 @@
 - BitGo - Software Engineer Intern - Prime Trade (Toronto, ON, Canada) https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002 · posted 2026-09-03
 - F&G - IT Software Engineer Intern - Summer (Des Moines, IA) https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003 · posted 2026-09-15
 - Dexcom - Software Development Engineer 1 (San Diego, CA) https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR121808 · posted 2026-10-29
+- SK hynix - SSD Firmware Development Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009 · posted 2026-08-31
+- Vestmark - Software Engineer Co-op (Boston, MA) https://job-boards.greenhouse.io/internrecruiting/jobs/8204511 · posted 2026-09-15
+- Verizon Communications - Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) (Temple Terrace, FL) https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1 · posted 2026-10-30
+- Microsoft - Firmware Engineer (Redmond, WA, Mountain View, CA) https://apply.careers.microsoft.com/careers/job/1970393557039426 · posted 2026-10-30
+- TrellisWare Technologies - Software Engineer - Applications - Real-Time (San Diego, CA) https://job-boards.greenhouse.io/trelliswaretechnologies-newgrads/jobs/4381984009 · posted 2026-08-25
