@@ -1366,3 +1366,4 @@
 - Raydar - Machine Learning Engineer (SF) https://apply.workable.com/raydar/j/B4B389F0C9/apply · posted 2026-10-29
 - Lawrence Livermore National Laboratory (LLNL) - Geographic Information System Software Developer (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016508806 · posted 2026-10-29
 - Citi - Python Developer (NYC) https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1 · posted 2026-10-16
+- Bosch - IT Systems Engineering Intern (19 hours per week) (Roseville, CA) https://jobs.smartrecruiters.com/BoschGroup/744000158620079 · posted 2026-10-29
