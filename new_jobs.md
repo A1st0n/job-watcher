@@ -1443,3 +1443,17 @@
 - Kairos Power - Firmware Development Engineer (Alameda, CA) https://job-boards.greenhouse.io/kairospower/jobs/6193295004 · posted 2026-10-30
 - RTX - Entry-Level Software Developer - Application Support & Sustainment (Remote in USA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356 · posted 2026-10-30
 - BlackLine - Associate Software Engineer (Toronto, ON, Canada) https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014 · posted 2026-10-30
+- The Aerospace Corporation - Data Scientist/Machine Learning Engineer (Colorado Springs, CO, Chantilly, VA, El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761 · posted 2026-09-30
+- Anthony & Sylvan Pools - AI Solutions Developer (Warminster Township, PA) https://ats.rippling.com/anthony-sylvan-pools/jobs/1cda6c1a-ec72-4356-afd4-15e13c45d015 · posted 2026-10-02
+- Rocket Lab Corporation - Flight Software Engineer 1 (Littleton, CO) https://job-boards.greenhouse.io/rocketlab/jobs/8038139003 · posted 2026-10-19
+- Built Technologies - Innovation Software Engineer 1 - Marketplace (Nashville, TN) https://job-boards.greenhouse.io/getbuilt/jobs/4749545005 · posted 2026-10-30
+- DraftKings - Software Engineer (Remote in Canada) https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1 · posted 2026-10-30
+- Rocket Lab Corporation - Business Systems Engineer 1 (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8087292003 · posted 2026-10-30
+- Raydar - Robotics Machine Learning Engineer (SF) https://apply.workable.com/raydar/j/4C6517AC1B/apply · posted 2026-10-30
+- Noble Machines - Robotics Software Engineer (Sunnyvale, CA) https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4396196009 · posted 2026-09-08
+- Noble Machines - Electrical Engineer – Early Career - Embedded Systems & Tools (Sunnyvale, CA) https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4473572009 · posted 2026-10-29
+- SuperApp - Software Engineer - Early Careers (SF) https://job-boards.greenhouse.io/superapp/jobs/8813982002 · posted 2026-09-16
+- TSC - Software Engineer 1 (Silver Spring, MD) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898 · posted 2026-10-30
+- The Aerospace Corporation - Software Integration Engineer New Grad (Chantilly, VA) https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007 · posted 2026-10-30
+- Star Mountain Capital - Financial Systems Engineer (Tampa, FL, NYC) https://job-boards.greenhouse.io/starmountaincapital/jobs/4466686009 · posted 2026-10-24
+- Amazon - Software Development Engineer - Database (Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA) https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us · posted 2026-10-30
