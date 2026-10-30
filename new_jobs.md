@@ -1419,3 +1419,4 @@
 - RTX - Systems Engineer Intern (Summer 2027)  - Tac Comm - Onsite (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-Intern--Summer-2027-----Tac-Comm---Onsite_01886283 · posted 2026-10-30
 - HPE - Software Engineering Intern (Sunnyvale, California, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146 · posted 2026-10-30
 - Analog Devices - Software Engineer Intern (Turkey, Istanbul, Bilisim Vadisi) https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Engineer-Intern_R267005 · posted 2026-10-30
+- Rocket Lab - Flight Software Engineer I (Littleton, CO) https://job-boards.greenhouse.io/rocketlab/jobs/8038139003 · posted 2026-10-19
