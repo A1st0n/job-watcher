@@ -1367,3 +1367,5 @@
 - Lawrence Livermore National Laboratory (LLNL) - Geographic Information System Software Developer (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016508806 · posted 2026-10-29
 - Citi - Python Developer (NYC) https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1 · posted 2026-10-16
 - Bosch - IT Systems Engineering Intern (19 hours per week) (Roseville, CA) https://jobs.smartrecruiters.com/BoschGroup/744000158620079 · posted 2026-10-29
+- Dee Zee - Software Development Intern (Des Moines, IA) https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471 · posted 2026-10-29
+- TSC - Junior Software Engineer (Arlington County, Arlington, VA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896 · posted 2026-10-29
