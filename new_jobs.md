@@ -1392,3 +1392,4 @@
 - Bosch - [Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674399 · posted 2026-10-30
 - Bosch - [BD] OutSystems Developer Intern (Ha Noi) https://jobs.smartrecruiters.com/BoschGroup/744000158680239 · posted 2026-10-30
 - Western Digital -  Internship - Software Development (Embedded) (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/WesternDigital/744000158684529 · posted 2026-10-30
+- Formlabs - Embedded Software Engineer (Boston, MA) https://careers.formlabs.com/job/7909577/apply/?gh_jid=7909577 · posted 2026-06-26
