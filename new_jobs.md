@@ -1473,3 +1473,10 @@
 - Altice USA - Software Development Engineer 1 (Plano, TX, Bethpage, NY) https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors · posted 2026-08-21
 - Discernis - Software Engineer (NYC) https://jobs.ashbyhq.com/discernis/53496201-b984-4e50-938e-19c21cf26667/application?embed=true · posted 2026-10-28
 - Northrop Grumman - Associate Software Engineer - Hollywood (MD) (United States-Maryland-Hollywood) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018 · posted 2026-10-31
+- Kinaxis - Full Stack Developer Intern - C# (Ottawa, ON, Canada) https://kinaxis.jibeapply.com/jobs/35343?icims=1 · posted 2026-10-23
+- Kinaxis - Intern Developer - Back End Technologies (Ottawa, ON, Canada) https://kinaxis.jibeapply.com/jobs/35372?icims=1 · posted 2026-10-02
+- Kinaxis - Software Developer Co-op Intern - Core Algorithms (Ottawa, ON, Canada) https://kinaxis.jibeapply.com/jobs/35329?icims=1 · posted 2026-09-04
+- Kinaxis - Developer Co-op Intern - Machine Learning (Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada) https://kinaxis.jibeapply.com/jobs/35297?icims=1 · posted 2026-09-03
+- Publicis Groupe - Software Engineer Intern (Chicago, IL) https://publicisgroupe.jibeapply.com/jobs/173032?icims=1 · posted 2026-09-08
+- Kinaxis - Software Developer - Data Ingestion - Developer Framework (Canada, Remote in Canada) https://kinaxis.jibeapply.com/jobs/34791?icims=1 · posted 2026-05-14
+- Integration Innovation (i3) - Entry Level Software Engineer (Huntsville, AL) https://i3-corps.jibeapply.com/jobs/5218?icims=1 · posted 2026-08-21
