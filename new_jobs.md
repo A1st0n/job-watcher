@@ -1480,3 +1480,28 @@
 - Publicis Groupe - Software Engineer Intern (Chicago, IL) https://publicisgroupe.jibeapply.com/jobs/173032?icims=1 · posted 2026-09-08
 - Kinaxis - Software Developer - Data Ingestion - Developer Framework (Canada, Remote in Canada) https://kinaxis.jibeapply.com/jobs/34791?icims=1 · posted 2026-05-14
 - Integration Innovation (i3) - Entry Level Software Engineer (Huntsville, AL) https://i3-corps.jibeapply.com/jobs/5218?icims=1 · posted 2026-08-21
+- Intercontinental Exchange - Software Engineering Intern (Jacksonville, FL) https://ice.jibeapply.com/jobs/14075?icims=1 · posted 2026-10-23
+- Intercontinental Exchange - Software Engineer Intern (NYC) https://ice.jibeapply.com/jobs/14105?icims=1 · posted 2026-10-23
+- Intercontinental Exchange - Software Engineer Intern - Java (Jacksonville, FL) https://ice.jibeapply.com/jobs/14078?icims=1 · posted 2026-10-23
+- Cambridge Consultants - Software Engineer Intern (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101 · posted 2026-10-01
+- Cambridge Consultants - Electronics Systems Engineering Intern (Cambridge, UK) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989420101 · posted 2026-10-01
+- Cambridge Consultants - Cloud Software Engineer Intern (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101 · posted 2026-10-01
+- Cambridge Consultants - Software Engineering Intern - Healthcare (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101 · posted 2026-10-08
+- Peraton - Software Engineering Co-op (San Diego, CA) https://peraton.jibeapply.com/jobs/171547?icims=1 · posted 2026-09-30
+- Peraton - Software Engineer Intern (Blacksburg, VA, Herndon, VA) https://peraton.jibeapply.com/jobs/169665?icims=1 · posted 2026-09-08
+- Peraton - Software Developer Intern (Topeka, KS) https://peraton.jibeapply.com/jobs/172061?icims=1 · posted 2026-10-08
+- Peraton - Mission Systems Software and Edge Computing Intern (Oklahoma) https://peraton.jibeapply.com/jobs/172378?icims=1 · posted 2026-10-14
+- Neptune North - Graduate Software Developer (Newcastle upon Tyne, UK) https://job-boards.eu.greenhouse.io/neptunenorth/jobs/4847890101 · posted 2026-04-24
+- Deliveroo - Software Engineer New Grad (London, UK) https://job-boards.greenhouse.io/deliveroo/jobs/8202627 · posted 2026-09-18
+- Cambridge Consultants - Graduate Software Engineer - Defence & Security - 2027 start (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908188101 · posted 2026-10-01
+- Cambridge Consultants - Graduate Software Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908176101 · posted 2026-10-01
+- Cambridge Consultants - Graduate Electronics & Software Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4854472101 · posted 2026-04-29
+- Cambridge Consultants - Graduate Software Engineer - Healthcare (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908214101 · posted 2026-10-14
+- Cambridge Consultants - Graduate Electronics and Software Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908205101 · posted 2026-10-01
+- Cambridge Consultants - Graduate Cloud Software Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908202101 · posted 2026-10-01
+- Peraton - Artificial Intelligence/Machine Learning Engineer 1 (Laurel, MD) https://peraton.jibeapply.com/jobs/171011?icims=1 · posted 2026-09-22
+- Peraton - COBOL Software Developer (United States) https://peraton.jibeapply.com/jobs/169891?icims=1 · posted 2026-08-20
+- Peraton - Artificial Intelligence/Machine Learning Engineer 1 - Top Secret/SCI w/Poly (Laurel, MD) https://peraton.jibeapply.com/jobs/171539?icims=1 · posted 2026-10-02
+- Peraton - Software Engineer - Ignite Innovator Program (Blacksburg, VA, Herndon, VA) https://peraton.jibeapply.com/jobs/169664?icims=1 · posted 2026-09-09
+- Peraton - Software Engineering Associate (Herndon, VA) https://peraton.jibeapply.com/jobs/170478?icims=1 · posted 2026-09-10
+- Stifel - Developer Credit Analytics (St. Louis, MO) https://stifel.jibeapply.com/jobs/10047?icims=1 · posted 2026-10-09
