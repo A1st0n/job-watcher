@@ -1506,3 +1506,4 @@
 - Peraton - Software Engineering Associate (Herndon, VA) https://peraton.jibeapply.com/jobs/170478?icims=1 · posted 2026-09-10
 - Stifel - Developer Credit Analytics (St. Louis, MO) https://stifel.jibeapply.com/jobs/10047?icims=1 · posted 2026-10-09
 - Northrop Grumman - Associate Software Engineer (Hollywood, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018 · posted 2026-10-31
+- Open Vision Engineering - Firmware Engineer (SF) https://jobs.ashbyhq.com/pocket/dcb3b89f-d6b9-4c2d-aa70-4b8d01bf0848/application?embed=true · posted 2026-10-31
