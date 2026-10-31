@@ -1471,3 +1471,4 @@
 - Nvidia - Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576 · posted 2026-10-31
 - NVIDIA - Developer and Performance Technology Intern (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499 · posted 2026-08-19
 - Altice USA - Software Development Engineer 1 (Plano, TX, Bethpage, NY) https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors · posted 2026-08-21
+- Discernis - Software Engineer (NYC) https://jobs.ashbyhq.com/discernis/53496201-b984-4e50-938e-19c21cf26667/application?embed=true · posted 2026-10-28
