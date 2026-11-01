@@ -18,7 +18,9 @@ SIMPLIFY_NG = "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions
 
 ROLE = re.compile(r"software|\bswe\b|\bsde\b|developer|\bsre\b|site reliability|devops|platform|infrastructure|"
                   r"embedded|firmware|robotics|back-?end|front-?end|full[- ]?stack|systems engineer|"
-                  r"machine learning engineer|\bml engineer", re.I)
+                  r"machine learning engineer|\bml engineer|\bai engineer|\bai/ml|artificial intelligence|"
+                  r"cloud|network engineer|networking|cyber|security engineer|security analyst|"
+                  r"data engineer|data scien|\bqa\b|quality assurance|test engineer|\bsdet\b", re.I)
 LEVEL = re.compile(r"\bintern(ship)?\b|co-?op|new grad|graduate|early career|entry[- ]level|university|"
                    r"\bjunior\b|associate software|engineer i\b|\b202[6-8]\b", re.I)
 SENIOR = re.compile(r"senior|\bsr\.?\b|staff|principal|manager|director|\blead\b|\bphd\b", re.I)
