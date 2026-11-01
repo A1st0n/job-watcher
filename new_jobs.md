@@ -1511,3 +1511,5 @@
 - Northrop Grumman - Associate Software Engineer (Huntsville, AL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366 · posted 2026-11-01
 - Huntington Ingalls Industries - Software Engineer 1 (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors · posted 2026-11-01
 - Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393556922930 · posted 2026-11-01
+- Microsoft - Software Engineer Security & Identity Intern (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556922930 · posted 2026-08-04
+- Tesla - Factory Firmware Integration Intern - Energy Engineering (Buffalo, NY) https://www.tesla.com/careers/search/job/283630 · posted 2026-09-16
