@@ -1513,3 +1513,4 @@
 - Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393556922930 · posted 2026-11-01
 - Microsoft - Software Engineer Security & Identity Intern (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556922930 · posted 2026-08-04
 - Tesla - Factory Firmware Integration Intern - Energy Engineering (Buffalo, NY) https://www.tesla.com/careers/search/job/283630 · posted 2026-09-16
+- TRG - Full Stack Application Developer Intern (Dallas, TX) https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US · posted 2026-11-01
