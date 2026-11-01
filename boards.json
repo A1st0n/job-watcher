@@ -1721,5 +1721,57 @@
  "Skydio": [
   "ashby",
   "skydio"
+ ],
+ "Flapping Airplanes": null,
+ "Upwind": null,
+ "Dulo": null,
+ "Town": [
+  "ashby",
+  "town"
+ ],
+ "Labelbox": [
+  "greenhouse",
+  "labelbox"
+ ],
+ "Abby Care": [
+  "ashby",
+  "abby-care"
+ ],
+ "Stand": [
+  "ashby",
+  "stand"
+ ],
+ "Blacksmith": [
+  "ashby",
+  "blacksmith"
+ ],
+ "Mueon": null,
+ "North.cloud": null,
+ "Harmonic Security": null,
+ "Sirona Medical": [
+  "greenhouse",
+  "sironamedical"
+ ],
+ "Mach9": [
+  "ashby",
+  "mach9"
+ ],
+ "RapidCanvas": null,
+ "Slingshot Insurance": null,
+ "Brellium": [
+  "ashby",
+  "brellium"
+ ],
+ "Tamr": [
+  "ashby",
+  "tamr"
+ ],
+ "AuxoAI": null,
+ "Longeye": null,
+ "SuperMe": null,
+ "Ultra Security": null,
+ "Chariot Claims": [
+  "ashby",
+  "chariotclaims"
  ]
 }
