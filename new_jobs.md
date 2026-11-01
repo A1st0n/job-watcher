@@ -2267,3 +2267,4 @@
 - Cambridge Consultants - Graduate Human-Centric AI Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971959101 · posted 2026-10-01
 - Bristol Myers Squibb - Associate Engineer - Analytical AI Engineering (Princeton, NJ) https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005 · posted 2026-10-31
 - Verisk - Data Scientist (London, UK, Norwich, UK) https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093 · posted 2026-10-31
+- Microsoft - Software Engineering INTERN (Mexico, Multiple Locations, Multiple Locations) https://apply.careers.microsoft.com/careers/job/1970393556999316 · posted 2026-09-16
