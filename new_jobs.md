@@ -1508,3 +1508,5 @@
 - Northrop Grumman - Associate Software Engineer (Hollywood, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018 · posted 2026-10-31
 - Open Vision Engineering - Firmware Engineer (SF) https://jobs.ashbyhq.com/pocket/dcb3b89f-d6b9-4c2d-aa70-4b8d01bf0848/application?embed=true · posted 2026-10-31
 - Kaluza - Software Engineer (London, UK, Edinburgh, UK, Bristol, UK) https://jobs.ashbyhq.com/kaluza/5ef79ceb-c6eb-4d46-abca-ddb532cf8739/application?embed=true · posted 2026-09-23
+- Northrop Grumman - Associate Software Engineer (Huntsville, AL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366 · posted 2026-11-01
+- Huntington Ingalls Industries - Software Engineer 1 (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors · posted 2026-11-01
