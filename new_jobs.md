@@ -2268,3 +2268,4 @@
 - Bristol Myers Squibb - Associate Engineer - Analytical AI Engineering (Princeton, NJ) https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005 · posted 2026-10-31
 - Verisk - Data Scientist (London, UK, Norwich, UK) https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093 · posted 2026-10-31
 - Microsoft - Software Engineering INTERN (Mexico, Multiple Locations, Multiple Locations) https://apply.careers.microsoft.com/careers/job/1970393556999316 · posted 2026-09-16
+- KnowBe4 - Software Engineer Intern (Clearwater, FL) https://job-boards.greenhouse.io/knowbe4/jobs/8919280002 · posted 2026-11-01
