@@ -1514,3 +1514,756 @@
 - Microsoft - Software Engineer Security & Identity Intern (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556922930 · posted 2026-08-04
 - Tesla - Factory Firmware Integration Intern - Energy Engineering (Buffalo, NY) https://www.tesla.com/careers/search/job/283630 · posted 2026-09-16
 - TRG - Full Stack Application Developer Intern (Dallas, TX) https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US · posted 2026-11-01
+- Apple - Subject Matter Expert - Data Science, Intern (Shenzhen) https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern · posted 2026-10-29
+- Apple - Engineering Intern (AI/ML & Automation) for Hardware - Shanghai (Shanghai) https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai · posted 2026-10-27
+- Amazon - Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 (Austin, Texas, USA) https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027 · posted 2026-09-24
+- Google - Junior CAD Engineer, University Graduate, Google Cloud (Tel Aviv, Israel; Haifa, Israel) https://www.google.com/about/careers/applications/jobs/results/139608513574773446 · posted 2026-10-26
+- Nvidia - PCB Design EDA and AI Engineer - New College Graduate 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611 · posted 2026-10-14
+- Adobe - 2027 Intern - Security Engineer (Lehi) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000 · posted 2026-10-19
+- Dell - Services Data Science Graduate Intern (TX, United States) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413 · posted 2026-10-25
+- HP - College Intern – Hardware Test Automation & AI Engineer (Singapore, South West, Singapore) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Hardware-Test-Automation---AI-Engineer_UNI4954-1 · posted 2026-10-29
+- HP - AI Engineering Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1 · posted 2026-10-29
+- HP - Data Science Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1 · posted 2026-10-21
+- Texas Instruments - Product/Test Engineering Intern m/f/d (Germany) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25006174 · posted 2026-06-11
+- Texas Instruments - Test Engineering Intern m/f/d (Freising, Bayern, Germany) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013295 · posted 2026-10-26
+- Texas Instruments - Product/Test Engineering Intern - TMG (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571 · posted 2026-09-02
+- Texas Instruments - Information Technology Intern – Data Engineering (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978 · posted 2026-09-15
+- Applied Materials - New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027) (Santa Clara,CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376 · posted 2026-10-30
+- Wells Fargo - 2027 Technology Summer Internship – Early Careers (Data Engineering) (3 Locations) https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066 · posted 2026-10-26
+- Wells Fargo - 2027 Technology Summer Internship - Early Careers (Cybersecurity) (3 Locations) https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417 · posted 2026-10-26
+- Citi - Technology- Cyber Security, Summer Analyst (Internship), Philippines 2027 (Taguig  Philippines) https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901 · posted 2026-10-19
+- Citi - Technology, Cyber Security, Summer Analyst, Irving - USA, 2027 (Irving Texas United States) https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482 · posted 2026-10-23
+- Citi - Technology - Cyber Security, Summer Analyst, Warsaw 2027 (Warsaw  Poland) https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology---Cyber-Security--Summer-Analyst--Warsaw-2027_26999062 · posted 30+ days ago
+- American Express - Campus - Internship Programme - Undergraduate - Information Security Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761 · posted 2026-10-26
+- American Express - Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756 · posted 2026-10-26
+- American Express - Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552 · posted 2026-10-23
+- American Express - Campus - Full Time - Information Security Engineer - 2027 (UK - London/Brighton/Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013778 · posted 2026-10-26
+- American Express - Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465 · posted 2026-10-28
+- American Express - Campus - Full Time - AI Engineer - 2027 (UK - Burgess Hill) (BURGESS HILL, WEST SUSSEX, United Kingdom) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013776 · posted 2026-10-26
+- Walmart - Summer 2027 Intern: Cybersecurity Undergrad ((USA) ISD Office - DGTC AR BENTONVILLE Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025 · posted 30+ days ago
+- Walmart - Summer 2027 Intern: Cybersecurity Masters ((USA) ISD Office - DGTC AR BENTONVILLE Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026 · posted 30+ days ago
+- Walmart - Summer 2027 Intern:: Data Science III ((USA) ISD Office - DGTC AR BENTONVILLE Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030 · posted 30+ days ago
+- Boeing - Entry-Level F-15 Flight Test Data Engineer (USA - Eglin AFB, FL) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1 · posted 2026-10-28
+- Northrop Grumman - 2027 Intern Product Support – Data Scientist (United States-California-San Diego) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679 · posted 2026-10-30
+- T-Mobile - Summer 2027 Assoc AI Engineer Internship (2 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492 · posted 2026-10-28
+- Western Digital - Internship - Data Engineering  (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/WesternDigital/744000158655189 · posted 2026-10-30
+- Analog Devices - Test Engineering Intern (2 Locations) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146 · posted 30+ days ago
+- HPE - Cloud Engineer Graduate (10 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628-1 · posted 30+ days ago
+- HPE - HPE Networking Sales Specialist - Early Career (Sandton, Gauteng, South Africa) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sandton-Gauteng-South-Africa/HPE-Networking-Sales-Specialist_1200738-2 · posted 2026-10-25
+- HPE - Test Engineer, HPC & AI Systems - (Early Career) (Spring, Texas, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1 · posted 2026-10-22
+- HPE - Data Science Intern (10 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632 · posted 30+ days ago
+- HPE - Cloud Engineer Intern (10 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629 · posted 30+ days ago
+- Kyndryl - Cloud Technologies Intern (Athens, Attiki, Greece) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Athens-Attiki-Greece/Cloud-Technologies-Intern_R-65083-1 · posted 30+ days ago
+- Kyndryl - Early Career Consult Program - Associate AI Engineer (Dallas (USDALFRI) Frisco AI HUB) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2 · posted 2026-10-02
+- Kyndryl - Early Career Consult Program – Cybersecurity Engineer (Dallas (USDALFRI) Frisco AI HUB) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304 · posted 2026-10-02
+- Kyndryl - Early Career Consult Program – Cybersecurity Defense Associate (Dallas (USDALFRI) Frisco AI HUB) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Defense-Associate_R-67301 · posted 2026-10-02
+- DXC - Cybersecurity Intern (MY012 - Petaling Jaya,Malaysia(MY012)) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043 · posted 2026-10-06
+- DXC - Cloud and IT Operation Intern (2026 Intake) (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Cloud-and-IT-Operation-Intern--2026-Intake-_51580572 · posted 2026-10-08
+- Leidos - Performance Enablement AI/ML Intern (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656 · posted 2026-10-15
+- Leidos - Cloud Engineering Intern (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668 · posted 2026-10-16
+- Leidos - Data Engineer Intern (Fort Belvoir, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576 · posted 2026-10-28
+- Leidos - Cybersecurity Intern (3 Locations) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531 · posted 2026-10-27
+- Leidos - Cybersecurity Engineer Co-op (Bethesda, MD) https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764 · posted 2026-10-28
+- Booz Allen - Test Engineer Intern (Lexington Park, MD) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409 · posted 2026-10-27
+- Booz Allen - Enterprise Cybersecurity Education and Execution Intern (McLean, VA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071 · posted 30+ days ago
+- CACI - Network Engineer Intern - Summer 2027 (High Point, NC, US) https://caci.wd1.myworkdayjobs.com/External/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843 · posted 2026-10-19
+- CACI - Cyber Security Intern - Summer 2027 (Springfield, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046 · posted 2026-10-09
+- Honeywell - Artificial Intelligence/Machine Learning - Summer 2027 Intern (United States) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522 · posted 2026-08-25
+- Honeywell - Spring 2027 Artificial Intelligence/Machine Learning Co-Op (United States) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958 · posted 2026-09-29
+- Honeywell - Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (United States) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555 · posted 2026-08-25
+- Honeywell - Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required) (United States) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554 · posted 2026-08-25
+- Honeywell - Cyber Security Architect/Engineer I - UAE National Only (Dubai, United Arab Emirates) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159440 · posted 2026-10-06
+- Honeywell - Intern (Bach) Data Engineering (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160488 · posted 2026-10-26
+- Honeywell - Test Engineer Intern (CMX, Mexico) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160022 · posted 2026-10-16
+- GM - 2027 Summer Intern, Fleet Reliability & Test Engineering, ASD (Milford, Michigan, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071 · posted 2026-10-27
+- McKesson - System Design / QA Intern - Summer 2027 (USA, TX, Remote) https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Remote/System-Design---QA-Intern---Summer-2027_JR0152746 · posted 30+ days ago
+- McKesson - Graduate Cyber Security Analyst (Cyber Academy) (Cork) https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155418 · posted 2026-10-22
+- Coinbase - Data Engineer Intern (Hybrid - San Francisco, CA) https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459 · posted 2026-09-08
+- Coinbase - Data Science Intern (Hybrid - New York, NY) https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462 · posted 2026-09-08
+- Databricks - Data Science Intern (2027 Start) (Mountain View, California; San Francisco, California) https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002 · posted 2023-08-17
+- Anduril - 2027 Early Career Flight Test Engineer (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007 · posted 2026-09-22
+- Anduril - 2027 Field Test Engineer Intern (Costa Mesa, California, United States; Quincy, Massachusetts, United States) https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007 · posted 2026-10-19
+- Anduril - 2027 Flight Test Engineer Intern (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007 · posted 2026-10-14
+- Anduril - 2027 Quality & Test Engineer Intern (Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007 · posted 2026-10-05
+- Anduril - Winter 2027 Quality & Test Engineer Co-op (Ashville, Ohio, United States; Santa Ana, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007 · posted 2026-10-05
+- Mercor - Data Science Intern (San Francisco) https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a · posted 2026-08-19
+- Together AI - Hardware Security Engineer Intern (Summer 2027) (San Francisco) https://job-boards.greenhouse.io/togetherai/jobs/5238469007 · posted 2026-10-16
+- Together AI - Hardware Security Engineer, New Grad (2027) (San Francisco) https://job-boards.greenhouse.io/togetherai/jobs/5238471007 · posted 2026-10-16
+- Applied Intuition - UX Test Engineer - New Grad (2027) (Sunnyvale) https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4 · posted 2026-08-25
+- Applied Intuition - OTA/Cloud Validation Engineer - New Grad (2027) (Sunnyvale) https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95 · posted 2026-08-25
+- Hadrian - Data Science/ Data Engineer Intern (Los Angeles, CA) https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813 · posted 2026-09-02
+- Base Power - Hardware Reliability & Test Engineering Intern (Austin, TX) https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406 · posted 2026-09-30
+- Base Power - Manufacturing Test Engineering Intern (Austin, TX) https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6 · posted 2026-10-30
+- Commonwealth Fusion - Intern - I&C and Network Engineer - Spring or Summer 2027 (Devens, MA) https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545 · posted 2026-10-27
+- Commonwealth Fusion - Intern - Materials Test Engineer - Summer 2027 (Devens, MA) https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e · posted 2026-10-22
+- Commonwealth Fusion - Intern - R&D Test Engineer - Spring or Summer 2027 (Devens, MA & Somerville, MA) https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05 · posted 2026-10-30
+- Eudia - AI Engineer Intern (Palo Alto, CA) https://job-boards.greenhouse.io/eudia/jobs/4020078009 · posted 2026-09-08
+- Hex - AI Engineer Intern (San Francisco) https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6 · posted 2026-10-12
+- Kodiak - Winter 2027 Intern, Data Engineering (Mountain View, CA) https://job-boards.greenhouse.io/kodiak/jobs/4396622009 · posted 2026-09-04
+- Toyota - 2027 TFS Data Science Internship (Plano, Texas) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1 · posted 2026-10-20
+- Bosch - [Internship Program Q1 2027] AI Engineer Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674030 · posted 2026-10-30
+- Bosch - [Internship Program Q1 2027] Automation Test Engineer Intern (Selenium) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000158674410 · posted 2026-10-30
+- Bosch - AI Engineering Automation Intern (f/m/div.)  (São João, Aveiro) https://jobs.smartrecruiters.com/BoschGroup/744000158348849 · posted 2026-10-28
+- Bosch - Purchasing Quality Assurance Advanced Apprentice (Graduate) (Worcester, England) https://jobs.smartrecruiters.com/BoschGroup/744000157140029 · posted 2026-10-22
+- Bosch - Test Engineer Intern (Vernon Hills, IL) https://jobs.smartrecruiters.com/BoschGroup/744000148253129 · posted 2026-09-08
+- Bosch - [ETA] AI Engineer Intern (6-month fulltime Internship) (Tân Bình, Thành phố Hồ Chí Minh) https://jobs.smartrecruiters.com/BoschGroup/744000145938529 · posted 2026-08-27
+- Aptiv - Cloud Engineering Intern (CAN Kanata (2), ON - WR) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383 · posted 2026-10-28
+- Aptiv - Intern Vehicle Test Engineer (Krakow, Poland) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Krakow-Poland/Intern-Vehicle-Test-Engineer_J000705843 · posted 2026-10-22
+- Boston Dynamics - Systems Test Engineer - Co-Op (Waltham Office (POST)) https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312
+- Zipline - Flight Test Engineer Intern (Spring 2027) (South San Francisco, California, USA) https://www.zipline.com/open-roles/7999929003?gh_jid=7999929003 · posted 2026-09-21
+- Bedrock Robotics - 2027 Internship Sensor Hardware Test Engineer (San Francisco, CA) https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51 · posted 2026-09-10
+- Symbotic - Intern- Data Engineer (USA Wilmington,  MA - HQ) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967 · posted 2026-10-12
+- Scout AI - AI Engineer Intern - Fury Team (Summer 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99 · posted 2026-10-23
+- Stoke Space - Test Engineer (Level 1 - Early Career) (Moses Lake, Washington) https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004 · posted 2025-11-13
+- Varda Space - Cybersecurity Internship - Spring 2027 (El Segundo, California, United States) https://job-boards.greenhouse.io/vardaspace/jobs/7824766003 · posted 2026-08-07
+- Varda Space - Cybersecurity Internship - Summer 2027 (El Segundo, California, United States) https://job-boards.greenhouse.io/vardaspace/jobs/8005821003 · posted 2026-10-01
+- Harbinger Motors - Intern, Test Engineering (Garden Grove, CA) https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007 · posted 2026-10-09
+- Cresta - AI Quality Assurance Intern (Toronto, Ontario) https://job-boards.greenhouse.io/cresta/jobs/5047247008 · posted 2025-12-24
+- TensorWave - Network Engineering Intern (Las Vegas, Nevada) https://jobs.ashbyhq.com/tensorwave/27d0af24-e945-4abe-ac7c-56db3c0e636d · posted 2026-10-06
+- TensorWave - Security Engineer Intern (Las Vegas, Nevada) https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5 · posted 2026-10-05
+- Palantir - Information Security Engineer, Internship (New York, NY) https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb · posted 2022-08-03
+- Cadence - Intern Product Validation Engineering: AI Quality Assurance (QA) (BELO HORIZONTE) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern-Product-Validation-Engineering--AI-Quality-Assurance--QA-_R56591 · posted 30+ days ago
+- Motorola Solutions - QA Automation Intern (Ho Chi Minh, Vietnam) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/QA-Automation-Fresher_R69443 · posted 2026-10-30
+- NXP - Product Test Engineer Intern (Bangkok) https://nxp.wd3.myworkdayjobs.com/Careers/job/Bangkok/Product-Test-Engineer-Intern_R-10064150 · posted 30+ days ago
+- Trimble - Automated Test Engineering Intern (16-Month Internship) (Canada - Richmond Hill, Ontario (Applanix)) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004 · posted 2026-10-23
+- PTC - Onshape QA Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Onshape-QA-Intern--Summer-2027-_JR112910 · posted 2026-10-27
+- Lyft - Data Engineer Intern (Summer 2027) (Toronto, Canada) https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002 · posted 2026-09-11
+- Lyft - Data Science Intern, Algorithms (Summer 2027 - SF/NYC) (New York, NY) https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002 · posted 2026-09-11
+- Lyft - Data Science Intern, Algorithms (Summer 2027 - Toronto) (Toronto, Canada) https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002 · posted 2026-09-11
+- Pinterest - Master's Data Science Internship 2027 (USA) (San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US) https://www.pinterestcareers.com/jobs/?gh_jid=8138097 · posted 2026-10-01
+- Pinterest - Master's University Grad Data Scientist (USA) (San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US) https://www.pinterestcareers.com/jobs/?gh_jid=8140389 · posted 2026-10-01
+- Accenture - Data Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Data-Engineer-Intern_R00329471 · posted 2026-10-19
+- Emerson - Test Engineering Intern (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010099 · posted 2026-09-11
+- Rockwell Automation - Intern, Cybersecurity (2 Locations) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514-1 · posted 2026-10-26
+- Rockwell Automation - Intern, Test Engineering (Milwaukee, WI) (Milwaukee, Wisconsin, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1 · posted 2026-10-14
+- Carrier - Test Engineering Intern - Summer (CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233 · posted 2026-10-19
+- Hartford - Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) (Hartford, CT) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1 · posted 2026-10-02
+- Hartford - Data Science Intern - Summer 2027 (3 Locations) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114 · posted 2026-10-20
+- Abbott - Intern Data Science - Future Talent Program (Switzerland - Basel) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/Switzerland---Basel/Intern-Data-Science---Future-Talent-Program_31164223 · posted 2026-10-12
+- Abbott - 2027 Winter Graduate Co-op - Clinical Affairs AI/ML (United States - Minnesota - St. Paul) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025 · posted 30+ days ago
+- Abbott - Digital Process Improvement & Automation (QA) Intern (Netherlands - Weesp) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/Netherlands---Weesp/Internship--QA-Supplier-to-Customer-at-Abbott-Olst_31164975 · posted 2026-10-21
+- Johnson & Johnson - AIC Systems Test Engineering Co-Op (Danvers, Massachusetts, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Danvers-Massachusetts-United-States-of-America/AIC-Systems-Test-Engineering-Co-Op_R-099094 · posted 30+ days ago
+- Pfizer - Graduate Data Scientist (Pfizer Ringaskiddy) (Ireland - Cork - Ringaskiddy) https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Ireland---Cork---Ringaskiddy/Graduate-Data-Scientist--Pfizer-Ringaskiddy-_4966660 · posted 2026-10-30
+- Regeneron - 2027 Summer Intern AI/ML & Data Engineering (5 Locations) https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1 · posted 2026-10-28
+- Regeneron - 2027 Summer Intern Quality Assurance – Compliance & Quality Systems (IOPS) (RENSSELAER) https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Compliance---Quality-Systems--IOPS-_R52018-1 · posted 2026-10-28
+- Regeneron - 2027 Summer Intern Data Science & Digital Innovation (IOPS) (RENSSELAER) https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1 · posted 2026-10-28
+- Regeneron - 2027 Summer Intern Quality Assurance – Validation & Qualification (IOPS) (RENSSELAER) https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Validation---Qualification--IOPS-_R51819-1 · posted 2026-10-28
+- Moderna - Intern, Quality Assurance () https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Intern--Quality-Assurance_R19944 · posted 2026-10-08
+- Stryker - Summer 2027 Internship - Data Engineering - Indiana (Fort Wayne, Indiana) https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901 · posted 30+ days ago
+- Procter & Gamble - Data Scientist (Master's Degree) Internship (CINCINNATI GENERAL OFFICES) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504 · posted 30+ days ago
+- Procter & Gamble - Data & AI Engineering Internship (CINCINNATI GENERAL OFFICES) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499 · posted 30+ days ago
+- Procter & Gamble - Data & AI Engineering (2027 Grads) (CINCINNATI GENERAL OFFICES) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913 · posted 2026-10-23
+- Procter & Gamble - Data Science Intern (Semester 2026) - P&G Management Internship Program - Bachelor's Degree or above (SINGAPORE GENERAL OFFICE) https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419 · posted 30+ days ago
+- Procter & Gamble - Data Engineering Intern (PARIS GO-ASNIERES-SUR-SEINE) https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891 · posted 30+ days ago
+- Procter & Gamble - Data Engineer Internship (m/f/x) (LISBON GENERAL OFFICE) https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204 · posted 2026-10-16
+- Zillow - Data Science Intern (Seattle-WA-2nd Ave) https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1 · posted 2026-10-26
+- Blue Origin - Test Engineer I - Early Career & New Graduate Rotation (2027 Starts) (5 Locations) https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328 · posted 30+ days ago
+- Blue Origin - Test Engineer I - TeraWave (Greater Seattle Area) https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-Engineer-I---TeraWave_R72943-1 · posted 2026-10-23
+- Figma - Data Engineer Intern (2027) (San Francisco, CA • New York, NY) https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004 · posted 2026-09-23
+- Figma - Data Science Intern (2027) (San Francisco, CA • New York, NY) https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004 · posted 2026-09-14
+- Duolingo - Data Scientist, Intern (Pittsburgh, PA; New York, NY) https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002 · posted 2026-10-15
+- Stripe - Security Engineer, New Grad (Dublin) https://stripe.com/jobs/search?gh_jid=8257892 · posted 2026-10-07
+- Epic Games - Data Science Intern (Cary,North Carolina,United States) https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004 · posted 2026-09-21
+- Epic Games - SDET Intern (Cary,North Carolina,United States) https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004 · posted 2026-10-07
+- Wing - Data Scientist Intern, Summer 2027 (Palo Alto, California) https://wing.com/careers/8872482002?gh_jid=8872482002 · posted 2026-10-08
+- Wing - Flight Test Engineering Intern, Summer 2027 (Palo Alto, California) https://wing.com/careers/8872480002?gh_jid=8872480002 · posted 2026-10-13
+- Wing - Hardware Test Engineering Intern (Palo Alto, California) https://wing.com/careers/8918078002?gh_jid=8918078002 · posted 2026-10-27
+- Rocket Lab - Avionics Test Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8055497003 · posted 2026-10-28
+- Rocket Lab - Integration & Test Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8015847003 · posted 2026-10-14
+- Rocket Lab - Mechanical Development & Test Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8053825003 · posted 2026-10-28
+- Rocket Lab - Security Analyst Intern Spring 2027 (Middle River, MD) https://job-boards.greenhouse.io/rocketlab/jobs/7986965003 · posted 2026-09-16
+- Rocket Lab - Security Analyst Intern Summer 2027 (Wallops Island, VA) https://job-boards.greenhouse.io/rocketlab/jobs/7986961003 · posted 2026-09-16
+- Rocket Lab - Test Engineering Intern - Avionics Summer 2027 (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/7987159003 · posted 2026-09-10
+- Rocket Lab - Test Engineering Intern - Manufacturing Spring 2027 (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/7987042003 · posted 2026-09-17
+- Rocket Lab - Test Engineering Intern Spring 2027 (Stennis Space Center, MS) https://job-boards.greenhouse.io/rocketlab/jobs/7990352003 · posted 2026-09-17
+- Rocket Lab - Test Engineering Intern Summer 2027 (Stennis Space Center, MS) https://job-boards.greenhouse.io/rocketlab/jobs/7990350003 · posted 2026-09-17
+- Astranis - Environmental Test Engineer Associate (Winter 2027) (San Francisco) https://job-boards.greenhouse.io/astranis/jobs/4705660006 · posted 2026-09-18
+- Astranis - Environmental Test Engineer Intern (Winter 2027) (San Francisco) https://job-boards.greenhouse.io/astranis/jobs/4705652006 · posted 2026-09-18
+- Hermeus - Propulsion Test Engineering Intern - Spring/Summer/Fall 2027 (Jacksonville, FL) https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d · posted 2026-09-23
+- Hermeus - Subsystem Test Engineering Intern - Spring/Summer 2027 (Atlanta, GA) https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c · posted 2026-09-01
+- TikTok - Data Analyst Project Intern - Data Science (London, UK) https://lifeattiktok.com/search/7620775575152462085 · posted 2026-03-24
+- Doctors Without Borders - Data Science Intern (New York, NY) https://job-boards.greenhouse.io/msfcareers/jobs/4993728008 · posted 2026-03-30
+- HEXAWARE - Intern Data Engineer (United States) https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864 · posted 2026-04-01
+- TikTok - Data Analyst Project Intern - TikTok Shop - Data Science (London, UK) https://lifeattiktok.com/search/7630767896739154229 · posted 2026-04-22
+- Heron Power - Hardware Test Engineering Intern (Santa Cruz, CA) http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application · posted 2026-05-11
+- Medpace, Inc. - AI Engineer Intern (Cincinnati, OH) https://careers.medpace.com/jobs/12729?lang=en-us&icims=1 · posted 2026-05-14
+- Marmon Holdings - Data Engineering Intern Co-op (Milwaukee, WI) https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1 · posted 2026-05-16
+- Apple - Machine Learning and Artificial Intelligence Undergraduate Intern (United States) https://jobs.apple.com/en-us/details/200664780 · posted 2026-05-22
+- Apple - Machine Learning and Artificial Intelligence Intern (United States) https://jobs.apple.com/en-us/details/200664221 · posted 2026-05-22
+- TikTok - Data Science Intern - Tiktok Shop-Supply Chain & Logistics (Seattle, WA) https://lifeattiktok.com/search/7644719084681234741 · posted 2026-05-28
+- Base Power - Hardware Reliability & Test Engineer Intern (Austin, TX) https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application · posted 2026-06-05
+- Evolver - Applied Data Science Intern (Palo Alto, CA) https://job-boards.greenhouse.io/evolver/jobs/4254540009 · posted 2026-06-10
+- The Campbell's Company - Data Engineer Co-op (Philadelphia, PA) https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837 · posted 2026-06-12
+- The Campbell's Company - Data Engineer Co-op - Operational Support (Philadelphia, PA) https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842 · posted 2026-06-12
+- TikTok - Data Scientist Intern - TikTok Shop User Product DS (Seattle, WA) https://lifeattiktok.com/search/7532254890627696903 · posted 2026-06-15
+- The Campbell's Company - Agentic AI Engineer Co-op (Remote in USA) https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015 · posted 2026-06-16
+- Delta Air Lines - Intern, Innovation - AI Engineering (Atlanta, GA) https://delta.avature.net/en_US/careers/JobDetail?jobId=32774 · posted 2026-06-24
+- Netflix - AI/ML Scientist Intern - AIMS AI Foundations (Los Gatos, CA) https://explore.jobs.netflix.net/careers/job/790316547536 · posted 2026-06-23
+- Tesla - Machine Learning Intern - AI Engineer - Tesla AI (Palo Alto, CA) https://www.tesla.com/careers/search/job/275331 · posted 2026-07-01
+- Jump Trading - Campus Data Engineer Intern (Chicago, IL) https://boards.greenhouse.io/embed/job_app?token=8002998 · posted 2026-07-08
+- DRW - AI/ML Research Intern (Montreal, QC, Canada) https://job-boards.greenhouse.io/drweng/jobs/7991171 · posted 2026-07-13
+- Jane Street - Data Engineering Intern (NYC) https://job-boards.greenhouse.io/janestreet/jobs/8631973002 · posted 2026-07-14
+- Ensemble Health Partners - Data Scientist Intern (Remote in USA) https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077 · posted 2026-07-17
+- Medpace - AI Engineer Intern (London, UK) https://careers.medpace.com/jobs/12863?icims=1 · posted 2026-07-21
+- ShyftLabs - AI Engineer Intern (Toronto, ON, Canada) https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply · posted 2026-07-21
+- Castleton Commodities International - Data Science Machine Learning Intern (London, UK) https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345 · posted 2026-07-21
+- G-Research - Data Science Intern (London, UK) https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679 · posted 2026-07-23
+- Ardian - Data Scientist Intern (NYC) https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434 · posted 2026-05-16
+- TikTok - Artificial Intelligence Engineer Intern - Client Architecture (San Jose, CA) https://lifeattiktok.com/search/7667935738190465285 · posted 2026-08-03
+- TikTok - Data Science Intern - Integrity and Safety (San Jose, CA) https://lifeattiktok.com/search/7669682935444900149 · posted 2026-08-04
+- TikTok - Data Science Intern - TikTok Live (San Jose, CA) https://lifeattiktok.com/search/7669700822370945333 · posted 2026-08-04
+- TikTok - Data Science Intern - TikTok Product (San Jose, CA) https://lifeattiktok.com/search/7669683639101884725 · posted 2026-08-05
+- John Deere - Data Science and Analytics Part-Time Student - Data and Analytics (Austin, TX) https://johndeere.eightfold.ai/careers/job/137481458189 · posted 2026-08-05
+- TikTok - Data Scientist Intern - VOD Data (San Jose, CA) https://lifeattiktok.com/search/7670287013157095733 · posted 2026-08-05
+- TikTok - Data Engineer Intern - Ads Targeting (San Jose, CA) https://lifeattiktok.com/search/7668533140146817333 · posted 2026-08-05
+- Luminance - AI Engineering Intern (Cambridge, UK) https://apply.workable.com/luminance-1/j/E045EF5A7A/apply · posted 2026-08-07
+- The Nuclear Company - Data Science Intern (Washington, DC) https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008 · posted 2026-08-07
+- TikTok - Data Engineer Intern - Monetization Data (San Jose, CA) https://lifeattiktok.com/search/7671232204182276405 · posted 2026-08-10
+- Montenson - Artificial Intelligence Intern (Minnesota) https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339 · posted 2026-08-10
+- Medpace - Data Engineer Intern - Spring 2027 (Cincinnati, OH) https://careers.medpace.com/jobs/12921?icims=1 · posted 2026-08-10
+- Citadel - Sector Data Scientist Intern (NYC) https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/ · posted 2026-08-10
+- LPL Financial Holdings - Data Engineer Intern - Data (Austin, TX, Fort Mill, SC, Charlotte, NC) https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914 · posted 2026-08-10
+- Calpion/Plutus Health - AI Engineering Intern - Python & Agentic AI (Dallas, TX) https://calpionplutus.bamboohr.com/careers/310/ · posted 2026-08-13
+- TikTok - Data Science Intern - Advertisement Team (San Jose, CA) https://lifeattiktok.com/search/7673226686054107445 · posted 2026-08-13
+- Crowe - AI Engineering Intern (Chicago, IL) https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782 · posted 2026-08-13
+- AARP - Data Science and Advanced Analytics Intern (Washington, DC) https://careers.aarp.org/jobs/7437?icims=1 · posted 2026-08-14
+- The Nuclear Company - Data Science & Machine Learning Fellow Intern (Washington, DC) https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008 · posted 2026-08-14
+- American Express - AI Engineer Intern - Enterprise Technology Services (NYC) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698 · posted 2026-08-17
+- TikTok - Data Science Project Intern - Advertisement Team (San Jose, CA) https://lifeattiktok.com/search/7675080308216154373 · posted 2026-08-18
+- Zoox - Data Scientist (Foster City, CA) https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply · posted 2026-08-20
+- Mosaic - Artificial Intelligence Co-op Intern (Tampa, FL) https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729 · posted 2026-08-20
+- Vanguard - Data Science Intern - College to Corporate IT (Charlotte, NC) https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765 · posted 2026-08-20
+- Vanguard - Data Science Intern - Information Technology (Malvern, PA) https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766 · posted 2026-08-20
+- AMD - Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence (San Jose, CA, Santa Clara, CA) https://careers.amd.com/jobs/91177?icims=1 · posted 2026-08-21
+- AMD - Machine Learning Intern/Co-op - Artificial Intelligence (Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA) https://careers.amd.com/jobs/91181?icims=1 · posted 2026-08-21
+- TikTok - Data Engineer Intern - E-commerce (San Jose, CA) https://lifeattiktok.com/search/7676250516494436661 · posted 2026-08-21
+- W.W. Grainger - Data Science Intern (Chicago, IL) https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Data-Science-IL-60661-4555/1421972400/?ats=successfactors · posted 2026-08-21
+- BNY - Data Science Intern - Engineering (Jersey City, NJ) https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238 · posted 2026-08-24
+- BNY - Engineering Intern - Data Science (Manchester, UK) https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322 · posted 2026-08-24
+- Procter & Gamble - Data & AI Engineering Intern (Cincinnati, OH) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499 · posted 2026-08-24
+- Procter & Gamble - Data Scientist Intern (Cincinnati, OH) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504 · posted 2026-08-24
+- The Hartford - Data Engineer Intern - Technology, Data, AI, and Operations (Hartford, CT) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1 · posted 2026-08-24
+- Meridian Partners - Data Scientist Co-op (Cambridge, MA, Arlington County, Arlington, VA) https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003 · posted 2026-08-25
+- Johns Hopkins Applied Physics Laboratory - Data Scientist Intern - Data Science - System Performance Evaluation (Laurel, MD) https://careers.jhuapl.edu/jobs/59800?icims=1 · posted 2026-08-25
+- Honeywell - Artificial Intelligence/Machine Learning Intern (United States) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522 · posted 2026-08-25
+- WhiteWater Midstream - Data Science Intern - Summer 2027 (Austin, TX) https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007 · posted 2026-08-26
+- Auto-Owners Insurance - Data Engineering Intern - Summer 2027 (Lansing, MI) https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318 · posted 2026-08-26
+- Booz Allen - Data Scientist Intern - University (San Diego, CA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045 · posted 2026-08-27
+- Phoenix Contact - Data Science & Analytics Intern (Middletown, PA) https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003 · posted 2026-08-27
+- Booz Allen - Data Scientist Intern - Summer Games (Rome, NY) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143 · posted 2026-08-28
+- Qorvo - Test Engineer Intern (Hillsboro, OR) https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors · posted 2026-08-31
+- Integra FEC - Data Scientist Intern (Austin, TX) https://job-boards.greenhouse.io/integrainterns/jobs/5406095008 · posted 2026-08-31
+- C3.ai - Data Scientist Intern - Summer 2027 (Redwood City, CA) https://c3.ai/job-description/8738918002?gh_jid=8738918002 · posted 2026-08-31
+- Robert Bosch Venture Capital - Calibration Process Data Science Intern - 8 months/40 hours per week (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000146524429 · posted 2026-08-31
+- ByteDance - Cloud Acceleration Research Intern - DPU & AI Infra (Seattle, WA) https://jobs.bytedance.com/en/position/7679562740656933125/detail · posted 2026-08-31
+- BlueCross BlueShield of Nebraska - Data Intern - Data Science - Data Analytics (Omaha, NE) https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406 · posted 2026-08-31
+- Edison International - Data Analytics Intern - Data Science - Applied Math (Pomona, CA, Rosemead, CA) https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors · posted 2026-09-01
+- Edison International - Data Analytics Intern - Data Science/Applied Math (Pomona, CA, Rosemead, CA) https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors · posted 2026-09-01
+- AMD - Machine Learning/Artificial Intelligence Intern/Co-op (Markham, ON, Canada) https://careers.amd.com/jobs/91363?icims=1 · posted 2026-09-01
+- Pella - Data Engineer Intern - Summer 2027 (Pella, IA, Urbandale, IA) https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304 · posted 2026-09-01
+- DraftKings - Data Science Intern (Boston, MA) https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960 · posted 2026-09-01
+- Booz Allen - Data Scientist Intern - University - Summer Games (Fort Walton Beach, FL) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409 · posted 2026-09-01
+- Booz Allen - Data Scientist Intern (Huntsville, AL) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407 · posted 2026-09-01
+- Booz Allen - Data Scientist Intern - 2027 Summer Games (Honolulu, HI) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406 · posted 2026-09-01
+- Philips - Data Engineering Co-op (Reedsville, PA) https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486 · posted 2026-09-01
+- DraftKings - Data Science Intern - Summer 2027 (Boston, MA) https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958 · posted 2026-09-01
+- Tencent - CPaaS Product Management Intern - Cloud & Smart Industries Group (LA) https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020 · posted 2026-09-01
+- Johnson & Johnson - Data Science Co-op - Summer 2027 (Cincinnati, OH) https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746 · posted 2026-09-01
+- TWG Global - Data Science Intern - MAQR (Santa Monica, CA) https://apply.workable.com/twgai/j/AC536E5EE2/apply · posted 2026-09-01
+- TWG Global - AI Engineer Intern - Summer 2027 (Santa Monica, CA) https://apply.workable.com/twgai/j/772CD136FF/apply · posted 2026-09-01
+- TWG Global - AI Data Science Intern - AI/ML Center of Excellence (London, UK, Remote in UK) https://apply.workable.com/twgai/j/1206BF981C/apply · posted 2026-09-01
+- TWG Global - Data Science Intern - SOLT (Santa Monica, CA) https://apply.workable.com/twgai/j/263B34D737/apply · posted 2026-09-01
+- Stryker - Data Science Intern (Florida) https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731 · posted 2026-09-01
+- Ingredion - Artificial Intelligence & Data Scientist Intern (Westchester, IL) https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1 · posted 2026-09-01
+- Michelin - Data Engineering Intern (Ardmore, OK) https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979 · posted 2026-09-01
+- Textron - Integration Test Engineer Intern - Marine (New Orleans, LA) https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674 · posted 2026-09-01
+- AeroVironment - Systems Test Engineer Intern (Germantown, MD, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington County, Arlington, VA, Melbourne, FL, Petaluma, CA, Fairborn, OH, Minneapolis, MN, San Luis Obispo, CA, Herndon, VA, Huntsville, AL, Moorpark, CA, Simi Valley, CA) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390 · posted 2026-09-01
+- Hadrian - Data Science/Data Engineer Intern (LA, Torrance, CA) https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true · posted 2026-09-03
+- Texas Instruments - Product Engineer Intern - Test Engineering (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571 · posted 2026-09-03
+- Momentive - Data Science Intern - Enterprise Reporting & Analytics (Niskayuna, NY) https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1 · posted 2026-09-03
+- Transcard Payments - Artificial Intelligence Intern (Chattanooga, TN) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416 · posted 2026-09-03
+- Peak Energy - Systems Integration and Test Engineer Intern - Winter 2027 (Burlingame, CA) https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007 · posted 2026-07-13
+- Hewlett Packard - Finance Data Science Intern (Spring, TX) https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Finance-Intern_UNI4241 · posted 2026-09-03
+- DriveTime - Data Science Intern - Summer 2027 (Dallas, TX, Tempe, AZ) https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301 · posted 2026-09-03
+- Pennsylvania State University - AI/ML Research Support Intern - Visualization and Decision Support Division (State College, PA) https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-Support-Intern_REQ_0000080506-1 · posted 2026-07-27
+- Simon Property Group - Data Engineering Intern - Multiple Teams (Indianapolis, IN) https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976 · posted 2026-09-04
+- Ernst & Young - Artificial Intelligence Intern - Tax - Tax Technology and Transformation (Dallas, TX, NYC) https://eyglobal.yello.co/jobs/LGUG7W08QqkVXWnuqFB0TA?job_board_id=c1riT--B2O-KySgYWsZO1Q · posted 2026-09-04
+- Schonfeld - Data Science Intern (NYC) https://job-boards.greenhouse.io/schonfeld/jobs/8171692 · posted 2026-09-04
+- Kodiak Robotics - Data Engineering Intern (Mountain View, CA) https://job-boards.greenhouse.io/kodiak/jobs/4396622009 · posted 2026-09-04
+- CNA Insurance - Data Engineering Intern (Chicago, IL) https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Engineering-_R-8129 · posted 2026-09-04
+- NXP Semiconductors - Data Science / Structured Problem Solving Intern - Summer 2027 (Austin, TX) https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037 · posted 2026-09-07
+- M3USA - AI Engineering Intern (Fort Washington, PA) https://jobs.smartrecruiters.com/M3USA/744000148244649 · posted 2026-09-08
+- Capital One - AI Engineering Intern (San Jose, CA, McLean, VA, NYC) https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1 · posted 2026-09-08
+- Capital One - AI Engineer Intern (San Jose, CA, McLean, VA, NYC) https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1 · posted 2026-09-08
+- Bedrock Robotics - Sensor Hardware Test Engineer Intern (SF) https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true · posted 2026-09-08
+- Ingredion - Supply Chain Data Science Intern (Westchester, IL) https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1 · posted 2026-09-08
+- Navy Federal - Payments AI Engineer Intern (Pensacola, FL, Vienna, VA) https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400 · posted 2026-09-09
+- Navy Federal - Data Scientist Intern (Winchester, VA, Pensacola, FL, Vienna, VA) https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081 · posted 2026-09-09
+- Navy Federal - Associate Data Engineer Intern (Vienna, VA) https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292 · posted 2026-09-09
+- Navy Federal - Data Engineer Intern (Vienna, VA) https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265 · posted 2026-09-09
+- Navy Federal - AI Engineer Intern (Vienna, VA) https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261 · posted 2026-09-09
+- Graco - Artificial Intelligence Engineer Intern (Dayton, MN) https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1 · posted 2026-09-09
+- Graco - AI Engineer Intern (Dayton, MN) https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512 · posted 2026-09-09
+- DV Trading - AI Engineer Intern (Chicago, IL) https://job-boards.greenhouse.io/dvtrading/jobs/4732429005 · posted 2026-09-09
+- Entegris - Lab Automation & AI Engineering Co-op (Billerica, MA) https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1 · posted 2026-09-10
+- SCOR - Data Science Intern (Charlotte, NC) https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393 · posted 2026-09-10
+- Marvell - Ph.D. Intern - AI/ML & Design Automation (Morrisville, NC, Austin, TX, Irvine, CA, Santa Clara, CA, Westlake Village, CA, Boise, ID, Burlington, VT, Chandler, AZ, Westborough, MA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412 · posted 2026-09-10
+- Walmart - Data Science Intern 3 (Bentonville, AR) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030 · posted 2026-09-10
+- Ketjen - Data Science Intern (Houston, TX) https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411 · posted 2026-09-10
+- Citizens Financial Group - Data Engineer Intern - Enterprise Technology & Security (Plano, TX, Johnston, RI, Phoenix, AZ) https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285 · posted 2026-09-11
+- Emerson Electric - Test Engineer Intern (Austin, TX) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010099 · posted 2026-09-11
+- Lyft - Data Science Intern - Algorithms (Toronto, ON, Canada) https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002 · posted 2026-09-11
+- Lyft - Data Engineer Intern (Toronto, ON, Canada) https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002 · posted 2026-09-11
+- Garmin - Data Scientist Intern (Olathe, KS) https://careers.garmin.com/jobs/19926?icims=1 · posted 2026-09-11
+- Oshkosh - AI Engineer Intern (Oshkosh, WI) https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265 · posted 2026-09-11
+- Tesla - Data Engineer Intern - Fleet Analytics (Palo Alto, CA) https://www.tesla.com/careers/search/job/283138 · posted 2026-09-11
+- Perpay - Data Science Intern (Philadelphia, PA) https://job-boards.greenhouse.io/perpay/jobs/4076978007 · posted 2026-09-11
+- Perpay - Data Engineering Intern (Philadelphia, PA) https://job-boards.greenhouse.io/perpay/jobs/4076965007 · posted 2026-09-11
+- Direct Supply - AI Engineer Intern (Milwaukee, WI) https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553 · posted 2026-09-11
+- Nokia - Data Scientist Co-op/Intern (Ottawa, ON, Canada) https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965 · posted 2026-09-11
+- MegazoneCloud - Data Engineer Co-op (Rochester, NY) https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application?embed=true · posted 2026-09-11
+- Businessolver - Business Intelligence Intern - Innovation & Data Science (United States) https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738 · posted 2026-09-11
+- Constellation Energy - IT Data Engineering Intern (Baltimore, MD) https://jobs.constellationenergy.com/jobs/138716?icims=1 · posted 2026-09-12
+- AfterQuery - AI/ML Research Intern (SF) https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde/application?embed=true · posted 2026-09-12
+- Guardian Life - Data Engineering Intern - Digital & Technology (Holmdel, NJ, NYC, Bethlehem, PA) https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202 · posted 2026-09-14
+- American Express - AI Engineer Intern - Undergraduate (Burgess Hill, UK) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756 · posted 2026-09-14
+- NCR Atleos - Data Science Intern (Frisco, TX, Atlanta, GA) https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686 · posted 2026-09-14
+- Equitable Bank - Retail Lending AI Engineer Intern (Toronto, ON, Canada) https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply · posted 2026-09-14
+- Equitable Bank - Commercial Lending AI Engineer Intern - Winter 2027 (Toronto, ON, Canada) https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply · posted 2026-09-14
+- Figma - Data Science Intern (SF, NYC) https://boards.greenhouse.io/figma/jobs/6178857004 · posted 2026-09-14
+- Google - Business Data Scientist Intern (Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA) https://www.google.com/about/careers/applications/jobs/results/134577198026629830 · posted 2026-09-14
+- MBDA - Computer Vision and Artificial Intelligence Engineer - Image Processing UK (Bristol, UK) https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Summer-Placement-2027_R37483 · posted 2026-09-14
+- Charta Health - Forward Deployed AI Engineer Intern (SF, NYC) https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true · posted 2026-09-14
+- North Atlantic Industries - Test Engineer Intern (Bohemia, NY) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501298 · posted 2026-09-14
+- Ernst & Young - Data Engineer Intern - Multiple Teams (Chicago, IL, NYC) https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q · posted 2026-09-14
+- ibotta - Data Engineer Intern (Denver, CO) https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true · posted 2026-09-14
+- Texas Instruments - Information Technology Intern - Data Engineering (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978 · posted 2026-09-15
+- Ekimetrics - Data Science & Marketing Effectiveness Intern (London, UK) https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply · posted 2026-09-15
+- Keysight Technologies - ASIC Design-for-Test Engineer Intern - DFT (Colorado Springs, CO) https://jobs.keysight.com/jobs/54276?icims=1 · posted 2026-09-15
+- APEX Analytix - Data Science Intern (Greensboro, NC) https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53 · posted 2026-09-15
+- APEX Analytix - Data Engineering Intern - Summer 2027 (Greensboro, NC) https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9 · posted 2026-09-15
+- AspenTech - Data Science Intern (Bedford, MA) https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459 · posted 2026-09-15
+- Q2 - Data Science Intern (Austin, TX) https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796 · posted 2026-09-15
+- NJM Insurance Group - Data Science Intern (Trenton, NJ) https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284 · posted 2026-09-15
+- Lawrence Livermore National Laboratory (LLNL) - Data Science Undergraduate Student Intern - Summer 2027 (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990015289136 · posted 2026-09-16
+- Analog Devices - Test Engineer Intern (Wilmington, MA, Durham, NC) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146 · posted 2026-09-16
+- V2X - Artificial Intelligence Intern (Indianapolis, IN) https://careers.gov2x.com/jobs/62843?icims=1 · posted 2026-09-16
+- EQT Corporation - Data Engineering Intern - Completions Services (Canonsburg, PA) https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008 · posted 2026-09-16
+- GM financial - Data Science Intern (Fort Worth, TX) https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839 · posted 2026-09-16
+- Louisiana Blue - Healthcare Data Science Intern - Spring 2027 (Baton Rouge, LA) https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151 · posted 2026-09-16
+- Gordon Food Service - Data Science Engineer Intern (Atlanta, GA) https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1 · posted 2026-09-16
+- Ancestry - Data Science Co-op - AI Document Understanding (Remote in USA) https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449 · posted 2026-09-16
+- Garmin - Data Engineering Intern (Olathe, KS) https://careers.garmin.com/jobs/20188?icims=1 · posted 2026-09-17
+- Gordon Food Service - Data Engineering Intern - Atlanta Tech Hub - Data Engineering (Atlanta, GA) https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330 · posted 2026-09-17
+- The Hartford - Data Science Intern - Summer 2027 (Chicago, IL, Charlotte, NC, Hartford, CT) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114 · posted 2026-09-17
+- Cambridge Investment Research - Data Engineer Intern - Business Intelligence and Insights (Fairfield, IA, Phoenix, AZ) https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221 · posted 2026-09-18
+- Formlabs - Hardware Test Engineer Intern (Somerville, MA) https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515 · posted 2026-09-18
+- WTW - Data Scientist Intern - P&C Insurance (London, UK, Reigate, UK) https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997 · posted 2026-09-18
+- NERv Technology Inc. D.B.A. FluidAI Medical - Data and AI Engineering Associate (Kitchener, ON, Canada) https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52 · posted 2026-09-18
+- Waymo - Product Data Science Intern (SF) https://careers.withwaymo.com/jobs?gh_jid=8199365 · posted 2026-09-18
+- AutoZone - Data Science Intern (Memphis, TN) https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461 · posted 2026-09-21
+- Boston Consulting Group - Forward Deployed AI Engineer Intern - BCG X (London, UK) https://careers.bcg.com/global/en/job/56635 · posted 2026-06-14
+- Geneva Trading - Data Engineer Intern - PMO (Chicago, IL) https://job-boards.greenhouse.io/genevatrading/jobs/5242180007 · posted 2026-09-21
+- Viking Global - Data Science Intern (NYC) https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004 · posted 2026-09-21
+- Symbotic - Data Engineer (Wilmington, MA) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967 · posted 2026-09-21
+- Tesla - Reliability Test Engineer Intern - Energy Engineering (Palo Alto, CA) https://www.tesla.com/careers/search/job/284278 · posted 2026-09-22
+- Rippling - Data Science Intern - Summer 2027 (SF) https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8 · posted 2026-09-22
+- Electronic Arts - AI Engineer Intern - Creative Innovations - Character Pipelines (Vancouver, BC, Canada) https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236 · posted 2026-09-22
+- Keenfinity - Electrical Test Engineer Co-op (Fairport, NY) https://jobs.smartrecruiters.com/Keenfinity/744000151397415 · posted 2026-09-23
+- Figma - Data Engineer Intern (SF, NYC) https://boards.greenhouse.io/figma/jobs/6178851004 · posted 2026-09-23
+- General Dynamics Information Technology - AI Network Engineering Intern (Bossier City, LA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2 · posted 2026-09-23
+- Wurl - Data Science Intern (Remote in USA) https://job-boards.greenhouse.io/wurljobs/jobs/4716249006 · posted 2026-09-24
+- Klaviyo - AI Engineer Intern (Boston, MA) https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003 · posted 2026-09-23
+- Brightstar.AI - Applied AI Engineer Intern - Advancing Agent Quality (Miami, FL) https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true · posted 2026-09-24
+- GM financial - Data Engineer Intern (Arlington, TX) https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821 · posted 2026-09-24
+- CesiumAstro - Test Engineer Intern (Westminster, CO) https://jobs.lever.co/CesiumAstro/ab7dd1c4-7196-4cae-8fbd-cddec993b9b8/apply · posted 2026-09-25
+- onsemi - Test Engineer Intern - Intelligent Sensor Group - Test Engineering (Nampa, ID) https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506604 · posted 2026-09-25
+- Red Ventures - Data Science Intern - Launch Program (Charlotte, NC) https://www.redventures.com/careers/positions/open?gh_jid=8233284 · posted 2026-09-25
+- Western National Insurance - Data Engineering Intern - Data & Integrations (Edina, MN) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849 · posted 2026-09-25
+- Pacific Life - Data Engineering Intern (Newport Beach, CA) https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828 · posted 2026-09-25
+- Moment Energy - Data Scientist Co-op (Surrey, BC, Canada) https://job-boards.greenhouse.io/momentenergy/jobs/4421775009 · posted 2026-09-26
+- Peak Energy - Test Engineer Intern (Burlingame, CA) https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&gh_jid=5178781007 · posted 2026-07-10
+- Keysight Technologies - EDA AI/ML Layout Engineering Intern (Calabasas, CA) https://jobs.keysight.com/jobs/54606?icims=1 · posted 2026-09-29
+- ICF International - AI Engineer Intern (Reston, VA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1 · posted 2026-09-29
+- Honeywell - Artificial Intelligence/Machine Learning Co-op (United States) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158958 · posted 2026-09-29
+- Acuity - Finance AI Engineering Intern (Atlanta, GA) https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors · posted 2026-09-29
+- Itron - Data Science Intern - Distributed Intelligence (Liberty Lake, WA) https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942 · posted 2026-09-28
+- POET - Data Engineer Intern (Sioux Falls, SD) https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787 · posted 2026-09-28
+- Abbott - Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML (St Paul, MN) https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025 · posted 2026-09-30
+- Tesla - Data Engineer Intern - Data Engineer - Applications Engineering (Fremont, CA) https://www.tesla.com/careers/search/job/285179 · posted 2026-10-01
+- Tesla - Data Engineer Intern - Data Engineering & Business Intelligence (Fremont, CA) https://www.tesla.com/careers/search/job/285291 · posted 2026-10-01
+- Johns Hopkins Applied Physics Laboratory - Cyber Physical Systems Intern (Laurel, MD) https://careers.jhuapl.edu/jobs/60339?icims=1 · posted 2026-10-01
+- The Federal Reserve System - Data Science and Business Analytics Intern (Chicago, IL) https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609 · posted 2026-10-01
+- The Federal Reserve System - Data Science Intern (Chicago, IL) https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634 · posted 2026-10-01
+- Datacor - Data Science Intern - Summer 2027 - Program (Remote in USA) https://job-boards.greenhouse.io/datacor/jobs/5242412007 · posted 2026-10-01
+- Stripe - Data Scientist Intern (Seattle, WA, South SF, NYC) https://stripe.com/jobs/search?gh_jid=8194283 · posted 2026-10-01
+- Pinterest - Data Science Intern (Palo Alto, CA, Seattle, WA, SF, NYC) https://www.pinterestcareers.com/jobs/?gh_jid=8140169 · posted 2026-10-01
+- Regeneron Pharmaceuticals - Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT (Tarrytown, NY) https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1 · posted 2026-10-02
+- New York Mets - Data Science Intern (Queens, NY) https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508 · posted 2026-10-02
+- Hitachi Energy - Hardware Test Engineering Intern (Toronto, ON, Canada) https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476 · posted 2026-10-02
+- Systems Planning and Analysis - Data Scientist Fellow (Alexandria, VA) https://spa.jibeapply.com/jobs/19553?icims=1 · posted 2026-08-01
+- L3Harris Technologies - Integration/Test Engineer Intern (Carlsbad, CA) https://jobs.l3harris.com/job/Carlsbad-IntegrationTest-Engineering-Intern-CA-92009/1428455100/?ats=successfactors · posted 2026-09-10
+- Keysight Technologies - Data Scientist Intern (Santa Rosa, CA) https://jobs.keysight.com/jobs/54570?icims=1 · posted 2026-10-04
+- National Laboratory of the Rockies - Graduate Geospatial Data Science Modeling and Analysis Intern (Golden, CO) https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510 · posted 2026-09-11
+- Thales - AI Engineer Apprentice (Glasgow, UK) https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760 · posted 2026-10-05
+- SOTI - Data Scientist Intern (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571 · posted 2026-10-05
+- Jain Global - Data Engineer Intern (NYC) https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1 · posted 2026-10-05
+- Hudson River Trading - Data Scientist Intern (London, UK, NYC) https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369 · posted 2026-10-05
+- bioMérieux - Data Science Co-op (Hazelwood, MO) https://jobs.jobvite.com/biofiredx/job/ooxSAfw7?nl=1&nl=1&fr=false · posted 2026-10-05
+- Cirrus Logic - Product Test Engineer Intern (Austin, TX) https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e/apply · posted 2026-10-05
+- Micron Technology - AI Engineer Intern - SMAI TD AI Engineering Team (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991 · posted 2026-10-05
+- Found Energy - Data Engineer Co-op (Cambridge, MA) https://job-boards.greenhouse.io/foundenergy/jobs/4719227006 · posted 2026-10-05
+- National Laboratory of the Rockies - Undergraduate / Graduate Cyber Security Research Intern - 5G (Golden, CO) https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555 · posted 2026-10-05
+- Astera Labs - Packaging Automation & Data Engineering Intern (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005 · posted 2026-10-06
+- Astera Labs - Design-for-Test Engineer Intern (Toronto, ON, Canada, San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005 · posted 2026-10-06
+- Astera Labs - Applied AI Engineer Intern - Silicon Engineering (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005 · posted 2026-10-06
+- Mayo Clinic - AI/ML Intern - Radiation Oncology (Rochester, MN) https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/385703 · posted 2026-10-06
+- Judi Health - Data Engineer Intern (NYC, Denver, CO) https://job-boards.greenhouse.io/judihealth/jobs/5418671008 · posted 2026-10-06
+- Hewlett Packard Enterprise - Data Science Intern (Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632 · posted 2026-08-30
+- Rivian - Engineering Intern Co-op - AI/ML ASIC CAD (Palo Alto, CA) https://careers.rivian.com/jobs/34059?icims=1 · posted 2026-10-06
+- CAE - Artificial Intelligence Intern (Montreal, QC, Canada) https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902 · posted 2026-10-06
+- Meta - Data Scientist Intern - Product Analytics (Menlo Park, CA, NYC) https://www.metacareers.com/jobs/1633096478817942 · posted 2026-10-06
+- Nokia - AI Engineer Co-op (Sunnyvale, CA) https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566 · posted 2026-10-06
+- ABB - AI Engineering ERP Intern (Cary, NC) https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711 · posted 2026-10-06
+- ABB - AI Engineering Intern - Business Systems (Cary, NC) https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714 · posted 2026-10-06
+- Roche - Data Science Intern - Multiple Teams (Welwyn Garden City, UK) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536 · posted 2026-09-18
+- Dow Jones - Marketing Data Science Intern (NYC) https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876 · posted 2026-10-07
+- Amazon - Data Engineer Intern (Seattle, WA) https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us · posted 2026-10-08
+- Axos Bank - AI Engineer Intern (San Diego, CA) https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658 · posted 2026-10-07
+- Dell Technologies - Undergraduate Data Science Intern (Round Rock, TX, Hopkinton, MA) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299978 · posted 2026-10-08
+- Koch Industries - Data Science Intern (Atlanta, GA) https://koch.avature.net/en_US/careers/JobDetail/195341 · posted 2026-10-08
+- GuidePoint Security - AI & Data Science Intern - GPSU (Remote in USA) https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004 · posted 2026-10-08
+- Hewlett Packard Enterprise - Wireless Networking Intern (San Jose, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969 · posted 2026-10-08
+- Papa John's - Data Science Intern (Atlanta, GA) https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157 · posted 2026-10-09
+- Faire - Applied AI/ML Scientist Intern (SF) https://boards.greenhouse.io/faire/jobs/8870975002 · posted 2026-10-09
+- Bosch Home Comfort - Artificial Intelligence / Machine Learning: Foundation Models Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/BoschGroup/744000154759734 · posted 2026-10-09
+- SageSure - Data Scientist Intern (Jersey City, NJ, Cheshire, CT) https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006 · posted 2026-10-09
+- SageSure - Data Science Intern (Jersey City, NJ) https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006 · posted 2026-10-09
+- Nissan Global - EA & Cloud Intern (Franklin, TN) https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214 · posted 2026-10-09
+- Harbinger Motors - Test Engineering Intern (Garden Grove, CA) https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007 · posted 2026-10-09
+- Thea Energy - Test Engineer Intern (Kearny, NJ) https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad/apply · posted 2026-08-27
+- C&S Wholesale Grocers - IS Intern - Data Analytics & Data Science (Edison, NJ) https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963 · posted 2026-10-11
+- Thales - Data Scientist Apprentice - Level 6 Data Scientist (Crawley, UK) https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Data-Science-Apprentice_R0337752 · posted 2026-10-05
+- CapTech Consulting - Data Analysis/Data Engineering Intern (Richmond, VA) https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169 · posted 2026-10-12
+- Aptiv - Cloud Engineer Intern (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383 · posted 2026-10-12
+- Nissan Global - Financial AI Engineer Intern (Franklin, TN) https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241 · posted 2026-10-12
+- Nissan Global - Data Science Intern (Franklin, TN) https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250 · posted 2026-10-12
+- Electronic Arts - Data and AI Engineer Intern (Austin, TX) https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238 · posted 2026-10-12
+- Manulife Financial - Data Engineering Co-op (Toronto, ON, Canada) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1 · posted 2026-10-12
+- Astera Labs - Analog/Mixed Signal System Test Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005 · posted 2026-10-13
+- Hewlett Packard Enterprise - HPC AI Networking Intern - Network Transport (Chippewa Falls, WI, Fort Collins, CO) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416 · posted 2026-10-13
+- Boston Consulting Group - Forward Deployed AI Engineer Intern (Boston, MA, LA, Chicago, IL, NYC) https://careers.bcg.com/global/en/job/59702 · posted 2026-10-13
+- KLA - AI Engineer Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821 · posted 2026-10-13
+- Walgreens - Data Science Intern (Deerfield, IL) https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191 · posted 2026-10-13
+- Point72 - Data Scientist Intern (NYC) https://boards.greenhouse.io/point72/jobs/8885299002 · posted 2026-10-14
+- Johnson & Johnson - AI/ML/Data Science Intern (Boston, MA, Barcelona, Spain, Spring House, PA, New Brunswick, NJ, Madrid, Spain, NYC, High Wycombe, UK) https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697 · posted 2026-10-14
+- Later - Data Science Co-op (Vancouver, BC, Canada) https://job-boards.greenhouse.io/later/jobs/8889650002 · posted 2026-10-14
+- onsemi - Manufacturing AI Engineering Intern (Hopewell Junction, NY) https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642 · posted 2026-10-14
+- Businessolver - Business Intelligence Analyst Intern - Innovation & Data Science (Remote in USA) https://www.businessolver.com/careers/openings/?gh_jid=8281727 · posted 2026-10-14
+- Whataburger - Data Scientist Intern (San Antonio, TX) https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201 · posted 2026-10-14
+- National Life - Data Science Intern (Montpelier, VT, Addison, TX) https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009 · posted 2026-10-14
+- Rockwell Automation - Test Engineering Intern (Milwaukee, WI) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553-1 · posted 2026-10-14
+- National Laboratory of the Rockies - AI/ML for Cybersecurity Intern (Golden, CO) https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563 · posted 2026-10-15
+- Duolingo - Data Scientist Intern (Pittsburgh, PA, NYC) https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002 · posted 2026-10-15
+- Moment Energy - Test Engineering Co-op (Surrey, BC, Canada) https://job-boards.greenhouse.io/momentenergy/jobs/4455115009 · posted 2026-10-16
+- Zoetis Services - Chemistry Data Science Intern - Digital CMC Workflows (Kalamazoo, MI) https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2 · posted 2026-10-16
+- National Bank of Canada - Artificial Intelligence Scientist Intern (Canada) https://bnc.avature.net/en_CA/careers/JobDetail/36110 · posted 2026-10-14
+- Leonardo - Test Engineer Apprentice (Luton, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Test-Engineering-Degree-Apprentice_R0034143 · posted 2026-10-18
+- Highmark Health - Data Science Research and Development Graduate Intern (New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho) https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175 · posted 2026-10-19
+- Navy Federal - AI Engineering Intern (Vienna, VA) https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645 · posted 2026-10-19
+- Carrier Global - Test Engineer Intern (Fort Wayne, IN) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Test-Engineering-Intern---Summer_30220233 · posted 2026-10-19
+- Meta - Research Scientist Intern - Artificial Intelligence-Driven Neural Interfaces (Burlingame, CA, Menlo Park, CA, NYC) https://www.metacareers.com/jobs/1436615821934863 · posted 2026-10-20
+- CACI - Electrical Test Engineer Intern (Danbury, CT) https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809 · posted 2026-10-20
+- DriveWealth - AI Consulting Associate Program – AI Engineer Intern (Chicago, IL, NYC) https://boards.greenhouse.io/drivewealth/jobs/8039350003 · posted 2026-10-20
+- Picton Mahoney Asset Management - Data Engineer Intern (Toronto, ON, Canada) https://pictonmahoney.bamboohr.com/careers/387/ · posted 2026-10-20
+- Micron Technology - AI Engineer Intern (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094 · posted 2026-10-20
+- American Electric Power - Data Scientist Intern (Columbus, OH) https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499 · posted 2026-10-20
+- Toyota - Data Science Intern (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1 · posted 2026-10-20
+- Aon - IT / AI Engineer Intern (Chicago, IL) https://jobs.aon.com/jobs/110099?icims=1 · posted 2026-10-21
+- Analytic Partners - Data Science Co-op (Miami, FL) https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302/apply · posted 2026-10-21
+- LexisNexis Risk Solutions - Data Science & Fraud Analytics Placement Intern (London, UK) https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888 · posted 2026-10-22
+- Qualcomm - Applied AI Engineering Intern - Hardware Systems (Vancouver, BC, Canada) https://qualcomm.eightfold.ai/careers/job/446721678733 · posted 2026-10-22
+- Atoms - Machine Learning/Artificial Intelligence Research Intern (SF, Mountain View, CA) https://job-boards.greenhouse.io/cssmerge/jobs/8909115002 · posted 2026-10-22
+- Allstate - Data Science Intern - Core Telematics (Illinois) https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285 · posted 2026-10-22
+- Databricks - Data Science Intern (SF, Mountain View, CA) https://boards.greenhouse.io/embed/job_app?token=6866538002 · posted 2026-10-22
+- Peak Energy - Systems Integration and Test Engineer Intern (Burlingame, CA) https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007 · posted 2026-10-22
+- CVS Health - Innovation & Technology Internship - Data Science (NYC) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038 · posted 2026-10-22
+- Booz Allen - Enterprise Cybersecurity Data and Business Intelligence Analyst Intern (McLean, VA) https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250 · posted 2026-10-22
+- CVS Health - Innovation & Technology Data Science Intern (NYC) https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067 · posted 2026-10-22
+- Amazon - Cloud Hardware Development Engineer Intern (Austin, TX, Cupertino, CA) https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027 · posted 2026-10-23
+- Amazon - Data Science Intern (Seattle, WA) https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student · posted 2026-10-23
+- Vertiv - Test Engineer Intern (Delaware, OH) https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024 · posted 2026-08-10
+- AMEND Consulting - Quality Assurance Analyst Co-op Intern (Cincinnati, OH) https://job-boards.greenhouse.io/amendconsulting/jobs/4113831009 · posted 2026-07-08
+- Emerson Electric - Test Engineering Co-op (Shakopee, MN) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009323 · posted 2026-09-01
+- Pennsylvania State University - Artificial Intelligence & Image Processing Research Assistant Intern (York, PA) https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-York/Part-Time---Student--Work-Study--Undergraduate----Artificial-Intelligence---Image-Processing-Research-Assistant_REQ_0000082742-1 · posted 2026-09-21
+- Constellation Energy - Quantitative Analytics & Data Science Intern (Baltimore, MD) https://jobs.constellationenergy.com/jobs/139494?icims=1 · posted 2026-09-28
+- William Blair - Technology Intern - Wit - Data Science (Chicago, IL) https://www.williamblair.com/Careers/job-description?gh_jid=5242280007 · posted 2026-09-28
+- onsemi - AI & Data Engineering Intern (San Jose, CA) https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506526 · posted 2026-09-28
+- UL Solutions - Data Science Intern (Northbrook, IL, Chicago, IL) https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629 · posted 2026-09-28
+- GlobalFoundries - Reliability Test Engineer Intern (Malta, NY) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361 · posted 2026-09-28
+- IAT Insurance Group - Data Engineering & Visualization Intern (Raleigh, NC) https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441 · posted 2026-09-28
+- Mass General Brigham - Postdoctoral Fellow in Artificial Intelligence/Machine Learning for Maternal and Perioperative Care (Boston, MA) https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Postdoctoral-Fellow-in-AI-ML-for-Maternal-and-Perioperative-Care_RQ4082480 · posted 2026-10-09
+- Merck - Future Talent Program Intern - AI/ML Biomedical Imaging and Computational Pathology (Cambridge, MA) https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515 · posted 2026-10-23
+- MSA Safety - AI Engineer Co-op (Cranberry Township, PA) https://careers.msasafety.com/jobs/10243?icims=1 · posted 2026-10-23
+- Sun Life - Data Science Intern (Milwaukee, WI, Kansas City, MO, Hartford, CT, Portland, ME, Wellesley, MA) https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1 · posted 2026-10-23
+- GlobalFoundries - New Product Development Test Engineer Intern (Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957 · posted 2026-10-23
+- Simbe Robotics - Data Analytics & Data Science Intern (Burlingame, CA) https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply · posted 2026-10-23
+- Bertelsmann - Data Science Intern (NYC) https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157546634 · posted 2026-10-23
+- Flagship Pioneering - Bioinformatics Data Engineering Co-op (Watertown, MA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002 · posted 2026-10-23
+- Brookfield - Artificial Intelligence Intern - Renewable Power & Transition (Toronto, ON, Canada, NYC) https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741 · posted 2026-05-16
+- Dell Technologies - Data Science Intern (Round Rock, TX) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413 · posted 2026-10-25
+- Royal Bank of Canada - Data Engineer Intern (Vancouver, BC, Canada) https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2 · posted 2026-10-26
+- Wells Fargo - Technology Intern - Early Careers - Data Engineering (Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX) https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066 · posted 2026-10-26
+- Royal Bank of Canada - Data Engineer Intern - Amplify 2027 (Vancouver, BC, Canada) https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198 · posted 2026-10-26
+- Highmark Health - Applied Gen AI/Data Scientist Graduate Intern (New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho) https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007 · posted 2026-10-26
+- Arizona State University - Student Assistant Intern - Data Science (Scottsdale, AZ) https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1568 · posted 2026-10-26
+- Applied Materials - Data Scientist Co-op (Gloucester, MA) https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146 · posted 2026-10-26
+- Boston Dynamics - Systems Test Engineer Co-op (Waltham, MA) https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312 · posted 2026-10-26
+- CHS - Data Engineer Intern (Inver Grove Heights, MN) https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443597100/?ats=successfactors · posted 2026-10-26
+- Booz Allen - 2027 Summer Games Data Scientist Intern (Lexington, MA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275 · posted 2026-10-26
+- Highmark Health - Predictive Modeling & Data Science Graduate Intern (New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho) https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333 · posted 2026-10-26
+- Generac - AI Engineering Intern (Waukesha, WI) https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736 · posted 2026-10-26
+- Visa - Data Science Intern - Data and AI Team (Foster City, CA) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1 · posted 2026-10-27
+- OneMain Financial - Data Science Analyst Intern (Charlotte, NC, Wilmington, DE) https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405 · posted 2026-09-08
+- CSAA Insurance Group - Data Science Intern (Phoenix, AZ) https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002 · posted 2026-10-27
+- Micron Technology - HBM Data Scientist Intern (Richardson, TX) https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127 · posted 2026-10-27
+- JM Family - Data Engineer Intern (Deerfield Beach, FL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120 · posted 2026-10-27
+- Great American Insurance Company - Data Engineer Intern (Cincinnati, OH) https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794 · posted 2026-10-27
+- Paccar - Data Engineer Intern (Chillicothe, OH) https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors · posted 2026-10-27
+- Assurant - AI and Data Science Intern (Atlanta, GA) https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105 · posted 2026-10-27
+- Skyband Systems - Avionics Hardware & Test Engineer Intern (Kirkland, WA) https://jobs.ashbyhq.com/skyband%20systems/74d42f88-5265-4879-9c6d-61f532e89b20/application?embed=true · posted 2026-10-07
+- Light - AI Engineer Intern (London, UK) https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9/application?embed=true · posted 2026-09-13
+- AeroVironment - Test Engineer Intern - Space Technologies (Albuquerque, NM) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253 · posted 2026-10-27
+- Hex Technologies - AI Engineer Intern (SF) https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6/application?embed=true · posted 2026-10-12
+- Scout AI - AI Engineer Intern - Fury Team (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true · posted 2026-10-23
+- General Magic - AI Engineer Co-op (Toronto, ON, Canada) https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true · posted 2026-10-16
+- Applied Materials - Data Science Intern (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525 · posted 2026-10-28
+- Applied Materials - Data Scientist Intern - Master's (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691 · posted 2026-10-28
+- Applied Materials - Data Scientist Intern (Austin, TX) https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409 · posted 2026-10-28
+- Micron Technology - Data Scientist Intern (San Jose, CA, Folsom, CA) https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549 · posted 2026-10-28
+- T-Mobile - Associate AI Engineer Intern (Frisco, TX, Overland Park, KS) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492 · posted 2026-10-28
+- Valmont - AI and Data Engineering Intern (Omaha, NE) https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310 · posted 2026-10-28
+- Texas Instruments - Product/Test Engineering Intern (Santa Clara, CA) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016391 · posted 2026-10-28
+- Marvell - Data Science Intern (Boise, ID) https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782 · posted 2026-10-28
+- Regeneron Pharmaceuticals - Data Science & Digital Innovation Intern - Industrial Operations and Product Supply (Rensselaer, NY) https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1 · posted 2026-10-28
+- Regeneron Pharmaceuticals - AI/ML & Data Engineering Intern (Cambridge, MA, Armonk, NY, Warren, NJ, Sleepy Hollow, NY, Tarrytown, NY) https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1 · posted 2026-10-28
+- Sherwin-Williams - R&D Data Science Co-op (Brecksville, OH) https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789 · posted 2026-10-28
+- ASML - Data Engineer Co-op Intern (San Diego, CA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626 · posted 2026-10-28
+- Qualcomm - Design Automation & Quality Assurance Engineer Intern (Toronto, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446721349404 · posted 2026-10-01
+- Tesla - Data Engineer Intern - Energy (Palo Alto, CA) https://www.tesla.com/careers/search/job/287982 · posted 2026-10-29
+- Sallie Mae - Data Science and Engineering Intern (Newark, DE, Arlington County, Arlington, VA) https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659 · posted 2026-10-29
+- Syngenta Group - Data Scientist Intern (Raleigh, NC) https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415 · posted 2026-10-29
+- TobogganLabs - Data Science Intern (Québec City, QC, Canada) https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003 · posted 2026-10-04
+- Astronics - Electrical Test Engineer Intern (Redmond, WA) https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009 · posted 2026-09-30
+- Wave Life Sciences USA - Intellectual Property/Data Science Co-op (United States) https://wavelifesciences.com/jobs?gh_jid=4403998009 · posted 2026-09-18
+- Qube Research & Technologies - Data Engineering Intern (London, UK, Paris, France) https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002 · posted 2026-09-09
+- Loft Orbital - Test Engineering Intern - Test Engineering (Golden, CO) https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply · posted 2026-10-29
+- Philips - Data Engineer Co-op - Biocompatibility (Murrysville, PA) https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730 · posted 2026-10-29
+- Lunar Energy - Hardware Test Engineer Intern (Mountain View, CA) https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004 · posted 2026-10-29
+- Walmart - Corporate Market Strategy Data Science Intern (Bentonville, AR) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690844--USA--Corporate-Intern---Market-Strategy-Data-Science-Intern_R-2690844 · posted 2026-10-29
+- TikTok - Data Scientist Project Intern - Integrity and Safety (San Jose, CA) https://lifeattiktok.com/search/7610543185362372917 · posted 2026-07-22
+- C3.ai - Data Scientist Intern (Redwood City, CA) https://job-boards.greenhouse.io/c3ascend/jobs/8738917002 · posted 2026-08-21
+- Marmon Holdings - Data Engineering Intern/Co-op (Milwaukee, WI) https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453 · posted 2026-05-16
+- SageSure - Data Science Product Analyst Intern (Fairfield, CA) https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006 · posted 2026-10-27
+- University of Miami - Data Science & AI Intern (Miami, FL) https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549 · posted 2026-10-30
+- Strada Education Foundation - Clear Outcomes and Data Science Intern (Washington, DC) https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply · posted 2026-10-30
+- Firework - Data Engineer Intern (San Mateo, CA) https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply · posted 2026-10-31
+- Emory University - Postdoctoral Fellow in Machine Learning and Data Science (Flowery Branch, GA) https://emory.jibeapply.com/jobs/164710?icims=1 · posted 2026-10-28
+- Intercontinental Exchange - Data Science Intern (NYC) https://ice.jibeapply.com/jobs/14113?icims=1 · posted 2026-10-23
+- Intercontinental Exchange - Agentic AI Data Science Intern (Jacksonville, FL) https://ice.jibeapply.com/jobs/14070?icims=1 · posted 2026-10-23
+- Systems Planning and Analysis - Data Engineer Intern (Alexandria, VA) https://spa.jibeapply.com/jobs/23698?icims=1 · posted 2026-10-28
+- Systems Planning and Analysis - Data Engineering & Analytics Tools Intern (Washington, DC) https://spa.jibeapply.com/jobs/23634?icims=1 · posted 2026-10-16
+- Peraton - Data Science Intern (Blacksburg, VA, Herndon, VA) https://peraton.jibeapply.com/jobs/170320?icims=1 · posted 2026-09-09
+- Northrop Grumman - Data Scientist Intern - Product Support (San Diego, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679 · posted 2026-10-30
+- Uncountable - Scientific Data Engineer (SF, NYC) https://jobs.ashbyhq.com/uncountable/48cbdfbc-c377-49bd-b39b-4c2d77357135/application · posted 2026-03-25
+- GlobalFoundries - Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer (Austin, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1 · posted 2026-03-27
+- Figma - Data Scientist, Core Data (New York, NY, San Francisco, CA) https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004 · posted 2026-05-01
+- ShyftLabs - Associate AI Engineer (Toronto, ON, Canada) https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675/apply · posted 2026-05-13
+- Makai Labs - AI Engineer (California, Texas, Jackson Township, NJ, NYC, Massachusetts) https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application · posted 2026-05-15
+- The Boeing Company - Entry-Level Flight Test Data Engineer (Eglin AFB, FL) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1 · posted 2026-05-22
+- EXL - Data Scientist Associate (United States) https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15323 · posted 2026-06-08
+- Evolver - Generative AI Engineer - Python (Palo Alto, CA) https://job-boards.greenhouse.io/evolver/jobs/4092111009 · posted 2026-06-10
+- The Home Depot - Associate Data Scientist (Atlanta, GA) https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req183776 · posted 2026-06-16
+- Tesla - AI Engineer - Whole Body Controls - Optimus (Palo Alto, CA) https://www.tesla.com/careers/search/job/275999 · posted 2026-07-06
+- Revenue Analytics - Data Scientist (Atlanta, GA) https://jobs.lever.co/revenueanalytics/d1d069f6-be13-431b-94c9-626f5bed83c6/apply · posted 2026-07-07
+- The Aerospace Corporation - Data Scientist (Colorado Springs, CO, Boulder, CO) https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833 · posted 2026-07-09
+- The Home Depot - Associate Data Scientist - Decision Analytics (Atlanta, GA) https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Decision-Analytics_Req186435 · posted 2026-07-10
+- The Brattle Group - Data and AI Engineer (Boston, MA) https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005 · posted 2026-07-15
+- Tavern Research - Data Scientist 1 (Chicago, IL) https://ats.rippling.com/tavernresearch/jobs/1a3cfbeb-973a-4528-8fc6-43c04e179ea8 · posted 2026-07-21
+- JP Morgan Chase - Applied AI Engineer - Markets Operations - Associate (London, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723353 · posted 2026-07-23
+- Citadel - Sector Data Scientist - Central Team (NYC) https://www.citadel.com/careers/details/sector-data-scientist-central-team/ · posted 2026-07-27
+- NewsBreak - Applied AI Engineer New Grad - Advertising Agents (Mountain View, CA) https://job-boards.greenhouse.io/newsbreak/jobs/4700278006 · posted 2026-07-28
+- LexisNexis Risk Solutions - Data Scientist 1 - Dsap (Alpharetta, GA) https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014 · posted 2026-07-28
+- RELX - Data Scientist 1 - Dsap (Alpharetta, GA) https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I--DSAP-_R116014-1 · posted 2026-07-28
+- JP Morgan Chase - Data and Artificial Intelligence Analyst (Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954 · posted 2026-08-03
+- Dealer Tire - Associate Data Scientist (Remote in USA, Ohio) https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Remote-Ohio/Associate-Data-Scientist_R13774 · posted 2026-08-03
+- TikTok - Data Engineer Graduate - Monetization Data (San Jose, CA) https://lifeattiktok.com/search/7668550561096665397 · posted 2026-08-04
+- TikTok - AI Engineer Graduate - Client Architecture - 2027 Start (San Jose, CA) https://lifeattiktok.com/search/7664978367107713333 · posted 2026-08-04
+- Varsity Brands - Data Engineer 1 (Farmers Branch, TX) https://careers.varsitybrands.com/global/en/job/JR114562 · posted 2026-08-06
+- Pennsylvania State University - Artificial Intelligence / Machine Learning Verification and Validation Engineer - Multiple Teams (State College, PA, Reston, VA) https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000079310-2 · posted 2026-08-06
+- ByteDance - LLM/AI Operations Development Engineer Graduate - Data Center Networking (San Jose, CA) https://jobs.bytedance.com/en/position/7670773781477394741/detail · posted 2026-08-07
+- UBDS Group - Data Engineer (London, UK) https://apply.workable.com/ubds/j/3E4DD87355/apply · posted 2026-08-08
+- Polaris - Digital & IT Leadership Development Program Associate - Predictive Data Science (Medina, MN, Plymouth, MN) https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564 · posted 2026-08-08
+- LPL Financial Holdings - Data Engineering New Grad (Austin, TX, Fort Mill, SC, Charlotte, NC) https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1 · posted 2026-08-10
+- Deloitte - Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions (Gilbert, AZ) https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022 · posted 2026-08-10
+- Axos Bank - Data Engineer (San Diego, CA) https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--Data-Engineer_JR5192-1 · posted 2026-08-11
+- KnowBe4 - Graduate Data Scientist - Cyber Analytics (Cheltenham, UK) https://job-boards.greenhouse.io/knowbe4/jobs/8700231002 · posted 2026-08-12
+- TikTok - Big Data Engineer Graduate - TikTok Recommendation Architecture (San Jose, CA) https://lifeattiktok.com/search/7672518398222387461 · posted 2026-08-12
+- PJT Partners - Business Intelligence Analyst - DealCloud (NYC) https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386 · posted 2026-08-12
+- Gartner - Associate Data Scientist (Stamford, CT, Irving, TX) https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311 · posted 2026-08-13
+- TikTok - Data Science Graduate - Advertisement Team (San Jose, CA) https://lifeattiktok.com/search/7673232905797880069 · posted 2026-08-13
+- TikTok - Data Scientist Graduate - Multimedia (San Jose, CA) https://lifeattiktok.com/search/7670288355678177589 · posted 2026-08-13
+- Quantum - Graduate Data Engineer (London, UK) https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6/application?embed=true · posted 2026-08-13
+- Kyndryl - Associate AI Engineer (Dallas, TX) https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2 · posted 2026-08-13
+- Kyndryl - Associate AI Engineer - Early Career Consult Program (Dallas, TX) https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739 · posted 2026-08-13
+- AppLovin - Data Scientist - Analytics (Palo Alto, CA) https://boards.greenhouse.io/applovin/jobs/4705263006 · posted 2026-08-14
+- Vanguard - Data Scientist - Data & Analytics (Charlotte, NC) https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Data---Analytics--Scientist----NC_180093-1 · posted 2026-08-17
+- Pennsylvania State University - Artificial Intelligence / Machine Learning Verification and Validation Engineer - Information Science Division - All-Domain Analytics and Signatures Office (State College, PA, Reston, VA) https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000080734-1 · posted 2026-08-17
+- Procter & Gamble - Data Engineer - North America Fabric Care (Cincinnati, OH) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463 · posted 2026-08-17
+- Smarter Agent - Junior Data Engineer - Multiple Teams (Collingswood, NJ) https://jobs.smartrecruiters.com/SmarterAgent/743999706496509 · posted 2026-08-18
+- Dark Wolf Solutions - Junior Data Engineer (Chantilly, VA, Herndon, VA) https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003 · posted 2026-08-18
+- Micron Technology - Design for Test Engineer New Grad - HBM (Richardson, TX) https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Engineer---HBM-Design-for-Test--DFT-_JR109696 · posted 2026-08-21
+- Procter & Gamble - Data Science New Grad - Master’s degree (Cincinnati, OH) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Science--Master-s-degree---2027-Grads-_R000157919 · posted 2026-08-24
+- Procter & Gamble - Data and AI Engineering New Grad (Cincinnati, OH) https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering--2027-Grads-_R000157913 · posted 2026-08-24
+- KBR - Junior Data Engineer (Chantilly, VA) https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783 · posted 2026-08-24
+- Johns Hopkins Applied Physics Laboratory - Artificial Intelligence and Complex Systems BS/MS (Laurel, MD) https://careers.jhuapl.edu/jobs/59664?icims=1 · posted 2026-08-24
+- Sciemo - Data Scientist (Research Triangle Park, Durham, NC, Philadelphia, PA, NYC, Atlanta, GA) https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application?embed=true · posted 2026-08-25
+- KLA - AI Engineer - Computer Vision/Signal Processing (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582 · posted 2026-08-25
+- NewsBreak - Applied AI Engineer - Advertising Agents (Mountain View, CA) https://job-boards.greenhouse.io/newsbreak/jobs/4690262006 · posted 2026-06-17
+- Johns Hopkins Applied Physics Laboratory - Data Scientist/Engineer New Grad - Analytic Capabilities (Laurel, MD) https://careers.jhuapl.edu/jobs/59818?icims=1 · posted 2026-08-26
+- NewRocket - AI Engineer Graduate Level (Remote in USA) https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004 · posted 2026-08-26
+- NewRocket - AI Engineer - Anthropic (Remote in USA) https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004 · posted 2026-08-26
+- Embedding VC - AI Engineer - Early Career (SF) https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true · posted 2026-08-26
+- Johns Hopkins Applied Physics Laboratory - AI/ML Research Engineer (Laurel, MD) https://careers.jhuapl.edu/jobs/59548?icims=1 · posted 2026-08-26
+- Booz Allen - Data Scientist (Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA) https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0247963 · posted 2026-08-26
+- Johns Hopkins Applied Physics Laboratory - Graduate - Data Science - System Performance Evaluation (Laurel, MD) https://careers.jhuapl.edu/jobs/59799?icims=1 · posted 2026-08-27
+- Global Lending Services - Data Scientist - December 2026 (Greenville, SC) https://jobs.lever.co/glsllc/d81bfc16-2ba1-41ca-ab21-7d8cffac9e07/apply · posted 2026-08-27
+- Booz Allen - Data Engineer (Atlanta, GA) https://bah.wd1.myworkdayjobs.com/Confidential/job/Atlanta-GA/University--Data-Engineer_R0248107 · posted 2026-08-27
+- Hewlett Packard Enterprise - Data Science New Grad (Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA) https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631 · posted 2026-08-28
+- Travelers - Engineering Development Program - Data Engineering (Hunt Valley, Cockeysville, MD, Hartford, CT, Atlanta, GA, St Paul, MN) https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272 · posted 2026-09-01
+- Johns Hopkins Applied Physics Laboratory - Postdoctoral Researcher in Artificial Intelligence (Laurel, MD) https://careers.jhuapl.edu/jobs/59905?icims=1 · posted 2026-09-01
+- Johns Hopkins Applied Physics Laboratory - Artificial Intelligence Engineer New Grad - Intelligent Autonomous Systems (Laurel, MD) https://careers.jhuapl.edu/jobs/59848?icims=1 · posted 2026-09-01
+- L3Harris Technologies - Associate Integration/Test Engineer (Forest, VA) https://jobs.l3harris.com/job/Forest-Associate,%C2%A0IntegrationTest-Engineer-VA-24551/1425416700/?ats=successfactors · posted 2026-09-01
+- Micron Technology - Product Test Engineer New Grad (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985 · posted 2026-08-30
+- Accenture - Data Engineer (Tampa, FL) https://boards.greenhouse.io/accenturefederalservices/jobs/4710646006 · posted 2026-09-03
+- Horizon media - Associate Data Science - Marketing Science (NYC) https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0017491 · posted 2026-09-02
+- Analog Devices - Associate Test Engineer (Wilmington, MA, Durham, NC) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308 · posted 2026-08-20
+- Boyne Resorts - Systems Integration and Test Engineer (Eglin AFB, FL) https://careers.astrion.us/jobs/24513?icims=1 · posted 2026-07-27
+- Astrion - Systems Integration and Test Engineer - Junior (Eglin AFB, FL) https://careers.astrion.us/jobs/24603?icims=1 · posted 2026-08-04
+- General Matter - Test Engineer New Grad (LA) https://job-boards.greenhouse.io/generalmatter/jobs/5375985008 · posted 2026-08-12
+- Microchip Technology - Test Engineer - Modules (Caldicot, UK) https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/United-Kingdom---Caldicot/Principal-Test-Engineer_R879-25 · posted 2026-08-26
+- Schweitzer Engineering Laboratories - Electronics Test Engineer (Pullman, WA, Lewiston, ID) https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Test-Engineer_2026-21677 · posted 2026-06-13
+- Arcfield - Data Scientist 1 (Chantilly, VA) https://careers.arcfield.com/jobs/8614?icims=1 · posted 2026-09-04
+- Johns Hopkins Applied Physics Laboratory - Data Scientist New Grad - Computer Scientist - Decision Systems (Laurel, MD) https://careers.jhuapl.edu/jobs/59918?icims=1 · posted 2026-09-04
+- Ernst & Young - Artificial Intelligence Analyst - Tax Technology and Transformation - Artificial Intelligence (Dallas, TX, NYC) https://eyglobal.yello.co/jobs/k-0h0FlaXImE-sESVrR35A?job_board_id=c1riT--B2O-KySgYWsZO1Q · posted 2026-09-04
+- TikTok - Data Engineer Graduate (San Jose, CA) https://lifeattiktok.com/search/7681779180341709109 · posted 2026-09-07
+- Caterpillar - Data Scientist / Technical Analyst (Peoria, IL, Chicago, IL, Mossville, IL, Irving, TX) https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872 · posted 2026-09-07
+- ID.me - Data Scientist New Grad (Mountain View, CA) https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003 · posted 2026-09-08
+- DraftKings - Data Science Engineer (Boston, MA) https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959 · posted 2026-09-08
+- Cirrus Logic - Product Test Engineer (Austin, TX) https://jobs.eu.lever.co/cirrus/12cd627f-7c7c-4737-b1e9-22edc752e35e/apply · posted 2026-09-08
+- Bertram Capital Management - Forward Deployed AI Engineer (Foster City, CA) https://job-boards.greenhouse.io/bertramcapitalmanagement/jobs/8789855002 · posted 2026-09-09
+- GE Vernova - Data Scientist (Greenville, SC) https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3 · posted 2026-09-10
+- GE Vernova - AI Engineer (Greenville, SC) https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2 · posted 2026-09-10
+- Noblis - Artificial Intelligence Engineer (McLean, VA) https://careers.noblis.org/jobs/27812?icims=1 · posted 2026-09-10
+- Citizens Financial Group - Data Engineer (Plano, TX, Johnston, RI, Phoenix, AZ) https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290 · posted 2026-09-11
+- American Express - AI Engineer (Burgess Hill, UK) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013776 · posted 2026-09-14
+- OneImaging - Associate Data Engineer (Miami, FL) https://job-boards.greenhouse.io/oneimaging/jobs/4404708009 · posted 2026-09-14
+- CHAOS Industries - Applied AI Engineer (SF) https://job-boards.greenhouse.io/chaosindustries/jobs/5237013007 · posted 2026-09-14
+- Ernst & Young - Tax Technology and Transformation Data Engineering Analyst - Tax Technology and Transformation - Data Engineering (Chicago, IL, NYC) https://eyglobal.yello.co/jobs/NLIPdsEt-CcUjetuNNeYlQ?job_board_id=c1riT--B2O-KySgYWsZO1Q · posted 2026-09-14
+- Johns Hopkins Applied Physics Laboratory - AI Researcher - Artificial Intelligence and Complex Systems (Laurel, MD) https://careers.jhuapl.edu/jobs/60075?icims=1 · posted 2026-09-15
+- Texas Instruments - Data Engineer - Career Accelerator Program (Richardson, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894 · posted 2026-09-15
+- Optimove - Customer Data Engineer (Dundee, UK) https://job-boards.eu.greenhouse.io/optimove/jobs/4971259101 · posted 2026-09-15
+- Major League Baseball - Data Scientist - Baseball Research & Development (Cleveland, OH) https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8770570002 · posted 2026-09-15
+- Fospha - Graduate Data Engineer (London, UK) https://job-boards.greenhouse.io/fosphamarketing/jobs/8207747 · posted 2026-09-16
+- BNY - Data Science Analyst - Engineering (Pittsburgh, PA) https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246 · posted 2026-09-16
+- Blenheim Chalcot - Graduate Data Engineer (London, UK) https://job-boards.greenhouse.io/blenheimchalcot/jobs/8207802 · posted 2026-09-16
+- General Motors - Data Engineer (Seattle, WA, Austin, TX, Warren, MI) https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428 · posted 2026-09-16
+- BNY - Data Science Analyst - Engineering - Data Science (England, UK) https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82295 · posted 2026-09-16
+- VML - Associate Data Engineer (Austin, TX) https://job-boards.greenhouse.io/map/jobs/8816124002 · posted 2026-09-17
+- WTW - Data Scientist New Grad - Insurance Consulting (London, UK, Reigate, UK) https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605389 · posted 2026-09-18
+- Booz Allen - Hardware Test Engineer (Rome, NY) https://bah.wd1.myworkdayjobs.com/Confidential/job/Rome-NY/Hardware-Test-Engineer_R0249841 · posted 2026-09-18
+- AHEAD - Associate AI Engineer (Chicago, IL) https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply · posted 2026-09-18
+- AHEAD - Associate Data Engineer (Chicago, IL) https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply · posted 2026-09-18
+- Aptiv - Associate Cloud Engineer (Kanata, Ottawa, ON, Canada) https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Cloud-Engineer_J000703943 · posted 2026-09-18
+- Avathon - Associate AI Engineer - Physical AI (Pleasanton, CA) https://avathon.com/company/careers-job-listing/?gh_jid=4736834005 · posted 2026-09-22
+- Collinear AI - Mts Research - Cybersecurity (SF, Bengaluru, Karnataka, India, Sunnyvale, CA, United States) https://jobs.ashbyhq.com/collinear-ai/06258760-3ac3-4cee-9ffc-f4ef021731aa/application?embed=true · posted 2026-09-22
+- Parsons - Data Scientist 1 (Washington, DC) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---DC-Washington/Data-Scientist-I_R186422 · posted 2026-09-22
+- Microchip Technology - Product/Test Engineer 1 - Networking & Connectivity Solutions (Austin, TX) https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4032-26 · posted 2026-09-22
+- Amgen - Associate AI Engineer - OI&A (Thousand Oaks, CA) https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988 · posted 2026-09-23
+- Klaviyo - AI Engineer 1 (Boston, MA) https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003 · posted 2026-09-23
+- Block - Data Scientist - Payments (San Francisco Bay Area, CA) http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008 · posted 2026-09-24
+- RTX - Test Engineer 1 - Vision Systems (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Test-Engineer-I_01877795 · posted 2026-09-28
+- iManage - Applied AI Engineer New Grad (Chicago, IL) https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad · posted 2026-09-30
+- Amazon - Cloud Hardware Development Engineer 1 – Early Career (Austin, TX, Cupertino, CA) https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027 · posted 2026-10-01
+- Pinterest - Master's University Graduate Data Scientist (Palo Alto, CA, Seattle, WA, SF, NYC) https://www.pinterestcareers.com/jobs/?gh_jid=8140389 · posted 2026-10-01
+- RTX - Electrical Test Engineer 1 (Tucson, AZ) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Test-Engineer-I_01879612 · posted 2026-10-01
+- Financeit - Data Scientist - Risk Modeling & Analytics (Toronto, ON, Canada) https://apply.workable.com/financeit/j/D3CF97088A/apply · posted 2026-10-02
+- Harvard University - Data Scientist - M-Powering Teacher Coaching (Cambridge, MA) https://jobs.smartrecruiters.com/HarvardUniversity/3743990015832401 · posted 2026-09-30
+- Thales - Machine Learning Apprentice - Level 6 AI Engineer (Templecombe, UK) https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1 · posted 2026-10-05
+- Thales - AI Engineer Apprentice - Machine Learning (Crawley, UK) https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-AI-Engineer-Apprentice---Level-6-Machine-Learning_R0337755 · posted 2026-10-05
+- Noblis - Data Quality Assurance Analyst (McLean, VA) https://careers.noblis.org/jobs/27961?icims=1 · posted 2026-10-05
+- Hewlett Packard Enterprise - Data Science Graduate (Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1 · posted 2026-08-28
+- Teserac - AI Engineer (Santa Clara, CA) https://apply.workable.com/teserac-inc/j/01F1C3E218/apply · posted 2026-10-06
+- Accenture - Data & AI Engineer (Leeds, UK) https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Data---AI-Engineer_R00355262 · posted 2026-10-06
+- The Home Depot - Associate Data Scientist - Supply Chain (Atlanta, GA) https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req195136 · posted 2026-10-02
+- Axos Bank - Junior AI Engineer (San Diego, CA) https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526 · posted 2026-10-07
+- Niantic Spatial - AI Engineer - Computer Vision (SF) https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application?embed=true · posted 2026-10-08
+- 66 Degrees - Associate Data Engineer - Gradient Specialist (Chicago, IL) https://job-boards.greenhouse.io/66degrees/jobs/6220280004 · posted 2026-10-08
+- America's Tire - Data Engineer 1 (South Bend, IN) https://discounttire.jibeapply.com/jobs/19242?icims=1 · posted 2026-10-09
+- Mini-Circuits - Test Engineer (Hialeah, FL) https://jobs.jobvite.com/mini-circuits-review/job/opcWAfwR?nl=1&nl=1&fr=false · posted 2026-10-10
+- The Hut Group - Data Engineer - Customer (Manchester, UK) https://www.thg.com/talent/job-search?gh_jid=5003312101 · posted 2026-10-12
+- Astera Labs - Analog/Mixed Signal System Test Engineer (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4742217005 · posted 2026-10-13
+- Draper - Integration and Test Engineer (Cambridge, MA) https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integration-and-Test-Engineer_JR003013 · posted 2026-10-13
+- ICF International - Associate Data Scientist (London, UK) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Associate-Data-Scientist_R2603454-1 · posted 2026-10-13
+- Analog Devices - Associate Test Engineer - Product Development (Chandler, AZ) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Product-Development_R265969 · posted 2026-10-13
+- Go Fish Digital - Media and Marketing Data Scientist (Remote in USA) https://ats.rippling.com/gofishdigital/jobs/38101c5d-0279-4f4b-83b0-dd176bff7fc2 · posted 2026-10-14
+- Michelin - Data Scientist (Woodburn, IN) https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/WOODBURN-IN/Data-Scientist_R-2026029871-1 · posted 2026-10-15
+- Broadcom - Test Engineer - Ate (San Jose, CA) https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448 · posted 2026-10-16
+- Teya - Data Scientist (London, UK) https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application?embed=true · posted 2026-10-16
+- American Institutes for Research - Data Scientist - Project Success and Innovation (Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC) https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008 · posted 2026-10-16
+- Schonfeld - AI Engineer (NYC) https://job-boards.greenhouse.io/schonfeld/jobs/7843962 · posted 2026-04-30
+- Magna - Junior AI Engineer (Troy, MI) https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1 · posted 2026-10-20
+- Cruise Planners - Data & AI Engineer (Coral Springs, FL) https://ats.rippling.com/cruiseplanners/jobs/414d04d4-f099-4a35-8fbc-1cc7bec70462 · posted 2026-10-09
+- Computershare - Graduate AI Engineer (Edinburgh, UK) https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13281 · posted 2026-10-22
+- CoStar Group - AI Engineer 1 (Glasgow, UK) https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Glasgow-GB---Zonda/AI-Engineer-I---Zonda---Glasgow--Scotland--United-Kingdom_R40191 · posted 2026-10-22
+- Amazon - Data Engineer Early Career (Toronto, ON, Canada) https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can · posted 2026-10-23
+- Ekimetrics - Junior Business Scientist - Data Science - Marketing Effectiveness (NYC) https://jobs.lever.co/ekimetrics/d9d64766-3d42-4ba9-94d4-f74cdaf20065/apply · posted 2026-03-19
+- Bild AI - Founding AI Engineer (SF) https://jobs.ashbyhq.com/bild-ai/45434dce-1d56-4433-bade-38568e1fa979/application?embed=true · posted 2026-07-21
+- NewRocket - AI Engineer New Grad (Remote in Finland, Remote in Poland, Remote in Portugal, Remote in Russia, Remote in Czechia, Remote in Slovenia, Remote in Germany, Remote in Belgium, Remote in North Macedonia, Remote in Norway, Remote in Slovakia, Remote in Belarus, Remote in Iceland, Remote in Monaco, Remote in Guernsey, Remote in Jersey, Remote in UK, Remote in Ireland, Remote in Ukraine, Remote in Greece, Remote in Faroe Islands, Remote in Andorra, Remote in Netherlands, Remote in Svalbard and Jan Mayen, Remote in Liechtenstein, Remote in Hungary, Remote in San Marino, Remote in Holy See (Vatican City State), Remote in Bulgaria, Remote in Denmark, Remote in Malta, Remote in Albania, Remote in Serbia, Remote in Moldova, Remote in Isle of Man, Remote in Spain, Remote in Luxembourg, Remote in Sweden, Remote in Switzerland, Remote in Åland Islands, Remote in Gibraltar, Remote in Croatia, Remote in Montenegro, Remote in Romania, Remote in Latvia, Remote in Bosnia and Herzegovina, Remote in Austria, Remote in Italy, Remote in Lithuania, Remote in Estonia, Remote in France) https://www.newrocket.com/careers/job?gh_jid=6164687004&gh_jid=6164687004 · posted 2026-08-26
+- Texas Instruments - Data Scientist - Digital Experience Analytics (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017931 · posted 2026-09-11
+- WSP - Junior Geoscientist / Geochemist / Data Scientist (Calgary, AB, Canada, Edmonton, AB, Canada, Whitehorse, YT, Canada, Vancouver, BC, Canada) https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94867 · posted 2026-09-09
+- GlobalFoundries - Reliability Test Engineer (Malta, NY) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineer--2027-New-College-Graduate-_JR-2604333 · posted 2026-09-28
+- Citco - Junior AI Engineer (Halifax Regional Municipality, NS, Canada) https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545 · posted 2026-10-02
+- CACI - Data Engineering/Analytics Support (Norco, CA) https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Engineering-Analytics-Support_332939 · posted 2026-09-30
+- GSK - Analyst AI ML and Cloud Security (London, UK) https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Analyst--AI-ML-and-Cloud-Security_450144-1 · posted 2026-10-23
+- Citi - Technology Cyber Security (Irving, TX) https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831 · posted 2026-10-23
+- Fuel Cycle - Associate AI Engineer (LA) https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d/application?embed=true · posted 2026-10-23
+- Medra - Systems Test Engineer (SF) https://jobs.ashbyhq.com/medraai/cfaca7f4-d35b-4b5e-a5f4-5dd08abc8b5d/application?embed=true · posted 2026-07-27
+- Alarm.com - Test Engineer 1 - Radio Frequency / Electromagnetic Compatibility (Tysons, VA) https://job-boards.greenhouse.io/alarmcom/jobs/8888033002 · posted 2026-10-21
+- American Electric Power - Data Scientist (Tulsa, OK) https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Data-Scientist_R20444 · posted 2026-10-26
+- The Home Depot - Associate Data Scientist - Generative BI (Atlanta, GA) https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Generative-BI_Req192214 · posted 2026-09-03
+- GE Vernova - AI Engineer New Grad (Greenville, SC) https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2 · posted 2026-10-27
+- Alchemi - AI Engineer (NYC) https://jobs.ashbyhq.com/alchemi/0b6d993e-e29f-4102-a055-34db1f2797a0/application?embed=true · posted 2026-10-21
+- Prima - Data Scientist (London, UK) https://jobs.eu.lever.co/prima/7235919b-0049-4a96-8b1f-8c3650a1c823/apply · posted 2026-10-28
+- Goaly - Applied AI Engineer Early Career (Palo Alto, CA) https://jobs.ashbyhq.com/goaly/ff6ec280-f5c6-4151-8bfd-e75ff8004c89/application?embed=true · posted 2026-08-08
+- Leonardo - Graduate Test Engineer (Basildon, UK) https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Graduate-Test-Engineer_R0034710 · posted 2026-10-28
+- Oxbridge Health - AI Engineer (Norwalk, CT) https://ats.rippling.com/oxbridge-health/jobs/196c59b6-8360-4766-a205-f873a3d2c2f4 · posted 2026-10-28
+- Tyson Foods - Data Engineer 1 (Springdale, AR) https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-Emma---Springdale-Arkansas/Data-Engineer-I---Onsite-_R0492784-2 · posted 2026-10-28
+- Texas Instruments - Test Engineer - TMG (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019458 · posted 2026-10-28
+- American Express - Campus Graduate Full-Time Engineer - 2027 AI Engineering - Enterprise Technology Services (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465 · posted 2026-10-28
+- University Corporation for Atmospheric Research - Data Science Student Assistant 3 (Boulder, CO) https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1 · posted 2026-10-28
+- Anton Paar - Hardware Test Engineer (Boynton Beach, FL) https://jobs.smartrecruiters.com/AntonPaar1/744000158512881 · posted 2026-10-29
+- TobogganLabs - Junior Data Scientist (Québec City, QC, Canada) https://job-boards.greenhouse.io/tobogganlabs/jobs/8014569003 · posted 2026-10-06
+- Dell Technologies - Test Engineer 1 (Franklin, MA) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296584 · posted 2026-10-29
+- Micron Technology - Data Scientist - AI for Business Functions (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682 · posted 2026-10-29
+- Zoom - AI Engineer (Seattle, WA) https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1 · posted 2026-10-29
+- Northrop Grumman - Associate Data Scientist - Pathways (Aurora, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1 · posted 2026-10-29
+- Raydar - Applied AI Engineer (SF) https://apply.workable.com/raydar/j/89F1DF6904/apply · posted 2026-10-29
+- Raydar - AI Engineer (LA) https://apply.workable.com/raydar/j/EF9BC1EC32/apply · posted 2026-10-29
+- CLEAR - Forward Deployed AI Engineer 1 (NYC) https://job-boards.greenhouse.io/clear/jobs/8259786 · posted 2026-10-07
+- Formlabs - R&D Reliability/Test Engineer (Boston, MA) https://careers.formlabs.com/job/8241461/apply/?gh_jid=8241461 · posted 2026-09-29
+- Toyota - Cloud Financial Operations Analyst (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Cloud-Financial-Operations-Analyst_10338632 · posted 2026-10-30
+- Cambridge Consultants - Graduate AI Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995814101 · posted 2026-10-01
+- Cambridge Consultants - Graduate Human-Centric AI Engineer (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971959101 · posted 2026-10-01
+- Bristol Myers Squibb - Associate Engineer - Analytical AI Engineering (Princeton, NJ) https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005 · posted 2026-10-31
+- Verisk - Data Scientist (London, UK, Norwich, UK) https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093 · posted 2026-10-31
