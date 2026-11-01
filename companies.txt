@@ -473,3 +473,25 @@ Rocket Lab
 Astranis
 Hermeus
 Skydio
+Flapping Airplanes
+Upwind
+Dulo
+Town
+Labelbox
+Abby Care
+Stand
+Blacksmith
+Mueon
+North.cloud
+Harmonic Security
+Sirona Medical
+Mach9
+RapidCanvas
+Slingshot Insurance
+Brellium
+Tamr
+AuxoAI
+Longeye
+SuperMe
+Ultra Security
+Chariot Claims
