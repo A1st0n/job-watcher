@@ -2271,3 +2271,4 @@
 - KnowBe4 - Software Engineer Intern (Clearwater, FL) https://job-boards.greenhouse.io/knowbe4/jobs/8919280002 · posted 2026-11-01
 - Microsoft - Cloud Solution Architecture Intern (Belgium, Brussels Region, Brussels) https://apply.careers.microsoft.com/careers/job/1970393556998387 · posted 2026-09-14
 - GE Aerospace - Artificial Intelligence Intern (Remote) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1 · posted 2026-11-02
+- RTX - Systems Engineer I - Business & Regional Programs (Onsite) (US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineer-I---Business---Regional-Programs--Onsite-_01884582 · posted 2026-11-02
