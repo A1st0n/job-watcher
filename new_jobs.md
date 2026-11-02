@@ -2269,3 +2269,4 @@
 - Verisk - Data Scientist (London, UK, Norwich, UK) https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093 · posted 2026-10-31
 - Microsoft - Software Engineering INTERN (Mexico, Multiple Locations, Multiple Locations) https://apply.careers.microsoft.com/careers/job/1970393556999316 · posted 2026-09-16
 - KnowBe4 - Software Engineer Intern (Clearwater, FL) https://job-boards.greenhouse.io/knowbe4/jobs/8919280002 · posted 2026-11-01
+- Microsoft - Cloud Solution Architecture Intern (Belgium, Brussels Region, Brussels) https://apply.careers.microsoft.com/careers/job/1970393556998387 · posted 2026-09-14
