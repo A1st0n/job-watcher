@@ -1773,5 +1773,56 @@
  "Chariot Claims": [
   "ashby",
   "chariotclaims"
- ]
+ ],
+ "Antithesis": [
+  "ashby",
+  "antithesis"
+ ],
+ "Inferact": [
+  "ashby",
+  "inferact"
+ ],
+ "Otter.ai": [
+  "greenhouse",
+  "otterai"
+ ],
+ "Arda": [
+  "ashby",
+  "arda"
+ ],
+ "PaleBlueDot AI": null,
+ "Valon": [
+  "ashby",
+  "valon"
+ ],
+ "Serval": [
+  "ashby",
+  "serval"
+ ],
+ "Wabi": [
+  "ashby",
+  "wabi"
+ ],
+ "Hyphenate": [
+  "ashby",
+  "hyphenate"
+ ],
+ "General Compute": [
+  "ashby",
+  "generalcompute"
+ ],
+ "Foundry Robotics": [
+  "ashby",
+  "foundry-robotics"
+ ],
+ "Qualitate": [
+  "ashby",
+  "qualitate"
+ ],
+ "Firehawk Aerospace": null,
+ "BridgePhase": null,
+ "Sev1Tech": null,
+ "Emerge Tek": null,
+ "Unissant": null,
+ "Modulate Space": null
 }

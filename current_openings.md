@@ -926,3 +926,11 @@
 - [Route Planning Software Engineering Intern, Summer 2027](https://wing.com/careers/8872472002?gh_jid=8872472002) — Wing, Palo Alto, California · posted 2026-10-13
 - [Software Engineering Intern, Summer 2027](https://wing.com/careers/8872476002?gh_jid=8872476002) — Wing, Palo Alto, California · posted 2026-10-13
 - [Software Development Engineer - Intern](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) — Zillow, Seattle-WA-2nd Ave · posted 2026-10-23
+
+# Added 2026-11-02: open roles at newly watched companies
+- [Software Engineer (New Grad)](https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e) — Hyphenate, New York City · posted 2026-08-25
+- [Software engineering Intern](https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8) — Hyphenate, New York City · posted 2026-08-25
+- [Software Engineer, Front-End (New Grad)](https://otter.ai/careers?gh_jid=8016078003) — Otter.ai, Mountain View, CA · posted 2026-10-07
+- [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) — Serval, San Francisco · posted 2026-07-13
+- [Software Engineer Intern](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) — Valon, New York · posted 2026-09-01
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324) — Valon, New York · posted 2026-09-01
