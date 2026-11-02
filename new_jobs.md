@@ -2278,3 +2278,7 @@
 - Microsoft - Data Science Internship Opportunities (Israel, Tel Aviv, Herzliya) https://apply.careers.microsoft.com/careers/job/1970393557043457 · posted 2026-10-20
 - Google - Software Engineer II, Early Career (Mountain View, CA, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; New York, NY, USA; Palo Alto, CA, USA; Pittsburgh, PA, USA; Raleigh, NC, USA; Durham, NC, USA; San Bruno, CA, USA; Seattle, WA, USA; Sunnyvale, CA, USA) https://www.google.com/about/careers/applications/jobs/results/109116638069957318 · posted 2026-11-02
 - Global Payments - Software Engineer I (1-3 years into C#,Automation Testing) (3 Locations) https://tsys.wd1.myworkdayjobs.com/Tsys/job/PUNE--INDIA/Software-Engineer-I--1-3-years-into-C--Automation-Testing-_R0077435 · posted 2026-11-02
+- Microsoft - Data Science INTERN (Israel, Tel Aviv, Herzliya) https://apply.careers.microsoft.com/careers/job/1970393557042485 · posted 2026-10-18
+- Roku - Software Engineer Intern - AI Engineering (San Jose, CA) https://www.weareroku.com/jobs/8258241?gh_jid=8258241 · posted 2026-11-02
+- Brown & Brown Insurance - Junior HubSpot Developer (Plano, TX) https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694 · posted 2026-11-01
+- Google - Software Engineer 2 – Early Career (Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA) https://www.google.com/about/careers/applications/jobs/results/109116638069957318 · posted 2026-11-02
