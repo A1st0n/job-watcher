@@ -2285,3 +2285,4 @@
 - Google - Software Developer II, Early Career (Waterloo, ON, Canada) https://www.google.com/about/careers/applications/jobs/results/93868335938052806 · posted 2026-11-02
 - Procter & Gamble - Data Scientist (Entry-Level) (PANAMA BUSINESS CENTER) https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Scientist--Entry-Level-_R000154177 · posted 30+ days ago
 - Huntington Ingalls Industries - IT Software Engineer 1 - Robotic Process Automation (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors · posted 2026-11-02
+- HP - Data Science Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1 · posted 2026-11-02
