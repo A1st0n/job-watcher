@@ -2282,3 +2282,6 @@
 - Roku - Software Engineer Intern - AI Engineering (San Jose, CA) https://www.weareroku.com/jobs/8258241?gh_jid=8258241 · posted 2026-11-02
 - Brown & Brown Insurance - Junior HubSpot Developer (Plano, TX) https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694 · posted 2026-11-01
 - Google - Software Engineer 2 – Early Career (Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA) https://www.google.com/about/careers/applications/jobs/results/109116638069957318 · posted 2026-11-02
+- Google - Software Developer II, Early Career (Waterloo, ON, Canada) https://www.google.com/about/careers/applications/jobs/results/93868335938052806 · posted 2026-11-02
+- Procter & Gamble - Data Scientist (Entry-Level) (PANAMA BUSINESS CENTER) https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Scientist--Entry-Level-_R000154177 · posted 30+ days ago
+- Huntington Ingalls Industries - IT Software Engineer 1 - Robotic Process Automation (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors · posted 2026-11-02
