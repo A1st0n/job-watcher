@@ -2346,3 +2346,4 @@
 - HPE - Network Engineering Intern (San Juan, Puerto Rico, Puerto Rico) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Network-Engineering-Intern_1218251 · posted 2026-11-02
 - KLA - Software Engineering Intern (Austin, TX) https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1 · posted 2026-11-02
 - Parsons - Software Engineer Intern (Fall 2026) () https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Software-Engineer-Intern--Fall-2026-_R188147
+- Leidos - Data Science Intern (Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049 · posted 2026-11-02
