@@ -2353,3 +2353,42 @@
 - American Express - Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ (Phoenix, AZ, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392 · posted 2026-11-02
 - Shield AI - Summer 2027 Intern - Embedded Firmware - 5810 (Dallas, Texas) https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4 · posted 2026-11-02
 - Rockwell Automation - Co-op, User Experience - Robotics (Waterloo, Ontario, Canada) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569 · posted 2026-11-02
+- Rocket Lab - Ground Systems Engineering Intern Spring 2027 (Middle River, MD) https://job-boards.greenhouse.io/rocketlab/jobs/8042094003 · posted 2026-11-02
+- Rocket Lab - Ground Systems Engineering Intern Summer 2027 (Middle River, MD) https://job-boards.greenhouse.io/rocketlab/jobs/8042092003 · posted 2026-11-02
+- ABB - Physical AI Robotics Simulation Intern (Milpitas, CA) https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1 · posted 2026-08-27
+- Staples - Software Engineer Intern - Marketplace Platform (Framingham, MA) https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076 · posted 2026-11-02
+- Zimmer Biomet Holdings - Software Developer Co-op (Montreal, QC, Canada) https://careers.zimmerbiomet.com/us/en/job/13309 · posted 2026-11-02
+- KLA Corporation - Software Engineer Intern - AI/ML (Milpitas, CA, Austin, TX) https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1 · posted 2026-11-02
+- KLA Corporation - Software Engineer Intern (Austin, TX) https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1 · posted 2026-11-02
+- Cincinnati Children’s Hospital and Medical Center - Software Engineer Intern (Remote in USA) https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736 · posted 2026-11-02
+- Motorola Solutions - Software Engineer Cybersecurity Services Intern (Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250 · posted 2026-11-02
+- Leidos - Software Engineer Intern (Arlington County, Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980 · posted 2026-11-02
+- Cincinnati Children’s Hospital and Medical Center - Software Engineering Developer Intern (Remote in USA) https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743 · posted 2026-11-02
+- Leidos - Data Science Intern (Arlington County, Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049 · posted 2026-11-02
+- LabCorp - Agentic AI Developer Co-op (Durham, NC, Burlington, NC) https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1 · posted 2026-11-02
+- LabCorp - Full-Stack Life Sciences Software Engineer Co-op (Durham, NC, Burlington, NC) https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083 · posted 2026-11-02
+- Sierra Nevada Corporation - Software Engineer Intern (Southern Pines, NC) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229 · posted 2026-11-02
+- T-Mobile - Software Engineer Intern (NYC) https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886 · posted 2026-11-02
+- Aries Global - Software Engineer Intern (London, UK) https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8/application?embed=true · posted 2026-11-02
+- Mayo Clinic - Data Science Intern (Rochester, MN) https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394695 · posted 2026-11-02
+- Cambridge Consultants - AI Engineer Intern (United Kingdom) https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101 · posted 2026-11-02
+- Honeywell - Embedded Software Intern (Horsham, UK) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158937 · posted 2026-11-02
+- Ciena - Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) (Montreal, QC, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040 · posted 2026-11-02
+- Pacific Northwest National Laboratory - NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference (Seattle, WA, Richland, WA) https://careers.pnnl.gov/jobs/12898?icims=1 · posted 2026-11-02
+- Astro Mechanica - Software Engineer Intern (SF) https://jobs.ashbyhq.com/astro-mechanica/740cedb6-3c69-49c2-8662-7997799b8c87/application?embed=true · posted 2026-11-02
+- Pacific Northwest National Laboratory - NSIP Undergraduate Intern - Artificial Intelligence & Data Analytics - SWE Conference (Seattle, WA, Richland, WA) https://careers.pnnl.gov/jobs/12897?icims=1 · posted 2026-11-02
+- Zebra Technologies - Data Scientist Intern (Holtsville, NY, Lincolnshire, IL) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610 · posted 2026-11-02
+- Zebra Technologies - Software Engineer Intern - US (Holtsville, NY) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626 · posted 2026-11-02
+- Zebra Technologies - Software/AI Engineer Intern - Handheld Mobile Computers (Holtsville, NY) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632 · posted 2026-11-02
+- Intuitive Surgical - AI/ML Engineer Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000159218439 · posted 2026-11-02
+- Truveta - Software Engineer - Data Fulfillment (Seattle, WA) https://job-boards.greenhouse.io/truveta/jobs/6240727004 · posted 2026-11-02
+- Apple - Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems (San Diego, CA) https://jobs.apple.com/en-us/details/200692907 · posted 2026-11-02
+- AbbVie - Associate Device Software Engineer (Irvine, CA) https://jobs.smartrecruiters.com/AbbVie/3743990016568546 · posted 2026-11-02
+- AbbVie - AI Engineer (North Chicago, IL) https://jobs.smartrecruiters.com/AbbVie/3743990016565806 · posted 2026-11-02
+- Broadcom - Test Engineer - Ate (San Jose, CA) https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027581 · posted 2026-11-02
+- RTX - RF Test Systems Engineer 1 (McKinney, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Test-Systems-Engineer-1---Onsite-McKinney-TX_01886691 · posted 2026-11-02
+- Stuller - Data Engineer (Lafayette, LA) https://secure4.saashr.com/ta/6052029.careers?ShowJob=1057248002&lang=en-US · posted 2026-11-02
+- Bosch Home Comfort - Software Engineer New Grad (Nuneaton, UK) https://jobs.smartrecruiters.com/BoschGroup/744000159194500 · posted 2026-11-02
+- Databricks - Software Engineer New Grad (London, UK) https://boards.greenhouse.io/embed/job_app?token=8847747002 · posted 2026-11-02
+- ASML - System Integration and Test Engineer (San Diego, CA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer_J-00356216 · posted 2026-11-02
+- DTCC - Software Engineer - Python & AI Solutions (Tampa, FL, Dallas, TX, Jersey City, NJ) https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213540 · posted 2026-11-02
