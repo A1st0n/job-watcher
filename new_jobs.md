@@ -2287,3 +2287,4 @@
 - Huntington Ingalls Industries - IT Software Engineer 1 - Robotic Process Automation (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors · posted 2026-11-02
 - HP - Data Science Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1 · posted 2026-11-02
 - Intel - DevOps Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633 · posted 2026-11-02
+- GM - [2027 GMTCK 동계인턴십] Software and Electronics Engineering (Incheon, Korea, Republic of) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Incheon-Korea-Republic-of/XMLNAME--2027-GMTCK---Software-and-Electronics-Engineering_JR-202623199 · posted 2026-11-02
