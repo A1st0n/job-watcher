@@ -2341,3 +2341,5 @@
 - Martin's Point Health Care - Associate Enterprise Data Engineer (Portland, ME) https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384 · posted 2026-11-02
 - Ocado Group - Software Engineer New Grad (Hatfield, UK) https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101 · posted 2026-11-02
 - Barclays - Technology Developer Apprentice (Glasgow, UK) https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447 · posted 2026-09-09
+- Northrop Grumman - 2027 Engineering Intern (Software/Mission Assurance/Quality) - Chandler AZ (United States-Arizona-Chandler) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848 · posted 2026-11-02
+- Leidos - Software Engineering Intern (Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980 · posted 2026-11-02
