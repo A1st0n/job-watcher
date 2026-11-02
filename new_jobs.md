@@ -2347,3 +2347,4 @@
 - KLA - Software Engineering Intern (Austin, TX) https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1 · posted 2026-11-02
 - Parsons - Software Engineer Intern (Fall 2026) () https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Software-Engineer-Intern--Fall-2026-_R188147
 - Leidos - Data Science Intern (Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049 · posted 2026-11-02
+- Aurora - Developer Support Engineer I (Pittsburgh, PA) https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3 · posted 2026-11-02
