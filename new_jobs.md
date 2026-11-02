@@ -2349,3 +2349,5 @@
 - Leidos - Data Science Intern (Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049 · posted 2026-11-02
 - Aurora - Developer Support Engineer I (Pittsburgh, PA) https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3 · posted 2026-11-02
 - Northrop Grumman - 2027 Associate Systems Engineer - San Diego CA (United States-California-San Diego) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Systems-Engineer---San-Diego-CA_R10258890 · posted 2026-11-02
+- American Express - Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ (Phoenix, AZ, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375 · posted 2026-11-02
+- American Express - Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ (Phoenix, AZ, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392 · posted 2026-11-02
