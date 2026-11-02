@@ -2275,3 +2275,4 @@
 - Johnson & Johnson - Heart Recovery Software R&D Co-Op (Halethorpe, Maryland, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393 · posted 30+ days ago
 - Northrop Grumman - Associate Software Configuration Analyst/Software Configuration Analyst (United States-Florida-Melbourne) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Configuration-Analyst-Software-Configuration-Analyst_R10257158-1 · posted 2026-11-02
 - American Express - Software Engineer I - Java, Python , GCP , NoSQL - GMNST (Phoenix, AZ, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011275 · posted 2026-11-02
+- Microsoft - Data Science Internship Opportunities (Israel, Tel Aviv, Herzliya) https://apply.careers.microsoft.com/careers/job/1970393557043457 · posted 2026-10-20
