@@ -2499,3 +2499,4 @@
 - RTX - Systems Engineering Intern (Summer 2027) (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01886247 · posted 2026-11-03
 - T-Mobile - Summer 2027 T-Ads Software Engineering Internship (Philadelphia, Pennsylvania) https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234 · posted 2026-11-03
 - Rocket Lab - AI Software Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8182050003 · posted 2026-11-03
+- T-Mobile - Summer 2027 Software Engineering Internship (Atlanta, Georgia) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652 · posted 2026-11-03
