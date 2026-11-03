@@ -1824,5 +1824,27 @@
  "Sev1Tech": null,
  "Emerge Tek": null,
  "Unissant": null,
- "Modulate Space": null
+ "Modulate Space": null,
+ "Eka Robotics": [
+  "ashby",
+  "ekarobotics"
+ ],
+ "Reliable Robotics": [
+  "ashby",
+  "reliable-robotics"
+ ],
+ "Watchtower Labs": null,
+ "Dream Labs": null,
+ "Whop": [
+  "ashby",
+  "whop"
+ ],
+ "Northwood Space": [
+  "ashby",
+  "northwoodspace"
+ ],
+ "Numeracle": null,
+ "Peraton": null,
+ "ManTech": null,
+ "Accenture Federal": null
 }

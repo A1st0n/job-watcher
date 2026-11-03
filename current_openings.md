@@ -934,3 +934,6 @@
 - [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) — Serval, San Francisco · posted 2026-07-13
 - [Software Engineer Intern](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) — Valon, New York · posted 2026-09-01
 - [Software Engineer New Grad](https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324) — Valon, New York · posted 2026-09-01
+
+# Added 2026-11-03: open roles at newly watched companies
+- [Software Engineer- Early Career (Platform)](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) — Northwood Space, Torrance, CA · posted 2026-10-29

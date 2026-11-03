@@ -2487,3 +2487,6 @@
 - AeroVironment - Test Engineer (Albuquerque, NM) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineer---Multiple-Levels_9293 · posted 2026-11-03
 - Accenture - AI Infrastructure Junior Architect () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/AI-Infrastructure-Junior-Architect_R00369042 · posted 2026-11-03
 - Northrop Grumman - 2027 Flight Software Engineer Intern - Redondo Beach CA (United States-California-Manhattan Beach) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032 · posted 2026-11-03
+- Microsoft - Software Engineer: Internship Opportunities (United States, California, Aliso Viejo) https://apply.careers.microsoft.com/careers/job/1970393557044764 · posted 2026-11-02
+- Northrop Grumman - 2027 Ground Software Engineer Intern - Redondo Beach CA (United States-California-Redondo Beach) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057 · posted 2026-11-03
+- Commonwealth Fusion - Intern - Software Engineer - Summer 2027 (Devens, MA) https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d · posted 2026-11-03
