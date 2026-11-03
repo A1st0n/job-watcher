@@ -2443,3 +2443,6 @@
 - RTX - Systems Engineering Intern, St. Petersburg, FL (Onsite) (US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--St-Petersburg--FL--Onsite-_01886197 · posted 2026-11-03
 - RTX - Systems Engineering Intern, BMC2 (Onsite) (US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577 · posted 2026-11-03
 - Centene - Cloud Platform Engineer I (28 Locations) https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1671976 · posted 2026-11-03
+- Shield AI - Embedded Firmware Intern (Dallas, TX) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true · posted 2026-11-02
+- Sonos - Data Engineer Intern (Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1 · posted 2026-11-02
+- Keysight Technologies - IC Test Engineer (Santa Rosa, CA) https://jobs.keysight.com/jobs/55322?icims=1 · posted 2026-11-03
