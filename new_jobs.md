@@ -2455,3 +2455,4 @@
 - Bosch - [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000159327431 · posted 2026-11-03
 - Paccar - Software Developer Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors · posted 2026-11-03
 - SAIC - Systems Engineer Associate (Panama City Beach, FL) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618656 · posted 2026-10-30
+- Nvidia - Software Engineering Intern - 2027 (Germany, Munich) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184 · posted 2026-11-03
