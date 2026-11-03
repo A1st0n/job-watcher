@@ -2392,3 +2392,51 @@
 - Databricks - Software Engineer New Grad (London, UK) https://boards.greenhouse.io/embed/job_app?token=8847747002 · posted 2026-11-02
 - ASML - System Integration and Test Engineer (San Diego, CA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer_J-00356216 · posted 2026-11-02
 - DTCC - Software Engineer - Python & AI Solutions (Tampa, FL, Dallas, TX, Jersey City, NJ) https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213540 · posted 2026-11-02
+- American Express - Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Toronto, Ontario, CN (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035 · posted 2026-11-02
+- Boeing - ICBM Minuteman Flight Control Systems Engineer , Early Career (USA - Hill AFB, UT) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hill-AFB-UT/ICBM-Minuteman-Flight-Control-Systems-Engineer---Early-Career_JR2026528240-1 · posted 2026-11-03
+- Microsoft - Software Engineer Intern - CoreAI (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556951950 · posted 2026-08-03
+- American Express - AI Engineer Intern - Enterprise Technology Services (Phoenix, AZ) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375 · posted 2026-08-17
+- Parsons - Software Engineer Intern (Remote in USA) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Engineer-Intern--Fall-2026-_R188147 · posted 2026-11-02
+- Applied Materials - Software Engineer Intern (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003 · posted 2026-11-02
+- Meta - Research Scientist Intern - Interactive Physics Simulation for Robotics (Redmond, WA) https://www.metacareers.com/jobs/1143164681833409 · posted 2026-11-02
+- Microsoft - Software Engineer Intern (United States) https://apply.careers.microsoft.com/careers/job/1970393557044764 · posted 2026-11-02
+- Shield AI - Embedded Firmware Intern (Dallas, TX) https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply · posted 2026-11-02
+- Toshiba Global Commerce Solutions - AI Data Science & Business Analytics Intern (Durham, NC) https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007 · posted 2026-11-02
+- Booz Allen - Summer Games Data Scientist Intern (Detroit, MI) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783 · posted 2026-11-02
+- Toshiba Global Commerce Solutions - Agentic Software Engineer Intern (Frisco, TX) https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007 · posted 2026-11-02
+- Toshiba Global Commerce Solutions - Software Engineer Intern (Durham, NC) https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007 · posted 2026-11-02
+- Valmont - Embedded Systems Engineer Intern (Valley, NE) https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223 · posted 2026-11-02
+- The Aerospace Corporation - Software Engineering Intern (El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101 · posted 2026-11-02
+- The Aerospace Corporation - Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division (El Segundo, CA) https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102 · posted 2026-11-02
+- Constellation Brands - Full Stack Engineer Intern (Rochester, NY) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600 · posted 2026-11-02
+- NXP Semiconductors - Hardware/Software System and Application Engineer Intern (Chandler, AZ) https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708 · posted 2026-11-02
+- JM Family - Software Engineer Intern (Deerfield Beach, FL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182 · posted 2026-11-02
+- Costco - CDS Intern - Powerapps Developer - ECM Digital Workflow (Issaquah, WA) https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001 · posted 2026-11-02
+- Costco - CDS Intern - ECM Platform Management (Issaquah, WA) https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11010 · posted 2026-10-28
+- Costco - Costco Digital Services Intern - Infosec AI/ML (Issaquah, WA) https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994 · posted 2026-11-02
+- Northrop Grumman - Engineering Software and Analysis Intern (Sunnyvale, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772 · posted 2026-11-02
+- Costco - Software Developer Intern - Software Engineer - Costco Travel (Issaquah, WA) https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021 · posted 2026-10-28
+- Costco - CDS Intern - Software Engineer - IT Retail Media (Issaquah, WA) https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013 · posted 2026-11-02
+- Costco - Software Engineer Intern - International Depot (Issaquah, WA) https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993 · posted 2026-11-02
+- Resideo - Embedded Firmware Engineer Intern (Melville, NY) https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19812 · posted 2026-11-02
+- Resideo - Mobile Software Engineer Intern (Austin, TX) https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816 · posted 2026-11-02
+- Resideo - Firmware Engineer Intern (Aurora, IL) https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813 · posted 2026-11-02
+- Resideo - Data Science Intern (Austin, TX, Golden Valley, MN) https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817 · posted 2026-11-02
+- Wellmark - Software Engineer Intern - AI Platform Team (Des Moines, IA) https://jobs.smartrecruiters.com/WellmarkInc/744000159260670 · posted 2026-11-02
+- L3Harris Technologies - Associate Software Engineer (Waco, TX) https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000/?ats=successfactors · posted 2026-08-24
+- Baker Hughes - Software Engineer (Minden, NV) https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272 · posted 2026-09-02
+- Microsoft - Software Engineer - CoreAI (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556989020 · posted 2026-09-11
+- Micron Technology - AI Engineer (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1 · posted 2026-10-08
+- State Employees' Credit Union - Associate Credit Review Data Scientist (Wake Forest, NC) https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations-Wake-Forest-Road/Associate-Credit-Review-Data-Scientist_JR-16697 · posted 2026-10-23
+- Applied Materials - Computer Vision/Machine Learning/Deep Learning Algorithm Developer (Santa Clara, CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2632865 · posted 2026-11-02
+- Microsoft - Software Engineer IC2 (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557050639 · posted 2026-11-02
+- Microsoft - Software Engineer (Canada, Vancouver, BC, Canada) https://apply.careers.microsoft.com/careers/job/1970393557048150 · posted 2026-11-02
+- Capgemini - Full Stack Developer (Newark, NJ) https://careers.capgemini.com/job/New-York,-NY-Fullstack-Developer-NY-10001/1453515033/?ats=successfactors · posted 2026-11-02
+- Fortinet - Embedded Software Developer (Sunnyvale, CA) https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24852 · posted 2026-11-02
+- Anduril - Space Orbital Software Engineer (Costa Mesa, CA) https://boards.greenhouse.io/andurilindustries/jobs/5236290007 · posted 2026-11-02
+- Verkada - Backend Software Engineer (San Mateo, CA) https://job-boards.greenhouse.io/verkada/jobs/5280545007 · posted 2026-11-02
+- Qualtrics - Software Engineer 1 - XMD (Seattle, WA) https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652 · posted 2026-11-02
+- Qualtrics - Software Development Engineer 1 - Data Platform (Seattle, WA) https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245 · posted 2026-11-02
+- Unity - Software Developer New Grad - U-Accelerate: Software Developer (Montreal, QC, Canada) https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768 · posted 2026-11-02
+- Draper - System Integration and Test Engineer (Cambridge, MA) https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integration-and-Test-Engineer_JR003104 · posted 2026-11-02
+- Lineage Logistics - Associate Report Developer (Remote in USA) https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0111033 · posted 2026-11-02
