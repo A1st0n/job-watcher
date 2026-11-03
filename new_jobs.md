@@ -2462,3 +2462,4 @@
 - RTX - Platform Engineer I (Onsite) (US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Platform-Engineer-I--Onsite-_01886532 · posted 2026-11-03
 - Lloyds Bank - Software Development New Grad Apprentice (Edinburgh, UK) https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Development-Graduate-Apprenticeship---Edinburgh_164882 · posted 2026-11-03
 - Booz Allen - Data Engineer (Arlington County, Arlington, VA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0252565 · posted 2026-10-29
+- Northrop Grumman - 2027 Cyber Systems Engineer Intern - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471 · posted 2026-11-03
