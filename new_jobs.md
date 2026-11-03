@@ -2456,3 +2456,5 @@
 - Paccar - Software Developer Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors · posted 2026-11-03
 - SAIC - Systems Engineer Associate (Panama City Beach, FL) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618656 · posted 2026-10-30
 - Nvidia - Software Engineering Intern - 2027 (Germany, Munich) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184 · posted 2026-11-03
+- Analog Devices - Embedded Software Engineer Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116 · posted 2026-11-03
+- KION Group - Real-Time Software Engineer Intern (Westhill, UK, Stockport, UK) https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859-1 · posted 2026-11-03
