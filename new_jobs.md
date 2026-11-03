@@ -2446,3 +2446,4 @@
 - Shield AI - Embedded Firmware Intern (Dallas, TX) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true · posted 2026-11-02
 - Sonos - Data Engineer Intern (Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1 · posted 2026-11-02
 - Keysight Technologies - IC Test Engineer (Santa Rosa, CA) https://jobs.keysight.com/jobs/55322?icims=1 · posted 2026-11-03
+- American Express - Infrastructure Engineer I (Gurugram, HR, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015103 · posted 2026-11-03
