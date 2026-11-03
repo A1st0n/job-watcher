@@ -2447,3 +2447,11 @@
 - Sonos - Data Engineer Intern (Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1 · posted 2026-11-02
 - Keysight Technologies - IC Test Engineer (Santa Rosa, CA) https://jobs.keysight.com/jobs/55322?icims=1 · posted 2026-11-03
 - American Express - Infrastructure Engineer I (Gurugram, HR, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015103 · posted 2026-11-03
+- Boeing - Associate Software Developer - Java Full Stack (IND - Chennai, India) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Chennai-India/Associate-Software-Developer---Java-Full-Stack_JR2026526047-1 · posted 2026-11-03
+- Bosch - [Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000159328650 · posted 2026-11-03
+- Bosch - [Internship Program Q1 2027] Automation Test Engineer Intern (Selenium) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000159329649 · posted 2026-11-03
+- Bosch - [Internship Program Q1 2027] DevOps Engineer Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000159327500 · posted 2026-11-03
+- Bosch - [Internship Program Q1 2027] AI Engineer Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000159329040 · posted 2026-11-03
+- Bosch - [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000159327431 · posted 2026-11-03
+- Paccar - Software Developer Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors · posted 2026-11-03
+- SAIC - Systems Engineer Associate (Panama City Beach, FL) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618656 · posted 2026-10-30
