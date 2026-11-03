@@ -2463,3 +2463,5 @@
 - Lloyds Bank - Software Development New Grad Apprentice (Edinburgh, UK) https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Development-Graduate-Apprenticeship---Edinburgh_164882 · posted 2026-11-03
 - Booz Allen - Data Engineer (Arlington County, Arlington, VA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0252565 · posted 2026-10-29
 - Northrop Grumman - 2027 Cyber Systems Engineer Intern - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471 · posted 2026-11-03
+- SAIC - Junior Modeling Simulation Software Engineer (El Segundo, CA, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2616551 · posted 2026-09-04
+- Accenture - AI Engineering Internship () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336 · posted 2026-11-03
