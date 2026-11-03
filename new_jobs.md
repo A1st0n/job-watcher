@@ -2485,3 +2485,4 @@
 - Arcfield - Systems Engineer-Navy Submarine Combat Systems (Newport, RI) https://careers.arcfield.com/jobs/8869?icims=1 · posted 2026-11-03
 - RTX - Leadership Development Program - Engineering - Software Discipline (Arlington County, Arlington, VA) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1 · posted 2026-11-03
 - AeroVironment - Test Engineer (Albuquerque, NM) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineer---Multiple-Levels_9293 · posted 2026-11-03
+- Accenture - AI Infrastructure Junior Architect () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/AI-Infrastructure-Junior-Architect_R00369042 · posted 2026-11-03
