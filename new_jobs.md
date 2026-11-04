@@ -2803,3 +2803,5 @@
 - Lockheed Martin - Mechanical Test Engineer-INTERN (Cape Canaveral, FL) https://lockheedmartin.eightfold.ai/careers/job/996477635652 · posted 2026-11-03
 - Lockheed Martin - Java Software Developer-INTERN (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477760376 · posted 2026-11-03
 - Lockheed Martin - Radar Systems Engineer - Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477761058 · posted 2026-11-03
+- Lockheed Martin - Software Engineer Intern (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477757313 · posted 2026-11-04
+- Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477502695 · posted 2026-10-27
