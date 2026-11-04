@@ -2776,3 +2776,4 @@
 - Roku - Software Engineer Intern (Cambridge, UK) https://www.weareroku.com/jobs/8345963?gh_jid=8345963 · posted 2026-11-04
 - Analog Devices - Field Robotics Systems Engineer (Wilmington, MA) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Robotics-Systems-Engineer_R266640 · posted 2026-11-04
 - L3Harris Technologies - Associate Software Engineer (Palm Bay, FL) https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors · posted 2026-11-04
+- Ford - Thermal Test Engineer - Early Career Program, Advanced EV (Long Beach, CA, United States) https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73529 · posted 2026-11-04
