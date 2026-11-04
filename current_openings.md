@@ -1016,3 +1016,751 @@
 - [Software Engineering Intern - Machine Learning Research, Perception (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33801/login) — Rivian, Palo Alto, California · posted 2026-10-15
 - [Software Engineering Intern - Product Development Portal (Spring Co-Op)](https://us-careers-rivian.icims.com/jobs/33745/login) — Rivian, Palo Alto, California · posted 2026-09-21
 - [Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33746/login) — Rivian, Palo Alto, California · posted 2026-09-21
+
+# Added 2026-11-04: already-open roles newly matched by the wider title filter (AI/ML/CV/IT)
+- [Internship - 2027 MBA IT Enterprise Application Intern](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129) — 3M, US, Minnesota, Maplewood · posted 30+ days ago
+- [Internship - 2027 Undergraduate IT Intern](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-IT-Intern_R01170403-1) — 3M, US, Minnesota, Maplewood · posted 30+ days ago
+- [AI Co-op Student](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) — 4AG Robotics, Salmon Arm, BC, Canada · posted 2026-09-17
+- [2027 Term 1 Internship – AI-Driven BOM Generation & Management](https://globalcampus-amd.icims.com/jobs/91458/login) — AMD, Singapore, Singapore · posted 2026-08-25
+- [Generative AI and Reinforcement Learning Research Intern](https://careers.amd.com/jobs/90910?icims=1) — AMD, Santa Clara, CA · posted 2026-09-21
+- [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) — AMD, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA · posted 2026-08-21
+- [Computer Vision Scientist Intern - Geometry and 3D Vision](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true) — AMI, Montreal, QC, Canada, Paris, France, NYC · posted 2026-08-27
+- [Machine Learning Research Associate Intern](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) — AQR Capital Management, Greenwich, CT · posted 2026-09-23
+- [AI Scientist](https://assaabloy.jobs2web.com/job/Austin-AI-Scientist-TX-78753/1441539933/?ats=successfactors) — ASSA ABLOY, Austin, TX, Palm Beach Gardens, FL · posted 2026-09-25
+- [2027 IT Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235) — Abbott, United States > Madison : 1 Exact Lane · posted 30+ days ago
+- [2027 IT Intern](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) — Abbott, United States - Illinois - Waukegan · posted 2026-10-09
+- [Automation Engineer I, R&D](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States--Madison--5505-Endeavor-Ln/Automation-Engineer-I--R-D_35000179-2) — Abbott, United States > Madison : 5505 Endeavor Ln · posted 30+ days ago
+- [Internship - IT](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/Ireland---Dublin/Internship---IT_31155903) — Abbott, Ireland - Dublin · posted 2026-10-22
+- [Internship IT](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/Ireland---Longford/Internship-IT_31166440) — Abbott, Ireland - Longford · posted 2026-10-30
+- [AI & Data – Strategy Thesis Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Data---AI---Strategy-Internship-_R00368382) — Accenture,  · posted 2026-11-03
+- [Data & AI Intern - Accenture Internship Program -Athens](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676) — Accenture,  · posted 30+ days ago
+- [Data & AI Internship Program - Łódź/Katowice](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Data---AI-Internship-Program_R00365279) — Accenture,  · posted 2026-11-02
+- [Internship – Management Consulting: AI & Data – as of February 2027](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Management-Consulting--AI---Data---as-of-February-2027_R00355578) — Accenture,  · posted 30+ days ago
+- [Thesis Internship AI & Data](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Thesis-Internship-AI---Data_R00366919) — Accenture,  · posted 2026-11-03
+- [[IT One] ABAPer (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--ABAPer--Internship-_14642572) — Accenture,  · posted 2026-11-03
+- [[IT One] SAP CPI (Internship)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CPI--Internship-_14642576) — Accenture,  · posted 2026-11-03
+- [AI Product Management Specialist - Business Analyst](https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors) — Acuity, Atlanta, GA · posted 2026-09-12
+- [Data & AI Specialist - BUILD Leadership Program](https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/?ats=successfactors) — Acuity, Atlanta, GA · posted 2026-09-12
+- [Data and AI Intern](https://careers.acuityinc.com/job/Atlanta-Data-and-AI-Intern-Flexible-GA-30309/1434321900/?ats=successfactors) — Acuity, Atlanta, GA · posted 2026-09-28
+- [Finance AI Product Management Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) — Acuity, Atlanta, GA · posted 2026-09-29
+- [2027 Intern - AI & Architecture](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) — Adobe, San Jose · posted 2026-10-19
+- [AI & Architecture Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) — Adobe, San Jose, CA · posted 2026-10-19
+- [Machine Learning Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) — AeroVironment, Centreville, VA · posted 2026-10-20
+- [Machine Learning Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) — AeroVironment, Centreville, VA, Minneapolis, MN · posted 2026-09-01
+- [IT Engineer Intern (Early Careers Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011375003) — Affirm, San Francisco, California, United States · posted 2026-10-09
+- [IT Engineer Intern - Early Careers](https://job-boards.greenhouse.io/affirm/jobs/8011375003) — Affirm, SF · posted 2026-10-09
+- [Computer Vision Intern - Machine Learning](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true) — Allen Control Systems, Austin, TX · posted 2026-09-08
+- [Digital Engineering Analyst Graduate - Data - AI](https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8855289002) — Alpha FMC, London, UK · posted 2026-10-02
+- [IT Analytics Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499) — Altar'd State, Knoxville, TN · posted 2026-09-18
+- [IT Data Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Data-Intern_SOSJ12488-1) — Altar'd State, Knoxville, TN · posted 2026-09-16
+- [IT Ecommerce Product Owner Intern](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489) — Altar'd State, Knoxville, TN · posted 2026-09-16
+- [2027 IT Support Engineering Intern, Amazon Operations Technology Solutions](https://www.amazon.jobs/en/jobs/10576784/2027-it-support-engineering-intern-amazon-operations-technology-solutions) — Amazon, Johannesburg, Gauteng, ZAF · posted 2026-10-13
+- [Applied Science Intern - Computer Vision](https://amazon.jobs/en/jobs/10564601/2027-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) — Amazon, Seattle, WA · posted 2026-10-23
+- [Applied Science Intern - Gen AI & Large Language Models](https://amazon.jobs/en/jobs/10564589/2027-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) — Amazon, Cambridge, MA, Boston, MA, Seattle, WA, Santa Clara, CA, Pittsburgh, PA, NYC, Bellevue, WA, Sunnyvale, CA · posted 2026-10-23
+- [Applied Science Intern - Recommender Systems/ Information Retrieval - Machine Learning](https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) — Amazon, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, San Diego, CA · posted 2026-10-23
+- [Applied Scientist Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) — Amazon, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington County, Arlington, VA, NYC, Bellevue, WA, San Diego, CA · posted 2026-10-23
+- [AI Innovation Engineer Intern](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190) — Amcor, Atlanta, GA · posted 2026-07-13
+- [Solutions Architecture Intern - AI](https://www.american-equity.com/about/careers/openings?gh_jid=5241102007) — American Equity, West Des Moines, IA · posted 2026-09-17
+- [Machine Learning Operations Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493) — American Family Insurance Group, Madison, WI · posted 2026-09-25
+- [AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true) — Amplify, Remote in USA · posted 2026-10-19
+- [Computer Science Intern - Summer 2027](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply) — AnaVation, Chantilly, VA · posted 2026-09-12
+- [Computer Science Intern - Summer Program](https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply) — AnaVation, San Antonio, TX · posted 2026-09-08
+- [Information Technology Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R266137) — Analog Devices, 2 Locations · posted 30+ days ago
+- [Applied AI Science Co-op - Embedding models - Personalization](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) — Ancestry, Remote in USA · posted 2026-09-03
+- [Anthropic Fellows Program - ML Systems & Performance](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) — Anthropic, London, UK, SF, Remote in USA, Remote in Canada · posted 2026-04-10
+- [AI Implementation Intern](https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430) — Apache Industrial, Houston, TX · posted 2026-11-03
+- [Machine Learning Applied Scientist Co-op](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007) — Apera AI, Vancouver, BC, Canada · posted 2026-09-16
+- [Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) — Apple, Barcelona · posted 2026-11-02
+- [AI Research Intern - Foundation Models & Multimodal Intelligence](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) — Apple, Zurich · posted 2026-11-02
+- [Generative AI Research Intern - Image-to-Video Diffusion](https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion) — Apple, Beijing · posted 2026-11-02
+- [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) — Apple, Zurich · posted 2026-10-13
+- [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) — Apple, Paris · posted 2026-09-16
+- [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation) — Apple, Aachen · posted 2026-10-29
+- [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation) — Apple, Cambridge · posted 2026-10-29
+- [Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering)](https://jobs.apple.com/en-us/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering) — Apple, Shanghai · posted 2026-10-08
+- [Machine Learning Research Intern - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200690125) — Apple, Cambridge, UK · posted 2026-10-21
+- [Research Scientist Intern – Human-Centric Generative AI](https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai) — Apple, Munich · posted 2026-10-20
+- [IT Data Intern - Analytics, & Automation](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414) — Apple Bank, NYC · posted 2026-10-07
+- [2026 Summer Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) — Applied Materials, Santa Clara,CA · posted 30+ days ago
+- [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) — Applied Materials, Santa Clara, CA · posted 2026-03-26
+- [AI Product Analyst Intern](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) — Aptiv, USA San Diego, CA - WR · posted 2026-10-21
+- [Product Analyst Intern - AI & Incubation](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) — Aptiv, San Diego, CA · posted 2026-10-20
+- [Originations Portal IT Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) — Arch Capital Group, Greensboro, NC · posted 2026-11-03
+- [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) — Argmax, Palo Alto, CA, Union City, NJ · posted 2026-07-14
+- [Postdoctoral Researcher - AI for Earth System Sciences](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---AI-for-Earth-System-Sciences_423514) — Argonne National Laboratory, Lemont, IL · posted 2026-10-09
+- [SW Engineer Intern, Android (AI-Assisted Development)](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--Android--AI-Assisted-Development-_JR100300) — Arlo, Milpitas, CA · posted 2026-03-18
+- [SW Engineer Intern, iOS (AI-Assisted Development)](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299) — Arlo, Milpitas, CA · posted 2026-03-18
+- [Associate AI Builder](https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply) — Artera, Seattle, WA · posted 2026-07-31
+- [AI Product Management Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005) — Astera Labs, San Jose, CA · posted 2026-10-30
+- [Applied AI Intern - Non-Silicon](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005) — Astera Labs, San Jose, CA · posted 2026-10-06
+- [Applied AI New Grad - Non Silicon](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) — Astera Labs, San Jose, CA · posted 2026-10-06
+- [Digital Automation Engineer - Cell Therapy](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US--Tarzana--CA/Digital-Automation-Engineer--Cell-Therapy_R-262614) — AstraZeneca, Tarzana, LA · posted 2026-10-23
+- [IT Support Technician Associate (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4716175006) — Astranis, San Francisco · posted 2026-09-24
+- [AI Research Intern](https://job-boards.greenhouse.io/atoms/jobs/8919596002) — Atoms, SF, Mountain View, CA · posted 2026-10-27
+- [AI Research Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) — Atoms, SF, Mountain View, CA · posted 2026-10-27
+- [IT ERP Data Migration Co-op](https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009) — AtriCure, Mason, OH · posted 2026-10-30
+- [Information Technology Intern](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) — AutoZone, Memphis, TN · posted 2026-09-21
+- [Computer Science/Bioinformatics Intern - Internship Program](https://jobs.smartrecruiters.com/AxleInformaticsLLC/87331012) — Axle, Rockville, MD · posted 2026-08-12
+- [AI & Data Associate](https://axtriainc.applytojob.com/apply/WvWFVnBuU0/Campus-2027-AI-Data) — Axtria, Berkeley Heights, NJ · posted 2026-10-13
+- [IT Intern – AI and Operations](https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply) — Azul Systems, Sunnyvale, CA · posted 2026-10-13
+- [IT AI & Automation Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) — Baird, Milwaukee, WI · posted 2026-09-08
+- [IT Data & Analytics Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1) — Baird, Madison, WI, Milwaukee, WI · posted 2026-09-11
+- [Information Technology Data Intern](https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true) — Barnes & Thornburg, Indianapolis, IN · posted 2026-09-09
+- [AI Specialist](https://beallsinc.taleo.net/careersection/bealls+outlet+mobile/jobdetail.ftl?job=260000GI) — Bealls, Bradenton, FL · posted 2026-10-15
+- [Computer Vision Research Engineer Intern](https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application?embed=true) — Bobyard, SF · posted 2026-10-05
+- [Data Annotation Specialist - Computer Vision](https://jobs.ashbyhq.com/bobyard/5df8467f-53d5-497f-98df-ae01886cc9ed/application?embed=true) — Bobyard, SF, Remote in USA · posted 2026-10-09
+- [Applied AI Intern](https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University---Applied-AI-Specialist_R0249409) — Booz Allen, Washington, DC · posted 2026-09-14
+- [Automation & AI Intern (f/m)](https://jobs.smartrecruiters.com/BoschGroup/744000157422450) — Bosch, Warszawa, Województwo mazowieckie · posted 2026-10-23
+- [Business Digitalisation & AI Automation Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154478885) — Bosch, Denham, England · posted 2026-10-08
+- [Graduate AI & Automation Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000159172560) — Bosch, Nuneaton, England · posted 2026-11-02
+- [Product Management AI-Tool Intern (8 months/40hrs per week)](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) — Bosch, Farmington Hills, MI · posted 2026-09-09
+- [Audio Machine Learning Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274) — Bose, Framingham, MA · posted 2026-10-13
+- [Audio Machine Learning Intern Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277) — Bose, Bloomfield Hills, MI, Framingham, MA, Atlanta, GA · posted 2026-10-07
+- [Forward Deployed AI Scientist Intern](https://careers.bcg.com/global/en/job/59703) — Boston Consulting Group, Boston, MA, LA, Chicago, IL, NYC · posted 2026-10-13
+- [Forward Deployed AI Scientist Intern - United Kingdom - BCG X](https://careers.bcg.com/global/en/job/56634) — Boston Consulting Group, London, UK · posted 2026-06-14
+- [Equipment Engineering AI Vision Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813584308) — Boston Scientific, Maple Grove, MN · posted 2026-10-06
+- [AI Enablement Analyst](https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8927156002) — Bottom Line, Portsmouth, NH · posted 2026-11-02
+- [Machine Learning Analyst](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005) — Bracebridge Capital, Boston, MA · posted 2026-07-15
+- [AI Product Engineer Co-op Intern](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true) — Brain Co., SF · posted 2026-10-14
+- [AI Product Engineer New Grad](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true) — Brain Co., SF · posted 2026-10-21
+- [AI Product Intern](https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true) — Brain Co., SF · posted 2026-09-12
+- [Quantitative Analyst Intern - AI](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) — Brevan Howard, NYC · posted 2026-09-14
+- [AI Molecular Dynamics Algorithm Researcher Graduate - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670550401380878645/detail) — ByteDance, Seattle, WA · posted 2026-08-07
+- [AI Perception Intern - Pico](https://jobs.bytedance.com/en/position/7665457718334425349/detail) — ByteDance, San Jose, CA · posted 2026-08-03
+- [AI Vision Research Scientist Intern](https://jobs.bytedance.com/en/position/7629166796528535813/detail) — ByteDance, San Jose, CA · posted 2026-04-17
+- [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail) — ByteDance, Seattle, WA · posted 2026-08-06
+- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671095905295075637/detail) — ByteDance, San Jose, CA · posted 2026-08-10
+- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) — ByteDance, Seattle, WA · posted 2026-08-11
+- [Applied Research Intern - AI Safety Security - Global Tech Research Program](https://jobs.bytedance.com/en/position/7645070235035044101/detail) — ByteDance, San Jose, CA · posted 2026-06-03
+- [Computer Vision Research Engineer Graduate](https://jobs.bytedance.com/en/position/7668433722454935861/detail) — ByteDance, San Jose, CA · posted 2026-08-03
+- [Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering](https://jobs.bytedance.com/en/position/7669899962768165173/detail) — ByteDance, San Jose, CA · posted 2026-08-05
+- [Graduate Research Scientist - Applied Machine Learning - ML System](https://jobs.bytedance.com/en/position/7540109673547581703/detail) — ByteDance, San Jose, CA · posted 2026-06-03
+- [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) — ByteDance, San Jose, CA · posted 2026-08-07
+- [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) — ByteDance, Seattle, WA · posted 2026-08-07
+- [Research Graduate - AI Infra Compute](https://jobs.bytedance.com/en/position/7667304540048787765/detail) — ByteDance, Seattle, WA · posted 2026-08-03
+- [Research Intern - AI Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668804309487749429/detail) — ByteDance, San Jose, CA · posted 2026-08-04
+- [Research Intern - AI Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668802153418475829/detail) — ByteDance, Seattle, WA · posted 2026-08-04
+- [Research Intern - AI-Native Databases](https://jobs.bytedance.com/en/position/7678450462765254965/detail) — ByteDance, San Jose, CA · posted 2026-09-02
+- [Research Intern - AI-Native Databases](https://jobs.bytedance.com/en/position/7678451067500529925/detail) — ByteDance, Seattle, WA · posted 2026-09-02
+- [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539991964504017170/detail) — ByteDance, San Jose, CA · posted 2026-06-02
+- [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539992380817639687/detail) — ByteDance, Seattle, WA · posted 2026-06-02
+- [Research Intern - Frontier AI Systems](https://jobs.bytedance.com/en/position/7679894132806650165/detail) — ByteDance, San Jose, CA · posted 2026-08-31
+- [Research Scientist - AI Infra](https://jobs.bytedance.com/en/position/7629789975396124981/detail) — ByteDance, San Jose, CA · posted 2026-06-02
+- [Research Scientist - Compute AI Infra - Global Frontier Tech Recruitment Program](https://jobs.bytedance.com/en/position/7629126608919382277/detail) — ByteDance, San Jose, CA · posted 2026-06-02
+- [Research Scientist - Compute AI Infra - Global Frontier Tech Recruitment Program](https://jobs.bytedance.com/en/position/7629125488116451637/detail) — ByteDance, Seattle, WA · posted 2026-06-02
+- [Research Scientist Graduate - AI Infra Compute](https://jobs.bytedance.com/en/position/7667334521286035765/detail) — ByteDance, San Jose, CA · posted 2026-08-03
+- [Research Scientist Graduate - Foundation Model - Generative AI](https://jobs.bytedance.com/en/position/7671030761623177477/detail) — ByteDance, San Jose, CA · posted 2026-08-12
+- [Research Scientist Graduate - ML Recommendation Systems](https://jobs.bytedance.com/en/position/7670850283815160069/detail) — ByteDance, San Jose, CA · posted 2026-08-07
+- [Research Scientist Graduate - Quantum Chemistry and Machine Learning](https://jobs.bytedance.com/en/position/7668595575944186117/detail) — ByteDance, San Jose, CA · posted 2026-08-19
+- [Research Scientist Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667379221434796341/detail) — ByteDance, San Jose, CA · posted 2026-08-03
+- [Research Scientist Intern - Applied Machine Learning-Enterprise](https://jobs.bytedance.com/en/position/7539697151993268488/detail) — ByteDance, San Jose, CA · posted 2026-06-03
+- [Research Scientist Intern - Security for AI](https://jobs.bytedance.com/en/position/7595676762475415861/detail) — ByteDance, San Jose, CA · posted 2026-06-04
+- [Research Scientist Intern - Seed Responsible AI](https://jobs.bytedance.com/en/position/7685504461452577077/detail) — ByteDance, San Jose, CA · posted 2026-09-16
+- [Research Scientist – Generative AI Graduate - Intelligent Creation](https://jobs.bytedance.com/en/position/7629855646167091509/detail) — ByteDance, San Jose, CA · posted 2026-04-18
+- [Student Researcher Intern - Seed Model - Seed Responsible AI](https://jobs.bytedance.com/en/position/7688841262493485365/detail) — ByteDance, San Jose, CA · posted 2026-09-24
+- [Visual Generation & Multimodal Evaluation Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671103763276663045/detail) — ByteDance, San Jose, CA · posted 2026-08-10
+- [AI Prompt Engineer High School Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1) — CACI, Ashburn, VA, US · posted 2026-10-21
+- [AI Prompt Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1) — CACI, Ashburn, VA · posted 2026-10-01
+- [AI Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) — CIBC, Toronto, ON, Canada · posted 2026-10-26
+- [AI Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) — CIBC, Toronto, ON, Canada · posted 2026-10-26
+- [AI and Quantum Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) — CIBC, Toronto, ON, Canada · posted 2026-10-21
+- [AI and Quantum Scientist Co-op](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) — CIBC, Toronto, ON, Canada · posted 2026-10-21
+- [AI Chat R&D Trainee - Multiple Teams](https://apply.workable.com/cwill-us/j/116215D01E/apply) — CWILL, Cary, NC · posted 2026-10-13
+- [AI SEO R&D Trainee - Multiple Teams](https://apply.workable.com/cwill-us/j/82C35F8307/apply) — CWILL, Cary, NC · posted 2026-10-13
+- [IT Internship (Techstop Support)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/IT-Internship--Techstop-Support-_R57021) — Cadence, SAN JOSE · posted 2026-11-03
+- [Intern: AI for Silicon Test Data Analytics & Failure Analysis](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1) — Cadence, VALBONNE (Sophia) · posted 2026-10-22
+- [Intern: AI for Smarter ATE Test Development & Debug](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1) — Cadence, VALBONNE (Sophia) · posted 2026-10-22
+- [Aerodynamics AI Industrial Placement Intern](https://apply.workable.com/cadillacf1team/j/7995A5E448/apply) — Cadillac Formula 1 Team, Indianapolis, IN · posted 2026-10-30
+- [Machine Learning Intern](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) — Capital de Recherche Tower, Montreal, QC, Canada · posted 2026-10-15
+- [2027 Summer Corporate Intern - Information Technology](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-Summer-Corporate-Intern---Information-Technology_R0000383086-1) — Caterpillar, 5 Locations · posted 2026-10-28
+- [Junior Software Engineer (Go/C++), Security Foundations Engineering - Splunk](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Junior-Software-Engineer--Go-C-----Security-Foundations-Engineering---Splunk_2027786) — Cisco, Krakow, Poland · posted 2026-10-15
+- [Generative AI Intern](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193) — Clearwater Analytics, Seattle, WA · posted 2026-09-01
+- [AI Agent Builder Intern](https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4) — Cloudforce, National Harbor, MD · posted 2026-04-08
+- [Machine Learning Intern](https://job-boards.greenhouse.io/covar/jobs/5240360007) — CoVar, Durham, NC · posted 2026-09-16
+- [Machine Learning Intern/Co-op](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) — Cohere, Canada, United Kingdom, United States · posted 2026-05-13
+- [Machine Learning Intern/Co-op  (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) — Cohere, Canada · posted 2026-05-13
+- [AI Intern](https://jobs-cesi.icims.com/jobs/10965/ai-intern/job) — Cole Engineering Services, Hanover, MD · posted 2026-05-07
+- [IT Intern - Summer 2027](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395) — Commerce Bank, Kansas City, MO · posted 2026-08-27
+- [AI Enablement Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) — Constellation Brands, Rochester, NY · posted 2026-10-20
+- [Graduate Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) — Constellation Space, Seattle, WA · posted 2026-07-15
+- [AI & Automation Development Intern](https://apply.workable.com/coretek-services/j/8D69C6C871/apply) — Coretek Services, Farmington Hills, MI · posted 2026-09-08
+- [Costco Data Systems Intern - IT Product Owner](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) — Costco, Issaquah, WA · posted 2026-11-02
+- [Forward Deployed Engineering Intern (AI Agent)](https://job-boards.greenhouse.io/cresta/jobs/5106468008) — Cresta, Toronto, Canada (Hybrid) · posted 2026-02-02
+- [Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) — Crowe, Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxville, TN, Nashville, TN, Washington, DC, SF, Austin, TX, Cleveland, OH, LA, Tampa, FL, San Jose, CA, Livingston, NJ, Grand Rapids, MI, Miami, FL, Dallas, TX, The Woodlands, TX, Plano, TX, Chicago, IL, Tallahassee, FL, Charlotte, NC, Fort Lauderdale, FL, Oakbrook Terrace, IL, Burlington, VT, Sacramento, CA, Columbus, OH, Hartford, CT, Springfield, IL, NYC, Denver, CO, Atlanta, GA, Fort Wayne, IN, South Bend, IN, Sarasota, FL, Costa Mesa, CA · posted 2026-08-14
+- [IT Systems Intern - Engine Plant IT Systems](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714) — Cummins, Darlington, UK · posted 2026-10-16
+- [Computer Vision and Deep Learning Engineer - Product Design Services](https://d3engineering.applytojob.com/apply/MoaCjjpMGk/Computer-Vision-And-Deep-Learning-Engineer) — D3 Embedded, West Henrietta, NY · posted 2026-09-11
+- [IT Support Internship (2026 Intake)](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Support-Internship--2026-Intake-_51580567) — DXC, MYS - PETALING JAYA · posted 30+ days ago
+- [IT Data Analyst Intern](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/IT-Data-Analyst-Intern_R1316675) — Danaher, Brea, CA · posted 2026-09-22
+- [IT Support Technician Intern](https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799) — Datadog, Paris, France · posted 2026-09-08
+- [People AI & Automation Engineer](https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true) — Deepgram, California, Remote in USA · posted 2026-09-11
+- [Technology Business Administration Co-op Intern - IT Business Management](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) — Definity Financial, Toronto, ON, Canada, Waterloo, ON, Canada · posted 2026-09-14
+- [AI Solutions Undergraduate Intern – Product & Content Management](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057) — Dell, Round Rock, TX, United States · posted 2026-11-03
+- [Data & AI Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848) — Dell, Bratislava, Bratislavsky kraj, Slovakia · posted 2026-11-02
+- [Global Marketing Graduate AI & Data Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299054) — Dell, Round Rock, TX, United States · posted 2026-11-03
+- [AI Performance Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299245) — Dell Technologies, Austin, TX · posted 2026-10-22
+- [AI Performance Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300865) — Dell Technologies, Austin, TX · posted 2026-10-22
+- [AI Solutions Intern - Product & Content Management](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057) — Dell Technologies, Round Rock, TX · posted 2026-09-14
+- [Global Marketing AI & Data Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299054) — Dell Technologies, Round Rock, TX · posted 2026-09-14
+- [IT Undergraduate Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298782) — Dell Technologies, Texas · posted 2026-09-10
+- [AI Intern](https://job-boards.greenhouse.io/divcowest/jobs/4244219009) — DivcoWest, SF · posted 2026-05-08
+- [Information Technology Intern](https://careers.div.energy/jobs/2734?icims=1) — Diversified Energy, Birmingham, AL · posted 2026-10-04
+- [AI Research Fellowship Intern](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) — DoorDash, SF · posted 2026-04-30
+- [AI Research Fellowship, (Summer and Fall 2026)](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) — DoorDash, San Francisco, CA · posted 2026-04-29
+- [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) — DoorDash, San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA · posted 2026-09-23
+- [AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) — DriveWealth, Chicago, IL · posted 2026-10-20
+- [AI Consulting Associate Program Product Owner Intern](https://boards.greenhouse.io/drivewealth/jobs/8038087003) — DriveWealth, Chicago, IL, NYC · posted 2026-10-20
+- [Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) — Droyd Robotics, SF · posted 2026-07-04
+- [AI Research Engineer New Grad](https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002) — Duolingo, Pittsburgh, PA, NYC · posted 2026-10-12
+- [AI Research Engineer New Grad](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002) — Duolingo, Pittsburgh, PA, NYC · posted 2026-10-12
+- [IT Hardware Technician](https://thinkdynamic.com/job-openings/?gh_jid=8180050) — Dynamic Lifecycle Innovations, Onalaska, WI · posted 2026-09-04
+- [Computer Vision & 3D Asset Reconstruction Student Employee](https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012) — EPRI, Charlotte, NC · posted 2026-06-28
+- [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) — EQT Corporation, Remote in USA · posted 2026-10-27
+- [Digital & AI Technology Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) — Ecolab, Naperville, IL, Eagan, MN, St Paul, MN · posted 2026-08-21
+- [Computer Science Intern](https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors) — Edison International, Alhambra, CA, Pomona, CA, Rosemead, CA · posted 2026-09-01
+- [Computer Science Intern](https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors) — Edison International, Santa Ana, CA · posted 2026-09-01
+- [Pet Health Sales Excellence Intern - AI Innovation & Enablement](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467) — Elanco, Indianapolis, IN · posted 2026-10-09
+- [AI Machine Learning Intern - Gen AI - Multimodal](https://apply.workable.com/eluvio/j/F70F3473E7/apply) — Eluvio, Berkeley, CA · posted 2026-05-09
+- [AI Application Engineer](https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true) — Ema, SF · posted 2026-08-18
+- [AI Resident](https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76/application?embed=true) — Ema, London, UK · posted 2026-10-01
+- [Internship: AI-based Test & Measurement Workflows](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012511) — Emerson, DRESDEN, SACHSEN, Germany · posted 2026-10-22
+- [Part-Time AI Research Evaluator](https://jobs.ashbyhq.com/engramme/19941069-b865-48ad-a19f-0de38745817f/application?embed=true) — Engramme, SF · posted 2026-10-27
+- [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) — Epic Games, BLANK,BLANK,Multiple Locations · posted 2026-08-07
+- [Machine Learning Intern](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) — Epic Games, London,England,United Kingdom · posted 2026-08-07
+- [Machine Learning Intern](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) — Epic Games, Montreal,Quebec,Canada · posted 2026-08-07
+- [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) — Epic Games, Montreal, QC, Canada · posted 2026-08-07
+- [Claims Systems & AI Intern 2](https://jobs.erieinsurance.com/job/Erie-Intern-II-(Claims-Systems-&-AI)-PA-16506/1447480500/?ats=successfactors) — Erie Insurance Group, Erie, PA · posted 2026-11-03
+- [Digital Marketing Intern - Technical AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4708258006) — Eulerity, NYC · posted 2026-08-25
+- [Associate AI and Agentic Engineer](https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-AI-and-Agentic-Engineer_JR7184) — Exelixis, Alameda, CA · posted 2026-10-29
+- [Associate AI and Agentic Engineer](https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-AI-and-Agentic-Engineer_JR7185) — Exelixis, Alameda, CA · posted 2026-10-29
+- [Associate Engineer - AI and Agentics](https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer--AI-and-Agentics_JR7183) — Exelixis, Alameda, CA · posted 2026-10-29
+- [AI Product Builder](https://www.exiger.com/careers/6202657004?gh_jid=6202657004) — Exiger, McLean, VA, Richmond, VA · posted 2026-09-21
+- [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) — Expedia Group, Austin, TX, San Jose, CA · posted 2026-05-23
+- [AI Intern](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477) — FHLBank Chicago, Chicago, IL · posted 2026-10-05
+- [Banking Automation Engineer Intern](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Banking-Automation-Engineer-Intern_R-20261800) — FNBO, Omaha, NE · posted 2026-10-09
+- [AI Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180) — Fanatics, NYC · posted 2026-03-12
+- [AI Applied Scientist Intern](https://boards.greenhouse.io/figma/jobs/6207801004) — Figma, SF, NYC · posted 2026-10-05
+- [Applied AI Intern](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) — First Citizens BancShares, Raleigh, NC · posted 2026-11-03
+- [AI Automation Engineering Co-op](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002) — Flagship Pioneering, Cambridge, MA · posted 2026-09-14
+- [Machine Learning Intern](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002) — Flagship Pioneering, Cambridge, MA · posted 2026-11-02
+- [Supply Chain Program Management & AI Tool Creation - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72880) — Ford, Long Beach, CA, United States · posted 2026-10-20
+- [Electrical Design Automation Intern - AI & EDA Automation](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304) — FormFactor, Livermore, CA · posted 2026-10-28
+- [AI Automation Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771) — Fortinet, Sunnyvale, CA · posted 2026-10-24
+- [AI Intern](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) — Fortinet, Sunnyvale, CA · posted 2026-04-21
+- [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) — G-Research, London, UK · posted 2026-07-23
+- [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) — GE Vernova, Bellevue, WA · posted 2026-10-14
+- [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2) — GE Vernova, Bellevue, WA · posted 2026-10-14
+- [SCS Commercial Intern - : AI Data Mining Agent](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-1) — GE Vernova, Atlanta, GA · posted 2026-10-07
+- [SCS Commercial Intern - : AI Data Mining Agent](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-2) — GE Vernova, Atlanta, GA · posted 2026-10-07
+- [2027 Summer Intern - Research and Development - AI/Machine Learning](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620) — GM, Mountain View, California, United States of America · posted 2026-10-12
+- [2027 Summer Intern – AI & Hardware Analytics, ADPT](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) — GM, 2 Locations · posted 2026-10-27
+- [2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746) — GM, Warren, Michigan, United States of America · posted 2026-10-30
+- [2027 Summer Intern,  Data Scaling, Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) — GM, Sunnyvale, California, United States of America · posted 2026-10-09
+- [2027 Summer Intern,  Data Scaling, Embodied AI (Masters)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540) — GM, Sunnyvale, California, United States of America · posted 2026-10-15
+- [2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) — GM, Sunnyvale, California, United States of America · posted 2026-10-23
+- [2027 Summer Intern, SEAM, Embodied AI (Masters)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537) — GM, Sunnyvale, California, United States of America · posted 2026-10-15
+- [Entry-Level – AI/Machine Learning Researcher](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753) — GM, Mountain View, California, United States of America · posted 2026-10-12
+- [Research Scientist Intern - AI Molecular Design](https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604/apply) — GenBio AI, Palo Alto, CA · posted 2026-10-08
+- [AI Intern – Enterprise Agent Development](https://job-boards.greenhouse.io/genscript/jobs/5253581007) — GenScript, Piscataway, NJ · posted 2026-09-30
+- [AI Research Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146) — General Motors, Sunnyvale, CA · posted 2026-10-09
+- [AI/Machine Learning Intern - Research and Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620) — General Motors, Mountain View, CA · posted 2026-10-12
+- [AI/Machine Learning Researcher](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753) — General Motors, Mountain View, CA · posted 2026-10-12
+- [Data Scaling Intern - Data Scaling - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) — General Motors, Sunnyvale, CA · posted 2026-10-09
+- [Embodied AI Data Scaling Intern - Data Scaling - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540) — General Motors, Sunnyvale, CA · posted 2026-10-15
+- [Embodied AI Research Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535) — General Motors, Sunnyvale, CA · posted 2026-10-15
+- [Machine Learning for Automation Researcher Intern - AI and Machine Learning for Automation Researcher](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769) — General Motors, Warren, MI · posted 2026-10-12
+- [Onboard Autonomy Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI--Masters-_JR-202622543) — General Motors, Sunnyvale, CA · posted 2026-10-15
+- [Seam Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537) — General Motors, Sunnyvale, CA · posted 2026-10-15
+- [Seam Intern - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143) — General Motors, Sunnyvale, CA · posted 2026-10-09
+- [Summer Intern - AI & Hardware Analytics - Adpt](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) — General Motors, Milford, MI, Warren, MI · posted 2026-10-05
+- [Summer Intern - Onboard Autonomy - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) — General Motors, Sunnyvale, CA · posted 2026-10-09
+- [Summer Intern - Research and Development - Machine Learning for Automation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724) — General Motors, Warren, MI · posted 2026-10-12
+- [AI Enabled Device Modeling](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083) — GlobalFoundries, Malta, NY, Essex Junction, VT · posted 2026-10-28
+- [AI Research Scientist – Early Career](https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37/application?embed=true) — Goaly, Palo Alto, CA · posted 2026-08-08
+- [Machine Learning Scientist](https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist) — GoodPower, Remote in USA · posted 2026-10-13
+- [Information Technology Specialist/Multimedia Designer 1](https://careers.govcio.com/jobs/8870?icims=1) — GovCIO, Pensacola, FL · posted 2026-09-10
+- [AI Research Intern - Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true) — GrayMatter Robotics, LA, Carson, CA · posted 2026-08-26
+- [IT Data Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820) — Great American Insurance Company, Cincinnati, OH · posted 2026-10-29
+- [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) — Guardian Life, Holmdel, NJ, NYC, Bethlehem, PA · posted 2026-09-14
+- [IT Graduate Internship - Multiple Teams](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) — GuideWell Mutual, Jacksonville, FL · posted 2026-10-07
+- [IT Data Analytics Intern](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors) — HF Sinclair, Dallas, TX · posted 2026-09-15
+- [AI & Computer Vision Engineering Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Computer-Vision-Engineering-Intern_UNI4780-1) — HP, Sant Cugat del Valles, Barcelona, Spain · posted 2026-10-29
+- [AI Adoption Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Adoption-Intern_UNI4448-1) — HP, Sant Cugat del Valles, Barcelona, Spain · posted 2026-10-29
+- [AI Transformation & Automation Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sofia-Sofia-Bulgaria/AI-Transformation---Automation-Intern_3168543-1) — HP, Sofia, Sofia, Bulgaria · posted 30+ days ago
+- [AI, Data & Advanced Manufacturing Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI--Data---Advanced-Manufacturing-Intern_UNI4791-1) — HP, Sant Cugat del Valles, Barcelona, Spain · posted 2026-10-21
+- [Machine Learning Development Intern](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Machine-Learning-Development-Intern_UNI5016-1) — HP, Porto Alegre, Rio Grande do Sul, Brazil · posted 2026-10-30
+- [AI & HPC Performance Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397) — HPE, Spring, Texas, United States of America · posted 2026-10-15
+- [AI Performance Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417) — HPE, Spring, Texas, United States of America · posted 2026-10-07
+- [HPC & AI Graduate Internship — Sales & Presales](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Seoul-Seoul-Korea-Republic-of/HPC---AI-Graduate-Internship---Sales---Presales_1217017) — HPE, Seoul, Seoul, Korea, Republic of · posted 2026-10-26
+- [HPC AI Systems Administrator Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396) — HPE, Bloomington, Minnesota, United States of America · posted 30+ days ago
+- [HPC/AI System Admin HW/SW Service Engineer Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404) — HPE, All, Tennessee, United States of America · posted 2026-10-12
+- [HPC/AI Systems Service Process Improvement Engineer Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402) — HPE, All, Illinois, United States of America · posted 2026-10-12
+- [Process automation and AI (HR and Finance) - Internship](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tlaquepaque-Jalisco-Mexico/Process-automation-and-AI--HR-and-Finance----Internship_1216002) — HPE, Tlaquepaque, Jalisco, Mexico · posted 2026-10-15
+- [Systems/Software Testing Engineer Cloud & On-Premise Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Software-Testing-Engineer-Cloud---On-Premise-Intern_1218105) — HPE, San Juan, Puerto Rico, Puerto Rico · posted 2026-11-04
+- [Data Analyst Intern - IT / Accounting (Rotational)](https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst) — Hays Electrical Services, Houston, TX · posted 2026-09-23
+- [Editorial AI Development Intern](https://job-boards.greenhouse.io/hearst/jobs/4473043009) — Hearst, SF · posted 2026-11-03
+- [AI Research Intern - 3D Computer Vision](https://helsing.ai/jobs/4941957101?gh_jid=4941957101) — Helsing, London, UK, Paris, France, Berlin, Germany, Sant Cugat del Vallès, Barcelona, Spain, Munich, Germany · posted 2026-07-30
+- [AI Applied Engineering Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2) — Hewlett Packard, Vancouver, WA · posted 2026-10-02
+- [AI Applied Engineering Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670) — Hewlett Packard, Vancouver, WA · posted 2026-10-02
+- [AI & HPC Performance Engineering Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397) — Hewlett Packard Enterprise, Spring, TX · posted 2026-10-15
+- [AI Intern Supply Chain](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) — Hitachi, Toronto, ON, Canada · posted 2026-10-20
+- [Research Intern - Knowledge Engineering & Generative AI](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396) — Hitachi, Santa Clara, CA · posted 2026-10-14
+- [Automation Engineering Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159960) — Honeywell, Juarez, CHH, Mexico · posted 2026-10-23
+- [Future IT Leaders - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157978) — Honeywell, United States · posted 2026-09-18
+- [Future IT Leaders - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/156751) — Honeywell, United States · posted 2026-08-27
+- [Intern (Bachelors) Automation Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159964) — Honeywell, Juarez, CHH, Mexico · posted 2026-10-23
+- [AI Data Collector](https://jobs.ashbyhq.com/humanoid/5570dc3e-63cd-44f4-8ff2-b6979c25e868/application?embed=true) — Humanoid, London, UK · posted 2026-07-29
+- [AI Data Collector - Night Shift](https://jobs.ashbyhq.com/humanoid/4492b9f9-0dfd-46ca-94ef-10503f096c99/application?embed=true) — Humanoid, London, UK · posted 2026-09-25
+- [AI & Technology Analyst - Rotational Program](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248567) — Hyper, Richmond, VA · posted 2026-07-29
+- [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) — IMC Trading, Chicago, IL · posted 2026-07-01
+- [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) — IMC Trading, London, UK · posted 2026-07-06
+- [Machine Learning Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) — IMC Trading, Chicago, IL · posted 2026-07-01
+- [Machine Learning Scientist - Large Multimodal Models - Post-Training](https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f/application?embed=true) — Iambic Therapeutics, Boston, MA · posted 2026-08-27
+- [Machine Learning Scientist - Large Multimodal Models - Post-Training](https://jobs.ashbyhq.com/iambic-therapeutics/1232cf39-832c-494f-99b9-1b4ee7266a42/application?embed=true) — Iambic Therapeutics, Bristol, UK · posted 2026-08-27
+- [AI Content Analyst](https://job-boards.greenhouse.io/innodatainc/jobs/4266638009) — Innodata, Utah · posted 2026-06-11
+- [AI Content Specialist](https://job-boards.greenhouse.io/innodatainc/jobs/4266649009) — Innodata, Vermont · posted 2026-06-11
+- [Applied AI Analyst](https://job-boards.greenhouse.io/innodatainc/jobs/4266798009) — Innodata, Maryland · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248527009) — Innodata, Alabama · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307419009) — Innodata, Concord, NH · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307423009) — Innodata, Delaware · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248774009) — Innodata, Florida · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307417009) — Innodata, Indiana · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248729009) — Innodata, Iowa · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266665009) — Innodata, Iowa · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307418009) — Innodata, Kentucky · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248703009) — Innodata, Louisiana · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266660009) — Innodata, Louisiana · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307427009) — Innodata, Massachusetts · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307429009) — Innodata, Michigan · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248763009) — Innodata, Minnesota · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307425009) — Innodata, Minnesota · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266622009) — Innodata, Mississippi · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307426009) — Innodata, Nevada · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266653009) — Innodata, North Carolina · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248689009) — Innodata, Oklahoma · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307420009) — Innodata, Oklahoma · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4224824009) — Innodata, Remote in Canada · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248787009) — Innodata, Remote in Canada · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307430009) — Innodata, Remote in USA · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307428009) — Innodata, Rhode Island · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307421009) — Innodata, Tennessee · posted 2026-07-08
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248749009) — Innodata, Texas · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266667009) — Innodata, Texas · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248783009) — Innodata, Vermont · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248754009) — Innodata, Wisconsin · posted 2026-06-11
+- [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4307424009) — Innodata, Wisconsin · posted 2026-07-08
+- [Rotational AI Intern](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460) — Insperity, Kingwood, Houston, TX · posted 2026-10-22
+- [AI Research Intern](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) — Institute of Foundation Models, Sunnyvale, CA · posted 2026-06-12
+- [AI Hardware Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) — Intel, Santa Clara, CA, Folsom, CA · posted 2026-10-23
+- [AI Hardware Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533) — Intel, 2 Locations · posted 2026-10-23
+- [AI Solution Architect Graduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) — Intel, US, California, Santa Clara · posted 2026-10-05
+- [CAD/EDA Tools Automation Engineer](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757) — Intel, Hillsboro, OR · posted 2026-09-04
+- [Compiler Engineer for AI DSLs](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433) — Intel, Austin, TX, Santa Clara, CA, Hillsboro, OR, Worcester, MA · posted 2026-10-28
+- [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) — Intel, Canada, Toronto · posted 2026-11-02
+- [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) — Intel, Toronto, ON, Canada · posted 2026-10-02
+- [Research Scientist Intern - Graphics - ML](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) — Intel, Remote in USA · posted 2026-09-30
+- [Research Engineer - 6G AI-Enabled Systems and Testbeds](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144) — Interdigital, Conshohocken, PA · posted 2026-10-02
+- [Associate AI Research & Operations Analyst](https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&nl=1&fr=false) — Internet Brands, El Segundo, CA · posted 2026-10-26
+- [Associate AI Research & Operations Analyst](https://jobs.jobvite.com/internetbrands/job/onLOAfwg?nl=1&nl=1&fr=false) — Internet Brands, El Segundo, CA · posted 2026-09-28
+- [Associate AI Research & Operations Analyst](https://jobs.jobvite.com/internetbrands/job/ouLOAfwn?nl=1&nl=1&fr=false) — Internet Brands, El Segundo, CA · posted 2026-09-28
+- [AI Deployment Engineering Internship](https://jobs.ashbyhq.com/interplay/da19ed8a-f03c-49d8-a2fd-d2988b8c3369) — Internship, New York, NY · posted 2026-03-11
+- [AI Intern - AI Labs](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac/application?embed=true) — Interplay, NYC · posted 2026-09-09
+- [AI Research Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776) — Intuit, Mountain View, CA · posted 2026-09-14
+- [AI Scientist Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536) — Intuit, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA · posted 2026-09-14
+- [Marketing Intern - AI Tooling for Marketing Efficiency](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) — Intuit, SF, Mountain View, CA · posted 2026-10-02
+- [AI Research Intern](https://jobs.smartrecruiters.com/Intuitive/744000151714759) — Intuitive Surgical, Sunnyvale, CA · posted 2026-09-25
+- [AI Research Intern](https://jobs.smartrecruiters.com/Intuitive/744000158312151) — Intuitive Surgical, Sunnyvale, CA · posted 2026-10-28
+- [AI Research Intern](https://jobs.smartrecruiters.com/Intuitive/744000158312151) — Intuitive Surgical, Sunnyvale, CA · posted 2026-10-28
+- [AI Training Generalist - AI Trainer](https://job-boards.eu.greenhouse.io/agency/jobs/4864006101) — Invisible Technologies, Remote in USA · posted 2026-05-12
+- [AI Training Generalist - AI Trainer](https://job-boards.eu.greenhouse.io/agency/jobs/4864010101) — Invisible Technologies, Remote in USA · posted 2026-05-12
+- [AI Training Generalist - AI Trainer](https://job-boards.eu.greenhouse.io/agency/jobs/4864014101) — Invisible Technologies, Remote in USA · posted 2026-05-12
+- [English - Language Specialist - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4844613101) — Invisible Technologies AI, Remote in Canada · posted 2026-04-17
+- [English - Language Specialist - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4835696101) — Invisible Technologies AI, Remote in UK · posted 2026-04-08
+- [French Language Specialist - Language Specialist - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4844644101) — Invisible Technologies AI, Remote in Canada · posted 2026-04-17
+- [German Speaker - AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4650955101) — Invisible Technologies AI, Remote in USA · posted 2026-03-27
+- [Small Business Owner - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4797634101) — Invisible Technologies AI, Remote in USA · posted 2026-03-18
+- [AI Trainer - Voice and Speech Evaluation](https://jobs.ashbyhq.com/inworld-ai/c8308fd9-36a4-482e-8516-c1901603da94/application?embed=true) — Inworld AI, Remote in USA · posted 2026-10-27
+- [AI & Decision Science Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095) — JM Family, Deerfield Beach, FL · posted 2026-11-03
+- [AI Center of Excellence Delivery Team Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176) — JM Family, Deerfield Beach, FL · posted 2026-11-03
+- [AI Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180) — JM Family, Deerfield Beach, FL · posted 2026-11-02
+- [AI Research Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) — JP Morgan Chase, London, UK · posted 2026-10-15
+- [AI Research Associate Program Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800354) — JP Morgan Chase, NYC · posted 2026-10-14
+- [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) — JP Morgan Chase, Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE · posted 2026-08-03
+- [Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) — JP Morgan Chase, NYC · posted 2026-10-27
+- [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) — JP Morgan Chase, Palo Alto, CA, Seattle, WA, NYC · posted 2026-10-20
+- [Quant AI Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) — JP Morgan Chase, Palo Alto, CA · posted 2026-10-26
+- [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002) — Jane Street, London, UK · posted 2026-08-03
+- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8384490002) — Jane Street, NYC · posted 2026-07-06
+- [2027 Graduate Automation Engineer](https://jj.wd5.myworkdayjobs.com/Jj/job/Limerick-Ireland/XMLNAME-2027-Graduate-Automation-Engineer_R-105388) — Johnson & Johnson, Limerick, Ireland · posted 2026-11-04
+- [2027 Graduate Automation Engineer](https://jj.wd5.myworkdayjobs.com/Jj/job/Ringaskiddy-Cork-Ireland/XMLNAME-2027-Graduate-Automation-Engineer_R-104288) — Johnson & Johnson, Ringaskiddy, Cork, Ireland · posted 2026-10-21
+- [AI Research Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8052281) — Jump Trading, Chicago, IL, NYC · posted 2026-07-08
+- [AI Research Engineer Intern - Research Automation](https://boards.greenhouse.io/embed/job_app?token=8052351) — Jump Trading, Chicago, IL, NYC · posted 2026-07-08
+- [Campus AI Research Engineer Intern - Deep Learning](https://boards.greenhouse.io/embed/job_app?token=8052338) — Jump Trading, Chicago, IL, NYC · posted 2026-07-08
+- [Campus AI Researcher Intern](https://boards.greenhouse.io/embed/job_app?token=7976964) — Jump Trading, London, UK · posted 2026-07-13
+- [ML Research Engineer](https://boards.greenhouse.io/embed/job_app?token=7977132) — Jump Trading, London, UK · posted 2026-07-13
+- [AI Intern](https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern) — K1, Manhattan Beach, CA · posted 2026-10-20
+- [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) — KLA, Milpitas, CA · posted 2026-10-20
+- [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921) — KLA, Milpitas, CA · posted 2026-10-13
+- [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) — KLA, Milpitas, CA · posted 2026-10-13
+- [IT Engineering Intern](https://jobs.keysight.com/jobs/54649?icims=1) — Keysight Technologies, Colorado Springs, CO · posted 2026-10-01
+- [Process AI Automation Intern](https://jobs.keysight.com/jobs/54637?icims=1) — Keysight Technologies, Austin, TX · posted 2026-09-28
+- [Information Technology Intern - Application Development](https://careers.kindermorgan.com/jobs/6032?icims=1) — Kinder Morgan, Houston, TX · posted 2026-09-01
+- [AI Research Intern](https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply) — Kitware, Clifton Park, NY · posted 2026-09-16
+- [Business Function Intern 1 (IT/Data Analytics/Business Analytics/Supply Chain)](https://lamresearch.eightfold.ai/careers/job/1099556088102) — Lam Research, MY-Batu Kawan [2700] (2703) · posted 2026-09-15
+- [Business Function Intern 1 (IT/Data Analytics/Business Analytics/Supply Chain)](https://lamresearch.eightfold.ai/careers/job/1099556653359) — Lam Research, MY-Batu Kawan [2700] (2703) · posted 2026-10-30
+- [AI Automation Engineer Co-op](https://job-boards.greenhouse.io/later/jobs/8604889002) — Later, Vancouver, BC, Canada · posted 2026-06-24
+- [Machine Learning Postdoctoral Researcher](https://jobs.smartrecruiters.com/LLNL/3743990016432706) — Lawrence Livermore National Laboratory (LLNL), Livermore, CA · posted 2026-07-06
+- [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) — Leidos, 6314 Remote/Teleworker US · posted 2026-10-06
+- [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767) — Leidos, 6314 Remote/Teleworker US · posted 2026-10-06
+- [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) — Leidos, 6314 Remote/Teleworker US · posted 2026-10-07
+- [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) — Leidos, 6314 Remote/Teleworker US · posted 30+ days ago
+- [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) — Leidos, Remote in USA · posted 2026-10-06
+- [Junior DevOps Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Junior-DevOps-Engineer_R-00183797-1) — Leidos, 2 Locations · posted 30+ days ago
+- [Junior DevOps Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Junior-DevOps-Engineer_R-00190855) — Leidos, 2 Locations · posted 30+ days ago
+- [IT Intern](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323) — Life Fitness, Rosemont, IL · posted 2026-10-30
+- [AI-Driven Equation Discovery Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) — Lila Sciences, Cambridge, MA, SF · posted 2026-10-30
+- [Automation Engineer I/II, Sustaining Engineering & Lab Operations](https://job-boards.greenhouse.io/lilasciences/jobs/4414378009) — Lila Sciences, Cambridge, MA USA · posted 2026-11-02
+- [Co-Op, AI Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4465061009) — Lila Sciences, San Francisco, CA USA · posted 2026-10-27
+- [Co-Op, AI-Driven Equation Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) — Lila Sciences, Cambridge, MA USA; San Francisco, CA USA · posted 2026-10-30
+- [AI Training Contributor - French](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) — Lilt, Remote in Canada, Québec City, QC, Canada · posted 2026-07-06
+- [Graduate Engineer - AI Agents](https://jobs.ashbyhq.com/liveflow/93a4d132-b68c-42d7-ace0-7975661130ba/application) — LiveFlow, SF, Mountain View, CA · posted 2026-05-05
+- [Applied Data and AI Apprentice](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Applied-Data-and-AI-Apprentice---Birmingham_165591) — Lloyds Bank, Birmingham, UK · posted 2026-11-03
+- [Applied Data and AI Apprentice](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Applied-Data-and-AI-Apprentice---Bristol_165590) — Lloyds Bank, Bristol, UK · posted 2026-11-03
+- [Applied Data and AI Apprentice](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Applied-Data-and-AI-Apprentice---Edinburgh_165592) — Lloyds Bank, Edinburgh, UK · posted 2026-11-03
+- [Data & AI Apprentice](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Data---AI-Apprenticeship---Edinburgh_164880) — Lloyds Bank, Edinburgh, UK · posted 2026-11-03
+- [Data & AI Apprentice](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Data---AI-Apprenticeship---Leeds_164878) — Lloyds Bank, Leeds, UK · posted 2026-11-03
+- [Software Engineering Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477411704) — Lockheed Martin, King of Prussia, PA · posted 2026-10-27
+- [Systems Engineer Intern](https://lockheedmartin.eightfold.ai/careers/job/996477335771) — Lockheed Martin, Sunnyvale, CA · posted 2026-10-29
+- [Systems Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477472821) — Lockheed Martin, King of Prussia, PA · posted 2026-10-26
+- [Machine Learning Researcher](https://apply.workable.com/longshot-systems-ltd/j/EA27D81554/apply) — Longshot Systems, London, UK · posted 2026-08-11
+- [Machine Learning Research Engineer](https://apply.workable.com/luminance-1/j/9C39B34AB3/apply) — Luminance, Cambridge, UK · posted 2026-08-07
+- [Forward Deployed AI Analyst](https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7/application?embed=true) — Makai Labs, California, Texas, NYC, Massachusetts, New Jersey · posted 2026-09-04
+- [AI Co-op](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1) — Manulife Financial, Toronto, ON, Canada · posted 2026-10-12
+- [AI Intern - AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) — Manulife Financial, Toronto, ON, Canada · posted 2026-10-19
+- [Business Strategy & Product Management Intern - AI](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2) — Maple Leaf Sports & Entertainment Partnership (MLSE), Toronto, ON, Canada · posted 2026-10-21
+- [AI Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510) — Marmon Holdings, Sauget, IL · posted 2026-08-31
+- [AI Placement - Imperial 6 month placement](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8620541002) — Marshall Wace, London, UK · posted 2026-08-10
+- [AI Product Engineer](https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply) — Match Group, Vancouver, BC, Canada · posted 2026-09-18
+- [Research Fellow - Cardiovascular Medicine - Cardiovascular AI](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394536) — Mayo Clinic, Rochester, MN · posted 2026-10-29
+- [Research Fellow in Surgical AI](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378185) — Mayo Clinic, Rochester, MN · posted 2026-10-06
+- [Graduate Cyber Security Analyst (Cyber Academy)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155879) — McKesson, USA, TX, Irving · posted 2026-11-04
+- [Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs](https://www.metacareers.com/jobs/1758435721926913) — Meta, Sunnyvale, CA · posted 2026-10-14
+- [Optical Engineering AI and Data Analytics Intern](https://www.metacareers.com/jobs/1851348099357899) — Meta, Sunnyvale, CA · posted 2026-10-19
+- [Research Intern - Self-Improving Agentic Systems and AI Research Agents](https://www.metacareers.com/jobs/994737396214791) — Meta, London, UK · posted 2026-10-20
+- [Research Scientist Intern - AI & Compute Foundation](https://www.metacareers.com/jobs/1866761794487684) — Meta, Menlo Park, CA · posted 2026-10-13
+- [Research Scientist Intern - AI & System Co-Design](https://www.metacareers.com/jobs/1062032900196411) — Meta, Menlo Park, CA · posted 2026-10-13
+- [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/2356892281747003) — Meta, Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC · posted 2026-10-22
+- [Research Scientist Intern - AI Core Machine Learning](https://www.metacareers.com/jobs/1847186939636437) — Meta, London, UK · posted 2026-10-29
+- [Research Scientist Intern - AI Core Machine Learning](https://www.metacareers.com/jobs/1648122343381284) — Meta, Seattle, WA, Bellevue, WA, Sunnyvale, CA · posted 2026-10-23
+- [Research Scientist Intern - AI Infra](https://www.metacareers.com/jobs/4603165899971826) — Meta, Menlo Park, CA · posted 2026-10-29
+- [Research Scientist Intern - AI Research - Speech & Audio](https://www.metacareers.com/jobs/1567168005156007) — Meta, Menlo Park, CA, NYC · posted 2026-10-27
+- [Research Scientist Intern - Audio - Machine Learning and Computer Vision](https://www.metacareers.com/jobs/2211974449401350) — Meta, Burlingame, CA, Redmond, WA · posted 2026-10-09
+- [Research Scientist Intern - Audio - Machine Learning and Computer Vision](https://www.metacareers.com/jobs/2288012098648243) — Meta, Cambridge, UK · posted 2026-10-21
+- [Research Scientist Intern - Audio AI](https://www.metacareers.com/jobs/1160814043168431) — Meta, Menlo Park, CA, Bellevue, WA · posted 2026-10-26
+- [Research Scientist Intern - Computer Vision - Video Intelligence](https://www.metacareers.com/jobs/1126899676481179) — Meta, Menlo Park, CA · posted 2026-10-30
+- [Research Scientist Intern - Computer Vision - Video Intelligence](https://www.metacareers.com/jobs/1789380188995838) — Meta, Menlo Park, CA, Bellevue, WA · posted 2026-10-27
+- [Research Scientist Intern - FM Quality ML](https://www.metacareers.com/jobs/1125383989877928) — Meta, Menlo Park, CA · posted 2026-11-03
+- [Research Scientist Intern - Generative AI](https://www.metacareers.com/jobs/1694337262064234) — Meta, London, UK, Zürich, Switzerland · posted 2026-10-26
+- [Research Scientist Intern - ML Innovation for Products](https://www.metacareers.com/jobs/1060093353751700) — Meta, Menlo Park, CA, Sunnyvale, CA · posted 2026-10-29
+- [Research Scientist Intern - Meta Recommendation Systems - Core ML](https://www.metacareers.com/jobs/1023154190171838) — Meta, Seattle, WA, Menlo Park, CA, Bellevue, WA · posted 2026-10-23
+- [Research Scientist Intern - On-Device AI Model Optimization](https://www.metacareers.com/jobs/4455569504707135) — Meta, Burlingame, CA, Menlo Park, CA · posted 2026-10-19
+- [Research Scientist Intern - Physical Engineering AI](https://www.metacareers.com/jobs/1081255008061721) — Meta, Seattle, WA, NYC · posted 2026-10-22
+- [Research Scientist Intern - Smart Glasses in Wearables AI](https://www.metacareers.com/jobs/1584033410435097) — Meta, Burlingame, CA, Menlo Park, CA · posted 2026-10-19
+- [Intern - SMAI TD AI Engineering Team](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991) — Micron, Boise, ID - Main Site · posted 2026-10-05
+- [AI & Product Management Intern - Mobile Memory - Lpdram](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839) — Micron Technology, San Jose, CA · posted 2026-10-27
+- [Memory System Architect New Grad - HBM Generative AI](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Memory-System-Architect--HBM-Generative-AI_JR111840) — Micron Technology, Folsom, CA, Richardson, TX · posted 2026-09-18
+- [Memory Systems Architecture & AI Intern - Research](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524) — Micron Technology, San Jose, CA · posted 2026-09-28
+- [Research Intern - MSR AI Interaction and Learning](https://apply.careers.microsoft.com/careers/job/1970393557042156) — Microsoft, Redmond, WA, NYC · posted 2026-10-16
+- [Research Intern - Machine Learning](https://apply.careers.microsoft.com/careers/job/1970393557042145) — Microsoft, Cambridge, MA, NYC · posted 2026-10-16
+- [Research Intern - Machine Learning](https://apply.careers.microsoft.com/careers/job/1970393557040927) — Microsoft, Montreal, QC, Canada · posted 2026-10-14
+- [Research Intern - Machine Learning and Optimization](https://apply.careers.microsoft.com/careers/job/1970393557049981) — Microsoft, Redmond, WA · posted 2026-10-28
+- [Research Intern - Machine Learning and Statistics](https://apply.careers.microsoft.com/careers/job/1970393557040502) — Microsoft, Cambridge, MA, Redmond, WA · posted 2026-10-14
+- [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557040333) — Microsoft, Cambridge, MA · posted 2026-10-13
+- [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557040333) — Microsoft, United States, Massachusetts, Cambridge · posted 2026-10-13
+- [AI Solutions Engineer Intern](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) — Midland States Bank, Rockford, IL, St. Louis, MO, Effingham, IL · posted 2026-10-05
+- [Computer Vision Intern - Multiple Teams](https://job-boards.greenhouse.io/mill/jobs/4737741005) — Mill, San Bruno, CA · posted 2026-09-24
+- [Data & AI Analyst](https://jobs.ashbyhq.com/moab/8ab10f9b-2a49-409d-8b20-7ecf1ed92ee4/application) — Moab, NYC · posted 2026-07-01
+- [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) — Modal, New York · posted 2026-07-28
+- [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) — Modal, SF, NYC · posted 2026-07-28
+- [Co-Op, Research Engineering and AI Integration](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893) — Moderna,  · posted 30+ days ago
+- [Machine Learning Internship, Behaviors Research](https://motional.com/open-positions/?gh_jid=7600024003#/7600024003) — Motional, Singapore, Central, Singapore · posted 2026-01-25
+- [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) — MyEmployment, Remote in US · posted 2026-06-23
+- [IT Data Administration Intern](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309) — NJM Insurance Group, Trenton, NJ · posted 2026-10-01
+- [AI Compiler and Kernel Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) — NVIDIA, Austin, TX · posted 2026-11-02
+- [Generative AI Research Intern - Fundamental Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) — NVIDIA, Santa Clara, CA · posted 2026-09-15
+- [Product Management MBA Intern - Gaming, Content Creation, And PC AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) — NVIDIA, Canada, Santa Clara, CA, United States · posted 2026-10-21
+- [Quantum and Chemistry Research Intern - Quantum and AI for Chemistry](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) — NVIDIA, Toronto, ON, Canada · posted 2026-09-16
+- [Research Scientist - Fundamental Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) — NVIDIA, Santa Clara, CA · posted 2026-04-18
+- [Research Scientist New Grad - AI for Graphics and Gaming](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) — NVIDIA, Canada, Santa Clara, CA, United States · posted 2026-10-31
+- [Research Scientist New Grad - ML Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) — NVIDIA, Seattle, WA, Austin, TX, Santa Clara, CA, Westford, MA · posted 2026-10-31
+- [VLSI CAD Timing Intern - Applied AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) — NVIDIA, Santa Clara, CA, United States · posted 2026-10-29
+- [Intern (Engineering & IT)](https://nxp.wd3.myworkdayjobs.com/Careers/job/Kuala-Lumpur/Intern--Engineering-_R-10005472) — NXP, Kuala Lumpur · posted 30+ days ago
+- [Internship/Thesis – Signal Processing and AI for autonomous driving](https://nxp.wd3.myworkdayjobs.com/Careers/job/Eindhoven/Internship-Thesis---Signal-Processing-and-AI-for-autonomous-driving-_R-10064090) — NXP, Eindhoven · posted 30+ days ago
+- [Junior RF Automation Engineer (NFC) (m/f/d)](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Junior-RF-Automation-Engineer--NFC---m-f-d-_R-10064659) — NXP, Gratkorn · posted 2026-10-28
+- [Master Thesis Internship - AI-Driven Transistor Design Exploration](https://nxp.wd3.myworkdayjobs.com/Careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224) — NXP, Eindhoven · posted 2026-10-09
+- [Graduate Intern - Power Data Analysis for AI Data Centers](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Power-Data-Analysis-for-AI-Data-Centers_R14575) — National Laboratory of the Rockies, Golden, CO · posted 2026-10-28
+- [Postdoctoral Researcher - Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Doctoral-Researcher----Agentic-AI-Driven-Computational-Synthesis-of-PGM-free-Fuel-Cell-Catalysts_R14572) — National Laboratory of the Rockies, Golden, CO · posted 2026-10-28
+- [Postdoctoral Researcher - Vision Machine Learning](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Vision-Machine-Learning_R14557) — National Laboratory of the Rockies, Golden, CO · posted 2026-10-08
+- [IT Application Development Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009) — National Life, Montpelier, VT, Addison, TX · posted 2026-09-14
+- [ML Solution Architect Intern](https://careers.nebius.com/?gh_jid=4883829101) — Nebius, Remote in USA · posted 2026-07-16
+- [ML Solution Architect Intern](https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101) — Nebius, Remote in USA · posted 2026-11-02
+- [Machine Learning Scientist Intern - AI](https://explore.jobs.netflix.net/careers/job/790317916733) — Netflix, Los Gatos, CA · posted 2026-08-26
+- [AI Scientist](https://job-boards.greenhouse.io/networkbio/jobs/5445891008) — Network Bio, Palo Alto, CA, Seattle, WA · posted 2026-10-06
+- [IT Systems Administrator Intern](https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003) — Neuralink, Austin, Texas, United States; South San Francisco, California, United States · posted 2026-05-15
+- [AI Intern - Engineering Track](https://job-boards.greenhouse.io/newsbreak/jobs/4712896006) — NewsBreak, Mountain View, CA · posted 2026-09-12
+- [Newsbreak Venture New Grad - AI Growth Intelligence Engineer](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) — NewsBreak, Mountain View, CA · posted 2026-07-07
+- [NIKE, Inc. AI & Machine Learning, Innovation Graduate Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412) — Nike, Beaverton, Oregon · posted 30+ days ago
+- [AI Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219) — Nissan, Dallas, TX, Franklin, TN · posted 2026-10-27
+- [AI Agent Architect Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218) — Nissan Global, Farmington Hills, MI · posted 2026-10-08
+- [Machine Learning Research Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Spring-2027---Santa-Clara--CA_R00214268) — Nissan Global, Santa Clara, CA · posted 2026-10-14
+- [Machine Learning Research Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Mapping-Intern---Spring-2027---Santa-Clara--CA_R00214261) — Nissan Global, Santa Clara, CA · posted 2026-10-14
+- [Machine Learning Research Perception Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00214260) — Nissan Global, Santa Clara, CA · posted 2026-10-14
+- [Machine Learning Research Perception Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Perception-Intern---Spring-2027---Santa-Clara--CA_R00215332) — Nissan Global, Santa Clara, CA · posted 2026-10-14
+- [Machine Learning Research Prediction and Planning Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Prediction-and-Planning-Intern---Spring-2027---Santa-Clara--CA_R00214262) — Nissan Global, Santa Clara, CA · posted 2026-10-14
+- [Physical AI Manufacturing Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) — Nissan Global, Smyrna, TN · posted 2026-10-27
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/005FFFFCC2/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/463F911FF6/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/51307E2975/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/A54334F9EC/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/A9CF117076/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/D09BA189E3/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/D3C6325FC4/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/E20DB81C72/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/EEFA76F1E9/apply) — NoGigiddy, Remote in USA · posted 2026-10-29
+- [AI R&D Engineer Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702) — Nokia, Sunnyvale, CA · posted 2026-10-01
+- [AI Research Resident](https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true) — Normal Computing, London, UK, Copenhagen, Denmark, NYC, Mountain View, CA · posted 2026-08-19
+- [AI Research Resident - Algorithms Codesign](https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true) — Normal Computing, NYC · posted 2026-10-27
+- [AI Agent Engineer Intern, AI Enablement Process - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1) — Nvidia, China, Beijing · posted 2026-10-22
+- [Compute System Arch Engineer, AI Infra - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578) — Nvidia, China, Shanghai · posted 2026-10-29
+- [Research Scientist, Deep Learning and Computer Vision - New College Graduate](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Research-Scientist--Deep-Learning-and-Computer-Vision---New-College-Graduate_JR2018685) — Nvidia, Taiwan, Taipei · posted 30+ days ago
+- [AI Research Intern](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true) — ONE Finance, United States · posted 2026-09-22
+- [AI Resident](https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d/application?embed=true) — Odyssey, Palo Alto, CA, London, UK · posted 2026-07-17
+- [Machine Learning Intern](https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true) — One Robot, SF · posted 2026-07-24
+- [Early Adopter & Product Builder Intern - Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) — OpenArt AI, San Carlos, CA · posted 2026-10-22
+- [AI Product Builder Intern](https://boards.greenhouse.io/opensesame/jobs/8313424) — OpenSesame, Austin, TX · posted 2026-10-22
+- [Applied Machine Learning Scientist 2](https://job-boards.greenhouse.io/opentable/jobs/8769568002) — OpenTable, Toronto, ON, Canada · posted 2026-09-04
+- [AI Product Management Intern](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) — OpusClip, Mountain View, CA · posted 2026-08-11
+- [AI Agent Intern - Logistics Focus](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345) — Oracle, Austin, TX · posted 2026-05-21
+- [ONA AI Agent Intern (Logistics Focus) - OVIP](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345) — Oracle, Austin, TX, United States · posted 2026-05-22
+- [Research Engineer - AI](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) — Orbis Operations, Remote in USA · posted 2026-10-21
+- [Supply Chain Intern - Data Analytics & AI](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1) — Oshkosh, Hagerstown, MD · posted 2026-09-16
+- [Research Intern, Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) — Output Biosciences, New York, NY, San Francisco, CA · posted 2026-04-14
+- [Forward Deployed Engineer Intern - Applied AI](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1/application?embed=true) — Pace, NYC · posted 2026-09-14
+- [AI Research Intern](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true) — Pangram Labs, NYC, Brooklyn, NY · posted 2026-10-04
+- [AI Automation Engineer Intern](https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply) — Pattern, Lehi, UT · posted 2026-10-22
+- [Computer Science Researcher](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher--Rui-Zhang_REQ_0000055929) — Pennsylvania State University, University Park, State College, PA · posted 2026-06-20
+- [IT Applications Specialist](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1) — Pennsylvania State University, University Park, State College, PA · posted 2026-07-02
+- [2027 Engineering Leadership Development Program - Computer Science / Computer Engineering](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2027-Engineering-Leadership-Development-Program---Computer-Science---Computer-Engineering_R23949) — Pentair, Apex, NC, Delavan, WI, Golden Valley, MN · posted 2026-09-08
+- [Internship - Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) — Perplexity, Berlin · posted 2026-09-02
+- [AI & Analytics Analyst Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) — Philips, Nashville, TN · posted 2026-10-22
+- [Machine Learning Research Intern](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application?embed=true) — Phonic, SF · posted 2026-07-21
+- [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) — Pinterest, Palo Alto, CA, Seattle, WA, SF, NYC · posted 2026-10-01
+- [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) — Pinterest, Palo Alto, CA, Seattle, WA, SF, NYC · posted 2026-10-01
+- [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) — Pinterest, Toronto, ON, Canada · posted 2026-10-01
+- [Machine Learning Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) — Pinterest, Dublin, IE · posted 2026-10-05
+- [Machine Learning Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) — Pinterest, Toronto, ON, CA · posted 2026-10-01
+- [Machine Learning Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) — Pinterest, Zurich, CH · posted 2026-10-01
+- [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) — Pinterest, San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US · posted 2026-10-01
+- [Applied AI Co-op](https://jobs.ashbyhq.com/plot/5f8cfeaa-c368-480f-aaa5-de52452a63d0/application?embed=true) — Plot Technologies, NYC · posted 2026-09-29
+- [Digital & IT Leadership Development Program Associate - Digital Product Development](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565) — Polaris, Medina, MN, Plymouth, MN · posted 2026-08-08
+- [AI Applied & Agentic AI Intern](https://procogia.com/about-us/careers/?gh_jid=5448664008) — ProCogia, Vancouver, BC, Canada · posted 2026-10-09
+- [Dream Internship – IT Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Bangkok/Dream-Internship---IT-Intern_R000162082) — Procter & Gamble, Bangkok · posted 2026-11-01
+- [IT Data & Analytics Engineering Internship - Interlomas](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/IT-Data---Analytics-Engineering-_R000156708) — Procter & Gamble, MEXICO CITY GENERAL OFFICE · posted 2026-11-04
+- [IT Technical Specialist Industrial Placement 2027](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302) — Procter & Gamble, NEWCASTLE INNOVATION CENTRE · posted 2026-10-06
+- [IT Technical Specialist Intern](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302) — Procter & Gamble, Newcastle upon Tyne, UK · posted 2026-10-06
+- [Information Technology Intern](https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858) — Procter & Gamble, MUMBAI GENERAL OFFICE · posted 2026-10-28
+- [Information Technology Intern](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Information-Technology-Industrial-Placement-2027_R000160019) — Procter & Gamble, Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK · posted 2026-10-02
+- [Intelligent Controls and Automation Engineer Internship](https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Intelligent-Controls-and-Automation-Engineer-Internship_R000157957) — Procter & Gamble, 2 Locations · posted 30+ days ago
+- [R&D Intern - AI Research Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) — Procter & Gamble, Mason, OH · posted 2026-09-22
+- [SK-II IT Intern (Semester 2027) - P&G Management Internship Program](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/SK-II-IT-Intern--Semester-2027----P-G-Management-Internship-Program_R000160875) — Procter & Gamble, SINGAPORE GENERAL OFFICE · posted 2026-10-13
+- [AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974878101) — Prolific, Remote in UK · posted 2026-09-17
+- [AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4848668101) — Prolific, Remote in USA · posted 2026-09-17
+- [AI Trainer - Advanced Indonesian Fluency](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4848687101) — Prolific, Remote in UK · posted 2026-09-17
+- [AI Trainer - Bosnian](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974797101) — Prolific, Remote in USA · posted 2026-09-17
+- [AI Trainer - Fluent Nepali Speakers](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4978732101) — Prolific, Remote in UK · posted 2026-09-17
+- [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) — Prolific, Remote in Canada · posted 2026-09-17
+- [Korean Fluent Speakers - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4854284101) — Prolific, Remote in USA · posted 2026-09-17
+- [AI Product Management Intern](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840) — Prologis, Denver, CO · posted 2026-10-13
+- [AI and Automation Intern](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883) — Prologis, Denver, CO · posted 2026-10-26
+- [IT Customer Experience Technologies Intern](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829) — Prologis, Denver, CO · posted 2026-10-12
+- [AI Intern](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910) — Prysmian Cables & Systems, Highland Heights, KY · posted 2026-07-21
+- [Machine Learning Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797) — Q2, Austin, TX · posted 2026-09-15
+- [AI Kernel Engineer Intern](https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true) — Quadric, Burlingame, CA · posted 2026-10-23
+- [AI Integration & Interoperability Intern](https://qualcomm.eightfold.ai/careers/job/446716226621) — Qualcomm, Cheektowaga, NY · posted 2026-08-05
+- [AI and DSP Applications Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721686396) — Qualcomm, Markham, ON, Canada · posted 2026-10-22
+- [Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721858024) — Qualcomm, Markham, ON, Canada · posted 2026-10-29
+- [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721661830) — Qualcomm, Markham, ON, Canada · posted 2026-10-21
+- [FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France](https://qualcomm.eightfold.ai/careers/job/446721901932) — Qualcomm, Strasbourg, France · posted 2026-11-02
+- [FY27 Intern - Machine Learning Compiler & Performance Engineering Intern - Canada (16 months)](https://qualcomm.eightfold.ai/careers/job/446721064018) — Qualcomm, Markham, Ontario, Canada · posted 2026-09-17
+- [Machine Learning AISW Intern](https://qualcomm.eightfold.ai/careers/job/446721636765) — Qualcomm, Markham, ON, Canada · posted 2026-10-19
+- [Machine Learning Compiler & Performance Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721064018) — Qualcomm, Markham, ON, Canada · posted 2026-09-11
+- [New Graduate- AI SW SDK Engineer](https://qualcomm.eightfold.ai/careers/job/446715931628) — Qualcomm, Shanghai, China, Chengdu, Sichuan, China · posted 2025-12-18
+- [Sensors Subsystem Engineering Intern - Low-Power AI - Audio](https://qualcomm.eightfold.ai/careers/job/446721109229) — Qualcomm, Markham, ON, Canada · posted 2026-09-15
+- [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) — Quantbot Technologies, NYC · posted 2026-08-11
+- [AI DSP Applied Research Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) — RTX, Cedar Rapids, IA · posted 2026-10-03
+- [Digital Support & Business Intelligence Intern - Computer Science](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1) — RTX, Longueuil, QC, Canada · posted 2026-11-02
+- [AI Conversation Recording Contributor](https://jobs.lever.co/rws/8d40e2c0-ace5-4626-9c78-1e743ad1b8b0/apply) — RWS, Montreal, QC, Canada · posted 2026-10-22
+- [Speech AI Evaluation Specialist - Vietnamese](https://jobs.lever.co/rws/6488833f-86c3-480c-9dd1-1667f27a372c/apply) — RWS, Remote in USA · posted 2026-06-09
+- [AI Product Engineer / Forward Deployed Engineer](https://apply.workable.com/raydar/j/31364F00E3/apply) — Raydar, London, UK, SF, Austin, TX, Remote in USA, Remote in Canada · posted 2026-10-29
+- [AI Agent Product Specialist](https://jobs.lever.co/regal.ai/6ede46c2-86ca-42a6-a645-322c3bcdbb4a/apply) — Regal, NYC · posted 2026-08-11
+- [2027 Summer Intern IT & Systems (IOPS)](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822) — Regeneron, RENSSELAER · posted 2026-10-28
+- [IT and Systems Intern - Industrial Operations and Product Supply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822) — Regeneron Pharmaceuticals, Rensselaer, NY · posted 2026-10-28
+- [Insurance Technology & AI Analytics Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539) — Revantage Corporate Services, Dallas, TX, Chicago, IL · posted 2026-10-28
+- [Engineer Intern Co-op - ML Compilers](https://careers.rivian.com/jobs/33829?icims=1) — Rivian, Palo Alto, CA · posted 2026-10-01
+- [Engineering Intern - ML Compilers (Spring 2027 Co-op)](https://us-careers-rivian.icims.com/jobs/33829/login) — Rivian, Palo Alto, California · posted 2026-09-30
+- [Engineering Intern - Machine Learning Hardware (Spring 2027 Co-op)](https://us-careers-rivian.icims.com/jobs/33820/login) — Rivian, Palo Alto, California · posted 2026-09-30
+- [Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)](https://us-careers-rivian.icims.com/jobs/33800/login) — Rivian, Normal, Illinois · posted 2026-09-18
+- [Engineering Intern Co-op - Machine Learning Hardware](https://careers.rivian.com/jobs/33820?icims=1) — Rivian, Palo Alto, CA · posted 2026-09-30
+- [Supply Chain Data, AI and Business Intelligence Co-op Intern](https://careers.rivian.com/jobs/33800?icims=1) — Rivian, Normal, IL · posted 2026-09-18
+- [AI Research Intern: Wireless Foundation Models](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) — Robert Bosch Venture Capital, Pittsburgh, PA · posted 2026-10-19
+- [Agentic AI Intern](https://jobs.smartrecruiters.com/BoschGroup/744000157483412) — Robert Bosch Venture Capital, Sunnyvale, CA · posted 2026-10-23
+- [Business Digitalisation & AI Automation Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154478885) — Robert Bosch Venture Capital, Denham, UK · posted 2026-10-08
+- [Graduate AI & Automation Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000159172560) — Robert Bosch Venture Capital, Nuneaton, UK · posted 2026-11-02
+- [Product Management AI-Tool Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) — Robert Bosch Venture Capital, Farmington Hills, MI · posted 2026-09-09
+- [AI Resident](https://job-boards.greenhouse.io/roboforce/jobs/5459229008) — RoboForce, Milpitas, CA · posted 2026-10-21
+- [Information Technology Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-1) — Rockwell Automation, Milwaukee, WI · posted 2026-09-01
+- [Information Technology Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) — Rockwell Automation, Milwaukee, WI · posted 2026-09-01
+- [Intern, Information Technology](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) — Rockwell Automation, Milwaukee, Wisconsin, United States · posted 2026-10-13
+- [AI Solutions Co-op](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) — Rodan Energy Solutions, Mississauga, ON, Canada · posted 2026-09-21
+- [Data Operations Engineer AI Co-op - Winter 2027](https://rodanenergysolutionsinc.applytojob.com/apply/baC6tVrSpB/Data-Operations-Engineer-AI-Coop-Student-Winter-2027) — Rodan Energy Solutions, Mississauga, ON, Canada · posted 2026-09-21
+- [AI Accelerator Design Verification Engineer Intern](https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab/apply) — RosaicLabs, Austin, TX, Santa Clara, CA · posted 2026-10-28
+- [Machine Learning Operations Engineer I](https://spgi.wd5.myworkdayjobs.com/Spgi_Careers/job/Cambridge-MA/ML-Ops-Engineer-II_330647-1) — S&P Global, 2 Locations · posted 2026-10-15
+- [Automation Engineer Junior](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618696) — SAIC, Ashburn, VA, United States · posted 2026-11-02
+- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) — Salesforce, Seattle, WA, SF, NYC · posted 2026-10-16
+- [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Salesforce, Seattle, WA, SF, NYC · posted 2026-10-16
+- [AI Labs Summer Internship, Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248) — Salesforce, 2 Locations · posted 2026-10-30
+- [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) — Salesforce, Palo Alto, CA · posted 2026-10-20
+- [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) — Salesforce, Palo Alto, CA · posted 2026-10-20
+- [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — SambaNova Systems, Austin, TX, San Jose, CA · posted 2026-10-20
+- [AI Application Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) — Samsung, San Jose, CA · posted 2026-11-02
+- [Agentic AI Solutions Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002) — Samsung Research America, Mountain View, CA · posted 2026-11-03
+- [Generative AI based Imaging and Video R&D Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) — Samsung Research America, Plano, TX · posted 2026-11-03
+- [Health AI Scholar Intern - Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) — Samsung Research America, Mountain View, CA · posted 2026-10-27
+- [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true) — Saronic, Austin, TX · posted 2026-09-09
+- [Enterprise Technology Intern - AI and Automation (Summer 2027)](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1) — Saronic, Austin, TX · posted 2026-09-09
+- [Information Technology Intern (Summer 2027)](https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f) — Saronic, Austin, TX · posted 2026-09-09
+- [Machine Learning Research Intern](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) — Scale AI, SF, NYC · posted 2026-10-19
+- [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) — Scale AI, New York, NY; San Francisco, CA · posted 2026-10-19
+- [AI Quality & Continuous Improvement Intern](https://se.jibeapply.com/jobs/136783?icims=1) — Schneider Electric, Foxborough, MA · posted 2026-10-16
+- [AI Enablement Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) — Schonfeld, NYC · posted 2026-10-28
+- [Perception Engineer - Multimodal & Embodied AI](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true) — Shield AI, San Diego, CA · posted 2026-10-09
+- [Associate Consultant - Generative AI](https://jobs.smartrecruiters.com/Sia/744000148302879) — Sia Partners, NYC · posted 2026-09-08
+- [IT Service Desk Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251) — Sierra Nevada Corporation, Lone Tree, CO · posted 2026-10-27
+- [IT Service Desk Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762) — Sierra Nevada Corporation, Lone Tree, CO · posted 2026-10-27
+- [IT Support Technician Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Vandalia-OH/IT-Support-Technician-Intern_R0031330) — Sierra Nevada Corporation, Vandalia, OH · posted 2026-11-03
+- [IT Support Technician Intern (Summer 2026)](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/IT-Support-Technician-Intern--Summer-2026-_R0030765) — Sierra Nevada Corporation, Sparks, NV · posted 30+ days ago
+- [AI Deployment Analyst](https://jobs.ashbyhq.com/silnahealth.com/8ed75986-4032-425b-b82a-fa6010a18656/application?embed=true) — Silna Health, NYC · posted 2026-09-08
+- [Computer Vision / Applied AI Intern](https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply) — Simbe Robotics, Burlingame, CA · posted 2026-10-23
+- [Junior IT Support Engineer](https://job-boards.greenhouse.io/skildai-careers/jobs/5464102008) — Skild AI, San Mateo, CA · posted 2026-10-26
+- [Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true) — Skydio, San Mateo, CA · posted 2026-09-04
+- [Autonomy Engineer Intern - Deep Learning / Computer Vision](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) — Skydio, San Mateo, CA · posted 2026-10-25
+- [Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) — Skydio, San Mateo, California, United States · posted 2026-09-03
+- [AI Research Scientist New Grad - Agents & Reinforcement Learning](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application) — Snowflake, Bellevue, WA · posted 2026-06-17
+- [AI Research Scientist, New Grad – Agents & Reinforcement Learning](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) — Snowflake, US-WA-Bellevue · posted 2026-09-03
+- [Research Engineer Intern - Ethical Creative and Protective AI Lab](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) — Sony, Connecticut, Florida, Virginia, NYC, Massachusetts, New Jersey, Michigan · posted 2026-10-20
+- [IT Analyst Co-op](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255) — Standard Aero, Cincinnati, OH · posted 2026-10-09
+- [IT Analyst Intern](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) — Standard Aero, Cincinnati, OH · posted 2026-10-09
+- [AI Intern](https://boards.greenhouse.io/embed/job_app?token=8096268) — StepStone Group, La Jolla, San Diego, CA · posted 2026-08-03
+- [Junior Analyst - AI Solutions - R&D & Coding](https://boards.greenhouse.io/embed/job_app?token=8171272) — StepStone Group, La Jolla, San Diego, CA · posted 2026-09-08
+- [AI Research Assistant - Machine Learning & AI](https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a) — StudyFetch, Beverly Hills, CA · posted 2026-08-20
+- [Co-op- Machine Learning Ops](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327) — Symbotic, USA Wilmington,  MA - HQ · posted 2026-10-22
+- [Intern- Machine Learning Ops](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning-Ops_R8202) — Symbotic, USA Wilmington,  MA - HQ · posted 2026-10-08
+- [Machine Learning Operations Intern](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning-Ops_R8202) — Symbotic, Wilmington, MA · posted 2026-10-08
+- [Machine Learning Ops Co-op](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327) — Symbotic, Wilmington, MA · posted 2026-10-22
+- [IT Engineer Intern](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/IT-Engineer-Placement_REQ156551) — TJX, Watford, UK · posted 2026-10-12
+- [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) — TMEIC, Roanoke, VA · posted 2026-05-01
+- [Generative AI Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261) — Tencent, London, UK · posted 2026-10-20
+- [Generative AI Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1) — Tencent, London, UK · posted 2026-10-20
+- [Hardware Intern - AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) — Tenstorrent, Toronto, ON, Canada, Ottawa, ON, Canada · posted 2026-10-06
+- [Hardware Intern - Architecture - AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) — Tenstorrent, Boston, MA, Austin, TX, Santa Clara, CA, Fort Collins, CO · posted 2026-10-07
+- [AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI](https://www.tesla.com/careers/search/job/285088) — Tesla, Palo Alto, CA, Austin, TX · posted 2026-09-29
+- [AI Hardware Physical Design Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/281233) — Tesla, Palo Alto, CA, Austin, TX, Fort Collins, CO · posted 2026-08-26
+- [AI Hardware RTL Design Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/285089) — Tesla, Palo Alto, CA, Austin, TX · posted 2026-09-29
+- [AI Hardware Signal & Power Integrity Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/285120) — Tesla, Palo Alto, CA, Austin, TX · posted 2026-09-29
+- [Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027](https://www.tesla.com/careers/search/job/286986) — Tesla, Fremont, CA · posted 2026-10-18
+- [Computer Vision Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/283290) — Tesla, Palo Alto, CA · posted 2026-09-15
+- [Data Labeler - Tesla AI](https://www.tesla.com/careers/search/job/279543) — Tesla, Tempe, AZ · posted 2026-08-07
+- [Internship - System Integration & Test Automation Engineer - Energy Engineering - Winter/Spring 2027](https://www.tesla.com/careers/search/job/284026) — Tesla, Palo Alto, CA · posted 2026-09-18
+- [RL Engineer Intern - RL Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275494) — Tesla, Palo Alto, CA · posted 2026-07-01
+- [Silicon Validation Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/284821) — Tesla, Palo Alto, CA · posted 2026-09-26
+- [System Integration and Test Automation Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283396) — Tesla, Palo Alto, CA · posted 2026-09-14
+- [2027 Information Technology Intern (Clark)](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018737) — Texas Instruments, Philippines · posted 2026-10-15
+- [2027 Intake Information Technology Intern (6 Months Internship Duration)](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012715) — Texas Instruments, Melaka, Malaysia · posted 2026-10-14
+- [BLE System Test DevOps Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014492) — Texas Instruments, Ra'anana, Israel · posted 2026-10-28
+- [Facilities Controls and Automation Engineering Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017815) — Texas Instruments, Dallas, TX, United States · posted 2026-09-08
+- [Information Technology Intern – Security](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017626) — Texas Instruments, Dallas, TX, United States · posted 2026-09-15
+- [Information Systems Quality Intern - Quality Systems Information Technology](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983) — Textron, Mirabel, QC, Canada · posted 2026-07-27
+- [Information Technology Intern - Information Technology](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) — Textron, Mirabel, QC, Canada · posted 2026-11-02
+- [Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165) — Textron, Mirabel, QC, Canada · posted 2026-06-18
+- [AI Researcher Apprentice - Level 6 Machine Learning](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-AI-Researcher-Apprentice---Level-6-Machine-Learning_R0337756-1) — Thales, Crawley, UK · posted 2026-10-05
+- [Research Intern - AI for Science](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615) — The Allen Institute for AI, Seattle, WA · posted 2026-10-19
+- [AI / Automation Intern](https://thecarycompany.applytojob.com/apply/1gRuFg1wIp/AI-Automation-Intern) — The Cary Company, Addison, IL · posted 2026-08-03
+- [AI Initiatives Fellow](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005) — The New York Times, NYC · posted 2026-10-20
+- [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) — The Nuclear Company, Washington, DC · posted 2026-08-14
+- [IT Business Analyst Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) — The Toro Company, Perry, OK · posted 2026-10-13
+- [2027 IT & Digital Internship](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217) — Thermo Fisher, 4 Locations · posted 2026-11-03
+- [Applied Research Intern - NLP/ML/GenAI](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) — Thomson Reuters, Toronto, ON, Canada · posted 2026-08-17
+- [AI Agent Development Project Intern](https://lifeattiktok.com/search/7540063663148747026) — TikTok, Seattle, WA · posted 2026-06-15
+- [AI Product Operations Intern](https://lifeattiktok.com/search/7670420017544251701) — TikTok, San Jose, CA · posted 2026-08-06
+- [Applied Scientist Intern - Recommendation AI Lab](https://lifeattiktok.com/search/7659527183984019765) — TikTok, San Jose, CA · posted 2026-07-07
+- [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) — TikTok, San Jose, CA · posted 2026-08-03
+- [Graduate Research Scientist - Tiktok Recommendation-Agentic AI](https://lifeattiktok.com/search/7523144222812408071) — TikTok, San Jose, CA · posted 2026-06-15
+- [Machine Learning Scientist Graduate - Trust and Safety](https://lifeattiktok.com/search/7665985896410368261) — TikTok, Seattle, WA · posted 2026-08-04
+- [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) — TikTok, San Jose, CA · posted 2026-08-03
+- [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) — TikTok, San Jose, CA · posted 2026-08-03
+- [Machine Learning Scientist Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7525650208522193159) — TikTok, Seattle, WA · posted 2026-03-31
+- [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) — TikTok, San Jose, CA · posted 2026-08-03
+- [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) — TikTok, San Jose, CA · posted 2026-08-03
+- [Machine Learning Scientist New Grad - Trust and Safety](https://lifeattiktok.com/search/7665989163791403269) — TikTok, San Jose, CA · posted 2026-08-03
+- [Multimodal Generative AI Research Scientist - Intelligent Creation](https://lifeattiktok.com/search/7668206857737455877) — TikTok, Seattle, WA · posted 2026-08-07
+- [Research Scientist - Generative AI - Tiktok Search](https://lifeattiktok.com/search/7628321017978767621) — TikTok, San Jose, CA · posted 2026-04-17
+- [Research Scientist - Multimodal Generative AI - Intelligent Creation](https://lifeattiktok.com/search/7631001669631789365) — TikTok, San Jose, CA · posted 2026-04-23
+- [Research Scientist Graduate - Conversational AI](https://lifeattiktok.com/search/7670681152383813893) — TikTok, Seattle, WA · posted 2026-08-29
+- [Research Scientist Graduate - Intelligent Editing and AI Agent - Multimodality](https://lifeattiktok.com/search/7631002754433665333) — TikTok, San Jose, CA · posted 2026-04-28
+- [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) — TikTok, San Jose, CA · posted 2026-04-17
+- [Research Scientist New Grad - Conversational AI](https://lifeattiktok.com/search/7670685496821713205) — TikTok, San Jose, CA · posted 2026-10-09
+- [Research Scientist in Generative AI - Intelligent Creation](https://lifeattiktok.com/search/7517442299329300754) — TikTok, San Jose, CA · posted 2026-06-15
+- [AI Automation & Revenue Ops Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007) — Toshiba Global Commerce Solutions, Durham, NC · posted 2026-11-02
+- [Machine Learning Intern](https://www.tower-research.com/open-positions/?gh_jid=7077280) — Tower Research Capital, Montreal, QC, Canada · posted 2026-10-15
+- [Human-Centered AI Research Intern - Causal Reasoning Models](https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply) — Toyota Research Institute, Los Altos, CA · posted 2026-09-17
+- [Machine Learning/Agentic AI Intern](https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495/apply) — Toyota Research Institute, Cambridge, MA · posted 2026-10-30
+- [AI & Analytics Intern](https://careers.tranetechnologies.com/global/en/job/JR-7591) — Trane Technologies, Minneapolis, MN, Davidson, NC · posted 2026-09-01
+- [Innovation & AI Technology Intern](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) — TruStage, Madison, WI · posted 2026-11-03
+- [Machine Learning Postdoctoral Researcher - Healthcare AI Innovation](https://job-boards.greenhouse.io/truveta/jobs/5978375004) — Truveta, Seattle, WA · posted 2026-04-22
+- [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) — Two Sigma, NYC · posted 2026-08-02
+- [IT Product Owner 1](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-2) — Tyson Foods, Springdale, AR · posted 2026-09-03
+- [AI Product Intern](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) — USAFacts, Bellevue, WA · posted 2026-11-03
+- [Cosmos Graduate Research Assistant - ML/AI](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896) — University of Arkansas, Little Rock, AR · posted 2026-03-18
+- [Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) — University of Texas at Austin, Austin, TX · posted 2026-10-16
+- [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) — Upstart, Remote in USA · posted 2026-08-04
+- [AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072) — VSP Vision, Remote in USA · posted 2026-10-30
+- [College to Corporate IT Intern - Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) — Vanguard, Malvern, PA · posted 2026-10-02
+- [Data Analyst Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) — Vanguard, Charlotte, NC · posted 2026-08-20
+- [IT Intern Application Development](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) — Vanguard, Charlotte, NC · posted 2026-10-02
+- [AI Research Intern](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) — Vatic Investments, NYC · posted 2026-11-03
+- [AI & Automation Engineering Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101) — Veeam Software, Georgia · posted 2026-09-11
+- [Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) — Veeam Software, Columbus, OH · posted 2026-09-11
+- [Machine Learning Intern - AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) — Veeam Software, San Jose, CA · posted 2026-09-11
+- [IT Systems Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) — Vertiv, Westerville, OH · posted 2026-08-12
+- [Business Strategy Intern, Data and AI Team - Summer 2027](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2) — Visa, US - Foster City, CA · posted 2026-10-27
+- [Product Management Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) — Visa, Foster City, CA · posted 2026-10-27
+- [Product Management Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W) — Visa, Foster City, CA · posted 2026-10-27
+- [Product Management Intern, Data and AI Team - Summer 2027](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) — Visa, US - Foster City, CA · posted 2026-10-27
+- [Computer Science Co-op](https://apply.workable.com/waterworth/j/D450C48C96/apply) — Waterworth, Victoria, BC, Canada · posted 2026-10-29
+- [Microsoft Copilot AI Co-op](https://wavelifesciences.com/jobs?gh_jid=4409054009) — Wave Life Sciences USA, Lexington, MA · posted 2026-09-18
+- [Information Technology Development Intern](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) — Wawa, Media, PA · posted 2026-10-09
+- [2027 Summer Intern - AI Foundations - Recipes](https://careers.withwaymo.com/jobs?gh_jid=8306841) — Waymo, Mountain View, CA · posted 2026-10-22
+- [Machine Learning Intern - Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) — Waymo, Mountain View, CA · posted 2026-09-16
+- [Machine Learning Intern - Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8279620) — Waymo, Mountain View, CA · posted 2026-10-13
+- [Machine Learning Intern - Simulation & Closed-Loop Training](https://careers.withwaymo.com/jobs?gh_jid=8283558) — Waymo, Mountain View, CA · posted 2026-10-19
+- [Machine Learning Research Intern - Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8237997) — Waymo, Mountain View, CA · posted 2026-09-28
+- [Planner Machine Learning Intern](https://careers.withwaymo.com/jobs?gh_jid=8234876) — Waymo, SF · posted 2026-09-29
+- [Summer Intern - Machine Learning - Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8262154) — Waymo, Mountain View, CA · posted 2026-10-08
+- [Engineer – AI Delivery - High-potential program](https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-(high-potential-program)-NC/1436332800/?ats=successfactors) — Westinghouse Electric Company, Cranberry Township, PA · posted 2026-10-02
+- [Agentic AI Development Intern](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) — William Blair, Chicago, IL · posted 2026-09-22
+- [AI Solutions Analyst](https://jobs.lever.co/wisdomtree/621718c3-779f-4e9c-9681-be75dafc427e/apply) — WisdomTree, NYC · posted 2026-09-03
+- [AI Research Intern - Predictive World Model](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002) — XPENG Motors, Santa Clara, CA · posted 2026-09-18
+- [AI Scientist Intern, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) — Xaira, Seattle, Washington, United States; South San Francisco, California, United States · posted 2026-08-28
+- [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) — Yotta Labs, Remote in USA, Remote in Canada · posted 2026-08-02
+- [Intern - AI](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) — Zebra Technologies, Lincolnshire, IL · posted 2026-11-02
+- [Machine Learning Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) — onepot, South SF · posted 2026-11-03
+- [Semiconductor AI Specialist Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918) — onsemi, Gresham, OR · posted 2026-10-14
