@@ -2739,3 +2739,11 @@
 - Lockheed Martin - Systems Engineer (Modeling & Simulation) - Intern (Camden, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477362267 · posted 2026-10-21
 - Shield AI - Software Engineer 1 New Grad - Software - Factory Team (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true · posted 2026-10-12
 - Nooks - Software Engineer (SF) https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3/application?embed=true · posted 2026-05-15
+- Citi - Technology - Infrastructure, Summer Analyst, Hungary - Budapest, 2027 (Budapest  Hungary) https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Technology---Infrastructure--Summer-Analyst--Hungary---Budapest--2027_261006351 · posted 2026-11-04
+- GE Aerospace - Data Science Intern (Bengaluru) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Data-Science-Intern_R5040691-1 · posted 2026-11-04
+- University Corporation for Atmospheric Research - Data Science Student Assistant 3 Intern (Boulder, CO) https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1 · posted 2026-10-28
+- Westinghouse Electric Company - System Test Engineering Intern (Warrendale, PA) https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/?ats=successfactors · posted 2026-10-16
+- Roku - AI Engineering Intern (Manchester, UK) https://www.weareroku.com/jobs/8345954?gh_jid=8345954 · posted 2026-11-04
+- Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016610216 · posted 2026-10-15
+- ShadowDragon - Junior AI/Machine Learning Engineer (Remote in USA, Hoover, AL) https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c · posted 2026-11-04
+- MSA Safety - Embedded Software Engineer (Cranberry Township, PA) https://careers.msasafety.com/jobs/10038?icims=1 · posted 2026-08-14
