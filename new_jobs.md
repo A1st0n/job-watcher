@@ -2800,3 +2800,6 @@
 - Lockheed Martin - Systems Engineering Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477461635 · posted 2026-11-02
 - Lockheed Martin - Software Engineer (Embedded) Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477461772 · posted 2026-11-02
 - Booz Allen - University, AI RAN Telecommunications Engineer Intern (McLean, VA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024 · posted 2026-11-04
+- Lockheed Martin - Mechanical Test Engineer-INTERN (Cape Canaveral, FL) https://lockheedmartin.eightfold.ai/careers/job/996477635652 · posted 2026-11-03
+- Lockheed Martin - Java Software Developer-INTERN (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477760376 · posted 2026-11-03
+- Lockheed Martin - Radar Systems Engineer - Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477761058 · posted 2026-11-03
