@@ -2736,3 +2736,4 @@
 - Lockheed Martin - Embedded Software Engineer Intern - Summer 2027 (Huntsville, AL, Sunnyvale, CA, Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477363529 · posted 2026-11-03
 - Lockheed Martin - Technical Co-op I: Software Development Intern (Calgary, CAN) https://lockheedmartin.eightfold.ai/careers/job/996477136451 · posted 2026-10-07
 - Lockheed Martin - Systems Engineering Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477077344 · posted 2026-11-02
+- Lockheed Martin - Systems Engineer (Modeling & Simulation) - Intern (Camden, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477362267 · posted 2026-10-21
