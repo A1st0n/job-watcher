@@ -2795,3 +2795,4 @@
 - Microsoft - Research Intern - Machine Learning and Optimization - Redmond (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557049981 · posted 2026-10-28
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472018 · posted 2026-10-28
 - Northrop Grumman - 2027 Spring Co-op Software Engineer Intern – McClellan CA (United States-California-McClellan) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329 · posted 2026-11-04
+- Lockheed Martin - sUAS/Drone Software Engineer - Intern (San Luis Obispo, CA) https://lockheedmartin.eightfold.ai/careers/job/996477676855 · posted 2026-10-30
