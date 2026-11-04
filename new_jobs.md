@@ -2796,3 +2796,7 @@
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472018 · posted 2026-10-28
 - Northrop Grumman - 2027 Spring Co-op Software Engineer Intern – McClellan CA (United States-California-McClellan) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329 · posted 2026-11-04
 - Lockheed Martin - sUAS/Drone Software Engineer - Intern (San Luis Obispo, CA) https://lockheedmartin.eightfold.ai/careers/job/996477676855 · posted 2026-10-30
+- Lockheed Martin - Mechanical Test Engineer-INTERN (Cape Canaveral, FL) https://lockheedmartin.eightfold.ai/careers/job/996477404316 · posted 2026-11-02
+- Lockheed Martin - Systems Engineering Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477461635 · posted 2026-11-02
+- Lockheed Martin - Software Engineer (Embedded) Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477461772 · posted 2026-11-02
+- Booz Allen - University, AI RAN Telecommunications Engineer Intern (McLean, VA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024 · posted 2026-11-04
