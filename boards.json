@@ -49,8 +49,8 @@
  "Uber": null,
  "Intuit": null,
  "Qualcomm": [
-  "workday",
-  "qualcomm.wd12/External"
+  "eightfold",
+  "qualcomm.eightfold.ai|qualcomm.com"
  ],
  "Dell": [
   "oracle",
@@ -60,7 +60,10 @@
   "workday",
   "hp.wd5/ExternalCareerSite"
  ],
- "AMD": null,
+ "AMD": [
+  "jibe",
+  "careers.amd.com"
+ ],
  "Micron": [
   "workday",
   "micron.wd1/External"
@@ -93,10 +96,13 @@
   "greenhouse",
   "doordashusa"
  ],
- "Booking": null,
+ "Booking": [
+  "jibe",
+  "jobs.booking.com"
+ ],
  "Visa": [
-  "smartrecruiters",
-  "Visa"
+  "workday",
+  "visa.wd5/Visa"
  ],
  "Mastercard": [
   "workday",
@@ -154,7 +160,10 @@
   "workday",
   "boeing.wd1/EXTERNAL_CAREERS"
  ],
- "Lockheed Martin": null,
+ "Lockheed Martin": [
+  "eightfold",
+  "lockheedmartin.eightfold.ai|lockheedmartin.com"
+ ],
  "Northrop Grumman": [
   "workday",
   "ngc.wd1/Northrop_Grumman_External_Site"
@@ -171,7 +180,10 @@
   "workday",
   "tmobile.wd1/External"
  ],
- "Comcast": null,
+ "Comcast": [
+  "workday",
+  "comcast.wd115/Comcast_Careers"
+ ],
  "eBay": [
   "workday",
   "ebay.wd5/apply"
@@ -189,7 +201,10 @@
   "smartrecruiters",
   "WesternDigital"
  ],
- "Lam Research": null,
+ "Lam Research": [
+  "eightfold",
+  "lamresearch.eightfold.ai|lamresearch.com"
+ ],
  "KLA": [
   "workday",
   "kla.wd1/Search"
@@ -313,7 +328,10 @@
   "workday",
   "att.wd1/ATTGeneral"
  ],
- "Schwab": null,
+ "Schwab": [
+  "icims",
+  "career-schwab.icims.com"
+ ],
  "PNC": [
   "workday",
   "pnc.wd5/External"
@@ -330,7 +348,10 @@
   "workday",
   "synchronyfinancial.wd5/careers"
  ],
- "Ally": null,
+ "Ally": [
+  "workday",
+  "ally.wd1/Ally"
+ ],
  "Fannie Mae": [
   "workday",
   "fanniemae.wd1/FannieMaeCareers"
@@ -344,7 +365,10 @@
   "workday",
   "allstate.wd5/allstate_careers"
  ],
- "State Farm": null,
+ "State Farm": [
+  "jibe",
+  "jobs.statefarm.com"
+ ],
  "USAA": [
   "workday",
   "usaa.wd1/USAAJOBSWD"
@@ -524,7 +548,10 @@
   "ashby",
   "cerebras"
  ],
- "Groq": null,
+ "Groq": [
+  "gem",
+  "groq"
+ ],
  "Lambda Labs": [
   "ashby",
   "lambda"
@@ -782,8 +809,14 @@
   "greenhouse",
   "eudia"
  ],
- "Spellbook": null,
- "Rox": null,
+ "Spellbook": [
+  "ashby",
+  "spellbook.com"
+ ],
+ "Rox": [
+  "ashby",
+  "Rox-Data-Corp"
+ ],
  "11x": null,
  "Fal": [
   "ashby",
@@ -799,7 +832,7 @@
  ],
  "Weka": null,
  "Anyscale": [
-  "lever",
+  "ashby",
   "anyscale"
  ],
  "LlamaIndex": [
@@ -905,7 +938,10 @@
   "greenhouse",
   "endorlabs"
  ],
- "Aikido": null,
+ "Aikido": [
+  "recruitee",
+  "aikidosecurity"
+ ],
  "Torq": [
   "greenhouse",
   "torq"
@@ -919,7 +955,10 @@
   "ashby",
   "sardine"
  ],
- "Bilt": null,
+ "Bilt": [
+  "gem",
+  "bilt"
+ ],
  "Whatnot": null,
  "OpenEvidence": [
   "ashby",
@@ -959,7 +998,10 @@
   "xairatherapeutics"
  ],
  "Zenity": null,
- "7AI": null,
+ "7AI": [
+  "ashby",
+  "sevenai"
+ ],
  "Unify": [
   "ashby",
   "unify"
@@ -972,7 +1014,10 @@
   "ashby",
   "speak"
  ],
- "Captions": null,
+ "Captions": [
+  "ashby",
+  "mirage"
+ ],
  "Mem0": [
   "ashby",
   "mem0"
@@ -989,7 +1034,10 @@
   "ashby",
   "exa"
  ],
- "Rivian": null,
+ "Rivian": [
+  "jibe",
+  "careers.rivian.com"
+ ],
  "Lucid": [
   "greenhouse",
   "lucidmotors"
@@ -1590,7 +1638,10 @@
   "vitalize"
  ],
  "Ambi": null,
- "Reach Security": null,
+ "Reach Security": [
+  "ashby",
+  "reach"
+ ],
  "Albert Invent": null,
  "Mistlabs": null,
  "Healthleap": [
@@ -1746,7 +1797,10 @@
   "blacksmith"
  ],
  "Mueon": null,
- "North.cloud": null,
+ "North.cloud": [
+  "rippling",
+  "north-cloud"
+ ],
  "Harmonic Security": null,
  "Sirona Medical": [
   "greenhouse",
@@ -1767,7 +1821,10 @@
   "tamr"
  ],
  "AuxoAI": null,
- "Longeye": null,
+ "Longeye": [
+  "rippling",
+  "longeye"
+ ],
  "SuperMe": null,
  "Ultra Security": null,
  "Chariot Claims": [
@@ -1821,7 +1878,10 @@
  ],
  "Firehawk Aerospace": null,
  "BridgePhase": null,
- "Sev1Tech": null,
+ "Sev1Tech": [
+  "icims",
+  "careers-sev1tech.icims.com"
+ ],
  "Emerge Tek": null,
  "Unissant": null,
  "Modulate Space": null,
@@ -1844,7 +1904,13 @@
   "northwoodspace"
  ],
  "Numeracle": null,
- "Peraton": null,
+ "Peraton": [
+  "icims",
+  "careers-peraton.icims.com"
+ ],
  "ManTech": null,
- "Accenture Federal": null
+ "Accenture Federal": [
+  "greenhouse",
+  "accenturefederalservices"
+ ]
 }

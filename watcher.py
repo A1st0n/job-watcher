@@ -3,7 +3,7 @@
 
 Run with --dry-run to print instead of email. State lives next to this file.
 """
-import json, os, re, smtplib, subprocess, sys, time, urllib.request
+import html, json, os, random, re, smtplib, subprocess, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from email.message import EmailMessage
 from pathlib import Path
@@ -26,12 +26,18 @@ LEVEL = re.compile(r"\bintern(ship)?\b|co-?op|new grad|graduate|early career|ent
 SENIOR = re.compile(r"senior|\bsr\.?\b|staff|principal|manager|director|\blead\b|\bphd\b", re.I)
 
 
-def get(url):
+def get(url, retry=True):
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "job-watcher"}), timeout=20) as r:
+        with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "job-watcher"}), timeout=40) as r:
             return json.load(r)
-    except Exception:
-        return None
+    except urllib.error.HTTPError as e:
+        if e.code == 429 and retry:  # rate limited: back off once
+            time.sleep(10)
+            return get(url, False)
+        print(f"fetch failed: HTTP {e.code} {url[:120]}")
+    except Exception as e:
+        print(f"fetch failed: {type(e).__name__} {url[:120]}")
+    return None
 
 
 def slugs(name):
@@ -63,13 +69,17 @@ QUERIES = ["software intern", "software engineer new grad", "university graduate
            "embedded intern", "engineering intern"]
 
 
-def post(url, body):
+def post(url, body, tries=3):
     try:
         req = urllib.request.Request(url, data=json.dumps(body).encode(), headers={
             "Content-Type": "application/json", "Accept": "application/json", "User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=20) as r:
+        with urllib.request.urlopen(req, timeout=40) as r:
             return json.load(r)
-    except Exception:
+    except Exception as e:
+        if getattr(e, "code", 0) == 429 and tries > 1:  # Workday throttles per IP; jitter so threads don't retry in lockstep
+            time.sleep(random.uniform(5, 20))
+            return post(url, body, tries - 1)
+        print(f"fetch failed: {getattr(e, 'code', type(e).__name__)} {url[:120]}")
         return None
 
 
@@ -97,14 +107,17 @@ def board_jobs(company, ats, s):
     if ats == "workday":  # s = "tenant.wdN/Site"; search is relevance-ranked, so ask targeted queries
         host, site = s.split("/")
         for q in QUERIES:
-            for j in (post(f"https://{host}.myworkdayjobs.com/wday/cxs/{host.split('.')[0]}/{site}/jobs",
-                           {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": q}) or {}).get("jobPostings", []):
-                if not j.get("externalPath"):
-                    continue
-                yield f"wd:{host}:{j['externalPath']}", j.get("title", ""), j.get("locationsText", ""), \
-                    f"https://{host}.myworkdayjobs.com/{site}{j['externalPath']}", day(j.get("postedOn"))
+            for off in range(0, 60, 20):  # ponytail: 3 pages per query; relevance-ranked, so deeper pages are noise
+                page = (post(f"https://{host}.myworkdayjobs.com/wday/cxs/{host.split('.')[0]}/{site}/jobs",
+                             {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": q}) or {}).get("jobPostings", [])
+                for j in page:
+                    if j.get("externalPath"):
+                        yield f"wd:{host}:{j['externalPath']}", j.get("title", ""), j.get("locationsText", ""), \
+                            f"https://{host}.myworkdayjobs.com/{site}{j['externalPath']}", day(j.get("postedOn"))
+                if len(page) < 20:
+                    break
     elif ats == "smartrecruiters":
-        for q in ("intern", "graduate"):
+        for q in ("intern", "graduate", "co-op", "early%20career"):
             for j in (get(f"https://api.smartrecruiters.com/v1/companies/{s}/postings?q={q}&limit=100") or {}).get("content", []):
                 loc = j.get("location") or {}
                 yield f"sr:{s}:{j['id']}", j["name"], ", ".join(filter(None, [loc.get("city"), loc.get("region")])), \
@@ -118,10 +131,10 @@ def board_jobs(company, ats, s):
         host, dom = s.split("|")
         for q in ("intern", "new grad", "university"):
             q = q.replace(' ', '%20')
-            r = get(f"https://{host}/api/apply/v2/jobs?domain={dom}&query={q}&num=50") or {}
-            # newer Eightfold sites only answer the pcsx API (10 per page, enough for these narrow queries)
-            for j in r.get("positions") or ((get(f"https://{host}/api/pcsx/search?domain={dom}&query={q}&start=0") or {})
-                                            .get("data") or {}).get("positions", []):
+            # newer sites only answer pcsx (10 per page, enough for narrow queries); older ones only v2
+            r = (get(f"https://{host}/api/pcsx/search?domain={dom}&query={q}&start=0") or {}).get("data") \
+                or get(f"https://{host}/api/apply/v2/jobs?domain={dom}&query={q}&num=50") or {}
+            for j in r.get("positions") or []:
                 yield f"ef:{dom}:{j['id']}", j["name"], j.get("location") or ", ".join(j.get("locations", [])), \
                     j.get("canonicalPositionUrl") or f"https://{host}/careers/job/{j['id']}", day(j.get("t_create") or j.get("postedTs"))
     elif ats == "oracle":  # Oracle Recruiting Cloud; s = "host|siteNumber"
@@ -168,6 +181,33 @@ def board_jobs(company, ats, s):
         for j in get(f"https://api.lever.co/v0/postings/{s}?mode=json") or []:
             yield f"lv:{s}:{j['id']}", j["text"], (j.get("categories") or {}).get("location", ""), j["hostedUrl"], \
                 day(j.get("createdAt"))
+    elif ats == "jibe":  # s = careers host (careers.amd.com); Jibe sites front iCIMS/Workday with a JSON search API
+        for q in ("intern", "new grad", "university", "early career"):
+            for j in (get(f"https://{s}/api/jobs?keywords={q.replace(' ', '%20')}&limit=100") or {}).get("jobs", []):
+                j = j["data"]
+                yield f"jb:{s}:{j['req_id']}", j["title"], j.get("full_location") or j.get("location_name", ""), \
+                    j.get("apply_url") or f"https://{s}/jobs/{j['slug']}", day(j.get("posted_date"))
+    elif ats == "icims":  # s = careers-x.icims.com; no API, so read the search page's job links
+        for q in ("intern", "new grad", "university", "co-op"):
+            try:
+                with urllib.request.urlopen(urllib.request.Request(f"https://{s}/jobs/search?ss=1&searchKeyword={q.replace(' ', '%20')}&in_iframe=1",
+                                                                   headers={"User-Agent": "Mozilla/5.0"}), timeout=40) as r:
+                    page = r.read().decode("utf-8", "ignore")
+            except Exception as e:
+                print(f"fetch failed: {type(e).__name__} {s}")
+                continue
+            for u, jid, t in re.findall(r'href="(https://[^"]+/jobs/(\d+)/[^"]+/job)[^"]*" class="iCIMS_Anchor" title="\d+ - ([^"]*)"', page):
+                yield f"ic:{s}:{jid}", html.unescape(t), "", u, None
+    elif ats == "gem":
+        for j in get(f"https://api.gem.com/job_board/v0/{s}/job_posts/") or []:
+            yield f"gm:{s}:{j['id']}", j["title"], (j.get("location") or {}).get("name", ""), j["absolute_url"], \
+                (j.get("first_published_at") or "")[:10] or None
+    elif ats == "rippling":  # ponytail: first page only (small startup boards); page through if one outgrows it
+        for j in (get(f"https://ats.rippling.com/api/v2/board/{s}/jobs") or {}).get("items", []):
+            yield f"rp:{s}:{j['id']}", j["name"], "; ".join(l.get("name", "") for l in j.get("locations") or []), j["url"], None
+    elif ats == "recruitee":
+        for j in (get(f"https://{s}.recruitee.com/api/offers/") or {}).get("offers", []):
+            yield f"rc:{s}:{j['id']}", j["title"], j.get("location", ""), j["careers_url"], (j.get("published_at") or "")[:10] or None
     elif ats == "ashby":
         for j in (get(f"https://api.ashbyhq.com/posting-api/job-board/{s}") or {}).get("jobs", []):
             yield f"ab:{s}:{j['id']}", j["title"], j.get("location", ""), j["jobUrl"], day(j.get("publishedAt"))
