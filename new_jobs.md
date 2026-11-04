@@ -2755,3 +2755,5 @@
 - HPE - Data Science Graduate (10 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1 · posted 30+ days ago
 - RTX - Platform Engineer I (US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Platform-Engineer-I_01886989 · posted 2026-11-04
 - Lockheed Martin - Systems Engineer - Intern (Boulder, CO) https://lockheedmartin.eightfold.ai/careers/job/996477367458 · posted 2026-10-21
+- Bosch - JUNIOR SOFTWARE BUSINESS ANALYST (36366) (Campinas, SP) https://jobs.smartrecruiters.com/BoschGroup/744000159637557 · posted 2026-11-04
+- Parsons - AI/ML Engineering Intern Summer 2027 () https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194
