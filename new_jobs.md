@@ -2718,3 +2718,5 @@
 - Lockheed Martin - Software Engineer - Early Career (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477282703 · posted 2026-10-21
 - RTX - Intern: Summer 2027 - Control/Diagnostic Software (Onsite) (US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840 · posted 2026-11-04
 - Lam Research - Business Operations Intern 1 (AI/Computer Science/Software Engineering/Data Analytics) (MY-Batu Kawan [2700] (2703)) https://lamresearch.eightfold.ai/careers/job/1099555811957 · posted 2026-09-16
+- RTX - Platform Intern (Summer 2027) (US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01874068 · posted 2026-11-04
+- Nooks - Software Engineer (Seattle, WA, SF) https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true · posted 2026-11-04
