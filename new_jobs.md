@@ -2764,3 +2764,15 @@
 - Lockheed Martin - Software Engineer - Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477393508 · posted 2026-10-22
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Sunnyvale, CA) https://lockheedmartin.eightfold.ai/careers/job/996477427840 · posted 2026-10-27
 - Lockheed Martin - Systems Engineer-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477428263 · posted 2026-10-26
+- Ford - Thermal Firmware Integration Engineer - Early Career Program, Advanced EV (Palo Alto, CA, United States) https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73527 · posted 2026-11-04
+- Bosch Home Comfort - Project Management / Test Engineer Intern (Plymouth, MI) https://jobs.smartrecruiters.com/BoschGroup/744000159649749 · posted 2026-11-04
+- Zebra Technologies - Software Engineer Intern - AI Features & Product Convergence (Kennesaw, GA) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636 · posted 2026-11-04
+- Zebra Technologies - Systems Engineer Intern (Germantown, MD) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659 · posted 2026-11-04
+- Zebra Technologies - Software Engineer Intern (Holtsville, NY) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645 · posted 2026-11-04
+- Paccar - Data Engineer Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors · posted 2026-11-04
+- Northrop Grumman - Software Engineer Intern (Roy, UT) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181 · posted 2026-11-04
+- L3Harris Technologies - Software Engineer Intern (Nashville, TN) https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors · posted 2026-11-04
+- L3Harris Technologies - Systems Engineer Intern (Nashville, TN) https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors · posted 2026-11-04
+- Roku - Software Engineer Intern (Cambridge, UK) https://www.weareroku.com/jobs/8345963?gh_jid=8345963 · posted 2026-11-04
+- Analog Devices - Field Robotics Systems Engineer (Wilmington, MA) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Robotics-Systems-Engineer_R266640 · posted 2026-11-04
+- L3Harris Technologies - Associate Software Engineer (Palm Bay, FL) https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors · posted 2026-11-04
