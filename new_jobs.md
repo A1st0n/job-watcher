@@ -2758,3 +2758,5 @@
 - Bosch - JUNIOR SOFTWARE BUSINESS ANALYST (36366) (Campinas, SP) https://jobs.smartrecruiters.com/BoschGroup/744000159637557 · posted 2026-11-04
 - Parsons - AI/ML Engineering Intern Summer 2027 () https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194
 - Lockheed Martin - Software Engineer - Intern (Aguadilla, PR) https://lockheedmartin.eightfold.ai/careers/job/996477264828 · posted 2026-11-02
+- Lockheed Martin - Software Engineering Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477240661 · posted 2026-11-02
+- Bosch - Project Management / Test Engineering Intern (Plymouth, MI) https://jobs.smartrecruiters.com/BoschGroup/744000159649749 · posted 2026-11-04
