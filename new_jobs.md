@@ -2754,3 +2754,4 @@
 - Northrop Grumman - 2027 Software Test Engineering Intern - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179 · posted 2026-11-04
 - HPE - Data Science Graduate (10 Locations) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1 · posted 30+ days ago
 - RTX - Platform Engineer I (US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Platform-Engineer-I_01886989 · posted 2026-11-04
+- Lockheed Martin - Systems Engineer - Intern (Boulder, CO) https://lockheedmartin.eightfold.ai/careers/job/996477367458 · posted 2026-10-21
