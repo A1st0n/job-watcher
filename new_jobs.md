@@ -2760,3 +2760,7 @@
 - Lockheed Martin - Software Engineer - Intern (Aguadilla, PR) https://lockheedmartin.eightfold.ai/careers/job/996477264828 · posted 2026-11-02
 - Lockheed Martin - Software Engineering Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477240661 · posted 2026-11-02
 - Bosch - Project Management / Test Engineering Intern (Plymouth, MI) https://jobs.smartrecruiters.com/BoschGroup/744000159649749 · posted 2026-11-04
+- Lockheed Martin - Systems Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477385176 · posted 2026-10-22
+- Lockheed Martin - Software Engineer - Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477393508 · posted 2026-10-22
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (Sunnyvale, CA) https://lockheedmartin.eightfold.ai/careers/job/996477427840 · posted 2026-10-27
+- Lockheed Martin - Systems Engineer-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477428263 · posted 2026-10-26
