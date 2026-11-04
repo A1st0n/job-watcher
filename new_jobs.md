@@ -2711,3 +2711,5 @@
 - Sierra Nevada Corporation - Cybersecurity Analyst Intern (Sparks, NV) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269 · posted 2026-10-28
 - Sierra Nevada Corporation - Systems Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I_R0031314 · posted 2026-11-04
 - Accenture - Junior Data Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago/Data---AI-Advisory-Academy_R00267300 · posted 30+ days ago
+- Northrop Grumman - 2027 S/W Embedded Engineering Intern – Sykesville MD (United States-Maryland-Sykesville) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553 · posted 2026-11-04
+- Northrop Grumman - 2027 Associate Systems Engineer – Sykesville MD (United States-Maryland-Sykesville) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-Systems-Engineer---Sykesville-MD_R10258617-1 · posted 2026-11-04
