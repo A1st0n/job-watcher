@@ -2713,3 +2713,7 @@
 - Accenture - Junior Data Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago/Data---AI-Advisory-Academy_R00267300 · posted 30+ days ago
 - Northrop Grumman - 2027 S/W Embedded Engineering Intern – Sykesville MD (United States-Maryland-Sykesville) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553 · posted 2026-11-04
 - Northrop Grumman - 2027 Associate Systems Engineer – Sykesville MD (United States-Maryland-Sykesville) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-Systems-Engineer---Sykesville-MD_R10258617-1 · posted 2026-11-04
+- Lockheed Martin - Systems Engineer (Simulation and Training) - Intern (Mount Laurel, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477596056 · posted 2026-10-29
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477670567 · posted 2026-10-29
+- Lockheed Martin - Software Engineer - Early Career (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477282703 · posted 2026-10-21
+- RTX - Intern: Summer 2027 - Control/Diagnostic Software (Onsite) (US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840 · posted 2026-11-04
