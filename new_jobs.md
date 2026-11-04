@@ -2737,3 +2737,5 @@
 - Lockheed Martin - Technical Co-op I: Software Development Intern (Calgary, CAN) https://lockheedmartin.eightfold.ai/careers/job/996477136451 · posted 2026-10-07
 - Lockheed Martin - Systems Engineering Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477077344 · posted 2026-11-02
 - Lockheed Martin - Systems Engineer (Modeling & Simulation) - Intern (Camden, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477362267 · posted 2026-10-21
+- Shield AI - Software Engineer 1 New Grad - Software - Factory Team (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true · posted 2026-10-12
+- Nooks - Software Engineer (SF) https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3/application?embed=true · posted 2026-05-15
