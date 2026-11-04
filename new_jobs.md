@@ -2727,3 +2727,6 @@
 - Northrop Grumman - Software Embedded Engineering Intern (Sykesville, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553 · posted 2026-11-04
 - RTX - Control/Diagnostic Software Intern (Jupiter, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840 · posted 2026-11-04
 - Northrop Grumman - Associate Software Embedded Engineer (Sykesville, MD) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626 · posted 2026-11-04
+- Lockheed Martin - Embedded Software Engineer Intern (Orlando, FL) https://lockheedmartin.eightfold.ai/careers/job/996477474678 · posted 2026-10-25
+- Lockheed Martin - Software Engineer - Early Career (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477284411 · posted 2026-10-26
+- Bristol Myers Squibb - Data & AI Platform Engineer I, Commercialization (Hyderabad - TS - IN) https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Data---AI-Platform-Engineer-I--Commercialization_R1607855 · posted 2026-11-04
