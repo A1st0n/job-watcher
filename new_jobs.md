@@ -2710,3 +2710,4 @@
 - Sierra Nevada Corporation - Network Engineer Intern (Summer 2027) (Hagerstown, MD) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232 · posted 2026-10-29
 - Sierra Nevada Corporation - Cybersecurity Analyst Intern (Sparks, NV) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269 · posted 2026-10-28
 - Sierra Nevada Corporation - Systems Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I_R0031314 · posted 2026-11-04
+- Accenture - Junior Data Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago/Data---AI-Advisory-Academy_R00267300 · posted 30+ days ago
