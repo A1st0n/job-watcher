@@ -27,7 +27,7 @@ jobs:
             python3 watcher.py || { sleep 60; python3 watcher.py; }  # one retry, then fail so GitHub emails you
             touch new_jobs.md
             git add seen.json boards.json new_jobs.md seeded.json current_openings.md
-            git diff --cached --quiet || { git commit -qm "Update state" && git pull -q --rebase && git push -q; }
+            git diff --cached --quiet || { git commit -qm "Update state" && git pull -q --rebase -X theirs && git push -q; }  # -X theirs: on a seen.json clash keep this run's copy (it already holds every open job)
             [ $(( $(date +%s) + 900 )) -lt "$end" ] || break
             sleep 900
           done

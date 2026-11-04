@@ -1,0 +1,2 @@
+# state files: appended logs merge line-by-line
+*.md merge=union
