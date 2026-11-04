@@ -66,7 +66,7 @@ def detect(name):
 
 
 QUERIES = ["software intern", "software engineer new grad", "university graduate software", "early career software",
-           "embedded intern", "engineering intern"]
+           "embedded intern", "engineering intern", "devops cloud intern"]
 
 
 def post(url, body, tries=3):
