@@ -2733,3 +2733,6 @@
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477473451 · posted 2026-10-29
 - Lockheed Martin - sUAS/Drone Software Engineer - Intern (San Luis Obispo, CA) https://lockheedmartin.eightfold.ai/careers/job/996477386288 · posted 2026-10-30
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477472144 · posted 2026-10-29
+- Lockheed Martin - Embedded Software Engineer Intern - Summer 2027 (Huntsville, AL, Sunnyvale, CA, Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477363529 · posted 2026-11-03
+- Lockheed Martin - Technical Co-op I: Software Development Intern (Calgary, CAN) https://lockheedmartin.eightfold.ai/careers/job/996477136451 · posted 2026-10-07
+- Lockheed Martin - Systems Engineering Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477077344 · posted 2026-11-02
