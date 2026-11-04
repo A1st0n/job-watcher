@@ -2717,3 +2717,4 @@
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477670567 · posted 2026-10-29
 - Lockheed Martin - Software Engineer - Early Career (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477282703 · posted 2026-10-21
 - RTX - Intern: Summer 2027 - Control/Diagnostic Software (Onsite) (US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840 · posted 2026-11-04
+- Lam Research - Business Operations Intern 1 (AI/Computer Science/Software Engineering/Data Analytics) (MY-Batu Kawan [2700] (2703)) https://lamresearch.eightfold.ai/careers/job/1099555811957 · posted 2026-09-16
