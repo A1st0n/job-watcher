@@ -2780,3 +2780,5 @@
 - Rocket Lab - Fluid Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/7680875003 · posted 2026-04-07
 - Parsons - AI/ML Engineer Intern (Centreville, VA, United States) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194 · posted 2026-11-04
 - Nutanix - Software Engineer Intern (Cambridge, UK) https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false · posted 2026-10-29
+- Leidos - Software Engineering & AI Intern (3 Locations) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220 · posted 2026-11-04
+- Bosch - Vehicle Dynamics Software Engineer Graduate (Nuneaton, England) https://jobs.smartrecruiters.com/BoschGroup/744000159679514 · posted 2026-11-04
