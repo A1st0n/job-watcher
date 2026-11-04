@@ -2784,3 +2784,5 @@
 - Bosch - Vehicle Dynamics Software Engineer Graduate (Nuneaton, England) https://jobs.smartrecruiters.com/BoschGroup/744000159679514 · posted 2026-11-04
 - Northrop Grumman - 2027 Converting Associate Embedded Software Engineer - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300 · posted 2026-11-04
 - Lam Research - Business Function Intern 1 (IT/Data Analytics/Business Analytics/Supply Chain) (MY-Batu Kawan [2700] (2703)) https://lamresearch.eightfold.ai/careers/job/1099556653388 · posted 2026-10-30
+- Lam Research - Business Function Intern 1 (IT/Data Analytics/Business Analytics/Computer Science) (MY-Batu Kawan [3620] (3622)) https://lamresearch.eightfold.ai/careers/job/1099556704361 · posted 2026-10-30
+- Regeneron - 2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT) (TARRYTOWN) https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1 · posted 30+ days ago
