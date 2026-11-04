@@ -2730,3 +2730,6 @@
 - Lockheed Martin - Embedded Software Engineer Intern (Orlando, FL) https://lockheedmartin.eightfold.ai/careers/job/996477474678 · posted 2026-10-25
 - Lockheed Martin - Software Engineer - Early Career (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477284411 · posted 2026-10-26
 - Bristol Myers Squibb - Data & AI Platform Engineer I, Commercialization (Hyderabad - TS - IN) https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Data---AI-Platform-Engineer-I--Commercialization_R1607855 · posted 2026-11-04
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477473451 · posted 2026-10-29
+- Lockheed Martin - sUAS/Drone Software Engineer - Intern (San Luis Obispo, CA) https://lockheedmartin.eightfold.ai/careers/job/996477386288 · posted 2026-10-30
+- Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477472144 · posted 2026-10-29
