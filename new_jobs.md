@@ -2777,3 +2777,6 @@
 - Analog Devices - Field Robotics Systems Engineer (Wilmington, MA) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Robotics-Systems-Engineer_R266640 · posted 2026-11-04
 - L3Harris Technologies - Associate Software Engineer (Palm Bay, FL) https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors · posted 2026-11-04
 - Ford - Thermal Test Engineer - Early Career Program, Advanced EV (Long Beach, CA, United States) https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73529 · posted 2026-11-04
+- Rocket Lab - Fluid Systems Engineer I (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/7680875003 · posted 2026-04-07
+- Parsons - AI/ML Engineer Intern (Centreville, VA, United States) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194 · posted 2026-11-04
+- Nutanix - Software Engineer Intern (Cambridge, UK) https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false · posted 2026-10-29
