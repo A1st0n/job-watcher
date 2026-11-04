@@ -937,3 +937,82 @@
 
 # Added 2026-11-03: open roles at newly watched companies
 - [Software Engineer- Early Career (Platform)](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) — Northwood Space, Torrance, CA · posted 2026-10-29
+
+# Added 2026-11-04: open roles at newly watched companies
+- [2027 Masters Firmware Engineering Co-op/Intern](https://campus-amd.icims.com/jobs/90809/login) — AMD, San Jose, California; Santa Clara, California · posted 2026-08-20
+- [2027 Masters Firmware Engineering Intern/Co-op](https://campus-amd.icims.com/jobs/90805/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York; Secaucus, New Jersey · posted 2026-08-20
+- [2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://campus-amd.icims.com/jobs/91181/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York · posted 2026-08-20
+- [2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://campus-amd.icims.com/jobs/91177/login) — AMD, Santa Clara, California; San Jose, California · posted 2026-08-20
+- [2027 Masters Software Engineer Intern/Co-op](https://campus-amd.icims.com/jobs/91180/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Rochester, New York; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York · posted 2026-08-20
+- [2027 Masters Software Engineer Intern/Co-op](https://campus-amd.icims.com/jobs/91176/login) — AMD, Santa Clara, California; San Jose, California · posted 2026-08-20
+- [2027 Masters Software Test Engineering Intern/Co-Op](https://campus-amd.icims.com/jobs/91477/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Secaucus, New Jersey · posted 2026-08-25
+- [2027 Masters Software Test Engineering Intern/Co-Op](https://campus-amd.icims.com/jobs/91475/login) — AMD, Santa Clara, California; San Jose, California · posted 2026-08-25
+- [2027 Undergrad Firmware Engineering Co-op/Intern](https://campus-amd.icims.com/jobs/90807/login) — AMD, Santa Clara, California; San Jose, California · posted 2026-08-20
+- [2027 Undergrad Firmware Engineering Intern/Co-op](https://campus-amd.icims.com/jobs/90801/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Fishkill, New York; Secaucus, New Jersey · posted 2026-08-20
+- [2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://campus-amd.icims.com/jobs/91170/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Fishkill, New York · posted 2026-08-20
+- [2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op](https://campus-amd.icims.com/jobs/90892/login) — AMD, Santa Clara, California; San Jose, California · posted 2026-08-20
+- [2027 Undergrad Software Engineer Intern/Co-op](https://campus-amd.icims.com/jobs/90947/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York · posted 2026-08-20
+- [2027 Undergrad Software Engineer Intern/Co-op](https://campus-amd.icims.com/jobs/90891/login) — AMD, Santa Clara, California; San Jose, California · posted 2026-08-20
+- [2027 Undergrad Software Test Engineering Intern/Co-Op](https://campus-amd.icims.com/jobs/91451/login) — AMD, Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Secaucus, New Jersey · posted 2026-08-25
+- [2027 Undergrad Software Test Engineering Intern/Co-Op](https://campus-amd.icims.com/jobs/91448/login) — AMD, San Jose, California · posted 2026-08-25
+- [Junior Agentic AI Software Development Engineer](https://global-external-amd.icims.com/jobs/92910/login) — AMD, Singapore, Singapore · posted 2026-10-08
+- [Short Term 2027 Firmware Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/91320/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Short Term 2027 Firmware Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/91313/login) — AMD, VANCOUVER, Canada · posted 2026-09-01
+- [Short Term 2027 Graphics Software Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/91359/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Short Term 2027 Machine Learning/Artificial Intelligence Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/91363/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Short Term 2027 Software Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/91368/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Short Term 2027 Software Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/91367/login) — AMD, VANCOUVER, Canada · posted 2026-09-01
+- [Summer 2027 Long Term Firmware Engineering Intern/Co-op](https://campuscanada-amd.icims.com/jobs/90297/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Summer 2027 Long Term Firmware Engineering Intern/Co-op](https://campuscanada-amd.icims.com/jobs/90301/login) — AMD, VANCOUVER, Canada · posted 2026-09-01
+- [Summer 2027 Long Term Graphics Software Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/90305/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Summer 2027 Long Term Machine Learning/Artificial Intelligence Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/90383/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Summer 2027 Long Term Software Engineering Intern/Co-op](https://campuscanada-amd.icims.com/jobs/90425/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Summer 2027 Long Term Software Test Engineering Intern/Co-Op](https://campuscanada-amd.icims.com/jobs/90429/login) — AMD, MARKHAM, Canada · posted 2026-09-01
+- [Summer 2027 Software Engineer Intern](https://globalcampus-amd.icims.com/jobs/93409/login) — AMD, Cambridge, United Kingdom · posted 2026-10-06
+- [Summer 2027 Software Engineer Intern](https://globalcampus-amd.icims.com/jobs/93127/login) — AMD, Penicuik, United Kingdom · posted 2026-10-05
+- [Associate Software Engineer-Hire-to-Train Program (Pega)](https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006) — Accenture Federal, Washington, DC · posted 2026-09-03
+- [Junior Software Engineer I - Summer Internship 2027 (Amsterdam)](https://external-workingatbooking.icims.com/jobs/30330/login) — Booking, Amsterdam, Netherlands · posted 2026-10-15
+- [Junior Software Engineer II - Graduate Programme 2027 (Shanghai)](https://external-workingatbooking.icims.com/jobs/30329/login) — Booking, Shanghai, China · posted 2026-10-15
+- [Business Function Intern 1 (Data science/Economic/Supply Chain/Logistics/IT)](https://lamresearch.eightfold.ai/careers/job/1099555959639) — Lam Research, MY-Batu Kawan [2700] (2703) · posted 2026-10-11
+- [Software Engineer - Early Career](https://lockheedmartin.eightfold.ai/careers/job/996477282462) — Lockheed Martin, Huntsville, AL · posted 2026-10-19
+- [Software Engineer - Early Career](https://lockheedmartin.eightfold.ai/careers/job/996477282792) — Lockheed Martin, Huntsville, AL · posted 2026-10-22
+- [Software Engineer - Early Career](https://lockheedmartin.eightfold.ai/careers/job/996477285175) — Lockheed Martin, Huntsville, AL · posted 2026-10-27
+- [Software Engineer - Early Career](https://lockheedmartin.eightfold.ai/careers/job/996477286019) — Lockheed Martin, Huntsville, AL · posted 2026-10-28
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477106402) — Lockheed Martin, Huntsville, AL · posted 2026-10-19
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477211036) — Lockheed Martin, Huntsville, AL · posted 2026-10-20
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477220490) — Lockheed Martin, Huntsville, AL · posted 2026-10-21
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477235452) — Lockheed Martin, Huntsville, AL · posted 2026-10-22
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477235910) — Lockheed Martin, Huntsville, AL · posted 2026-10-26
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477240664) — Lockheed Martin, Huntsville, AL · posted 2026-10-27
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477237072) — Lockheed Martin, King of Prussia, PA · posted 2026-10-19
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477239252) — Lockheed Martin, King of Prussia, PA · posted 2026-10-29
+- [Software Engineer Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477241390) — Lockheed Martin, Littleton, CO · posted 2026-10-28
+- [Systems Engineering & Integration Software Testing Intern - Summer 2027](https://lockheedmartin.eightfold.ai/careers/job/996477177941) — Lockheed Martin, Colorado Springs, CO · posted 2026-10-27
+- [IT Cybersecurity Intern - Fort Huachuca, AZ](https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job) — Peraton, 
+- [Mission Systems Software & Edge Computing Intern – Norman, OK](https://careers-peraton.icims.com/jobs/172378/mission-systems-software-%26-edge-computing-intern-%e2%80%93-norman%2c-ok/job) — Peraton, 
+- [Spring & Summer 2027 Cybersecurity Engineer Co-op](https://careers-peraton.icims.com/jobs/172836/spring-%26-summer-2027-cybersecurity-engineer-co-op/job) — Peraton, 
+- [Spring & Summer 2027 Software Engineering Co-op](https://careers-peraton.icims.com/jobs/171547/spring-%26-summer-2027-software-engineering-co-op/job) — Peraton, 
+- [Summer 2027 Cyber Research Intern](https://careers-peraton.icims.com/jobs/170120/summer-2027-cyber-research-intern/job) — Peraton, 
+- [Summer 2027 Cybersecurity Engineering Intern](https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job) — Peraton, 
+- [Summer 2027 Data Science Intern](https://careers-peraton.icims.com/jobs/170320/summer-2027-data-science-intern/job) — Peraton, 
+- [Summer 2027 Software Development Intern- Topeka, KS](https://careers-peraton.icims.com/jobs/172061/summer-2027-software-development-intern--topeka%2c-ks/job) — Peraton, 
+- [Summer 2027 Software Engineer Intern](https://careers-peraton.icims.com/jobs/169665/summer-2027-software-engineer-intern/job) — Peraton, 
+- [Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34313/login) — Rivian, Palo Alto, California; Irvine, California; Atlanta, Georgia; Normal, Illinois; Plymouth, Michigan · posted 2026-10-09
+- [Computer Vision Software - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34315/login) — Rivian, Palo Alto, California; Irvine, California; Plymouth, Michigan; Atlanta, Georgia; Normal, Illinois · posted 2026-10-09
+- [Controls, Automation & Embedded Software - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34310/login) — Rivian, Palo Alto, California; Irvine, California · posted 2026-10-09
+- [Cybersecurity - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34316/login) — Rivian, Palo Alto, California; Irvine, California; Plymouth, Michigan; Atlanta, Georgia; Normal, Illinois · posted 2026-10-09
+- [Early Career - Cloud Engineer, Cloud Operations](https://us-careers-rivian.icims.com/jobs/30776/login) — Rivian, Atlanta, Georgia · posted 2026-05-04
+- [Early Career - Cybersecurity Application Security Engineer](https://ca-careers-rivian.icims.com/jobs/31067/login) — Rivian, Vancouver, Canada · posted 2026-10-27
+- [Electrical & Software Systems - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34308/login) — Rivian, Palo Alto, California; Irvine, California; Torrance, California · posted 2026-10-09
+- [Engineering Intern - AI/ML ASIC CAD (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/34059/login) — Rivian, Palo Alto, California · posted 2026-10-05
+- [Engineering Intern - Software Test (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33603/login) — Rivian, Torrance, California · posted 2026-09-17
+- [Product Development, Vehicle Attributes and Test Engineering - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34306/login) — Rivian, Irvine, California; Plymouth, Michigan · posted 2026-10-09
+- [Software Engineering - Summer 2027 Internships](https://us-careers-rivian.icims.com/jobs/34303/login) — Rivian, Palo Alto, California; Atlanta, Georgia; Irvine, California; Normal, Illinois; Plymouth, Michigan · posted 2026-10-09
+- [Software Engineering Intern - Applied AI (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33984/login) — Rivian, Palo Alto, California · posted 2026-09-30
+- [Software Engineering Intern - Design Automation (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33748/login) — Rivian, Palo Alto, California · posted 2026-09-21
+- [Software Engineering Intern - Embedded Software (Spring 2027 Co-op)](https://us-careers-rivian.icims.com/jobs/33832/login) — Rivian, Palo Alto, California · posted 2026-10-05
+- [Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op](https://us-careers-rivian.icims.com/jobs/33803/login) — Rivian, Normal, Illinois · posted 2026-09-21
+- [Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33804/login) — Rivian, Plymouth, Michigan · posted 2026-09-21
+- [Software Engineering Intern - Machine Learning Research, Perception (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33801/login) — Rivian, Palo Alto, California · posted 2026-10-15
+- [Software Engineering Intern - Product Development Portal (Spring Co-Op)](https://us-careers-rivian.icims.com/jobs/33745/login) — Rivian, Palo Alto, California · posted 2026-09-21
+- [Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)](https://us-careers-rivian.icims.com/jobs/33746/login) — Rivian, Palo Alto, California · posted 2026-09-21
