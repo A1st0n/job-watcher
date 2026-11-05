@@ -3099,3 +3099,4 @@
 - RTX - Systems Engineer I (Onsite) (US-IA-CEDAR RAPIDS-139 ~ 855 35Th St NE ~ BLDG 139) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I--Onsite-_01887270 · posted 2026-11-05
 - Lockheed Martin - Embedded Software Engineer Intern - Summer 2027 (Huntsville, AL, Sunnyvale, CA, Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477363502 · posted 2026-11-03
 - State Farm - Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist (Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia) https://careers-statefarm.icims.com/jobs/46227/login · posted 2026-11-05
+- SAIC - Junior Azure Cloud Administrator (Rockville, MD, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618864 · posted 2026-11-05

@@ -1764,3 +1764,7 @@
 - [Intern - AI](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) — Zebra Technologies, Lincolnshire, IL · posted 2026-11-02
 - [Machine Learning Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) — onepot, South SF · posted 2026-11-03
 - [Semiconductor AI Specialist Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918) — onsemi, Gresham, OR · posted 2026-10-14
+
+# Added 2026-11-05: open roles at newly watched companies
+- [US Military Skillbridge Internship (Software Engineer)_Arlington, VA](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) — Black Cape, Arlington, VA
+- [Junior Software Developer](https://vivsofttechnologiesfa.applytojob.com/apply/LGybK13SLM/Junior-Software-Developer) — VivSoft, Remote
