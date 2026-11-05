@@ -3036,3 +3036,24 @@
 - Ultra - FPGA/Firmware Engineer New Grad (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-3 · posted 2026-11-05
 - Google - Software Developer 2 – Early Career (Montreal, QC, Canada, Waterloo, ON, Canada) https://www.google.com/about/careers/applications/jobs/results/93868335938052806 · posted 2026-11-02
 - Microsoft - Stagiaire - Technicien de Centre de Données (TI) / Datacenter Technician - Intern (IT) (Canada, Québec, Quebec City) https://apply.careers.microsoft.com/careers/job/1970393557021552 · posted 2026-11-02
+- Nvidia - Software Engineering Intern, Physics Simulation - 2027 (Switzerland, Zurich) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066 · posted 2026-11-05
+- Intel - Middleware Software Engineering Intern (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635 · posted 2026-11-05
+- Cisco - Junior Software Engineer - Webex - Slovakia (Bratislava, Slovakia) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1 · posted 2026-11-05
+- Lockheed Martin - Software Engineer-INTERN (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477771264 · posted 2026-11-05
+- Northrop Grumman - 2027 Associate Cyber Systems Engineer - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Cyber-Systems-Engineer---Roy-UT_R10259435 · posted 2026-11-05
+- RTX - Systems Engineer I - Tac Comm (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm_01865799 · posted 2026-11-05
+- RTX - Software Engineer I (US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1 · posted 2026-11-05
+- CACI - Junior Software Developer (Remote (Any State)) https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Junior-Software-Developer_334685 · posted 2026-11-05
+- Bosch - AI & Cloud Engineering Intern (Sofia, Bosch Digital, Sofia City Province) https://jobs.smartrecruiters.com/BoschGroup/744000159889329 · posted 2026-11-05
+- Nasdaq - Software Developer Intern - Stockholm Summer 2027 (Stockholm - Zenit) https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Stockholm---Zenit/Software-Developer-Intern---Stockholm-Summer-2027_R0027297 · posted 2026-11-05
+- Parsons - Summer Embedded Developer Intern () https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299
+- Medtronic - Software Test Engineer I (2 Locations) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I_R80875-1 · posted 2026-11-05
+- Marriott Vacations Worldwide - Corporate Information Technology Intern (Orlando, FL) https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562 · posted 2026-11-02
+- Markel Group - AI Automation Intern (Woodland Hills, LA) https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277 · posted 2026-11-05
+- Little Caesars Enterprises - Data IT Intern (Detroit, MI) https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Data-IT_R9676 · posted 2026-11-05
+- Little Caesars Enterprises - AI IT Intern (Detroit, MI) https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675 · posted 2026-11-05
+- Little Caesars Enterprises - Developer IT Intern (Detroit, MI) https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677 · posted 2026-11-05
+- BiblioCommons - Junior Full-Stack Engineer Intern (Ontario, Canada) https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454 · posted 2026-11-05
+- Hearst - Software Engineer Intern (Carmel, IN) https://job-boards.greenhouse.io/hearst/jobs/4466334009 · posted 2026-11-05
+- Ultra Intelligence and Communications - Graduate Software Engineer (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-Software-Engineer_REQ-12499-1 · posted 2026-11-05
+- Ultra Intelligence and Communications - FPGA/Firmware Engineer New Grad (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-2 · posted 2026-11-05
