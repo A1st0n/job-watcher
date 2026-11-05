@@ -3017,3 +3017,4 @@
 - ERMCO Distribution Transformers - Software Design Engineer 2 (Dyersburg, TN) https://careers-ermcoeci.icims.com/jobs/6987/job?mobile=true&needsRedirect=false · posted 2026-10-19
 - ITC Federal - Data Scientist (Springfield, VA, Redmond, WA, Reston, VA) https://careers-itcfederal.icims.com/jobs/1619/job?mobile=true&needsRedirect=false · posted 2026-10-20
 - Wonderbrands - Fullstack Software Developer New Grad (Etobicoke, ON, Canada) https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false · posted 2026-10-19
+- Thermo Fisher - Intern – Software/Firmware Test (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007 · posted 2026-11-05
