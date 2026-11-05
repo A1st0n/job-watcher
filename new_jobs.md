@@ -2984,3 +2984,36 @@
 - Lockheed Martin - Systems Engineer (Specialty) - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477241364 · posted 2026-11-04
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472587 · posted 2026-10-28
 - Lockheed Martin - Systems Engineer (Modeling & Simulation) - Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477476646 · posted 2026-10-26
+- PayPal - Data Scientist Intern - Summer 2027 (San Jose, California, United States of America) https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582 · posted 2026-11-05
+- PayPal - Cybersecurity Intern - Summer 2027 (4 Locations) https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Cybersecurity-Intern---Summer-2027_R0138587 · posted 2026-11-05
+- Lockheed Martin - Software Engineer (Ground Systems) - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996476741937 · posted 2026-10-22
+- Lockheed Martin - Systems Engineer-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477427850 · posted 2026-10-26
+- General Dynamics Mission Systems - Software Engineer for Crypto & Cross Domain Solutions Intern (Scottsdale, AZ) https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false · posted 2026-10-14
+- General Dynamics Mission Systems - Software Engineer Intern (Taunton, MA) https://careers-gdms.icims.com/jobs/75755/job?mobile=true&needsRedirect=false · posted 2026-11-03
+- Constellation Energy - IT Development Intern (San Diego, CA) https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us · posted 2026-10-21
+- Intercontinental Exchange - Agentic AI Data Science Intern (Jacksonville, FL) https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- Intercontinental Exchange - Software Developer Intern (Jacksonville, FL) https://careers-ice.icims.com/jobs/14076/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- Intercontinental Exchange - Software Engineer Intern (Jacksonville, FL) https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- Intercontinental Exchange - Software Engineer Intern - Java (Jacksonville, FL) https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- Intercontinental Exchange - Software Engineering Intern (Jacksonville, FL) https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- Intercontinental Exchange - Data Science Intern (NYC) https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- Garmin - Data Scientist Intern (Louisville, CO) https://careers.garmin.com/jobs/19925?icims=1 · posted 2026-10-13
+- Garmin - Software Engineer Intern (Brea, CA) https://careers.garmin.com/jobs/20129?icims=1 · posted 2026-10-15
+- NVIDIA - Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI (Canada, Santa Clara, CA, United States) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548 · posted 2026-11-04
+- Docusign - Software Engineer Intern (Chicago, IL) https://careers.docusign.com/jobs/30470?icims=1 · posted 2026-10-21
+- Resonetics - HR AI Automation Co-op (Nashua, NH) https://careers-resonetics.icims.com/jobs/5550/job?mobile=true&needsRedirect=false · posted 2026-10-22
+- SimVentions - Software Development Intern (Fredericksburg, VA) https://careers-simventions.icims.com/jobs/1631/job?mobile=true&needsRedirect=false · posted 2026-09-15
+- General Dynamics Mission Systems - Entry Level Systems Test Engineer (Scottsdale, AZ) https://careers-gdms.icims.com/jobs/75785/job?mobile=true&needsRedirect=false · posted 2026-10-26
+- General Dynamics Mission Systems - Entry Level Software Engineer (Manassas, VA) https://careers-gdms.icims.com/jobs/75608/job?mobile=true&needsRedirect=false · posted 2026-10-20
+- General Dynamics Mission Systems - Software Engineer (Manassas, VA) https://careers-gdms.icims.com/jobs/75277/job?mobile=true&needsRedirect=false · posted 2026-10-26
+- General Dynamics Mission Systems - Software Engineer Entry Level (Manassas, VA) https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false · posted 2026-10-26
+- Steampunk - Associate Data Scientist (McLean, VA) https://careers-steampunk.icims.com/jobs/5916/job?mobile=true&needsRedirect=false · posted 2026-11-01
+- Urban Science - Associate Software Engineer (Detroit, MI) https://careers-urbanscience.icims.com/jobs/5234/job?mobile=true&needsRedirect=false · posted 2026-10-30
+- Panasonic Holdings - Software Engineer 1 (Irvine, CA) https://careers.na.panasonic.com/jobs/51755?icims=1&lang=en-us · posted 2026-10-19
+- Garmin - Software Engineer 1 - C++ MEC Maptech (Olathe, KS) https://careers.garmin.com/jobs/20439?icims=1 · posted 2026-10-21
+- General Dynamics - SONAR Systems Engineer (New London, CT) https://careers-gdeb.icims.com/jobs/21251/job?mobile=true&needsRedirect=false · posted 2026-10-30
+- Cooper Norcross Health - Reporting and Analytics Developer (Camden, NJ) https://careers-cooperhealth.icims.com/jobs/86865/job?mobile=true&needsRedirect=false · posted 2026-11-01
+- Ideagen - Graduate AI Software Engineer (Nottingham, UK) https://careers-ideagenuk.icims.com/jobs/3239/job?mobile=true&needsRedirect=false · posted 2026-10-15
+- ERMCO Distribution Transformers - Software Design Engineer 2 (Dyersburg, TN) https://careers-ermcoeci.icims.com/jobs/6987/job?mobile=true&needsRedirect=false · posted 2026-10-19
+- ITC Federal - Data Scientist (Springfield, VA, Redmond, WA, Reston, VA) https://careers-itcfederal.icims.com/jobs/1619/job?mobile=true&needsRedirect=false · posted 2026-10-20
+- Wonderbrands - Fullstack Software Developer New Grad (Etobicoke, ON, Canada) https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false · posted 2026-10-19
