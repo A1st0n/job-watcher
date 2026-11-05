@@ -1921,16 +1921,19 @@
   "greenhouse",
   "nooks"
  ],
- "Ocient": null,
+ "Ocient": [
+  "gem",
+  "ocient-inc-"
+ ],
  "Kalepa": [
   "greenhouse",
   "kalepa"
  ],
- "Lazarus AI": null,
- "Sentra": [
-  "ashby",
-  "sentra"
+ "Lazarus AI": [
+  "greenhouse",
+  "lazarusenterprises"
  ],
+ "Sentra": null,
  "Finpilot": null,
  "Phaze": null,
  "Atmospheric AI": null,
@@ -1942,8 +1945,17 @@
  "Avum": null,
  "VivSoft": null,
  "Black Cape": null,
- "Skylight Digital": null,
- "Steampunk Inc": null,
- "REI Systems": null,
+ "Skylight Digital": [
+  "greenhouse",
+  "skylighthq"
+ ],
+ "Steampunk Inc": [
+  "icims",
+  "careers-steampunk.icims.com"
+ ],
+ "REI Systems": [
+  "icims",
+  "careers-reisystems.icims.com"
+ ],
  "Distributed Solutions Inc": null
 }
