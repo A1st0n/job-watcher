@@ -3018,3 +3018,10 @@
 - ITC Federal - Data Scientist (Springfield, VA, Redmond, WA, Reston, VA) https://careers-itcfederal.icims.com/jobs/1619/job?mobile=true&needsRedirect=false · posted 2026-10-20
 - Wonderbrands - Fullstack Software Developer New Grad (Etobicoke, ON, Canada) https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false · posted 2026-10-19
 - Thermo Fisher - Intern – Software/Firmware Test (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007 · posted 2026-11-05
+- Bosch - Intern, AIot Software Developer  (Singapore) https://jobs.smartrecruiters.com/BoschGroup/744000159821219 · posted 2026-11-05
+- Accenture - Industrial Automation Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Talent-Pool---buda-Job-Fair---Electrical-engineer-intern_R00364910 · posted 2026-11-05
+- Thermo Fisher - Intern – Software Engineering (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064 · posted 2026-11-05
+- Thermo Fisher - Internship - Build an agentic software refactoring workflow (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1 · posted 2026-11-05
+- Anthropic - Anthropic Fellows Program - AI Safety (London, UK, SF, Ontario, Canada, Berkeley, CA, United States) https://job-boards.greenhouse.io/anthropic/jobs/5183044008 · posted 2026-04-10
+- Susquehanna International Group - Business Analytics AI Co-op (Bala Cynwyd, PA) https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false · posted 2026-10-15
+- Noblis - Data Science and Innovation Intern (Springfield, VA, Reston, VA) https://careers.noblis.org/jobs/28097?icims=1&lang=en-us · posted 2026-11-02
