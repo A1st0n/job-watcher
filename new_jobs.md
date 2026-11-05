@@ -2879,3 +2879,4 @@
 - KLA - 【2027 Campus】Software Engineer (Shanghai, China) https://kla.wd1.myworkdayjobs.com/Search/job/Shanghai-China/XMLNAME--2027-Campus--Regional-Development-Applications-Engineer_2639809 · posted 2026-11-05
 - Lockheed Martin - Software Engineer - Intern (Aguadilla, PR) https://lockheedmartin.eightfold.ai/careers/job/996477266359 · posted 2026-11-02
 - Lockheed Martin - Embedded Software Engineer Intern (Grand Prairie, TX) https://lockheedmartin.eightfold.ai/careers/job/996477470450 · posted 2026-10-25
+- DXC - IT Engineer (Japanese Speaker) - Entry level (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Engineer--Japanese-Speaker----Entry-level_51588497 · posted 30+ days ago
