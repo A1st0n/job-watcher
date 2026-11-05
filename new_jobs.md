@@ -3068,3 +3068,11 @@
 - PA Consulting - Software Development Apprentice - Digital (London, UK) https://jobs.smartrecruiters.com/PAConsulting/744000159900154 · posted 2026-11-05
 - RTX - Software Engineer 1 (Tewksbury, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1 · posted 2026-11-05
 - EquipmentShare - Junior Ecommerce Web Developer (Columbia, MO) https://www.equipmentshare.com/careers/openings/?gh_jid=8319404 · posted 2026-11-05
+- RTX - Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215 · posted 2026-11-05
+- JM Family - Software Engineer Intern (Deerfield Beach, FL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199 · posted 2026-11-05
+- Parsons - Embedded Developer Intern (Columbia, MD) https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299 · posted 2026-11-05
+- Expedia Group - Machine Learning Science Intern (London, UK) https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737-2 · posted 2026-11-05
+- JM Family - Software Analyst Intern (Deerfield Beach, FL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187 · posted 2026-11-05
+- Baringa - Solutions AI Lab Intern (London, UK) https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101 · posted 2026-11-05
+- RR Donnelley - Software Developer Intern (Warrenville, IL) https://jobs.smartrecruiters.com/RRDonnelley/744000159883639 · posted 2026-11-05
+- RR Donnelley - IT Software Integration & Automation Intern (Minneapolis, MN) https://jobs.smartrecruiters.com/RRDonnelley/744000159883479 · posted 2026-11-05
