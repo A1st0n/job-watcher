@@ -1933,7 +1933,10 @@
   "greenhouse",
   "lazarusenterprises"
  ],
- "Sentra": null,
+ "Sentra": [
+  "comeet",
+  "87.00B|78B2D421E2C025B7043E378B78B2D42"
+ ],
  "Finpilot": null,
  "Phaze": null,
  "Atmospheric AI": null,
@@ -1943,8 +1946,14 @@
  "Nyquis": null,
  "Archiboost": null,
  "Avum": null,
- "VivSoft": null,
- "Black Cape": null,
+ "VivSoft": [
+  "jazzhr",
+  "vivsofttechnologiesfa"
+ ],
+ "Black Cape": [
+  "jazzhr",
+  "blackcape"
+ ],
  "Skylight Digital": [
   "greenhouse",
   "skylighthq"
@@ -1957,5 +1966,8 @@
   "icims",
   "careers-reisystems.icims.com"
  ],
- "Distributed Solutions Inc": null
+ "Distributed Solutions Inc": [
+  "jazzhr",
+  "distributedsolutionsinc"
+ ]
 }

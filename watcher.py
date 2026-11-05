@@ -210,6 +210,22 @@ def board_jobs(company, ats, s):
     elif ats == "recruitee":
         for j in (get(f"https://{s}.recruitee.com/api/offers/") or {}).get("offers", []):
             yield f"rc:{s}:{j['id']}", j["title"], j.get("location", ""), j["careers_url"], (j.get("published_at") or "")[:10] or None
+    elif ats == "jazzhr":  # s = applytojob subdomain; no JSON API, so read the server-rendered board
+        try:
+            with urllib.request.urlopen(urllib.request.Request(f"https://{s}.applytojob.com/apply",
+                                                               headers={"User-Agent": "Mozilla/5.0"}), timeout=40) as r:
+                page = r.read().decode("utf-8", "ignore")
+        except Exception as e:
+            print(f"fetch failed: {type(e).__name__} {s}")
+            page = ""
+        for u, jid, t, loc in re.findall(r'<a href="(https://[^"]+/apply/(\w+)/[^"]*)">\s*([^<]+?)\s*</a>\s*</h3>\s*'
+                                         r'<ul[^>]*>\s*<li><i class=.fa fa-map-marker.></i>([^<]*)', page):
+            yield f"jz:{s}:{jid}", html.unescape(t), loc.strip(), u, None
+    elif ats == "comeet":  # s = "companyUid|token"; the public token sits in the company's careers page
+        uid, tok = s.split("|")
+        for j in get(f"https://www.comeet.co/careers-api/2.0/company/{uid}/positions?token={tok}") or []:
+            yield f"cm:{uid}:{j['uid']}", j["name"], (j.get("location") or {}).get("name", ""), \
+                j.get("url_active_page") or j.get("url_comeet_hosted_page"), day(j.get("time_updated"))
     elif ats == "ashby":
         for j in (get(f"https://api.ashbyhq.com/posting-api/job-board/{s}") or {}).get("jobs", []):
             yield f"ab:{s}:{j['id']}", j["title"], j.get("location", ""), j["jobUrl"], day(j.get("publishedAt"))
