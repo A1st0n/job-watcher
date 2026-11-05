@@ -2875,3 +2875,5 @@
 - Lockheed Martin - Systems Engineering/IT-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477428505 · posted 2026-10-26
 - Lockheed Martin - Information Technology-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477459947 · posted 2026-10-26
 - Lockheed Martin - Software Engineer Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477477349 · posted 2026-10-26
+- Lockheed Martin - Systems Engineer-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477428084 · posted 2026-10-26
+- KLA - 【2027 Campus】Software Engineer (Shanghai, China) https://kla.wd1.myworkdayjobs.com/Search/job/Shanghai-China/XMLNAME--2027-Campus--Regional-Development-Applications-Engineer_2639809 · posted 2026-11-05
