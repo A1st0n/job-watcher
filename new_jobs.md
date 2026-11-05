@@ -3077,3 +3077,5 @@
 - RR Donnelley - Software Developer Intern (Warrenville, IL) https://jobs.smartrecruiters.com/RRDonnelley/744000159883639 · posted 2026-11-05
 - RR Donnelley - IT Software Integration & Automation Intern (Minneapolis, MN) https://jobs.smartrecruiters.com/RRDonnelley/744000159883479 · posted 2026-11-05
 - RTX - Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216 · posted 2026-11-05
+- Shield AI - June 2027 Co-Op - Software Engineer Intern (Dallas, Texas) https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949 · posted 2026-11-05
+- Sierra Nevada Corporation - Systems Engineer Intern (For SNC Summer 2026 Interns Only) (2 Locations) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Systems-Engineer-Intern--For-SNC-Summer-2026-Interns-Only-_R0031220 · posted 2026-11-05
