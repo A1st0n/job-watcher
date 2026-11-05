@@ -2807,3 +2807,5 @@
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477502695 · posted 2026-10-27
 - Twitch - Software Dev Engineer I - Security Platform (Seattle, WA) https://job-boards.greenhouse.io/twitch/jobs/8931343002 · posted 2026-11-04
 - RTX - Infrastructure Engineer I (Onsite) (US-UT-WEST VALLEY CITY-338 ~ 1127 & 1128 w 2400 S ~ BLDG 338) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521 · posted 2026-11-05
+- Applied Materials - Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA) (Santa Clara,CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525 · posted 2026-10-29
+- Emerson - Software Engineering Intern (Shanghai, Shanghai, China) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013296 · posted 2026-11-05
