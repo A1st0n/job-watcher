@@ -2893,3 +2893,23 @@
 - Peraton - Cloud Software Engineer 1 (Fort Meade, MD) https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false · posted 2026-11-05
 - 84 Lumber - Associate Web Developer (Eighty Four, PA) https://careers.84lumber.com/jobs/26201?icims=1 · posted 2026-10-19
 - Everwatch - Junior Software Engineer (Annapolis Junction, MD) https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- PayPal - Software Engineer Intern - Summer 2027 (5 Locations) https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586 · posted 2026-11-05
+- PayPal - Machine Learning Engineer Intern - Summer 2027 (San Jose, California, United States of America) https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581 · posted 2026-11-05
+- Susquehanna International Group (SIG) - Machine Learning Intern (Ardmore, PA) https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false · posted 2026-04-09
+- Cotiviti - Generative AI/Agentic AI/Research Intern (Remote in USA) https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false · posted 2026-04-15
+- Cotiviti - AI Engineer Intern (Remote in USA) https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false · posted 2026-07-09
+- Framatome - Computer Science Engineer Intern Co-op - Univ/Co-op Technical (Richland, WA) https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false · posted 2026-08-20
+- Springs Window Fashions - AI Analyst Intern - Consumer Business Unit (Middleton, WI) https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false · posted 2026-08-22
+- Framatome - Computer Science Engineer Intern Co-op - University Co-op Technical (Lynchburg, VA) https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false · posted 2026-08-31
+- Shure - Artificial Intelligence Engineer Intern (Niles, IL) https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false · posted 2026-09-03
+- Shure - Automated Test Engineer Intern - Hardware (Niles, IL) https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false · posted 2026-09-03
+- Shure - Data Engineer Intern (Niles, IL) https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false · posted 2026-09-03
+- Shure - Cloud Applications Development Intern (Niles, IL) https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false · posted 2026-09-03
+- Shure - Audio Test Engineering Intern (Skokie, IL) https://careersus-shure.icims.com/jobs/4973/job?mobile=true&needsRedirect=false · posted 2026-09-03
+- General Dynamics Mission Systems - Entry Level Infrastructure Hardware Systems Engineer (Pittsfield, MA) https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false · posted 2026-06-04
+- Markon - Software Engineer Level 0 (Odenton, MD) https://careers-markon.icims.com/jobs/8403/job?mobile=true&needsRedirect=false · posted 2026-06-08
+- Integration Innovation (i3) - Software Engineer (Huntsville, AL) https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false · posted 2026-08-21
+- Framatome - Computer Science Engineer 1 - Early Careers (Lynchburg, VA) https://careers-framatome.icims.com/jobs/3320/job?mobile=true&needsRedirect=false · posted 2026-08-31
+- Framatome - Computer Science Engineer 1 - Richland (Richland, WA) https://careers-framatome.icims.com/jobs/3321/job?mobile=true&needsRedirect=false · posted 2026-08-31
+- Intercontinental Exchange - Analyst – Infrastructure Development & Automation (Atlanta, GA) https://careers-ice.icims.com/jobs/13384/job?mobile=true&needsRedirect=false · posted 2026-08-04
+- Susquehanna International Group - Software Developer - Core Order Management System - C++ (Chicago, IL) https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false · posted 2026-11-05
