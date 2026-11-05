@@ -3026,3 +3026,7 @@
 - Susquehanna International Group - Business Analytics AI Co-op (Bala Cynwyd, PA) https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false · posted 2026-10-15
 - Noblis - Data Science and Innovation Intern (Springfield, VA, Reston, VA) https://careers.noblis.org/jobs/28097?icims=1&lang=en-us · posted 2026-11-02
 - Normal Computing - AI Research Resident (Palo Alto, CA, London, UK, NYC) https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true · posted 2026-08-19
+- Microsoft - Research Intern - Research in Software Engineering, ML Systems, Agents (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557054069 · posted 2026-11-05
+- PA Consulting - Digital Apprentice - Software Development (Belfast, UK) https://jobs.smartrecruiters.com/PAConsulting/744000159817990 · posted 2026-11-05
+- PA Consulting - Digital Apprentice - Digital - Software Development (Manchester, UK) https://jobs.smartrecruiters.com/PAConsulting/744000159818139 · posted 2026-11-05
+- Imbue - Software Engineer New Grad (SF) https://job-boards.greenhouse.io/imbueunlisted/jobs/4404628009 · posted 2026-09-11
