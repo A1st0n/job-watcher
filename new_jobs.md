@@ -3076,3 +3076,4 @@
 - Baringa - Solutions AI Lab Intern (London, UK) https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101 · posted 2026-11-05
 - RR Donnelley - Software Developer Intern (Warrenville, IL) https://jobs.smartrecruiters.com/RRDonnelley/744000159883639 · posted 2026-11-05
 - RR Donnelley - IT Software Integration & Automation Intern (Minneapolis, MN) https://jobs.smartrecruiters.com/RRDonnelley/744000159883479 · posted 2026-11-05
+- RTX - Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216 · posted 2026-11-05
