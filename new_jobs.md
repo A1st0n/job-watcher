@@ -2981,3 +2981,6 @@
 - Atlassian - AI Researcher (Canada) https://campus-americas.icims.com/jobs/26074/ai-researcher-%28phd%29%2c-2027-graduate-canada/job · posted 2026-10-26
 - Yusen Logistics - IT Reporting Analyst 1 - Reports & Labels (Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX) https://careers-yusen-logistics.icims.com/jobs/6521/job?mobile=true&needsRedirect=false · posted 2026-11-05
 - General Dynamics Mission Systems - Electrical Test Engineer Entry Level (Pittsfield, MA) https://careers-gdms.icims.com/jobs/74927/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- Lockheed Martin - Systems Engineer (Specialty) - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477241364 · posted 2026-11-04
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472587 · posted 2026-10-28
+- Lockheed Martin - Systems Engineer (Modeling & Simulation) - Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477476646 · posted 2026-10-26
