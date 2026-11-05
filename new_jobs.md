@@ -3087,3 +3087,5 @@
 - Palantir - Software Engineer, Internship - Sovereign AI Systems (New York, NY) https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312 · posted 2026-11-05
 - Cisco - Junior Software Engineer - ETR- Israel (Caesarea, Israel) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Caesarea-Israel/Junior-Software-Engineer---ETR--Israel_2031073 · posted 2026-11-05
 - Palantir - Software Engineer, Internship - Sovereign AI Systems (London, United Kingdom) https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e · posted 2026-11-05
+- Amazon - Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US) (Redmond, Washington, USA) https://www.amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us · posted 2026-11-05
+- Lockheed Martin - Systems Engineer Intern (Palmdale, CA) https://lockheedmartin.eightfold.ai/careers/job/996477449180 · posted 2026-11-05
