@@ -2913,3 +2913,71 @@
 - Framatome - Computer Science Engineer 1 - Richland (Richland, WA) https://careers-framatome.icims.com/jobs/3321/job?mobile=true&needsRedirect=false · posted 2026-08-31
 - Intercontinental Exchange - Analyst – Infrastructure Development & Automation (Atlanta, GA) https://careers-ice.icims.com/jobs/13384/job?mobile=true&needsRedirect=false · posted 2026-08-04
 - Susquehanna International Group - Software Developer - Core Order Management System - C++ (Chicago, IL) https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- Intel - Graduate Talent (Firmware Development) (Malaysia, Penang) https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Graduate-Talent--Firmware-Development-_JR0288969 · posted 2026-11-05
+- Kinaxis - Developer Intern Co-op - Machine Learning (Remote in Canada) https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false · posted 2026-09-03
+- Peraton - Data Science Intern (Blacksburg, VA, Herndon, VA) https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false · posted 2026-09-09
+- Federated Insurance - IT Intern (Owatonna, MN) https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false · posted 2026-09-09
+- Lennox International - AI & Analytics Intern (Richardson, TX) https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false · posted 2026-09-17
+- Lennox International - AI Engineering Intern - Summer 2027 (Richardson, TX) https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false · posted 2026-09-17
+- Cotiviti - Generative AI Research Engineer Intern (Remote in USA) https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false · posted 2026-09-18
+- Atlassian - Machine Learning Intern (Seattle, WA, SF) https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job · posted 2026-09-21
+- West Bend Insurance - IT Data Engineer Intern (Madison, WI, West Bend, WI) https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false · posted 2026-09-22
+- Enterprise Holdings - Data Engineer Intern - IT (St. Louis, MO) https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false · posted 2026-09-24
+- State Farm - Data Science Intern - Magnet Program (Tempe, AZ) https://jobs.statefarm.com/jobs/46353?icims=1 · posted 2026-09-24
+- Barrios - Data and Computer Engineering/Computer Science Intern (Houston, TX) https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false · posted 2026-09-25
+- Atlassian - Data Scientist Intern (Seattle, WA) https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job · posted 2026-09-25
+- ITT - Data Analytics / AI Intern - Summer 2027 (Irvine, CA) https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false · posted 2026-09-30
+- IDeaS - Data Science Research Intern (Bloomington, MN) https://ideas-sas.icims.com/jobs/42645/job?mobile=true&needsRedirect=false · posted 2026-09-30
+- General Dynamics Mission Systems - Integration and Test Engineer Intern (Canonsburg, PA) https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false · posted 2026-10-01
+- Cook Group - Information Technology Intern - Artificial Intelligence (Spencer, IN, Ellettsville, IN, Bloomington, IN) https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false · posted 2026-10-01
+- Kinaxis - AI/ML Researcher Intern (Remote in Canada) https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false · posted 2026-10-02
+- Cook Group - Statistics & Data Science Intern (Spencer, IN, Ellettsville, IN, Bloomington, IN) https://americas-cookmedical.icims.com/jobs/19412/job?mobile=true&needsRedirect=false · posted 2026-10-05
+- Atlassian - Data Engineer Intern (Seattle, WA) https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job · posted 2026-10-05
+- Cook Group - Artificial Intelligence & Innovation Intern (Bloomington, IN) https://americas-cookmedical.icims.com/jobs/19427/job?mobile=true&needsRedirect=false · posted 2026-10-13
+- Wolf & Company - AI & Automation Intern (Boston, MA) https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false · posted 2026-10-14
+- Atlassian - AI Researcher Intern (Seattle, WA, SF) https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job · posted 2026-10-26
+- Atlassian - AI Research Intern (SF) https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job · posted 2026-10-26
+- Alaska Air Group - Software Engineer Intern (SeaTac, WA) https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false · posted 2026-11-02
+- ViaSat - Software Engineer Intern (Germantown, MD) https://careers.viasat.com/jobs/7757?icims=1 · posted 2026-11-02
+- IDeaS - Software Developer Intern (Bloomington, MN) https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- General Dynamics Mission Systems - Software Engineer Intern (Colorado Springs, CO, Huntsville, AL) https://careers-gdms.icims.com/jobs/75040/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- Framatome - AI and Software Innovation Intern (Lynchburg, VA) https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- General Dynamics Mission Systems - Software Engineering Intern (Lakewood, OH) https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- General Dynamics Mission Systems - Systems Engineer Intern (Manassas, VA) https://careers-gdms.icims.com/jobs/75141/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- General Dynamics Mission Systems - Systems Engineer Intern - FCS Auxiliary and Training Systems (Pittsfield, MA) https://careers-gdms.icims.com/jobs/74988/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- General Dynamics Mission Systems - Engineer Intern - Infrastructure Hardware/Network (Pittsfield, MA) https://careers-gdms.icims.com/jobs/75025/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- Peraton - Cyber Research Intern (West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spring, MD, Bedford, NH) https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- Susquehanna International Group - Quantitative Strategy Developer New Grad (Bala Cynwyd, PA) https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false · posted 2026-08-19
+- General Dynamics Mission Systems - Systems Engineer (Pittsfield, MA) https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false · posted 2026-08-21
+- General Dynamics Mission Systems - Software Engineer - Entry Level (Manassas, VA) https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false · posted 2026-08-21
+- General Dynamics Mission Systems - Software Engineer - Crypto and Cross Domain Solutions (Scottsdale, AZ) https://careers-gdms.icims.com/jobs/74514/job?mobile=true&needsRedirect=false · posted 2026-08-26
+- General Dynamics Mission Systems - Software Engineer (Pittsfield, MA) https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false · posted 2026-09-01
+- Bluehawk - Exploitation Specialist - Data Scientist (Springfield, VA) https://careers-bluehawk.icims.com/jobs/2898/job?mobile=true&needsRedirect=false · posted 2026-09-02
+- Peraton - Software Engineer (Blacksburg, VA, Herndon, VA) https://careers-peraton.icims.com/jobs/169664/job?mobile=true&needsRedirect=false · posted 2026-09-09
+- Atlassian - Software Engineer New Grad - 2027 Graduate (Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada) https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job · posted 2026-09-09
+- Peraton - Systems Engineer Associate (St. Louis, MO) https://careers-peraton.icims.com/jobs/170471/job?mobile=true&needsRedirect=false · posted 2026-09-10
+- Peraton - Software Engineering - Associate (Herndon, VA) https://careers-peraton.icims.com/jobs/170478/job?mobile=true&needsRedirect=false · posted 2026-09-10
+- SRI International - Research Engineer 1 / 2 - Embedded Development Engineer (Boulder, CO) https://careers-sri.icims.com/jobs/6505/job?mobile=true&needsRedirect=false · posted 2026-09-11
+- Atlassian - Software Engineer (Seattle, WA) https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job · posted 2026-09-15
+- Charles Schwab - Associate Java Developer (Southlake, TX) https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false · posted 2026-09-15
+- Bruno Independent Living Aids - Junior Software Developer - AI Focus (Oconomowoc, WI) https://careers-bruno.icims.com/jobs/3336/job?mobile=true&needsRedirect=false · posted 2026-09-15
+- General Dynamics Mission Systems - Embedded Software Engineer (Salt Lake City, UT, Boise, ID) https://careers-gdms.icims.com/jobs/75011/job?mobile=true&needsRedirect=false · posted 2026-09-17
+- Framatome - Computer Science Engineer 1 - Cranberry Township (Cranberry Township, PA) https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false · posted 2026-09-23
+- Atlassian - Machine Learning Engineer - 2027 Graduate (Seattle, WA) https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job · posted 2026-09-24
+- Frontier Technology - Early Career Associate Data Scientist (Norfolk, VA) https://careers-ftidefense.icims.com/jobs/7093/job?mobile=true&needsRedirect=false · posted 2026-09-30
+- Frontier Technology - Associate Software Developer (Norfolk, VA) https://careers-ftidefense.icims.com/jobs/7096/job?mobile=true&needsRedirect=false · posted 2026-09-30
+- Atlassian - Data Scientist Graduate (Seattle, WA) https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job · posted 2026-09-30
+- iPipeline - Associate Software Development Engineer - Emerging Professionals (Fort Lauderdale, FL) https://careers-ipipeline.icims.com/jobs/1718/job?mobile=true&needsRedirect=false · posted 2026-10-02
+- RoviSys - Software Engineer/Developer (Thousand Oaks, CA) https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false · posted 2026-10-01
+- Atlassian - Data Engineer New Grad (Seattle, WA) https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job · posted 2026-10-05
+- Barrios - Software Developer 1 - Applications and Data (Houston, TX) https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false · posted 2026-10-05
+- General Dynamics Mission Systems - Embedded Software Engineer Entry Level (Bloomington, MN) https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false · posted 2026-10-07
+- Stifel - Developer – Credit Analytics (St. Louis, MO) https://careers-stifel.icims.com/jobs/10047/job?mobile=true&needsRedirect=false · posted 2026-10-09
+- FedWriters - Data Engineer (Arlington County, Arlington, VA) https://careers-fedwriters.icims.com/jobs/2536/job?mobile=true&needsRedirect=false · posted 2026-10-16
+- EBSCO - Software Developer Engineer 1 (Birmingham, AL) https://careers-ebscoind.icims.com/jobs/2112/job?mobile=true&needsRedirect=false · posted 2026-10-21
+- Prime Controls - Enterprise Automation Developer (Lewisville, TX) https://careers-primecontrols.icims.com/jobs/2282/job?mobile=true&needsRedirect=false · posted 2026-10-23
+- PeopleTec - Associate Data Integration & Software Specialist (Huntsville, AL) https://careers-peopletec.icims.com/jobs/5418/job?mobile=true&needsRedirect=false · posted 2026-10-22
+- Bcore - Junior Software Developer (Chantilly, VA, Vienna, VA) https://careers-bcore.icims.com/jobs/3253/job?mobile=true&needsRedirect=false · posted 2026-10-26
+- Atlassian - AI Researcher (Canada) https://campus-americas.icims.com/jobs/26074/ai-researcher-%28phd%29%2c-2027-graduate-canada/job · posted 2026-10-26
+- Yusen Logistics - IT Reporting Analyst 1 - Reports & Labels (Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX) https://careers-yusen-logistics.icims.com/jobs/6521/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- General Dynamics Mission Systems - Electrical Test Engineer Entry Level (Pittsfield, MA) https://careers-gdms.icims.com/jobs/74927/job?mobile=true&needsRedirect=false · posted 2026-11-05
