@@ -3035,3 +3035,4 @@
 - Ultra - Graduate Software Engineer (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-Software-Engineer_REQ-12499-2 · posted 2026-11-05
 - Ultra - FPGA/Firmware Engineer New Grad (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-3 · posted 2026-11-05
 - Google - Software Developer 2 – Early Career (Montreal, QC, Canada, Waterloo, ON, Canada) https://www.google.com/about/careers/applications/jobs/results/93868335938052806 · posted 2026-11-02
+- Microsoft - Stagiaire - Technicien de Centre de Données (TI) / Datacenter Technician - Intern (IT) (Canada, Québec, Quebec City) https://apply.careers.microsoft.com/careers/job/1970393557021552 · posted 2026-11-02
