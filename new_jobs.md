@@ -3025,3 +3025,4 @@
 - Anthropic - Anthropic Fellows Program - AI Safety (London, UK, SF, Ontario, Canada, Berkeley, CA, United States) https://job-boards.greenhouse.io/anthropic/jobs/5183044008 · posted 2026-04-10
 - Susquehanna International Group - Business Analytics AI Co-op (Bala Cynwyd, PA) https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false · posted 2026-10-15
 - Noblis - Data Science and Innovation Intern (Springfield, VA, Reston, VA) https://careers.noblis.org/jobs/28097?icims=1&lang=en-us · posted 2026-11-02
+- Normal Computing - AI Research Resident (Palo Alto, CA, London, UK, NYC) https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true · posted 2026-08-19
