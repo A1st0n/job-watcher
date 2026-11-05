@@ -2833,3 +2833,41 @@
 - GE Healthcare - Firmware Engineer (Waukesha, WI) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4049025-1 · posted 2026-11-04
 - Emerson Electric - Embedded Software Engineer - AI - Web (Marshalltown, IA) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465 · posted 2026-11-05
 - Capgemini - Software Technician (Atlanta, GA) https://careers.capgemini.com/job/Atlanta,-GA-Software-Technician-GA-30301/1450033033/?ats=successfactors · posted 2026-10-21
+- Smith+Nephew - Data Science Intern - AI Center of Excellence (Pittsburgh, PA) https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1 · posted 2026-09-17
+- Smith+Nephew - Robotics Software Engineer Intern (Pittsburgh, PA) https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482 · posted 2026-09-17
+- NCR Voyix - Software Engineer Fellow (Florida) https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700 · posted 2026-09-24
+- Boston Scientific - Software Development Engineer Intern (Waltham, MA) https://bostonscientific.eightfold.ai/careers/job/563602813567960 · posted 2026-09-24
+- Meta - Research Scientist Intern - Multimodal Behavioral AI (Redmond, WA) https://www.metacareers.com/jobs/1428978125312655 · posted 2026-10-20
+- Leidos - Software Engineering & AI Intern (Remote in USA, Shiloh, IL, Odenton, MD) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220 · posted 2026-11-04
+- Toyota Research Institute - Automated Driving Advanced Development Intern - Machine Learning Research (Los Altos, CA) https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply · posted 2026-11-05
+- Toyota Research Institute - Robotics Research Intern - Manipulation (Los Altos, CA) https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply · posted 2026-11-05
+- Constellation Brands - AI and Automation Engineering Intern (Rochester, NY) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655 · posted 2026-11-04
+- Toyota Research Institute - Human-Centered AI Research Intern - Human Language Models (Los Altos, CA) https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply · posted 2026-11-05
+- Bose - DSP/ML Research Engineer Intern (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371 · posted 2026-11-04
+- DataVisor - Software Engineer Intern (Remote in Canada) https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply · posted 2026-11-05
+- Bose - DSP/ML Research Engineer Co-op (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370 · posted 2026-11-04
+- PayPal - Machine Learning Engineer Intern (San Jose, CA) https://paypal.eightfold.ai/careers/job/274922983149 · posted 2026-11-05
+- PayPal - Software Engineer Intern (Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ) https://paypal.eightfold.ai/careers/job/274922982814 · posted 2026-11-05
+- Qualcomm - Machine Learning Engineering Intern (Markham, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446721969461 · posted 2026-11-05
+- Boston Scientific - Urology R&D Software Engineering Co-op (Marlborough, MA, Maple Grove, MN) https://bostonscientific.eightfold.ai/careers/job/563602813743813 · posted 2026-11-05
+- PayPal - Data Scientist Intern (San Jose, CA) https://paypal.eightfold.ai/careers/job/274922982821 · posted 2026-11-05
+- Zebra Technologies - Software Engineer Intern (Holtsville, NY) https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657 · posted 2026-11-04
+- Northrop Grumman - Software Engineer Co-op Intern (McClellan Park, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329 · posted 2026-11-04
+- Meta - Research Scientist Intern - Monetization Ranking & AI Foundations (Menlo Park, CA, Sunnyvale, CA) https://www.metacareers.com/jobs/1920724172670221 · posted 2026-11-05
+- Meta - Research Scientist Intern - Generative AI & Computational Photography (Redmond, WA) https://www.metacareers.com/jobs/2862704290847533 · posted 2026-11-05
+- Meta - Research Scientist Intern - AI Maps (Seattle, WA) https://www.metacareers.com/jobs/2439439363131036 · posted 2026-11-05
+- Meta - Research Scientist Intern - Generative AI (London, UK, Zürich, Switzerland) https://www.metacareers.com/jobs/1139996808441103 · posted 2026-11-05
+- Meta - ASIC EDA Infrastructure Engineer Intern (Sunnyvale, CA) https://www.metacareers.com/jobs/1883872846321140 · posted 2026-11-05
+- General Motors - Machine Learning Systems Engineer - Data Labeling Engineering (Sunnyvale, CA) https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939 · posted 2026-09-09
+- Paccar - Associate System Integration and Test Engineer (Mount Vernon, WA) https://jobs.paccar.com/job/Mount-Vernon-Associate-System-Integration-and-Test-Engineer-WA-98273-9671/1454445133/?ats=successfactors · posted 2026-11-05
+- Guidewire - Software Engineer (Exton, PA) https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1 · posted 2026-11-04
+- Myriad360 - Junior AI and Automation Engineer (Remote in USA) https://boards.greenhouse.io/myriad360/jobs/8930382002 · posted 2026-11-04
+- Cisco - Software Engineer Full Stack / Backend 1 (Houston, TX, Research Triangle Park, Durham, NC, Knoxville, TN, Nashville, TN, Austin, TX, Tampa, FL, Miami, FL, Irvine, CA, Colorado Springs, CO, Dallas, TX, Philadelphia, PA, Plano, TX, Boca Raton, FL, Chicago, IL, Boise, ID, Carlsbad, CA, Phoenix, AZ, Denver, CO, Atlanta, GA, San Diego, CA, Coral Gables, FL, Charleston, WV, Costa Mesa, CA) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784 · posted 2026-11-04
+- Rolls-Royce - Integrated Control Systems Engineer - Software (Indianapolis, IN) https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer--Software-_JR6162819 · posted 2026-11-04
+- Hardin Design - Entry Level Web Developer (Madison, WI) https://jobs.smartrecruiters.com/HardinDesign/744000159682070 · posted 2026-11-04
+- General Dynamics - Junior Systems Engineer - ISTAR (Ottawa, ON, Canada) https://jobs.smartrecruiters.com/GDMSI/744000159681119 · posted 2026-11-04
+- Draper - Software Engineer 1 (Cambridge, MA) https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Flight-Engr_JR003108 · posted 2026-11-04
+- Choice Hotels - Software Engineer 1 - Finance Technology (Scottsdale, AZ) https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514 · posted 2026-11-05
+- Vizient - Associate Software Engineer (Irving, TX) https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1 · posted 2026-11-04
+- Northrop Grumman - Associate Embedded Software Engineer (Roy, UT) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300 · posted 2026-11-04
+- Empower Pharmacy - Associate Software Engineer - Full Stack (Houston, TX) https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009 · posted 2026-11-04
