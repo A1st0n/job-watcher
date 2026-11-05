@@ -3091,3 +3091,4 @@
 - Lockheed Martin - Systems Engineer Intern (Palmdale, CA) https://lockheedmartin.eightfold.ai/careers/job/996477449180 · posted 2026-11-05
 - Microsoft - Copilot & AI Solution Engineer Intern (Belgium, Brussels Region, Brussels) https://apply.careers.microsoft.com/careers/job/1970393556998782 · posted 2026-09-15
 - Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00369515 · posted 2026-11-05
+- T-Mobile - Summer 2027 Software Engineering Internship (Atlanta, Georgia) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650 · posted 2026-11-05
