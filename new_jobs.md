@@ -2809,3 +2809,27 @@
 - RTX - Infrastructure Engineer I (Onsite) (US-UT-WEST VALLEY CITY-338 ~ 1127 & 1128 w 2400 S ~ BLDG 338) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521 · posted 2026-11-05
 - Applied Materials - Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA) (Santa Clara,CA) https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525 · posted 2026-10-29
 - Emerson - Software Engineering Intern (Shanghai, Shanghai, China) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013296 · posted 2026-11-05
+- BorgWarner - Software Engineer Intern (Auburn Hills, MI) https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1 · posted 2026-06-26
+- Microsoft - Data Scientist Intern (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556982928 · posted 2026-09-01
+- ASML - Machine Learning and Image-Based Metrics for EUV System Setup Intern (San Diego, CA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567 · posted 2026-11-04
+- Baird - Automation & AI Solutions Intern (Milwaukee, WI) https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1 · posted 2026-11-04
+- Wolters Kluwer - Front-End Developer Intern - Se (Sherbrooke, QC, Canada) https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874 · posted 2026-11-04
+- Wells Fargo - Software Engineer Intern (London, UK) https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607 · posted 2026-11-04
+- Samsung Research America - Robotics Lab Intern (Mountain View, CA) https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927812002 · posted 2026-11-04
+- SK hynix - Software Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009 · posted 2026-09-10
+- Extra Space Storage - Associate Software Engineer (Cottonwood Heights, UT) https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836 · posted 2026-11-04
+- Pacific Northwest National Laboratory - Early Career Software Engineer (Richland, WA) https://careers.pnnl.gov/jobs/12900?icims=1 · posted 2026-11-04
+- Turner & Townsend - Operations and Data Assistant - AI and Data Analyst (Charlotte, NC) https://jobs.smartrecruiters.com/TurnerTownsend/744000159691614 · posted 2026-11-04
+- Twitch - Software Development Engineer 1 - Security Platform (Seattle, WA) https://job-boards.greenhouse.io/twitch/jobs/8931343002 · posted 2026-11-04
+- Amazon - Software Developer Engineer 1 - Security Platform (Seattle, WA, SF, Irvine, CA) https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform · posted 2026-11-05
+- Cisco - Software Engineer Full Stack / Backend 1 (Austin, TX) https://careers.cisco.com/global/en/job/2028784 · posted 2026-11-05
+- Capital Health - IT Data Engineer 1 - IT Data Analytics (Lawrence Township, NJ) https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/IT-Data-Engineer-I---IT-DATA-ANALYTICS---Full-time---Day---Lawrenceville--NJ_JR111855 · posted 2026-11-04
+- Keysight Technologies - R&D Software Engineer - Sampling Oscilloscope Applications - DevOps (Santa Rosa, CA) https://jobs.keysight.com/jobs/55298?icims=1 · posted 2026-11-04
+- Keysight Technologies - Software Engineer-Semiconductor Technology - C#/.NET (Santa Rosa, CA) https://jobs.keysight.com/jobs/56448?icims=1 · posted 2026-11-05
+- Microchip Technology - Engineer 1 - Software (San Jose, CA) https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26 · posted 2026-11-04
+- Microsoft - Software Engineer (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556982635 · posted 2026-11-05
+- Intel - Compiler Engineer for AI Tile-based DSL (Toronto, ON, Canada) https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443 · posted 2026-11-04
+- Great American Insurance Company - Associate Application Analyst & Developer (Lakeland, FL) https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Associate-Application-Analyst---Developer_R9850-1 · posted 2026-11-04
+- GE Healthcare - Firmware Engineer (Waukesha, WI) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4049025-1 · posted 2026-11-04
+- Emerson Electric - Embedded Software Engineer - AI - Web (Marshalltown, IA) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465 · posted 2026-11-05
+- Capgemini - Software Technician (Atlanta, GA) https://careers.capgemini.com/job/Atlanta,-GA-Software-Technician-GA-30301/1450033033/?ats=successfactors · posted 2026-10-21
