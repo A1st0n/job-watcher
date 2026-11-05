@@ -2871,3 +2871,4 @@
 - Vizient - Associate Software Engineer (Irving, TX) https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1 · posted 2026-11-04
 - Northrop Grumman - Associate Embedded Software Engineer (Roy, UT) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300 · posted 2026-11-04
 - Empower Pharmacy - Associate Software Engineer - Full Stack (Houston, TX) https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009 · posted 2026-11-04
+- Intel - AI Software Engineering Intern (2 Locations) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineering-Intern_JR0288896 · posted 2026-11-05
