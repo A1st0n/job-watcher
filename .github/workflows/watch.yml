@@ -23,11 +23,14 @@ jobs:
           git config user.email job-watcher@users.noreply.github.com
           end=$(( $(date +%s) + 330*60 ))
           while :; do
-            git pull -q --rebase
+            git pull -q --rebase || true  # a GitHub hiccup here shouldn't end the loop
             python3 watcher.py || { sleep 60; python3 watcher.py; }  # one retry, then fail so GitHub emails you
             touch new_jobs.md
             git add seen.json boards.json new_jobs.md seeded.json current_openings.md
-            git diff --cached --quiet || { git commit -qm "Update state" && git pull -q --rebase -X theirs && git push -q; }  # -X theirs: on a seen.json clash keep this run's copy (it already holds every open job)
+            git diff --cached --quiet || git commit -qm "Update state"
+            # -X theirs: on a seen.json clash keep this run's copy (it already holds every open job).
+            # ponytail: 3 tries then carry on; an unpushed commit rides along with the next loop's push
+            for t in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 30; done || true
             [ $(( $(date +%s) + 900 )) -lt "$end" ] || break
             sleep 900
           done
