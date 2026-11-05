@@ -2880,3 +2880,16 @@
 - Lockheed Martin - Software Engineer - Intern (Aguadilla, PR) https://lockheedmartin.eightfold.ai/careers/job/996477266359 · posted 2026-11-02
 - Lockheed Martin - Embedded Software Engineer Intern (Grand Prairie, TX) https://lockheedmartin.eightfold.ai/careers/job/996477470450 · posted 2026-10-25
 - DXC - IT Engineer (Japanese Speaker) - Entry level (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Engineer--Japanese-Speaker----Entry-level_51588497 · posted 30+ days ago
+- Peraton - Mission Systems Software and Edge Computing Intern (Oklahoma) https://careers-peraton.icims.com/jobs/172378/job?mobile=true&needsRedirect=false · posted 2026-10-14
+- SDSU Research Foundation - Computer Science Intern (San Diego, CA) https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false · posted 2026-10-21
+- Peraton - Junior Software Engineer (Annapolis Junction, MD) https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false · posted 2026-05-29
+- Applied Systems, Inc. - Associate Software Engineer (Toronto, ON, Canada, Dallas, TX, Chicago, IL) https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false · posted 2026-07-06
+- PAM Health - AI Engineer (Plano, TX) https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false · posted 2026-08-10
+- Barrios - Software Developer (Houston, TX) https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false · posted 2026-08-07
+- ITA International - Junior Power Platform Developer (Remote in USA) https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false · posted 2026-08-14
+- ViaSat - Embedded Software Engineer - Secure Network Systems (Marlborough, MA, Tampa, FL, Tempe, AZ, Carlsbad, CA, Linthicum Heights, MD) https://careers.viasat.com/jobs/6722?icims=1 · posted 2026-08-19
+- Peraton - COBOL Software Developer (United States) https://careers-peraton.icims.com/jobs/169891/job?mobile=true&needsRedirect=false · posted 2026-08-21
+- SRI International - Test Engineer 1 (Princeton, NJ) https://careers-sri.icims.com/jobs/6439/job?mobile=true&needsRedirect=false · posted 2026-07-22
+- Peraton - Cloud Software Engineer 1 (Fort Meade, MD) https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- 84 Lumber - Associate Web Developer (Eighty Four, PA) https://careers.84lumber.com/jobs/26201?icims=1 · posted 2026-10-19
+- Everwatch - Junior Software Engineer (Annapolis Junction, MD) https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false · posted 2026-11-05
