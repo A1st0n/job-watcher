@@ -2806,3 +2806,4 @@
 - Lockheed Martin - Software Engineer Intern (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477757313 · posted 2026-11-04
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477502695 · posted 2026-10-27
 - Twitch - Software Dev Engineer I - Security Platform (Seattle, WA) https://job-boards.greenhouse.io/twitch/jobs/8931343002 · posted 2026-11-04
+- RTX - Infrastructure Engineer I (Onsite) (US-UT-WEST VALLEY CITY-338 ~ 1127 & 1128 w 2400 S ~ BLDG 338) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Infrastructure-Engineer-I--Onsite-_01887521 · posted 2026-11-05
