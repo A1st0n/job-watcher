@@ -3080,3 +3080,4 @@
 - Shield AI - June 2027 Co-Op - Software Engineer Intern (Dallas, Texas) https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949 · posted 2026-11-05
 - Sierra Nevada Corporation - Systems Engineer Intern (For SNC Summer 2026 Interns Only) (2 Locations) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Systems-Engineer-Intern--For-SNC-Summer-2026-Interns-Only-_R0031220 · posted 2026-11-05
 - Amazon - Software Development Engineer, Amazon Leo, Early Career - 2027 (US) (Redmond, Washington, USA) https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us · posted 2026-11-05
+- Microsoft - Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning (Canada, Québec, Montreal) https://apply.careers.microsoft.com/careers/job/1970393557040927 · posted 2026-10-14
