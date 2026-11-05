@@ -3112,3 +3112,25 @@
 - Amazon - Software Development Engineer – Early Career (Redmond, WA) https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us · posted 2026-11-05
 - Booz Allen - Software Sustainment Engineer - Software Developer (Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796 · posted 2026-11-05
 - WGU - Associate Software Engineer (Salt Lake City, UT) https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548 · posted 2026-11-05
+- AMD - 2027 Term 1 Internship – Developing AI & Data Science Solutions to Accelerate AMD's Product Development (Singapore, Singapore) https://globalcampus-amd.icims.com/jobs/91459/login · posted 2026-08-25
+- Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477501542 · posted 2026-11-05
+- Lockheed Martin - AI/ Supply Chain Intelligence Intern (Virtual Four, MI) https://lockheedmartin.eightfold.ai/careers/job/996477452684 · posted 2026-10-28
+- Zoox - Information Technology & Applications Intern [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558 · posted 2026-11-02
+- Zoox - Software Engineer Intern, Autonomy Software [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877 · posted 2026-10-30
+- Zoox - Software Engineer Intern, Software Platforms & Product [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520 · posted 2026-10-30
+- Zoox - Software Engineer Intern, Software Systems [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20 · posted 2026-10-30
+- RTX - Software Engineer Intern - Summer 2027 (Aurora, CO) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646 · posted 2026-09-09
+- Danaher - Supply Chain AI Co-op (Indiana) https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599 · posted 2026-10-26
+- Qualcomm - Driver and Tools Developer Intern - Telemetry Firmware (Markham, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446721989047 · posted 2026-11-05
+- SOTI - Software Developer Intern (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650 · posted 2026-11-05
+- Cintas - IT Intern – Engineer - Customer Channels (Mason, OH) https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors · posted 2026-11-05
+- State Farm - P&C Actuarial & Underwriting Modeling Intern - Data Scientist (Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL) https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us · posted 2026-11-05
+- Royal Bank of Canada - Quantitative Technology Services Co-op - Software Developer (Montreal, QC, Canada) https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3 · posted 2026-11-05
+- JM Family - Data Engineer Intern (Deerfield Beach, FL) https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086 · posted 2026-11-05
+- DwyerOmega - Software Engineer Intern (Westerville, OH) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548 · posted 2026-11-05
+- Riverside Research - Software Applications Intern (Fairborn, OH) https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false · posted 2026-11-05
+- RTX - Systems Engineering Co-op (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216 · posted 2026-11-05
+- Shield AI - Software Engineer Co-op Intern (Seattle, WA, Washington, DC, Dallas, TX, San Diego, CA) https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply · posted 2026-11-05
+- Nooks - Software Engineer Intern (SF) https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb/application?embed=true · posted 2026-11-05
+- Johns Hopkins Applied Physics Laboratory - Maritime Software Development Intern - Maritime Software Development - Ocean Systems and Engineering (Laurel, MD) https://careers.jhuapl.edu/jobs/60820?icims=1&lang=en-us · posted 2026-11-05
+- Fresenius Medical Care - Embedded Software Co-op (Lawrence, MA) https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960 · posted 2026-11-05
