@@ -3082,3 +3082,6 @@
 - Amazon - Software Development Engineer, Amazon Leo, Early Career - 2027 (US) (Redmond, Washington, USA) https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us · posted 2026-11-05
 - Microsoft - Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning (Canada, Québec, Montreal) https://apply.careers.microsoft.com/careers/job/1970393557040927 · posted 2026-10-14
 - Sierra Nevada Corporation - Firmware Engineer Intern (Summer 2027) (Sparks, NV) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233 · posted 2026-11-05
+- Cisco - Junior Software Engineer, Metadata Catalog - Splunk (Krakow, Poland) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Junior-Software-Engineer--Metadata-Catalog---Splunk_2027777 · posted 2026-11-05
+- Booz Allen - University – Summer 27, Cybersecurity Analyst Intern (McLean, VA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214 · posted 2026-11-05
+- Palantir - Software Engineer, Internship - Sovereign AI Systems (New York, NY) https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312 · posted 2026-11-05
