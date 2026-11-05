@@ -3100,3 +3100,15 @@
 - Lockheed Martin - Embedded Software Engineer Intern - Summer 2027 (Huntsville, AL, Sunnyvale, CA, Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477363502 · posted 2026-11-03
 - State Farm - Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist (Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia) https://careers-statefarm.icims.com/jobs/46227/login · posted 2026-11-05
 - SAIC - Junior Azure Cloud Administrator (Rockville, MD, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618864 · posted 2026-11-05
+- Lockheed Martin - Mechanical Test Engineer-INTERN (Cape Canaveral, FL) https://lockheedmartin.eightfold.ai/careers/job/996477635668 · posted 2026-11-03
+- Medtronic - Software Quality Engineer I (2 Locations) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1 · posted 2026-11-05
+- L3Harris Technologies - Associate Systems Engineer (Plano, TX) https://jobs.l3harris.com/job/Plano-Associate,-Systems-Engineering-TX-75074/1437945300/?ats=successfactors · posted 2026-10-07
+- Ultima Genomics - Firmware Engineer 1 (Fremont, CA) https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004 · posted 2026-11-05
+- Bristol Myers Squibb - Data Engineer - Clinical Operations (Princeton, NJ) https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1 · posted 2026-11-05
+- Persimmons.ai - Design Verification Engineer New Grad - AI-Driven (San Jose, CA) https://apply.workable.com/persimmons-ai/j/E8AF3CDFB3/apply · posted 2026-11-05
+- neurohire.ai - Software AI Engineer (Remote in USA) https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply · posted 2026-11-05
+- Johnson Controls - Nextgen Software Engineer (Milwaukee, WI, Westford, MA) https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369-2 · posted 2026-11-05
+- Amazon - Software Development Engineer – Early Career - Embedded Systems (Redmond, WA, Northridge, LA) https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us · posted 2026-11-05
+- Amazon - Software Development Engineer – Early Career (Redmond, WA) https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us · posted 2026-11-05
+- Booz Allen - Software Sustainment Engineer - Software Developer (Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796 · posted 2026-11-05
+- WGU - Associate Software Engineer (Salt Lake City, UT) https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548 · posted 2026-11-05
