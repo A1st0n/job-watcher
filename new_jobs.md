@@ -3057,3 +3057,14 @@
 - Hearst - Software Engineer Intern (Carmel, IN) https://job-boards.greenhouse.io/hearst/jobs/4466334009 · posted 2026-11-05
 - Ultra Intelligence and Communications - Graduate Software Engineer (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-Software-Engineer_REQ-12499-1 · posted 2026-11-05
 - Ultra Intelligence and Communications - FPGA/Firmware Engineer New Grad (Maidenhead, UK) https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Maidenhead-GBR/Graduate-FPGA-Firmware-Engineer_REQ-12553-2 · posted 2026-11-05
+- Mastercard - Site Reliability Engineer I (O'Fallon, Missouri) https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Site-Reliability-Engineer-I_R-292697-1 · posted 2026-11-05
+- RTX - Internship – Raytheon Systems Security Engineer -Onsite (US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702 · posted 2026-11-05
+- TSC - Software Engineer 1 (Plymouth, MA) https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915 · posted 2026-11-05
+- Cisive - Associate Software Developer (Maryland) https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1 · posted 2026-11-05
+- CACI - Junior Software Developer (Remote in USA) https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685 · posted 2026-11-05
+- TD Bank - Associate Software Engineer (London, ON, Canada) https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer_R_1520502 · posted 2026-11-05
+- Ciena - Software Design/Engineer New Grad (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059 · posted 2026-11-05
+- Pfizer - Associate AI Engineering (United Kingdom) https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818 · posted 2026-11-05
+- PA Consulting - Software Development Apprentice - Digital (London, UK) https://jobs.smartrecruiters.com/PAConsulting/744000159900154 · posted 2026-11-05
+- RTX - Software Engineer 1 (Tewksbury, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1 · posted 2026-11-05
+- EquipmentShare - Junior Ecommerce Web Developer (Columbia, MO) https://www.equipmentshare.com/careers/openings/?gh_jid=8319404 · posted 2026-11-05
