@@ -3173,3 +3173,7 @@
 - ASM International - Product Intelligence Engineering Intern - AI/ML (Phoenix, AZ) https://www.asm.com/open-vacancies/?gh_jid=5029228101 · posted 2026-11-06
 - Amazon - Software Development Engineer - SoC Hardware Abstraction Layer (Cupertino, CA) https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal · posted 2026-11-06
 - NXP - Internship: Software Toolchain & Debugger Development (f/m/d) (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613 · posted 2026-11-06
+- Lockheed Martin - Systems Engineering - Intern (Palmdale, CA) https://lockheedmartin.eightfold.ai/careers/job/996477806176 · posted 2026-11-06
+- Lockheed Martin - Software Developer Intern (Boulder, CO) https://lockheedmartin.eightfold.ai/careers/job/996477806702 · posted 2026-11-06
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477385715 · posted 2026-10-26
+- Lockheed Martin - Systems Engineering Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477456336 · posted 2026-10-26
