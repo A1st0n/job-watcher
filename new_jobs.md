@@ -3233,3 +3233,5 @@
 - Charles Schwab - Associate Software Development & Engineering (Austin, TX, Southlake, TX) https://career-schwab.icims.com/jobs/129593/job?mobile=true&needsRedirect=false · posted 2026-11-06
 - RTX - Software Platform Engineer I (Onsite) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Engineer-I--Onsite-_01888024 · posted 2026-11-06
 - Motorola Solutions - Software Presales Enablement Intern - Summer Internship 2027 (Illinois Remote Work, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228 · posted 2026-11-06
+- Notion - Software Engineering Intern, Frontend (Summer 2027) (New York, New York) https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413 · posted 2026-11-06
+- Notion - Software Engineering Intern, iOS (Summer 2027) (New York, New York) https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947 · posted 2026-11-06
