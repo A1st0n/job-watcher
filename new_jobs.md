@@ -3182,3 +3182,4 @@
 - Nvidia - System Software Intern, Embedded Power Management - 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153 · posted 2026-11-06
 - GE Aerospace - SaaS - Flight Analytics Platform - Data Science Co-op - Spring 2027 (Austin) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2 · posted 30+ days ago
 - Ryan - Software Engineer Intern (North York, ON, Canada) https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1 · posted 2026-10-29
+- RTX - Systems Engineer 1 - Open Systems Solutions (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I_01887271 · posted 2026-11-05
