@@ -3179,3 +3179,6 @@
 - Lockheed Martin - Systems Engineering Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477456336 · posted 2026-10-26
 - HPE - AI and Data Intern (Las Rozas, Madrid, Spain) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1 · posted 2026-11-06
 - Triumph - Software Engineer - Multiple Teams (Mountain View, CA) https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true · posted 2026-10-09
+- Nvidia - System Software Intern, Embedded Power Management - 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153 · posted 2026-11-06
+- GE Aerospace - SaaS - Flight Analytics Platform - Data Science Co-op - Spring 2027 (Austin) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2 · posted 30+ days ago
+- Ryan - Software Engineer Intern (North York, ON, Canada) https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1 · posted 2026-10-29
