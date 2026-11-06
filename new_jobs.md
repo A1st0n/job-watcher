@@ -3165,3 +3165,4 @@
 - Zoox - Software Engineer Intern - Software Systems (Foster City, CA) https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply · posted 2026-11-06
 - Zoox - Software Engineer Intern - Software Platforms & Product (Foster City, CA) https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply · posted 2026-11-06
 - Zoox - Software Engineer Intern - Autonomy Software (Foster City, CA) https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply · posted 2026-11-06
+- Lockheed Martin - Software Engineer-INTERN (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477786176 · posted 2026-11-05
