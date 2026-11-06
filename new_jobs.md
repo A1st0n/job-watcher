@@ -3167,3 +3167,4 @@
 - Zoox - Software Engineer Intern - Autonomy Software (Foster City, CA) https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply · posted 2026-11-06
 - Lockheed Martin - Software Engineer-INTERN (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477786176 · posted 2026-11-05
 - Nvidia - AI Developer Technology Engineering Intern - 2027 (3 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818 · posted 2026-11-06
+- Microsoft - Cloud Solution Architect - Erada Internship (Qatar, Ad Dawḩah, Doha) https://apply.careers.microsoft.com/careers/job/1970393556942310 · posted 2026-10-12
