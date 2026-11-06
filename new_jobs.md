@@ -3239,3 +3239,4 @@
 - Chewy - Software Engineer I, Full Stack, Promotions (Boston, MA) https://chewy.wd5.myworkdayjobs.com/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442 · posted 2026-11-06
 - Lila Sciences - Co-op, AI for Protein Design (San Francisco, CA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4480337009 · posted 2026-11-06
 - Leidos - AI/Automation Development Intern - Assessment & Authorization (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319 · posted 2026-11-06
+- T-Mobile - Summer 2027 AI Strategist Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279 · posted 2026-11-06
