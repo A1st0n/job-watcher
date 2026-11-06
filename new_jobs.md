@@ -3183,3 +3183,5 @@
 - GE Aerospace - SaaS - Flight Analytics Platform - Data Science Co-op - Spring 2027 (Austin) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2 · posted 30+ days ago
 - Ryan - Software Engineer Intern (North York, ON, Canada) https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1 · posted 2026-10-29
 - RTX - Systems Engineer 1 - Open Systems Solutions (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I_01887271 · posted 2026-11-05
+- CACI - AI/ML Engineering Co-op - Spring 2027 (King of Prussia, PA, US) https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1 · posted 2026-11-06
+- CACI - Software Engineering Co-op - Spring 2027 (King of Prussia, PA, US) https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665 · posted 2026-11-06
