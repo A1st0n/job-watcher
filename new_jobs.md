@@ -3188,3 +3188,5 @@
 - Cisco - Junior Platform Software Engineer (Go or Python), Core Platform - Splunk (Krakow, Poland) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Junior-Platform-Software-Engineer--Go-or-Python---Core-Platform---Splunk_2030345 · posted 2026-11-06
 - CACI - Junior Boundary Systems Engineer (2 Locations) https://caci.wd1.myworkdayjobs.com/External/job/Linthicum-MD-US/Junior-Boundary-Systems-Engineer_334745 · posted 2026-11-06
 - Bosch - Motorsport Software and Data Analytics Graduate Intern  (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000160208440 · posted 2026-11-06
+- Lockheed Martin - Systems Engineer-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477427795 · posted 2026-10-26
+- Match Group - Data Science Internship (Ghent, Belgium) https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870 · posted 2026-11-06
