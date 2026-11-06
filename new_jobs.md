@@ -3168,3 +3168,5 @@
 - Lockheed Martin - Software Engineer-INTERN (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477786176 · posted 2026-11-05
 - Nvidia - AI Developer Technology Engineering Intern - 2027 (3 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818 · posted 2026-11-06
 - Microsoft - Cloud Solution Architect - Erada Internship (Qatar, Ad Dawḩah, Doha) https://apply.careers.microsoft.com/careers/job/1970393556942310 · posted 2026-10-12
+- American Express - Infrastructure Engineer I (Bengaluru, KA, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016004 · posted 2026-11-06
+- GM - 2027 Summer Intern, AI Research, Embodied AI (Masters) (Sunnyvale, California, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535 · posted 2026-10-16
