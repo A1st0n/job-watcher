@@ -3134,3 +3134,19 @@
 - Nooks - Software Engineer Intern (SF) https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb/application?embed=true · posted 2026-11-05
 - Johns Hopkins Applied Physics Laboratory - Maritime Software Development Intern - Maritime Software Development - Ocean Systems and Engineering (Laurel, MD) https://careers.jhuapl.edu/jobs/60820?icims=1&lang=en-us · posted 2026-11-05
 - Fresenius Medical Care - Embedded Software Co-op (Lawrence, MA) https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960 · posted 2026-11-05
+- Apex - Software Engineer Intern - Embedded Systems (LA) https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true · posted 2026-09-03
+- Apex - Ground Software Intern - Spring or Summer 2027 (LA) https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true · posted 2026-09-03
+- J.M. Smucker - Data Science Intern (Remote in USA) https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118 · posted 2026-11-05
+- T-Mobile - Software Engineer Intern (Atlanta, GA) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650 · posted 2026-11-05
+- Legrand - Firmware Engineer Intern (Reno, NV) https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809 · posted 2026-11-05
+- Bank of Montreal - Machine Learning Developer Intern Co-op (Toronto, ON, Canada) https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620 · posted 2026-11-05
+- JP Morgan Chase - Machine Learning Intern - NLP (London, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793 · posted 2026-11-05
+- Palantir - Software Engineer Intern - Sovereign AI Systems (London, UK) https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e/apply · posted 2026-11-05
+- Toyota Research Institute - Robotics Intern - Human-Robot Interaction (Cambridge, MA) https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642/apply · posted 2026-11-05
+- Sierra Nevada Corporation - Firmware Engineer Intern (Sparks, NV) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233 · posted 2026-11-05
+- V2X - AI Engineering Intern (Indianapolis, IN) https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us · posted 2026-11-05
+- V2X - AI Engineer Intern (Indianapolis, IN) https://careers.gov2x.com/jobs/63948?icims=1&lang=en-us · posted 2026-11-05
+- Shield AI - Software Engineer Intern Co-op (Dallas, TX) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true · posted 2026-11-05
+- Lumbermen's - Software Developer Intern (Grand Rapids, MI) https://job-boards.greenhouse.io/lumbermens/jobs/5474346008 · posted 2026-11-05
+- AstraZeneca - Manufacturing Digital and AI Intern (Gaithersburg, MD) https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647 · posted 2026-11-05
+- Acumatica - Developer Intern (Montreal, QC, Canada) https://jobs.smartrecruiters.com/Acumatica/744000159911799 · posted 2026-11-05
