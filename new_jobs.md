@@ -3158,3 +3158,4 @@
 - Capital Automotive Group - AI & Data Systems Specialist (Regina, SK, Canada) https://capitalauto.wd3.myworkdayjobs.com/capitalautogroupcareers/job/Regina-SK/AI---Data-Systems-Specialist_R3010 · posted 2026-11-05
 - StubHub - Software Engineer New Grad - Consumer Experience (NYC) https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101 · posted 2026-11-05
 - Connecticut State Community College - Web Developer (Hartford, CT) https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer · posted 2026-11-05
+- American Express - Software Engineer I (Sunrise, FL, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016174 · posted 2026-11-06
