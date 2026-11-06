@@ -3172,3 +3172,4 @@
 - GM - 2027 Summer Intern, AI Research, Embodied AI (Masters) (Sunnyvale, California, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI--Masters-_JR-202622535 · posted 2026-10-16
 - ASM International - Product Intelligence Engineering Intern - AI/ML (Phoenix, AZ) https://www.asm.com/open-vacancies/?gh_jid=5029228101 · posted 2026-11-06
 - Amazon - Software Development Engineer - SoC Hardware Abstraction Layer (Cupertino, CA) https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal · posted 2026-11-06
+- NXP - Internship: Software Toolchain & Debugger Development (f/m/d) (Gratkorn) https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613 · posted 2026-11-06
