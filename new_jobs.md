@@ -3185,3 +3185,4 @@
 - RTX - Systems Engineer 1 - Open Systems Solutions (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I_01887271 · posted 2026-11-05
 - CACI - AI/ML Engineering Co-op - Spring 2027 (King of Prussia, PA, US) https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1 · posted 2026-11-06
 - CACI - Software Engineering Co-op - Spring 2027 (King of Prussia, PA, US) https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665 · posted 2026-11-06
+- Cisco - Junior Platform Software Engineer (Go or Python), Core Platform - Splunk (Krakow, Poland) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Junior-Platform-Software-Engineer--Go-or-Python---Core-Platform---Splunk_2030345 · posted 2026-11-06
