@@ -3177,3 +3177,4 @@
 - Lockheed Martin - Software Developer Intern (Boulder, CO) https://lockheedmartin.eightfold.ai/careers/job/996477806702 · posted 2026-11-06
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477385715 · posted 2026-10-26
 - Lockheed Martin - Systems Engineering Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477456336 · posted 2026-10-26
+- HPE - AI and Data Intern (Las Rozas, Madrid, Spain) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1 · posted 2026-11-06
