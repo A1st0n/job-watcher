@@ -3150,3 +3150,11 @@
 - Lumbermen's - Software Developer Intern (Grand Rapids, MI) https://job-boards.greenhouse.io/lumbermens/jobs/5474346008 · posted 2026-11-05
 - AstraZeneca - Manufacturing Digital and AI Intern (Gaithersburg, MD) https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647 · posted 2026-11-05
 - Acumatica - Developer Intern (Montreal, QC, Canada) https://jobs.smartrecruiters.com/Acumatica/744000159911799 · posted 2026-11-05
+- Northrop Grumman - Software Engineer (Manhattan Beach, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178 · posted 2026-08-21
+- Early Warning - Software Engineer - Java - Paze (SF, Chicago, IL, Scottsdale, AZ) https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933 · posted 2026-09-29
+- Microsoft - Software Engineering - Commercial Engineering & AI - Ceai (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556914839 · posted 2026-09-14
+- BetterHelp - Data Science Extern (Remote in USA) https://job-boards.greenhouse.io/betterhelpcom/jobs/5439919008 · posted 2026-11-05
+- Regeneron Pharmaceuticals - Data Analyst - Quality Assurance (Troy, NY) https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Data-Analyst--Quality-Assurance_R52701 · posted 2026-11-05
+- Capital Automotive Group - AI & Data Systems Specialist (Regina, SK, Canada) https://capitalauto.wd3.myworkdayjobs.com/capitalautogroupcareers/job/Regina-SK/AI---Data-Systems-Specialist_R3010 · posted 2026-11-05
+- StubHub - Software Engineer New Grad - Consumer Experience (NYC) https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101 · posted 2026-11-05
+- Connecticut State Community College - Web Developer (Hartford, CT) https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer · posted 2026-11-05
