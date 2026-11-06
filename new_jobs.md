@@ -3235,3 +3235,5 @@
 - Motorola Solutions - Software Presales Enablement Intern - Summer Internship 2027 (Illinois Remote Work, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228 · posted 2026-11-06
 - Notion - Software Engineering Intern, Frontend (Summer 2027) (New York, New York) https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413 · posted 2026-11-06
 - Notion - Software Engineering Intern, iOS (Summer 2027) (New York, New York) https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947 · posted 2026-11-06
+- Salesforce - Summer 2027 Intern - Applied AI Strategy & Research (California - San Francisco) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1 · posted 2026-11-06
+- Chewy - Software Engineer I, Full Stack, Promotions (Boston, MA) https://chewy.wd5.myworkdayjobs.com/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442 · posted 2026-11-06
