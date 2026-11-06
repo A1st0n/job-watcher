@@ -3245,3 +3245,37 @@
 - Trimble - AI Automation Intern (2 Locations) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148 · posted 2026-11-06
 - Astranis - Embedded Software Developer, Network/Payload Intern (Winter 2027) (San Francisco) https://job-boards.greenhouse.io/astranis/jobs/4704571006 · posted 2026-11-06
 - Varda Space - Site Reliability Internship - Summer 2027 (El Segundo, California, United States) https://job-boards.greenhouse.io/vardaspace/jobs/8198267003 · posted 2026-11-06
+- Zoox - Data Science Intern [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97 · posted 2026-11-06
+- Danaher - Firmware Engineer Co-op (Indianapolis, IN) https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509 · posted 2026-11-06
+- SharkNinja - Applied AI & Analytics Co-op (Miami, FL, Needham, MA, NYC) https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006 · posted 2026-11-06
+- KLA Corporation - Software Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642954-1 · posted 2026-11-06
+- Helical - Machine Learning Intern (London, UK) https://apply.workable.com/helical/j/88990169F9/apply · posted 2026-11-06
+- Duolingo - AI Research Intern (Pittsburgh, PA, NYC) https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002 · posted 2026-11-06
+- KLA - Software Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642954 · posted 2026-11-06
+- Waymo - Machine Learning Intern - Generative World Models & Controllable Simulation (Mountain View, CA) https://careers.withwaymo.com/jobs?gh_jid=8351210 · posted 2026-11-06
+- Trimble - AI Automation Intern (Dayton, OH, Westminster, CO) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148 · posted 2026-11-06
+- Astranis - Embedded Software Developer – Network/Payload Software Intern (SF) https://job-boards.greenhouse.io/astranis/jobs/4704571006 · posted 2026-11-06
+- Docusign - Agentic AI Engineer Intern (SF) https://careers.docusign.com/jobs/30587?icims=1&lang=en-us · posted 2026-11-06
+- Samsung - AI Data Analyst Intern (Plano, TX) https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1 · posted 2026-11-06
+- Hootsuite - Software Developer Co-op Intern (Toronto, ON, Canada, Vancouver, BC, Canada) https://job-boards.greenhouse.io/hootsuite/jobs/8360176 · posted 2026-11-06
+- Mistral AI - AI Scientist Intern (London, UK, Paris, France, Warsaw, Poland, Zürich, Switzerland) https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97/application?embed=true · posted 2026-11-06
+- Leidos - AI/Automation Development Intern - Assessment & Authorization (Remote in USA) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319 · posted 2026-11-06
+- DataRobot - Software Design Engineer Intern (Boston, MA, Seattle, WA, SF, Ontario, Canada) https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764 · posted 2026-11-06
+- The New York Times - Backend Engineer Intern (NYC) https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005 · posted 2026-11-06
+- The New York Times - Full-Stack Engineer Intern (NYC) https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005 · posted 2026-11-06
+- The New York Times - Frontend Engineer Intern (NYC) https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005 · posted 2026-11-06
+- Hewlett Packard Enterprise - Storage Systems/Software Engineer (Andover, MA) https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626 · posted 2026-10-08
+- Genesys - Associate Software Developer (Prince Edward Island, Canada, Toronto, ON, Canada, Newfoundland and Labrador, Canada, New Brunswick, Canada, Ontario, Canada, Nova Scotia, Canada) https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Toronto-Flexible/Associate-Software-Developer_JR112811 · posted 2026-11-06
+- Prosync - Software Engineer 0/1 (Annapolis Junction, MD) https://apply.workable.com/prosync/j/6ECFBED6E7/apply · posted 2026-11-06
+- Valsoft - AI Engineer 1 (Montreal, QC, Canada) https://apply.workable.com/valsoft-corp/j/D0C585CAB5/apply · posted 2026-11-06
+- Lawrence Livermore National Laboratory (LLNL) - Super Intelligence Platform Integration Engineer (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016713536 · posted 2026-11-06
+- The Brattle Group - Data and AI Engineer (SF) https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005 · posted 2026-11-06
+- Qualcomm - AI and DSP Applications Software Engineer - Machine Learning Engineering (Markham, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446722003218 · posted 2026-11-06
+- Elevation Autism Center - Software Engineer - AI & Workflow Automation (Alpharetta, GA) https://apply.workable.com/elevation-autism-center/j/B5CCC7D40B/apply · posted 2026-11-06
+- Orbital - AI Ops Engineer - GTM (NYC) https://jobs.ashbyhq.com/orbital/c611ac8a-86f8-4962-b4dd-0832bc352c4f/application?embed=true · posted 2026-11-06
+- CACI - Data Engineering/Analytics Support (Norco, CA) https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Engineering-Analytics-Support_334800 · posted 2026-11-06
+- Pendar Technologies - Scientific Software Engineer - Algorithms (Cambridge, MA) https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008 · posted 2026-11-06
+- Ciena - Embedded Security Software Developer New Grad (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066 · posted 2026-11-06
+- Charles Schwab - Associate Software Engineer (Austin, TX) https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false · posted 2026-11-06
+- Charles Schwab - Junior Software Developer (Austin, TX, Omaha, NE) https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false · posted 2026-11-06
+- Cook Group - Software Engineer 1 - Full-Stack (Indianapolis, IN, West Lafayette, IN, Bloomington, IN) https://americas-cookmedical.icims.com/jobs/20446/job?mobile=true&needsRedirect=false · posted 2026-11-06
