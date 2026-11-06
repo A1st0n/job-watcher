@@ -3190,3 +3190,8 @@
 - Bosch - Motorsport Software and Data Analytics Graduate Intern  (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000160208440 · posted 2026-11-06
 - Lockheed Martin - Systems Engineer-Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477427795 · posted 2026-10-26
 - Match Group - Data Science Internship (Ghent, Belgium) https://jobs.lever.co/matchgroup/72a9642b-a289-4c49-bc9b-53880c1dc870 · posted 2026-11-06
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472545 · posted 2026-10-28
+- Motorola Solutions - Intern Software Developer (C/C++) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R70024 · posted 2026-11-06
+- Match Group - Backend Engineer Intern (Palo Alto, California) https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3 · posted 2026-11-06
+- Match Group - Data Scientist Intern (San Francisco, California) https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff · posted 2026-11-06
+- Match Group - Machine Learning Engineer Intern (Palo Alto, California) https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72 · posted 2026-11-06
