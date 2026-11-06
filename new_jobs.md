@@ -3244,3 +3244,4 @@
 - Abbott - Software Quality Engineer I (United States - California - Sylmar) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31165508-1 · posted 2026-11-06
 - Trimble - AI Automation Intern (2 Locations) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148 · posted 2026-11-06
 - Astranis - Embedded Software Developer, Network/Payload Intern (Winter 2027) (San Francisco) https://job-boards.greenhouse.io/astranis/jobs/4704571006 · posted 2026-11-06
+- Varda Space - Site Reliability Internship - Summer 2027 (El Segundo, California, United States) https://job-boards.greenhouse.io/vardaspace/jobs/8198267003 · posted 2026-11-06
