@@ -3195,3 +3195,6 @@
 - Match Group - Backend Engineer Intern (Palo Alto, California) https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3 · posted 2026-11-06
 - Match Group - Data Scientist Intern (San Francisco, California) https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff · posted 2026-11-06
 - Match Group - Machine Learning Engineer Intern (Palo Alto, California) https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72 · posted 2026-11-06
+- Intel - Software Design Engineer Intern for Physical Design (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937 · posted 2026-11-06
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477474126 · posted 2026-11-05
+- Rivian - UIUC Research Park Intern - ML AI Motor Controls Algorithm (Champaign, Illinois) https://us-careers-rivian.icims.com/jobs/35896/login · posted 2026-11-06
