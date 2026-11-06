@@ -3200,3 +3200,11 @@
 - Rivian - UIUC Research Park Intern - ML AI Motor Controls Algorithm (Champaign, Illinois) https://us-careers-rivian.icims.com/jobs/35896/login · posted 2026-11-06
 - State Street - Software Engineer (Cyber Security) Early Career Entry Program 2027 (Kilkenny, Ireland) https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Software-Engineer--Cyber-Security--Early-Career-Entry-Program-2027_R-800609-1 · posted 2026-11-06
 - T-Mobile - Summer 2027 Software Engineering Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734 · posted 2026-11-06
+- Motorola Solutions - Intern Software Developer C/C++ (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-C--_R70432 · posted 2026-11-06
+- Tinder - Backend Engineer Intern (Palo Alto, CA, LA) https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply · posted 2026-11-06
+- Tinder - Data Scientist Intern (SF) https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply · posted 2026-11-06
+- Tinder - Machine Learning Engineer Intern (Palo Alto, CA) https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply · posted 2026-11-06
+- Robert Bosch Venture Capital - Motorsport Software and Data Analytics Graduate Intern (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000160208440 · posted 2026-11-06
+- Amazon - Software Development Engineer Apprentice (London, UK) https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract · posted 2026-11-06
+- Pennsylvania State University - Research Assistant Intern - Large Language Models and AI for Data Analysis (University Park, State College, PA) https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-Positions---LLMs-and-AI-for-Data-Analysis--Spring-2027-_REQ_0000084012-1 · posted 2026-11-06
+- neurohire.ai - Data Scientist (Remote in USA) https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply · posted 2026-11-06
