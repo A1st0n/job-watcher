@@ -3198,3 +3198,4 @@
 - Intel - Software Design Engineer Intern for Physical Design (m/f/d) (Germany, Munich) https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937 · posted 2026-11-06
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477474126 · posted 2026-11-05
 - Rivian - UIUC Research Park Intern - ML AI Motor Controls Algorithm (Champaign, Illinois) https://us-careers-rivian.icims.com/jobs/35896/login · posted 2026-11-06
+- State Street - Software Engineer (Cyber Security) Early Career Entry Program 2027 (Kilkenny, Ireland) https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Software-Engineer--Cyber-Security--Early-Career-Entry-Program-2027_R-800609-1 · posted 2026-11-06
