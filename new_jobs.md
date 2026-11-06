@@ -3161,3 +3161,7 @@
 - American Express - Software Engineer I (Sunrise, FL, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016174 · posted 2026-11-06
 - Etched - Infrastructure Engineering & Projects Intern (San Jose) https://jobs.ashbyhq.com/etched/1a92048c-60e0-445b-a84e-8f008f1cf47b · posted 2026-11-06
 - Light & Wonder - Software Engineer Intern (Reno, NV) https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885 · posted 2026-11-06
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477493228 · posted 2026-11-02
+- Zoox - Software Engineer Intern - Software Systems (Foster City, CA) https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply · posted 2026-11-06
+- Zoox - Software Engineer Intern - Software Platforms & Product (Foster City, CA) https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply · posted 2026-11-06
+- Zoox - Software Engineer Intern - Autonomy Software (Foster City, CA) https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply · posted 2026-11-06
