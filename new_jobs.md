@@ -3238,3 +3238,4 @@
 - Salesforce - Summer 2027 Intern - Applied AI Strategy & Research (California - San Francisco) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1 · posted 2026-11-06
 - Chewy - Software Engineer I, Full Stack, Promotions (Boston, MA) https://chewy.wd5.myworkdayjobs.com/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442 · posted 2026-11-06
 - Lila Sciences - Co-op, AI for Protein Design (San Francisco, CA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4480337009 · posted 2026-11-06
+- Leidos - AI/Automation Development Intern - Assessment & Authorization (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319 · posted 2026-11-06
