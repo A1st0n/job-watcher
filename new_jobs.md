@@ -3199,3 +3199,4 @@
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477474126 · posted 2026-11-05
 - Rivian - UIUC Research Park Intern - ML AI Motor Controls Algorithm (Champaign, Illinois) https://us-careers-rivian.icims.com/jobs/35896/login · posted 2026-11-06
 - State Street - Software Engineer (Cyber Security) Early Career Entry Program 2027 (Kilkenny, Ireland) https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Software-Engineer--Cyber-Security--Early-Career-Entry-Program-2027_R-800609-1 · posted 2026-11-06
+- T-Mobile - Summer 2027 Software Engineering Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734 · posted 2026-11-06
