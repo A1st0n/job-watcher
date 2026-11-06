@@ -3208,3 +3208,26 @@
 - Amazon - Software Development Engineer Apprentice (London, UK) https://amazon.jobs/en/jobs/10598608/software-development-engineer-apprentice-42-month-fixed-term-contract · posted 2026-11-06
 - Pennsylvania State University - Research Assistant Intern - Large Language Models and AI for Data Analysis (University Park, State College, PA) https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-Positions---LLMs-and-AI-for-Data-Analysis--Spring-2027-_REQ_0000084012-1 · posted 2026-11-06
 - neurohire.ai - Data Scientist (Remote in USA) https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply · posted 2026-11-06
+- Nvidia - System Software Engineer Intern, Autonomous Vehicles - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172 · posted 2026-11-06
+- Nvidia - System Software Engineer Intern - Autonomous Vehicles – 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern---Autonomous-Vehicles---2027_JR2028135 · posted 2026-11-06
+- T-Mobile - Summer 2027 Software Engineering Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757 · posted 2026-11-06
+- T-Mobile - Summer 2027 Software Engineer HR Data Products Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766 · posted 2026-11-06
+- T-Mobile - Summer 2027 AI Engineering Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765 · posted 2026-11-06
+- T-Mobile - Summer 2027 Data Engineering Internship (2 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754 · posted 2026-11-06
+- KLA - Software Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1 · posted 2026-11-06
+- Booz Allen - Test Engineer Intern (Lexington Park, MD) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0253124 · posted 2026-11-06
+- Nationwide - Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level () https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567
+- Nasdaq - Junior Software Engineer (Lithuania - Vilnius) https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/Junior-Software-Engineer_R0026959-1 · posted 2026-11-06
+- Danaher - Firmware Engineer Co-op (Indianapolis, Indiana, United States) https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509 · posted 2026-11-06
+- Samsara - Software Engineering Internship - San Francisco  (San Francisco - SF9) https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786 · posted 2026-11-06
+- Roche - Computer Science Industrial Placement Student Intern - Data Capability (Welwyn, UK) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915 · posted 2026-10-21
+- SAS - Data Scientist Intern (Cary, NC) https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false · posted 2026-11-06
+- Toyota Research Institute - Robotics Intern - World Action Models for Robot Policy (Cambridge, MA) https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply · posted 2026-11-06
+- T-Mobile - Software Engineer Intern (Overland Park, KS) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739 · posted 2026-11-06
+- Waymo - Software Engineer Intern (SF) https://careers.withwaymo.com/jobs?gh_jid=8350832 · posted 2026-11-06
+- T-Mobile - Software Engineering Intern (Overland Park, KS) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734 · posted 2026-11-06
+- CACI - Software Engineering Co-op (King of Prussia, PA) https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665 · posted 2026-11-06
+- CACI - AI/ML Engineering Co-op (King of Prussia, PA) https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1 · posted 2026-11-06
+- American College of Obstetricians and Gynecologists - Full-Stack Developer (Washington, DC) https://job-boards.greenhouse.io/acog/jobs/4401658009 · posted 2026-09-28
+- Huntington Ingalls Industries - Software Engineer 1 (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors · posted 2026-11-06
+- Charles Schwab - Associate Software Development & Engineering (Austin, TX, Southlake, TX) https://career-schwab.icims.com/jobs/129593/job?mobile=true&needsRedirect=false · posted 2026-11-06
