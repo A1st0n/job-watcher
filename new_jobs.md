@@ -3242,3 +3242,4 @@
 - T-Mobile - Summer 2027 AI Strategist Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279 · posted 2026-11-06
 - Carrier - Systems Engineering Intern - Summer (CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566 · posted 2026-11-06
 - Abbott - Software Quality Engineer I (United States - California - Sylmar) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31165508-1 · posted 2026-11-06
+- Trimble - AI Automation Intern (2 Locations) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148 · posted 2026-11-06
