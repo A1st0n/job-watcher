@@ -3160,3 +3160,4 @@
 - Connecticut State Community College - Web Developer (Hartford, CT) https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer · posted 2026-11-05
 - American Express - Software Engineer I (Sunrise, FL, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016174 · posted 2026-11-06
 - Etched - Infrastructure Engineering & Projects Intern (San Jose) https://jobs.ashbyhq.com/etched/1a92048c-60e0-445b-a84e-8f008f1cf47b · posted 2026-11-06
+- Light & Wonder - Software Engineer Intern (Reno, NV) https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885 · posted 2026-11-06
