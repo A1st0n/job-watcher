@@ -3321,3 +3321,4 @@
 - Zeiss - Associate Test Engineer 1 (Dublin, CA) https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Associate-Test-Engineer-Lvl-1-CW_JR_1054482 · posted 2026-11-06
 - Nightwing Intelligence Solutions - Software Developer 1 - System Security (Huntsville, AL) https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225 · posted 2026-11-06
 - Visionist - Software Engineer - Inference (Laurel, MD) https://jobs.jobvite.com/visionist/job/otszAfwO?nl=1&nl=1&fr=false · posted 2026-08-01
+- Zoox - AI Workflows & Safety Decision Making Intern [2027] (Foster City, CA) https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1 · posted 2026-11-07
