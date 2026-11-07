@@ -3279,3 +3279,45 @@
 - Charles Schwab - Associate Software Engineer (Austin, TX) https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false · posted 2026-11-06
 - Charles Schwab - Junior Software Developer (Austin, TX, Omaha, NE) https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false · posted 2026-11-06
 - Cook Group - Software Engineer 1 - Full-Stack (Indianapolis, IN, West Lafayette, IN, Bloomington, IN) https://americas-cookmedical.icims.com/jobs/20446/job?mobile=true&needsRedirect=false · posted 2026-11-06
+- Tesla - Software Engineer Intern - SI Reinforcement Learning (Palo Alto, CA) https://www.tesla.com/careers/search/job/289240 · posted 2026-11-06
+- Enovation Controls - Embedded Machine Learning Engineer Intern (Tulsa, OK) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257 · posted 2026-11-06
+- Enovation Controls - Manufacturing Software Engineer Intern (Tulsa, OK) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416 · posted 2026-11-06
+- Samsara - Software Engineer Intern (SF) https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786 · posted 2026-11-06
+- Notion - Software Engineer Intern - iOS (NYC) https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true · posted 2026-11-06
+- Niural - AI Product Operator Intern (NYC) https://jobs.ashbyhq.com/niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e/application?embed=true · posted 2026-11-06
+- Notion - Software Engineer Intern - Frontend (NYC) https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true · posted 2026-11-06
+- T-Mobile - Data Engineering Intern (Frisco, TX, Atlanta, GA) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755 · posted 2026-11-06
+- T-Mobile - Software Engineer Intern - HR Data Products (Bellevue, WA) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916 · posted 2026-11-06
+- T-Mobile - Data Engineer Intern (Frisco, TX, Atlanta, GA) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754 · posted 2026-11-06
+- T-Mobile - Software Engineer Intern (Bellevue, WA) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768 · posted 2026-11-06
+- T-Mobile - AI Strategist Intern (Bellevue, WA) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279 · posted 2026-11-06
+- T-Mobile - Software Engineer HR Data Products Intern (Bellevue, WA) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766 · posted 2026-11-06
+- T-Mobile - AI Engineering Intern (Bellevue, WA) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765 · posted 2026-11-06
+- Brave - Software Engineer Intern (Remote in Canada) https://job-boards.greenhouse.io/brave/jobs/8360001 · posted 2026-11-06
+- Invesco - Data Science Intern - Real Estate (Dallas, TX) https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091 · posted 2026-11-06
+- L.L.Bean - Software Developer Intern (Freeport, ME) https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1 · posted 2026-11-06
+- Meta - Research Scientist Intern - Generative AI & 3D Generation (Burlingame, CA) https://www.metacareers.com/jobs/1406087328180524 · posted 2026-11-06
+- Meta - Research Scientist Intern - Robotics Foundation Models - Agentic RL (Menlo Park, CA) https://www.metacareers.com/jobs/1414987577372371 · posted 2026-11-06
+- Meta - Research Scientist Intern - AI Systems and Infrastructure (Menlo Park, CA, NYC) https://www.metacareers.com/jobs/1750797606003820 · posted 2026-11-06
+- Meta - Research Scientist Intern - AI Agents and Machine Learning (Menlo Park, CA, Sunnyvale, CA) https://www.metacareers.com/jobs/1826604892017856 · posted 2026-11-06
+- Parspec - Applied AI Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application?embed=true · posted 2026-11-06
+- Pariveda Solutions - Software Engineer 2 (Dallas, TX) https://jobs.ashbyhq.com/pariveda/48cfdabe-9dcc-4324-8e07-4a5ddf3af2e1/application?embed=true · posted 2026-09-15
+- Thales - Graduate AI Engineer (Orlando, FL) https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1 · posted 2026-10-13
+- Intel - Microarchitecture and Design Engineer - AI SoC (Santa Clara, CA, Folsom, CA) https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Microarchitecture-and-Design-Engineer---AI-SoC_JR0287996 · posted 2026-10-15
+- ViaSat - Associate Embedded Software Engineer (Carlsbad, CA) https://careers.viasat.com/jobs/7118?icims=1&lang=en-us · posted 2026-11-06
+- Keyfactor - Associate Software Engineer (Remote in USA) https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004 · posted 2026-11-06
+- Tesla - Associate Data Engineer - Manufacturing Planning Systems - Semi (Sparks, NV) https://www.tesla.com/careers/search/job/289265 · posted 2026-11-06
+- Moog - Associate Software Engineer (Buffalo, NY) https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135 · posted 2026-11-06
+- Amazon - Systems Development Engineer - AWS Commerce Platform-ADC (Denver, CO) https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc · posted 2026-11-06
+- Intel - Software Performance Engineer (Hillsboro, OR) https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983 · posted 2026-11-06
+- RTX - Software Security Engineer 1 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Security-Engineer-1--Onsite-_01887029 · posted 2026-11-06
+- Wells Fargo - Software Engineer (Charlotte, NC, Irving, TX) https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Software-Engineer_R-586193-1 · posted 2026-11-06
+- Chewy - Software Engineer 1 - Full Stack - Promotions (Boston, MA) https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442 · posted 2026-11-06
+- ICF International - Software Developer (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Richmond-VA/Software-Developer_R2603769 · posted 2026-11-06
+- Microsoft - Software Engineer (Reston, VA) https://apply.careers.microsoft.com/careers/job/1970393557053350 · posted 2026-11-06
+- Engine - Software Engineer - GTM Engineering (Remote in USA) https://job-boards.greenhouse.io/engine/jobs/8046374003 · posted 2026-11-06
+- Ovative - Analyst – Data & Software Engineer (Chicago, IL, NYC, Minneapolis, MN) https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342 · posted 2026-11-06
+- Salesforce - AI Product Associate Analyst - Early Talent (Indianapolis, IN, Chicago, IL) https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-1 · posted 2026-11-06
+- Zeiss - Associate Test Engineer 1 (Dublin, CA) https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Associate-Test-Engineer-Lvl-1-CW_JR_1054482 · posted 2026-11-06
+- Nightwing Intelligence Solutions - Software Developer 1 - System Security (Huntsville, AL) https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225 · posted 2026-11-06
+- Visionist - Software Engineer - Inference (Laurel, MD) https://jobs.jobvite.com/visionist/job/otszAfwO?nl=1&nl=1&fr=false · posted 2026-08-01
