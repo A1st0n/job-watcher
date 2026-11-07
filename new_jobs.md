@@ -3340,3 +3340,4 @@
 - HP Inc. - Linux/Android Embedded Firmware Developer - Poly (Austin, TX) https://job-boards.greenhouse.io/hp/jobs/6228640004 · posted 2026-10-19
 - DriveWealth - AI Consulting Associate Program Brokerage Intern (Chicago, IL) https://boards.greenhouse.io/drivewealth/jobs/8039368003 · posted 2026-10-20
 - Tesla - Software Engineer Intern - SI Reinforcement Learning (Palo Alto, CA) https://www.tesla.com/careers/search/job/289241 · posted 2026-11-07
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472826 · posted 2026-10-28
