@@ -3322,3 +3322,7 @@
 - Nightwing Intelligence Solutions - Software Developer 1 - System Security (Huntsville, AL) https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225 · posted 2026-11-06
 - Visionist - Software Engineer - Inference (Laurel, MD) https://jobs.jobvite.com/visionist/job/otszAfwO?nl=1&nl=1&fr=false · posted 2026-08-01
 - Zoox - AI Workflows & Safety Decision Making Intern [2027] (Foster City, CA) https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1 · posted 2026-11-07
+- TikTok - Software Engineer Intern (San Jose, CA) https://lifeattiktok.com/search/7705012688944810245 · posted 2026-11-07
+- NVIDIA - Research Scientist - Fundamental Generative AI (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739 · posted 2026-09-29
+- AbbVie - Associate Software Engineer 1 (North Chicago, IL) https://jobs.smartrecruiters.com/AbbVie/3743990016715126 · posted 2026-11-07
+- Iowa State University - Software Developer 1 (Ames, IA) https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057 · posted 2026-11-06
