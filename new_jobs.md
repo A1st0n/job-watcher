@@ -3335,3 +3335,6 @@
 - Microsoft - Research Intern - Machine Learning and Statistics (United States, Massachusetts, Cambridge, United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557040502 · posted 2026-10-13
 - Microsoft - Research Intern - AI & Human Systems (United States, New York, New York, United States, Massachusetts, Cambridge) https://apply.careers.microsoft.com/careers/job/1970393557056017 · posted 2026-11-06
 - HPE - AI and Machine Learning Intern (Singapore, Central Singapore, Singapore) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583 · posted 30+ days ago
+- West Monroe - Software Engineering Consultant Intern - AI Concentration (Seattle, WA) https://westmonroe.com/careers/job-details-students?gh_jid=6183029004 · posted 2026-10-06
+- DriveWealth - AI Consulting Associate Program Brokerage Intern (Chicago, IL) https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true · posted 2026-10-20
+- HP Inc. - Linux/Android Embedded Firmware Developer - Poly (Austin, TX) https://job-boards.greenhouse.io/hp/jobs/6228640004 · posted 2026-10-19
