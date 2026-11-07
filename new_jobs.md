@@ -3326,3 +3326,7 @@
 - NVIDIA - Research Scientist - Fundamental Generative AI (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739 · posted 2026-09-29
 - AbbVie - Associate Software Engineer 1 (North Chicago, IL) https://jobs.smartrecruiters.com/AbbVie/3743990016715126 · posted 2026-11-07
 - Iowa State University - Software Developer 1 (Ames, IA) https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057 · posted 2026-11-06
+- Zoox - Data Scientist Intern (Boston, MA, Foster City, CA) https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply · posted 2026-11-07
+- Zoox - AI Workflows & Safety Decision Making Intern (Foster City, CA) https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply · posted 2026-11-07
+- Lumentum - Process Automation Software Engineer - MEMS (Ottawa, ON, Canada) https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527 · posted 2026-11-06
+- Lawrence Livermore National Laboratory (LLNL) - Embedded Systems Engineer - Super Intelligence Integration (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016713546 · posted 2026-11-06
