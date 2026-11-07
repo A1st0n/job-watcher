@@ -3332,3 +3332,4 @@
 - Lawrence Livermore National Laboratory (LLNL) - Embedded Systems Engineer - Super Intelligence Integration (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016713546 · posted 2026-11-06
 - Microsoft - Research Intern - Machine Learning at MSR NYC (United States, New York, New York, United States, Massachusetts, Cambridge) https://apply.careers.microsoft.com/careers/job/1970393557042145 · posted 2026-10-16
 - Microsoft - Research Intern - MSR AI Interaction and Learning (United States, Washington, Redmond, United States, New York, New York) https://apply.careers.microsoft.com/careers/job/1970393557042156 · posted 2026-10-16
+- Microsoft - Research Intern - Machine Learning and Statistics (United States, Massachusetts, Cambridge, United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557040502 · posted 2026-10-13
