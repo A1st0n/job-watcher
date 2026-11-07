@@ -3338,3 +3338,5 @@
 - West Monroe - Software Engineering Consultant Intern - AI Concentration (Seattle, WA) https://westmonroe.com/careers/job-details-students?gh_jid=6183029004 · posted 2026-10-06
 - DriveWealth - AI Consulting Associate Program Brokerage Intern (Chicago, IL) https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true · posted 2026-10-20
 - HP Inc. - Linux/Android Embedded Firmware Developer - Poly (Austin, TX) https://job-boards.greenhouse.io/hp/jobs/6228640004 · posted 2026-10-19
+- DriveWealth - AI Consulting Associate Program Brokerage Intern (Chicago, IL) https://boards.greenhouse.io/drivewealth/jobs/8039368003 · posted 2026-10-20
+- Tesla - Software Engineer Intern - SI Reinforcement Learning (Palo Alto, CA) https://www.tesla.com/careers/search/job/289241 · posted 2026-11-07
