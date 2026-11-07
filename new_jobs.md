@@ -3330,3 +3330,5 @@
 - Zoox - AI Workflows & Safety Decision Making Intern (Foster City, CA) https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply · posted 2026-11-07
 - Lumentum - Process Automation Software Engineer - MEMS (Ottawa, ON, Canada) https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527 · posted 2026-11-06
 - Lawrence Livermore National Laboratory (LLNL) - Embedded Systems Engineer - Super Intelligence Integration (Livermore, CA) https://jobs.smartrecruiters.com/LLNL/3743990016713546 · posted 2026-11-06
+- Microsoft - Research Intern - Machine Learning at MSR NYC (United States, New York, New York, United States, Massachusetts, Cambridge) https://apply.careers.microsoft.com/careers/job/1970393557042145 · posted 2026-10-16
+- Microsoft - Research Intern - MSR AI Interaction and Learning (United States, Washington, Redmond, United States, New York, New York) https://apply.careers.microsoft.com/careers/job/1970393557042156 · posted 2026-10-16
