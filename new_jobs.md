@@ -3343,3 +3343,4 @@
 - Lockheed Martin - Software Engineer Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477472826 · posted 2026-10-28
 - Microsoft - Software Engineer, Teamwork Experiences Internship Opportunities (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557037859 · posted 2026-11-03
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477643944 · posted 2026-11-02
+- Artificial Analysis - Robotics Research Assistant (SF) https://jobs.ashbyhq.com/artificialanalysis/45f1b5ed-b508-4a4e-8f5f-fdaacb1bac8f/application?embed=true · posted 2026-11-07
