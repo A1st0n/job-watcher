@@ -3344,3 +3344,4 @@
 - Microsoft - Software Engineer, Teamwork Experiences Internship Opportunities (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557037859 · posted 2026-11-03
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477643944 · posted 2026-11-02
 - Artificial Analysis - Robotics Research Assistant (SF) https://jobs.ashbyhq.com/artificialanalysis/45f1b5ed-b508-4a4e-8f5f-fdaacb1bac8f/application?embed=true · posted 2026-11-07
+- Shield AI - Engineer I, Software - Autonomy Capabilities - New Grad - 6129 (United States) https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896 · posted 2026-10-27
