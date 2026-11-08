@@ -3345,3 +3345,5 @@
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477643944 · posted 2026-11-02
 - Artificial Analysis - Robotics Research Assistant (SF) https://jobs.ashbyhq.com/artificialanalysis/45f1b5ed-b508-4a4e-8f5f-fdaacb1bac8f/application?embed=true · posted 2026-11-07
 - Shield AI - Engineer I, Software - Autonomy Capabilities - New Grad - 6129 (United States) https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896 · posted 2026-10-27
+- Shield AI - Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 (Washington, D.C.) https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa · posted 2026-10-27
+- Shield AI - Engineer I, Software - Perception - New Grad - 6135 (Washington, D.C.) https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319 · posted 2026-10-27
