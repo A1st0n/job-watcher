@@ -3348,3 +3348,7 @@
 - Shield AI - Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 (Washington, D.C.) https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa · posted 2026-10-27
 - Shield AI - Engineer I, Software - Perception - New Grad - 6135 (Washington, D.C.) https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319 · posted 2026-10-27
 - Shield AI - Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 (Washington, D.C.) https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff · posted 2026-10-27
+- Shield AI - Software Engineer 1 New Grad - Software - Autonomy Capabilities (United States) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true · posted 2026-11-08
+- Shield AI - Engineer 1 New Grad - Software - Autonomous Pilot Integration (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true · posted 2026-11-08
+- Shield AI - Engineer 1 New Grad - Software - Perception (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true · posted 2026-11-08
+- Shield AI - Engineer 1 New Grad - Software - Autonomy Capabilities (United States) https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply · posted 2026-11-08
