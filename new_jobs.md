@@ -3399,3 +3399,5 @@
 - Brex - Software Engineer, Internship - 2027 (São Paulo, São Paulo, Brazil) https://www.brex.com/careers/8935242002?gh_jid=8935242002 · posted 2026-11-09
 - Skydio - Systems Engineering Intern - Summer 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a · posted 2026-11-09
 - Kyndryl - Early Career Consult Program - Associate Data Engineer (Dallas (USDALFRI) Frisco AI HUB) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870 · posted 2026-11-09
+- Amazon - Software Development Engineer Intern - Summer 2027 (Seattle, Washington, USA) https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027 · posted 2026-11-05
+- Leidos - Helpdesk IT Support Intern (2 Locations) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Helpdesk-IT-Support-Intern_R-00196247-1 · posted 2026-11-09
