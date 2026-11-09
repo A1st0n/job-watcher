@@ -3367,3 +3367,4 @@
 - Motorola Solutions - Intern Software Developer (Salesforce) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Salesforce-_R69887 · posted 2026-11-09
 - Parsons - Cybersecurity Intern - Tamheer Program (Saudi National) () https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377
 - Thermo Fisher - Intern – Software Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01373992 · posted 2026-11-09
+- ServiceNow - Associate Software Engineer (Petah Tikva) https://jobs.smartrecruiters.com/ServiceNow/744000160632429 · posted 2026-11-09
