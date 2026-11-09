@@ -3413,3 +3413,38 @@
 - Merck - 2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern (USA - Massachusetts - Cambridge (320 Bent Street)) https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438 · posted 2026-10-23
 - Epic Games - AI Programmer Intern (Cary,North Carolina,United States) https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004 · posted 2026-11-09
 - RTX - Intern, Systems Engineer- Onsite (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Intern--Systems-Engineer--Onsite_01887548 · posted 2026-11-09
+- RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514 · posted 2026-11-09
+- Trimble - Software Engineer Intern (US - OR, Lake Oswego) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171 · posted 2026-11-09
+- Biodesix - Software Development Intern (Louisville, CO) https://www.biodesix.com/careers/current-openings?gh_jid=4485410009 · posted 2026-11-09
+- Pivotal Aero - Software Engineering Intern (Palo Alto, CA) https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4/apply · posted 2026-11-09
+- Biodesix - AI Research & Development Intern (Louisville, CO) https://www.biodesix.com/careers/current-openings?gh_jid=4485306009 · posted 2026-11-09
+- Art of Problem Solving - Software Engineer Intern (San Diego, CA) https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003 · posted 2026-11-09
+- Qualcomm - Firmware Engineering Intern (Toronto, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446722038614 · posted 2026-11-09
+- Maxinsights - Machine Learning Engineer Intern - Video Foundation Models & Agentic AI (Santa Clara, CA) https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true · posted 2026-11-09
+- Zoetis Services - AI Assistant Development Intern (Parsippany-Troy Hills, NJ) https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1 · posted 2026-11-09
+- Zoetis Services - AI Capabilities Intern - AI Architecture, Enablement & Tools (Remote in USA, Parsippany-Troy Hills, NJ, Kalamazoo, MI) https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016 · posted 2026-11-09
+- Lila Sciences - Applied AI Platform Engineer Co-op (SF) https://job-boards.greenhouse.io/lilasciences/jobs/4472540009 · posted 2026-11-09
+- Amazon - Software Engineer Intern (Boston, MA, Seattle, WA, Austin, TX, Arlington County, Arlington, VA, Denver, CO) https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027 · posted 2026-11-09
+- Warner Bros. - Software Engineer Co-op (Needham, MA) https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Engineering-Co-op--Needham--MA---January-May-2027_R000109901 · posted 2026-11-09
+- Blackberry - Marketing Data & AI Analyst Intern (Waterloo, ON, Canada) https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327 · posted 2026-11-09
+- Warner Bros. - Data Engineering Co-op (Needham, MA) https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Data-Engineering-Co-op--Needham--MA---January-May-2027_R000109902 · posted 2026-11-09
+- Epic Games - AI Programmer Intern (Cary, NC) https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004 · posted 2026-11-09
+- 7-Eleven - Data Engineer Intern (Irving, TX) https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281 · posted 2026-11-09
+- The Federal Reserve System - Data Science Intern (Minneapolis, MN) https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1 · posted 2026-11-09
+- Uhaul - Software Development Intern (Phoenix, AZ) https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Spring-Internship_R259167 · posted 2026-11-09
+- Johns Hopkins Applied Physics Laboratory - Artificial Intelligence Intern - Information Fusion (Laurel, MD) https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us · posted 2026-11-09
+- Constellation Brands - IT Intern - Marketing Technology Product Management (Rochester, NY, Chicago, IL) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678 · posted 2026-11-09
+- Wex - Software Engineer Intern (Remote in USA) https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern_R22542 · posted 2026-11-09
+- Persona AI - Humanoid Robotics Software Intern (Houston, TX, Pensacola, FL) https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb/application?embed=true · posted 2026-11-09
+- Lightcast - Associate Applied Machine Learning Scientist (Moscow, ID) https://jobs.lever.co/economicmodeling/ac72eba1-48f4-46e5-b0c6-93b6780b2618/apply · posted 2026-10-23
+- Guidehouse - Data Scientist - Consultant - Utilities (Remote in USA, Atlanta, GA) https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382 · posted 2026-11-09
+- Sur La Table - Junior Software Engineer (Toronto, ON, Canada, Remote in USA) https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply · posted 2026-11-09
+- Kyndryl - Associate Data Engineer (Frisco, TX) https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1 · posted 2026-11-09
+- AECOM - Software Developer 1 (Tallahassee, FL) https://jobs.smartrecruiters.com/AECOM2/744000160723419 · posted 2026-11-09
+- Whoop - Software Engineer 1 - Backend - Growth (Boston, MA) https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true · posted 2026-11-09
+- Mercury Insurance - Software Engineer 1 (Remote in USA) https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false · posted 2026-11-09
+- Wolverine Trading - C++ Software Engineer New Grad (Chicago, IL) https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq · posted 2026-11-09
+- D.R. Horton - Application Developer 1 (Arlington, TX) https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605503 · posted 2026-11-09
+- L3Harris Technologies - Associate Software Engineering (Anaheim, CA) https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineering-CA-92805/1449146200/?ats=successfactors · posted 2026-11-09
+- National Laboratory of the Rockies - Postdoctoral Researcher in Scientific Machine Learning and Cross-scale Predictive Modeling (Golden, CO) https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher-in-Scientific-Machine-Learning-and-Cross-scale-Predictive-Modeling_R14604 · posted 2026-11-09
+- L3Harris Technologies - Software Engineer 1 (Salt Lake City, UT, Carlsbad, CA) https://jobs.l3harris.com/job/Carlsbad-Specialist,-Software-Engineering-1-1-CA-92009/1448651700/?ats=successfactors · posted 2026-11-06
