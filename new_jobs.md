@@ -3406,3 +3406,4 @@
 - Plaid - 2027 SWE Plintern (USA - CA - SF Office) https://jobs.ashbyhq.com/plaid/fb9a57a1-86bf-46b9-bbc6-191277ea4047 · posted 2026-09-10
 - Lockheed Martin - Systems Engineer - Intern (Orlando, FL) https://lockheedmartin.eightfold.ai/careers/job/996477737204 · posted 2026-11-09
 - Northrop Grumman - 2027 Software Testing Engineering Intern - Apopka FL (United States-Florida-Apopka) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1 · posted 2026-11-09
+- Lockheed Martin - Cyber Intelligence Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477410466 · posted 2026-11-09
