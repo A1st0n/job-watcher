@@ -3354,3 +3354,4 @@
 - Shield AI - Engineer 1 New Grad - Software - Autonomy Capabilities (United States) https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply · posted 2026-11-08
 - M&T Bank - Technology Development Program - Software Engineering - Enterprise & Wealth Application Development (Buffalo, NY) https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035 · posted 2026-11-08
 - M&T Bank - Technology Development Program - Software Engineering - Data & API Engineering (Buffalo, NY) https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036 · posted 2026-11-08
+- Bosch - [BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000160528309 · posted 2026-11-09
