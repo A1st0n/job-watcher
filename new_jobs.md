@@ -3398,3 +3398,4 @@
 - Warner Bros Discovery - WB Games Data Engineering Co-op: Needham, MA - January-May 2027 (MA Needham 117 Kendrick St) https://warnerbros.wd5.myworkdayjobs.com/Global/job/MA-Needham-117-Kendrick-St/WB-Games-Data-Engineering-Co-op--Needham--MA---January-May-2027_R000109902 · posted 2026-11-09
 - Brex - Software Engineer, Internship - 2027 (São Paulo, São Paulo, Brazil) https://www.brex.com/careers/8935242002?gh_jid=8935242002 · posted 2026-11-09
 - Skydio - Systems Engineering Intern - Summer 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a · posted 2026-11-09
+- Kyndryl - Early Career Consult Program - Associate Data Engineer (Dallas (USDALFRI) Frisco AI HUB) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870 · posted 2026-11-09
