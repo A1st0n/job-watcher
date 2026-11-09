@@ -3368,3 +3368,4 @@
 - Parsons - Cybersecurity Intern - Tamheer Program (Saudi National) () https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377
 - Thermo Fisher - Intern – Software Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01373992 · posted 2026-11-09
 - ServiceNow - Associate Software Engineer (Petah Tikva) https://jobs.smartrecruiters.com/ServiceNow/744000160632429 · posted 2026-11-09
+- Cisco - Software Engineer Full-Stack / Backend I (Intern) – United States (3 Locations) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1 · posted 2026-11-09
