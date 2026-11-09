@@ -3369,3 +3369,12 @@
 - Thermo Fisher - Intern – Software Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01373992 · posted 2026-11-09
 - ServiceNow - Associate Software Engineer (Petah Tikva) https://jobs.smartrecruiters.com/ServiceNow/744000160632429 · posted 2026-11-09
 - Cisco - Software Engineer Full-Stack / Backend I (Intern) – United States (3 Locations) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1 · posted 2026-11-09
+- Apple - Tools & Automation Engineer — Early Career (Sunnyvale) https://jobs.apple.com/en-us/details/200692689/tools-automation-engineer-early-career · posted 2026-11-09
+- RTX - Software Engineering Intern (E2D-IN-1) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020 · posted 2026-11-09
+- RTX - Systems Engineering Intern (US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01872589 · posted 2026-11-09
+- CACI - Cyber Security Intern - Summer 2027 (Sterling, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812 · posted 2026-11-09
+- Bosch - Software Function Developer intern (Budapest) https://jobs.smartrecruiters.com/BoschGroup/744000160644192 · posted 2026-11-09
+- Haskell - AI Engineering Design Intern for Facility Design (Jacksonville, FL) https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us · posted 2026-11-09
+- Apache Industrial - AI Implementation Intern (Houston, TX) https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510 · posted 2026-11-09
+- General Dynamics Mission Systems - Full-Stack Software Engineer Intern (Chantilly, VA, Pittsfield, MA, Scottsdale, AZ) https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false · posted 2026-11-09
+- General Dynamics Mission Systems - Full-Stack Application Development Intern (Chantilly, VA, Pittsfield, MA, Scottsdale, AZ) https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false · posted 2026-11-09
