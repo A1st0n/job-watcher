@@ -8,6 +8,7 @@ concurrency:
   cancel-in-progress: false  # a fired schedule waits for the running loop, then takes over
 permissions:
   contents: write
+  actions: write  # lets a finished loop start the next one
 jobs:
   watch:
     runs-on: ubuntu-latest
@@ -34,3 +35,9 @@ jobs:
             [ $(( $(date +%s) + 900 )) -lt "$end" ] || break
             sleep 900
           done
+      # Cron alone left multi-hour gaps. Only after a clean loop: a failing script
+      # shouldn't relaunch itself forever (cron still retries it, GitHub emails you).
+      - name: Start the next loop
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run watch.yml --ref main -R "$GITHUB_REPOSITORY"
