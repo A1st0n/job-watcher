@@ -3407,3 +3407,5 @@
 - Lockheed Martin - Systems Engineer - Intern (Orlando, FL) https://lockheedmartin.eightfold.ai/careers/job/996477737204 · posted 2026-11-09
 - Northrop Grumman - 2027 Software Testing Engineering Intern - Apopka FL (United States-Florida-Apopka) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1 · posted 2026-11-09
 - Lockheed Martin - Cyber Intelligence Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477410466 · posted 2026-11-09
+- Boeing - Associate Software Test Engineer (P-8 Mission Systems) (USA - Kent, WA) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1 · posted 2026-11-09
+- Rocket Lab - Software Engineer I (Pasadena, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8057246003 · posted 2026-11-09
