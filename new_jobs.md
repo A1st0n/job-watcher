@@ -3363,3 +3363,4 @@
 - Google - Junior SoC Design Verification Engineer, Google Cloud (Tel Aviv, Israel; Haifa, Israel) https://www.google.com/about/careers/applications/jobs/results/90617818789094086 · posted 2026-11-05
 - Google - Junior RTL Design Engineer, Google Cloud (Tel Aviv, Israel; Haifa, Israel) https://www.google.com/about/careers/applications/jobs/results/140723940472300230 · posted 2026-09-09
 - Adobe - 2027 Intern- Security Engineer (Bucharest) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468 · posted 2026-11-09
+- Parsons - IT Programmer Intern - Tamheer Program (Saudi National) () https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/IT-Programmer-Intern---Tamheer-Program--Saudi-National-_R188376
