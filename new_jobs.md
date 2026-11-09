@@ -3401,3 +3401,6 @@
 - Kyndryl - Early Career Consult Program - Associate Data Engineer (Dallas (USDALFRI) Frisco AI HUB) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870 · posted 2026-11-09
 - Amazon - Software Development Engineer Intern - Summer 2027 (Seattle, Washington, USA) https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027 · posted 2026-11-05
 - Leidos - Helpdesk IT Support Intern (2 Locations) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Helpdesk-IT-Support-Intern_R-00196247-1 · posted 2026-11-09
+- Cohere - Software Engineer Intern (Winter 2027) (Toronto) https://jobs.ashbyhq.com/cohere/df508fc2-f9c5-405d-bfc4-0f2c32404f02 · posted 2026-09-18
+- Plaid - 2026-2027 SWE New Grad (USA - CA - SF Office) https://jobs.ashbyhq.com/plaid/ba6a5bf6-2ea4-40b9-a942-e62bc2d37991 · posted 2026-09-11
+- Plaid - 2027 SWE Plintern (USA - CA - SF Office) https://jobs.ashbyhq.com/plaid/fb9a57a1-86bf-46b9-bbc6-191277ea4047 · posted 2026-09-10
