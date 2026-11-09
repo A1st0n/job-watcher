@@ -3378,3 +3378,10 @@
 - Apache Industrial - AI Implementation Intern (Houston, TX) https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115510 · posted 2026-11-09
 - General Dynamics Mission Systems - Full-Stack Software Engineer Intern (Chantilly, VA, Pittsfield, MA, Scottsdale, AZ) https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false · posted 2026-11-09
 - General Dynamics Mission Systems - Full-Stack Application Development Intern (Chantilly, VA, Pittsfield, MA, Scottsdale, AZ) https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false · posted 2026-11-09
+- Lockheed Martin - Software Engineer (AMMM) - Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996476704238 · posted 2026-11-09
+- CesiumAstro - Embedded Software Engineer Intern (Melbourne, FL) https://jobs.lever.co/CesiumAstro/e3abc815-107d-4206-8a83-dd02932e2361/apply · posted 2026-11-09
+- RTX - Software Engineer Intern (Sterling, VA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020 · posted 2026-11-09
+- Atrium Hospitality - AI & Automation Intern (Alpharetta, GA) https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811 · posted 2026-11-09
+- Mettler Toledo - Embedded Software Engineering Intern (Oakland, CA) https://mt.avature.net/en_US/careers/JobDetail/23080 · posted 2026-11-09
+- Tesco - Data Scientist - Simulation & Digital Twins (United Kingdom) https://tesco.avature.net/en_GB/careers/JobDetail/210371 · posted 2026-11-09
+- Netholabs - Junior AI/ML Engineer (SF) https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393/application?embed=true · posted 2026-11-09
