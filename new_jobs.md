@@ -3563,3 +3563,5 @@
 - Matillion - Computer Science Intern - Software Engineering with AI (Manchester, UK) https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply · posted 2026-11-10
 - GSA Capital - Software Developer Intern (London, UK) https://job-boards.greenhouse.io/gsacapital/jobs/8570668002 · posted 2026-05-29
 - Welo Global - Robotics Teleoperator (SF) https://jobs.lever.co/weloglobal/0b79c7f3-3097-4545-a728-dbd2b78564b6/apply · posted 2026-11-10
+- Lockheed Martin - Software Engineering- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477801986 · posted 2026-11-09
+- Lockheed Martin - Cloud Infrastructure Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477758730 · posted 2026-11-09
