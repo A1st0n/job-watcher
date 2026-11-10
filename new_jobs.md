@@ -3491,3 +3491,9 @@
 - Anduril - Early Career RF Mission Systems Engineer, Air Dominance & Strike (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007 · posted 2026-11-09
 - Nvidia - AI Computing Software Developer - New College Graduate 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Developer---New-College-Graduate-2027_JR2029372 · posted 2026-11-10
 - HPE - Strategic Sourcing AI & Automation Intern (Spring, Texas, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039 · posted 2026-11-10
+- Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70135 · posted 2026-11-10
+- GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 (Bellevue, WA) https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1 · posted 2026-08-21
+- Pika - Applied AI Engineer Intern - Creative Experiences (Palo Alto, CA) https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true · posted 2026-11-10
+- Intuitive Surgical - Robotics and Controls Engineer Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000160747319 · posted 2026-11-10
+- FormFactor - Software Engineer Intern (Livermore, CA) https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Software-Engineer-Intern_JR101288 · posted 2026-11-09
+- Multi Media - Software Engineer 1/2 (Remote in USA) https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs · posted 2026-11-10
