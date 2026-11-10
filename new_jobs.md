@@ -3565,3 +3565,16 @@
 - Welo Global - Robotics Teleoperator (SF) https://jobs.lever.co/weloglobal/0b79c7f3-3097-4545-a728-dbd2b78564b6/apply · posted 2026-11-10
 - Lockheed Martin - Software Engineering- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477801986 · posted 2026-11-09
 - Lockheed Martin - Cloud Infrastructure Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477758730 · posted 2026-11-09
+- RTX - Component Electrical Test Engineer Intern (Summer 2027)(Onsite) (US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779 · posted 2026-11-10
+- DP World - AI & Analytics Intern - Talent Management (Charlotte, NC) https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855 · posted 2026-11-10
+- General Dynamics Mission Systems - Systems and Software Development Intern (San Antonio, TX, Scottsdale, AZ) https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false · posted 2026-11-10
+- EquipmentShare - Engineering Intern - Embedded (Columbia, MO) https://www.equipmentshare.com/careers/openings/?gh_jid=8371896 · posted 2026-11-10
+- T-Mobile - Software Engineer Intern - T-Ads (Philadelphia, PA) https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219 · posted 2026-11-10
+- NVIDIA - AI Operations Intern - AI Clouds (Santa Clara, CA) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1 · posted 2026-11-10
+- T-Mobile - Software Engineer Intern (Philadelphia, PA) https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225 · posted 2026-11-10
+- SOTI - Software Developer Intern (Mississauga, ON, Canada) https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677 · posted 2026-11-10
+- Johns Hopkins Applied Physics Laboratory - Software Developer / RF Systems Engineer (Laurel, MD) https://careers.jhuapl.edu/jobs/59975?icims=1 · posted 2026-09-08
+- Leidos - Software Engineer - Application Development (Bristol, UK) https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-Gloucestershire-UK/Software-Engineer---Application-Development_R-00194447 · posted 2026-11-10
+- Vizient - Associate Software Engineer (Irving, TX) https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R · posted 2026-11-10
+- Kalshi - Software Engineer - Marketing (NYC) https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application?embed=true · posted 2026-11-10
+- Fidelity National Information Services - Mainframe Software Engineer 1 (Columbus, GA) https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1 · posted 2026-11-10
