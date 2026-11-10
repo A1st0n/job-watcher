@@ -3597,3 +3597,5 @@
 - RTX - Flight Controls Systems Engineer I (Onsite) (US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineer-I--Onsite-_01882212 · posted 2026-11-10
 - Honeywell - Intern Software Engineer (North Ryde, New South Wales, Australia) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162057 · posted 2026-11-09
 - Johnson & Johnson - Software Engineering Co-Op (Danvers, Massachusetts, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277 · posted 2026-11-10
+- Western Digital - Summer 2027 Intern - Software Engineering (San Jose, CA) https://jobs.smartrecruiters.com/WesternDigital/744000160975819 · posted 2026-11-10
+- Skydio - Middleware Software Engineer Intern - Summer 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03 · posted 2026-11-10
