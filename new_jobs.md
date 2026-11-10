@@ -3605,3 +3605,43 @@
 - RTX - Software Engineering Intern (Summer 2027) (US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806 · posted 2026-11-10
 - RTX - Software Engineer I (Onsite) (US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812 · posted 2026-11-10
 - RTX - Software Engineering Intern (Summer 2027) (US-FL-LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045 · posted 2026-11-10
+- RTX - Software Engineer I (Onsite) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052 · posted 2026-11-10
+- RTX - Software Engineering Intern (Summer 2027) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049 · posted 2026-11-10
+- Clarios - IT Digital/AI Intern - Summer 2027 (Milwaukee, WI) https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910 · posted 2026-09-01
+- Altice USA - Developer Intern - Financial & People Systems (Bethpage, NY) https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors · posted 2026-11-10
+- Altice USA - Software Development Intern (Bethpage, NY) https://www.optimumcareers.com/job/Bethpage-Intern-Software-Development-NY-11714/1449514200/?ats=successfactors · posted 2026-11-10
+- Jabil - AI Agent Developer Intern - Supply Chain IT - AI & Enablement (St. Petersburg, FL) https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054 · posted 2026-11-10
+- McDonald's - Software Development Engineer Intern (Chicago, IL) https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors · posted 2026-11-10
+- Addepar - Software Engineer Intern (NYC) https://job-boards.greenhouse.io/addepar1/jobs/8927531002 · posted 2026-11-10
+- Addepar - AI Engineer Intern (NYC) https://job-boards.greenhouse.io/addepar1/jobs/8927543002 · posted 2026-11-10
+- Meta - Research Intern - Neural Network Training and Hardware-Software Co-Design (Redmond, WA) https://www.metacareers.com/jobs/1560905132724186 · posted 2026-11-10
+- McDonald's - Software Engineer Intern (Chicago, IL) https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors · posted 2026-11-09
+- Addepar - Data Engineer Intern (NYC) https://job-boards.greenhouse.io/addepar1/jobs/8910327002 · posted 2026-11-10
+- GlobalFoundries - Systems Engineer Intern (Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045 · posted 2026-11-10
+- Apple - Virtualisation Software Engineer Intern - Core OS (London, UK) https://jobs.apple.com/en-us/details/200694316 · posted 2026-11-10
+- Apple - Machine Learning Engineer Intern - Personal Agentic Search (Cambridge, UK) https://jobs.apple.com/en-us/details/200694037 · posted 2026-11-10
+- RTX - Software Engineering Intern (St. Petersburg, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806 · posted 2026-11-10
+- RTX - Software Engineer Intern (Largo, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045 · posted 2026-11-10
+- Investissement Québec - Automation and Artificial Intelligence Intern (Montreal, QC, Canada) https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656 · posted 2026-11-10
+- Palantir - Software Engineer Intern - Connectivity Platform - Product (Denver, CO) https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply · posted 2026-11-10
+- Palantir - Software Engineer Intern - Connectivity Platform and Product (NYC) https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply · posted 2026-11-10
+- Palantir - Software Engineer Intern - Data Connectors (NYC) https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply · posted 2026-11-10
+- Toyota Research Institute - Human-Centered AI Research Intern - Causal Reasoning Models (Los Altos, CA) https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply · posted 2026-11-10
+- General Dynamics Mission Systems - Software Engineer Intern (Pittsburgh, PA) https://careers-gdms.icims.com/jobs/75637/job?mobile=true&needsRedirect=false · posted 2026-11-10
+- REGENT - Embedded Software Engineer Intern (North Kingstown, RI) https://jobs.ashbyhq.com/regent/9f25824f-486e-4d3a-b444-116b474619d7/application?embed=true · posted 2026-11-10
+- SharkNinja - Product Test Engineering Co-op (Needham, MA) https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006 · posted 2026-11-10
+- Parspec - Product Management Intern - Agentic AI (San Mateo, CA) https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56/application?embed=true · posted 2026-11-10
+- General Motors - Software Engineer Intern - Machine Learning Engineer - Embodied AI (Sunnyvale, CA) https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034 · posted 2026-11-10
+- CVS Health - Associate Software Development Engineer - Conversion (Alpharetta, GA) https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768 · posted 2026-10-07
+- Microsoft - Software Engineering (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393556999878 · posted 2026-10-12
+- Morningstar - Structured Finance Analytics Analyst - Methodology & AI Solutions (NYC) https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS/job/New-York/Structured-Finance-Analytics--Methodology---AI-Solutions--Analyst---New-York_REQ-058936-1 · posted 2026-10-29
+- SAIC - Software Engineer (Huntsville, AL) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618968 · posted 2026-11-10
+- SAIC - Electronics Test Engineer (Middletown, RI) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619012 · posted 2026-11-10
+- Cox Automotive - Software Engineer 1 (Atlanta, GA) https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623 · posted 2026-11-10
+- Autodesk - Software Engineer: AI & Fusion Engineering - Fusion Engineering (Novi, MI) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1 · posted 2026-11-10
+- Techstra Solutions - AI Engineer (Pittsburgh, PA) https://techstrasolutions.applytojob.com/apply/h0W1v7gpzI/AI-Engineer · posted 2026-11-10
+- RTX - Software Engineer 1 (St. Petersburg, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812 · posted 2026-11-10
+- L3Harris Technologies - Associate Systems Engineering (Palm Bay, FL) https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineering-FL-32905/1419016700/?ats=successfactors · posted 2026-11-10
+- Amentum - Junior Software Developer (Dahlgren, VA) https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040 · posted 2026-11-10
+- Wellmark - Data Science Associate (Des Moines, IA) https://jobs.smartrecruiters.com/WellmarkInc/744000160931919 · posted 2026-11-10
+- Salesforce - AI Labs Rotational Fellow (Seattle, WA, SF, NYC) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1 · posted 2026-11-10
