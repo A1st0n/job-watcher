@@ -3448,3 +3448,40 @@
 - L3Harris Technologies - Associate Software Engineering (Anaheim, CA) https://jobs.l3harris.com/job/Anaheim-Associate,-Software-Engineering-CA-92805/1449146200/?ats=successfactors · posted 2026-11-09
 - National Laboratory of the Rockies - Postdoctoral Researcher in Scientific Machine Learning and Cross-scale Predictive Modeling (Golden, CO) https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher-in-Scientific-Machine-Learning-and-Cross-scale-Predictive-Modeling_R14604 · posted 2026-11-09
 - L3Harris Technologies - Software Engineer 1 (Salt Lake City, UT, Carlsbad, CA) https://jobs.l3harris.com/job/Carlsbad-Specialist,-Software-Engineering-1-1-CA-92009/1448651700/?ats=successfactors · posted 2026-11-06
+- Waymo - 2027 Summer Intern, BS/MS, Software Engineer, Multiverse (San Francisco, California, USA) https://careers.withwaymo.com/jobs?gh_jid=8350832 · posted 2026-11-06
+- Intuitive Surgical - Robotics and Controls Engineering Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000160747319 · posted 2026-11-10
+- Radiance Technologies - Software Engineer Intern (Beavercreek, OH) https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562 · posted 2026-11-09
+- ASML - AI Engineer Co-op Intern (San Diego, CA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627 · posted 2026-11-09
+- The New York Times - Machine Learning Scientist Intern (NYC) https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005 · posted 2026-11-09
+- Boston Scientific - Urology R&D Software Engineering Co-op (Marlborough, MA, Maple Grove, MN) https://bostonscientific.eightfold.ai/careers/job/563602813900562 · posted 2026-11-09
+- Cirrus Logic - Applied AI Engineering Intern (Austin, TX) https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply · posted 2026-11-09
+- Analog Devices - Machine Learning for Computational Sensing Research Intern (Boston, MA) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371 · posted 2026-11-09
+- General Dynamics Mission Systems - Software Engineer Intern (Manassas, VA) https://careers-gdms.icims.com/jobs/79755/job?mobile=true&needsRedirect=false · posted 2026-11-09
+- Toyota Research Institute - Robotics Intern - Teleoperation and Spatial Computing (Cambridge, MA) https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871/apply · posted 2026-11-09
+- Toyota Research Institute - Automated Driving Advanced Development Intern - Machine Learning Research (Los Altos, CA) https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415/apply · posted 2026-11-09
+- Microsoft - Research Intern - Next-Generation AI Agents (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557070079 · posted 2026-11-09
+- UiPath - Software Engineer Intern (Bellevue, WA) https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true · posted 2026-11-09
+- Meta - Research Scientist Intern - Computational Photography & Computer Vision (Redmond, WA) https://www.metacareers.com/jobs/1670489511324528 · posted 2026-11-09
+- UiPath - AI Engineer Intern (Bellevue, WA) https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true · posted 2026-11-09
+- Fresenius Medical Care - Verification and Validation Systems Engineer Co-op (Lawrence, MA) https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/V-V-Systems-Engineer-Co-op_R0277323 · posted 2026-11-09
+- Keysight Technologies - Embedded Software Engineer Intern (Cambridge, MA) https://jobs.keysight.com/jobs/55093?icims=1&lang=en-us · posted 2026-11-09
+- DreamWorks Animation - Software Engineer Intern (NYC) https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459 · posted 2026-11-09
+- DreamWorks Animation - Streaming Platforms – Product Management Intern (NYC) https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249 · posted 2026-11-09
+- DreamWorks Animation - Media Tech: Data – AI & Machine Learning Intern (NYC) https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767 · posted 2026-11-09
+- DreamWorks Animation - Advertising & Partnerships: Data Science Intern (NYC) https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930 · posted 2026-11-09
+- RTX - Software Engineer 1 (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131 · posted 2026-11-09
+- Element Materials Technology - Junior Test Engineer - Dynamics Testing (Huntsville, AL) https://element-ext-us.icims.com/jobs/20361/job?mobile=true&needsRedirect=false · posted 2026-11-09
+- Bank of Montreal - Software Developer New Grad (Toronto, ON, Canada) https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581 · posted 2026-11-09
+- Adobe - Data Science Engineer New Grad (San Jose, CA) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455 · posted 2026-11-09
+- S&C Electric Company - Software Engineer 1 (Chicago, IL) https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444 · posted 2026-11-09
+- Planview - Software Engineer 1 (Austin, TX) https://careers.planview.com/jobs/5149?icims=1&lang=en-us · posted 2026-11-09
+- CSI - Software Engineer 1 - C#/.NET (Paducah, KY, Valparaiso, IN) https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739 · posted 2026-11-09
+- Microsoft - Software Engineer (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557053863 · posted 2026-11-09
+- Microsoft - Software Engineering (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557039397 · posted 2026-11-09
+- Rocket Lab Corporation - Software Engineer 1 - Robotics (Pasadena, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8057246003 · posted 2026-11-09
+- Old Republic Title - Associate Developer - C#/.Net (Orlando, FL) https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410 · posted 2026-11-09
+- Cummins - Electronic Systems Engineer - Software (Seymour, IN) https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437283 · posted 2026-11-09
+- Northrop Grumman - Associate Cyber Software Engineer - Vulnerability Research - Reverse Engineering (San Antonio, TX) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762 · posted 2026-11-09
+- Kyndryl - Early Career Consult Program - Associate Data Engineer (Frisco, TX) https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870 · posted 2026-11-09
+- RTX - Embedded Software Engineer 1 (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147 · posted 2026-11-09
+- RTX - Embedded Security Software Engineer 1 (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154 · posted 2026-11-09
