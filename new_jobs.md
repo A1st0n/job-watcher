@@ -3547,3 +3547,4 @@
 - xAI - AI Tutor – Amharic (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5270906007 · posted 2026-10-26
 - ALTEN Technology - Robotics Lab Technician (Wilmington, MA) https://job-boards.greenhouse.io/altentechnologyusa/jobs/5286844007 · posted 2026-11-06
 - General Translation - Software Engineer - Product (SF) https://jobs.ashbyhq.com/generaltranslation/e8b7eb44-f36b-4032-a5f4-fff189f29f51/application?embed=true · posted 2026-07-21
+- Anysphere - Software Engineer New Grad (Palo Alto, CA, SF, NYC) https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true · posted 2026-11-10
