@@ -3497,3 +3497,5 @@
 - Intuitive Surgical - Robotics and Controls Engineer Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000160747319 · posted 2026-11-10
 - FormFactor - Software Engineer Intern (Livermore, CA) https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Software-Engineer-Intern_JR101288 · posted 2026-11-09
 - Multi Media - Software Engineer 1/2 (Remote in USA) https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs · posted 2026-11-10
+- RTX - Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) (US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221 · posted 2026-11-10
+- Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70134 · posted 2026-11-10
