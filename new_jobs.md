@@ -3527,3 +3527,5 @@
 - Accenture - [IT One] SAP FI (Internship) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-FI--Internship-_14642539 · posted 2026-11-10
 - Eagle Wireless - MES Software Engineer (Solon, OH) https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434 · posted 2026-11-10
 - Eagle Wireless - Test Automation Engineer (St Louis Park, MN) https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38 · posted 2026-11-10
+- Lockheed Martin - Systems Engineer-Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477829891 · posted 2026-11-09
+- Motorola Solutions - Intern Software Developer (JavaScript & React) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript---React-_R70490 · posted 2026-11-10
