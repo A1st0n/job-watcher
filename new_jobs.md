@@ -3499,3 +3499,8 @@
 - Multi Media - Software Engineer 1/2 (Remote in USA) https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs · posted 2026-11-10
 - RTX - Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) (US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221 · posted 2026-11-10
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70134 · posted 2026-11-10
+- REGENT - Mission Software Engineering Intern (North Kingstown, RI) https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true · posted 2026-11-10
+- onsemi - AI & Data Analytics Intern (Scottsdale, AZ) https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010 · posted 2026-11-10
+- Trimble - Software Engineer Intern (Portland, OR) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171 · posted 2026-11-09
+- Altera - Software Engineer Intern (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414 · posted 2026-11-09
+- RTX - Software Engineer 1 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514 · posted 2026-11-09
