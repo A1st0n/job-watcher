@@ -3524,3 +3524,6 @@
 - Republic Finance - React Developer Intern (Plano, TX) https://jobs.republicfinance.com/jobs/15411?icims=1&lang=en-us · posted 2026-11-06
 - The Marzetti Company - IT Analytics Intern (Columbus, OH) https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us · posted 2026-09-21
 - Trilogy Health Services - Information Systems Developer of AI and Automated Solutions Intern (Louisville, KY) https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us · posted 2026-11-09
+- Accenture - [IT One] SAP FI (Internship) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-FI--Internship-_14642539 · posted 2026-11-10
+- Eagle Wireless - MES Software Engineer (Solon, OH) https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434 · posted 2026-11-10
+- Eagle Wireless - Test Automation Engineer (St Louis Park, MN) https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38 · posted 2026-11-10
