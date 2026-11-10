@@ -3558,3 +3558,8 @@
 - Microsoft - Research Intern - Next-Generation AI Agents (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557070079 · posted 2026-11-09
 - Lockheed Martin - Cyber Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477502700 · posted 2026-11-02
 - SAIC - Space Systems Engineer Internship (Chantilly, VA, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618939 · posted 2026-11-10
+- Marvell - Firmware Engineering Intern (Pavia, Italy) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Pavia-Italy/Firmware-Engineering-Intern_2603916-1 · posted 2026-11-10
+- Veolia - Manufacturing Software Engineer Intern (Boulder, CO) https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184 · posted 2026-11-10
+- Matillion - Computer Science Intern - Software Engineering with AI (Manchester, UK) https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply · posted 2026-11-10
+- GSA Capital - Software Developer Intern (London, UK) https://job-boards.greenhouse.io/gsacapital/jobs/8570668002 · posted 2026-05-29
+- Welo Global - Robotics Teleoperator (SF) https://jobs.lever.co/weloglobal/0b79c7f3-3097-4545-a728-dbd2b78564b6/apply · posted 2026-11-10
