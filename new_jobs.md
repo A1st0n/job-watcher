@@ -3599,3 +3599,4 @@
 - Johnson & Johnson - Software Engineering Co-Op (Danvers, Massachusetts, United States of America) https://jj.wd5.myworkdayjobs.com/Jj/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277 · posted 2026-11-10
 - Western Digital - Summer 2027 Intern - Software Engineering (San Jose, CA) https://jobs.smartrecruiters.com/WesternDigital/744000160975819 · posted 2026-11-10
 - Skydio - Middleware Software Engineer Intern - Summer 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03 · posted 2026-11-10
+- Ford - Embedded Application Developer - Early Career Program, Advanced EV (Palo Alto, CA, United States) https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73930 · posted 2026-11-10
