@@ -3579,3 +3579,6 @@
 - Kalshi - Software Engineer - Marketing (NYC) https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application?embed=true · posted 2026-11-10
 - Fidelity National Information Services - Mainframe Software Engineer 1 (Columbus, GA) https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1 · posted 2026-11-10
 - Amgen - Undergraduate  Co-op Student – Software Engineer – Large Molecule Discovery - Technology (Canada - Burnaby) https://amgen.wd1.myworkdayjobs.com/Careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920 · posted 2026-11-10
+- Palantir - Software Engineer, Intern - Connectivity Platform and Product (New York, NY) https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743 · posted 2026-11-04
+- Palantir - Software Engineer, Internship - Data Connectors (New York, NY) https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a · posted 2026-11-04
+- State Street - Junior Platform Engineer, Officer (Quincy, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933 · posted 2026-11-10
