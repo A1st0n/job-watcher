@@ -3588,3 +3588,4 @@
 - Skydio - Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded · posted 2026-11-10
 - Trimble - Software Engineering Intern (US - TN, Knoxville) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120 · posted 2026-11-10
 - Motorola Solutions - Software System Technologist Intern (Summer 2027 Internship) (Allen, TX (TX139)) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511 · posted 2026-11-10
+- Motorola Solutions - IT M&A Integration Analyst - 2026 Summer Internship (Chicago Hybrid) (Chicago, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/IT-M-A-Integration-Analyst---2026-Summer-Internship--Chicago-Hybrid-_R70464 · posted 2026-11-10
