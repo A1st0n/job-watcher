@@ -3537,3 +3537,13 @@
 - Huckberry - Business Analyst - AI & Automation (Austin, TX) https://apply.workable.com/huckberry/j/76FD110308/apply · posted 2026-10-14
 - Kyndryl - DevOps Specialist Junior (Madrid, Spain) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Madrid-Spain/DevOps-Specialist-Junior_R-71604 · posted 2026-11-10
 - XYZ Reality - Robotics Engineer (London, UK) https://jobs.ashbyhq.com/xyz-reality/299e05ea-e33e-469b-904e-9ef5b21ba3a1/application?embed=true · posted 2026-10-26
+- Selective Insurance - IT Information Management Intern (Charlotte, NC) https://jobs.selective.com/jobs/5689?icims=1&lang=en-us · posted 2026-11-02
+- Tesla - Mobile Application Developer Intern (Palo Alto, CA) https://www.tesla.com/careers/search/job/289480 · posted 2026-11-10
+- Selective Insurance - IT Commercial Lines Summer Intern (Charlotte, NC, Hartford, CT) https://jobs.selective.com/jobs/5701?icims=1&lang=en-us · posted 2026-09-08
+- Selective Insurance - IT Claims Application Delivery Intern (Charlotte, NC) https://jobs.selective.com/jobs/5750?icims=1&lang=en-us · posted 2026-09-08
+- Selective Insurance - IT E&S Insurance Product Delivery Intern (Charlotte, NC, Hartford, CT) https://jobs.selective.com/jobs/5778?icims=1&lang=en-us · posted 2026-09-08
+- xAI - AI Tutor – Estonian (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5270902007 · posted 2026-10-26
+- xAI - AI Tutor – Uzbek (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5270905007 · posted 2026-10-26
+- xAI - AI Tutor – Amharic (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5270906007 · posted 2026-10-26
+- ALTEN Technology - Robotics Lab Technician (Wilmington, MA) https://job-boards.greenhouse.io/altentechnologyusa/jobs/5286844007 · posted 2026-11-06
+- General Translation - Software Engineer - Product (SF) https://jobs.ashbyhq.com/generaltranslation/e8b7eb44-f36b-4032-a5f4-fff189f29f51/application?embed=true · posted 2026-07-21
