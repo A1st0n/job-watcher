@@ -3504,3 +3504,4 @@
 - Trimble - Software Engineer Intern (Portland, OR) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171 · posted 2026-11-09
 - Altera - Software Engineer Intern (Toronto, ON, Canada) https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414 · posted 2026-11-09
 - RTX - Software Engineer 1 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514 · posted 2026-11-09
+- Apple - RFHW Systems Engineer Intern - Shanghai or Shenzhen (Shanghai) https://jobs.apple.com/en-us/details/200694023/rfhw-systems-engineer-intern-shanghai-or-shenzhen · posted 2026-11-10
