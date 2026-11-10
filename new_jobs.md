@@ -3489,3 +3489,5 @@
 - GE Vernova - GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 (Bellevue) https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2 · posted 2026-11-10
 - Lockheed Martin - Systems Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996476768969 · posted 2026-11-09
 - Anduril - Early Career RF Mission Systems Engineer, Air Dominance & Strike (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007 · posted 2026-11-09
+- Nvidia - AI Computing Software Developer - New College Graduate 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Developer---New-College-Graduate-2027_JR2029372 · posted 2026-11-10
+- HPE - Strategic Sourcing AI & Automation Intern (Spring, Texas, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039 · posted 2026-11-10
