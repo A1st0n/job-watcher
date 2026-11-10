@@ -3551,3 +3551,4 @@
 - Honeywell - Intern (m/f/d) Commercial Transformation – Fire Europe Software & Services (Ratingen, Nordrhein-Westfalen, Germany) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161539 · posted 2026-11-10
 - Micron - Intern EDG - Robotics UM exploration (Vimercate (MB), Italy) https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/Intern-EDG---Robotics-UM-exploration_JR114721 · posted 2026-11-10
 - Veterans United - Software Engineer Intern (Missouri) https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249 · posted 2026-09-28
+- Salesforce - Summer 2027 Intern - AI Foundry Incubation (2 Locations) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655 · posted 2026-11-10
