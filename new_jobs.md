@@ -3508,3 +3508,11 @@
 - Intel - HR IT Software Engineer Intern (Costa Rica, San Jose) https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637 · posted 2026-11-10
 - American Express - Cybersecurity Engineer I (Bengaluru, KA, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014545 · posted 2026-11-10
 - Lockheed Martin - Software Engineer Intern (Mount Laurel, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477758184 · posted 2026-11-09
+- Anysphere - Software Engineer, New Grad 2027 (San Francisco, CA) https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6 · posted 2026-11-10
+- State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800779-1 · posted 2026-11-10
+- Johns Hopkins Applied Physics Laboratory - AI & Data Science Intern - Analytic Capabilities (Laurel, MD) https://careers.jhuapl.edu/jobs/60008?icims=1 · posted 2026-09-10
+- RTX - Systems Engineer Intern (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221 · posted 2026-11-09
+- Meta - Research Scientist Intern - AI Core Machine Learning (Menlo Park, CA, Sunnyvale, CA) https://www.metacareers.com/jobs/2432079507324778 · posted 2026-11-10
+- Auburn University - Information Technology Co-op (Auburn, AL) https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us · posted 2026-08-11
+- Auburn University - Student Developer & Data Analyst (Auburn, AL) https://jobs.auburn.edu/jobs/10020?icims=1&lang=en-us · posted 2026-08-11
+- Auburn University - Undergraduate Data Science and Operations Student Assistant (Auburn, AL) https://jobs.auburn.edu/jobs/9061?icims=1&lang=en-us · posted 2026-05-13
