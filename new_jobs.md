@@ -3529,3 +3529,4 @@
 - Eagle Wireless - Test Automation Engineer (St Louis Park, MN) https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38 · posted 2026-11-10
 - Lockheed Martin - Systems Engineer-Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477829891 · posted 2026-11-09
 - Motorola Solutions - Intern Software Developer (JavaScript & React) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript---React-_R70490 · posted 2026-11-10
+- Lockheed Martin - Software Engineer Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477362824 · posted 2026-11-09
