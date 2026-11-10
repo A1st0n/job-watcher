@@ -3536,3 +3536,4 @@
 - Amazon - Software Development Engineer Apprentice (Swansea, UK) https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract · posted 2026-11-06
 - Huckberry - Business Analyst - AI & Automation (Austin, TX) https://apply.workable.com/huckberry/j/76FD110308/apply · posted 2026-10-14
 - Kyndryl - DevOps Specialist Junior (Madrid, Spain) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Madrid-Spain/DevOps-Specialist-Junior_R-71604 · posted 2026-11-10
+- XYZ Reality - Robotics Engineer (London, UK) https://jobs.ashbyhq.com/xyz-reality/299e05ea-e33e-469b-904e-9ef5b21ba3a1/application?embed=true · posted 2026-10-26
