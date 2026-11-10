@@ -3555,3 +3555,6 @@
 - Walmart - Summer 2027 Intern: Automation Engineer ((USA) Change Building AR Bentonville Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033 · posted 2026-11-10
 - T-Mobile - Summer 2027 T-Ads Software Engineering Internship (Philadelphia, Pennsylvania) https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225 · posted 2026-11-10
 - T-Mobile - Summer 2027 Site Reliability Engineering Internship (2 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Site-Reliability-Engineering-Internship_REQ381393 · posted 2026-11-10
+- Microsoft - Research Intern - Next-Generation AI Agents (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557070079 · posted 2026-11-09
+- Lockheed Martin - Cyber Engineer Intern - Summer 2027 (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477502700 · posted 2026-11-02
+- SAIC - Space Systems Engineer Internship (Chantilly, VA, United States) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618939 · posted 2026-11-10
