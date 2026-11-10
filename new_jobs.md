@@ -3507,3 +3507,4 @@
 - Apple - RFHW Systems Engineer Intern - Shanghai or Shenzhen (Shanghai) https://jobs.apple.com/en-us/details/200694023/rfhw-systems-engineer-intern-shanghai-or-shenzhen · posted 2026-11-10
 - Intel - HR IT Software Engineer Intern (Costa Rica, San Jose) https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637 · posted 2026-11-10
 - American Express - Cybersecurity Engineer I (Bengaluru, KA, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014545 · posted 2026-11-10
+- Lockheed Martin - Software Engineer Intern (Mount Laurel, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477758184 · posted 2026-11-09
