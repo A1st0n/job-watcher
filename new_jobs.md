@@ -3485,3 +3485,5 @@
 - Kyndryl - Early Career Consult Program - Associate Data Engineer (Frisco, TX) https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870 · posted 2026-11-09
 - RTX - Embedded Software Engineer 1 (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147 · posted 2026-11-09
 - RTX - Embedded Security Software Engineer 1 (Goleta, CA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154 · posted 2026-11-09
+- Intel - AI Frameworks Engineer - Intern (Mexico, Guadalajara) https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217 · posted 2026-11-10
+- GE Vernova - GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 (Bellevue) https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2 · posted 2026-11-10
