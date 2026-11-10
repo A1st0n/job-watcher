@@ -3516,3 +3516,11 @@
 - Auburn University - Information Technology Co-op (Auburn, AL) https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us · posted 2026-08-11
 - Auburn University - Student Developer & Data Analyst (Auburn, AL) https://jobs.auburn.edu/jobs/10020?icims=1&lang=en-us · posted 2026-08-11
 - Auburn University - Undergraduate Data Science and Operations Student Assistant (Auburn, AL) https://jobs.auburn.edu/jobs/9061?icims=1&lang=en-us · posted 2026-05-13
+- Accenture - [IT One] SAP CO (Internship) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-CO--Internship-_14642544 · posted 2026-11-10
+- Accenture - [IT One] SAP FI (Internship) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-FI--Internship-_14642522 · posted 2026-11-10
+- Klaviyo - Machine Learning Engineer Intern (Palo Alto, CA) https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/1fa911e4-18cd-4572-85ce-19f8fb24e5df/application?embed=true · posted 2026-09-23
+- Klaviyo - Software Engineer Co-op (Boston, MA) https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/e43e7edf-f5c7-4e3c-b62d-92ebfa5120fa/application?embed=true · posted 2026-09-12
+- Klaviyo - AI Engineer Intern (Boston, MA) https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/d1752b32-eebe-4edd-9e51-3ef06a3b75a2/application?embed=true · posted 2026-09-23
+- Republic Finance - React Developer Intern (Plano, TX) https://jobs.republicfinance.com/jobs/15411?icims=1&lang=en-us · posted 2026-11-06
+- The Marzetti Company - IT Analytics Intern (Columbus, OH) https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us · posted 2026-09-21
+- Trilogy Health Services - Information Systems Developer of AI and Automated Solutions Intern (Louisville, KY) https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us · posted 2026-11-09
