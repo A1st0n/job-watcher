@@ -3578,3 +3578,4 @@
 - Vizient - Associate Software Engineer (Irving, TX) https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R · posted 2026-11-10
 - Kalshi - Software Engineer - Marketing (NYC) https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application?embed=true · posted 2026-11-10
 - Fidelity National Information Services - Mainframe Software Engineer 1 (Columbus, GA) https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1 · posted 2026-11-10
+- Amgen - Undergraduate  Co-op Student – Software Engineer – Large Molecule Discovery - Technology (Canada - Burnaby) https://amgen.wd1.myworkdayjobs.com/Careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920 · posted 2026-11-10
