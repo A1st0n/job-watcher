@@ -3584,3 +3584,5 @@
 - State Street - Junior Platform Engineer, Officer (Quincy, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933 · posted 2026-11-10
 - Amazon - Software Dev Intern (Luxembourg, LUX) https://www.amazon.jobs/en/jobs/10489527/software-dev-intern · posted 2026-11-10
 - Lockheed Martin - Systems Engineering- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477802264 · posted 2026-11-10
+- GM - 2027 Summer Intern - Machine Learning Engineer, Embodied AI (Sunnyvale, California, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034 · posted 2026-11-10
+- Skydio - Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded · posted 2026-11-10
