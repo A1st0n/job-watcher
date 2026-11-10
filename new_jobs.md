@@ -3586,3 +3586,4 @@
 - Lockheed Martin - Systems Engineering- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477802264 · posted 2026-11-10
 - GM - 2027 Summer Intern - Machine Learning Engineer, Embodied AI (Sunnyvale, California, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034 · posted 2026-11-10
 - Skydio - Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded · posted 2026-11-10
+- Trimble - Software Engineering Intern (US - TN, Knoxville) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120 · posted 2026-11-10
