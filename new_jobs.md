@@ -3582,3 +3582,4 @@
 - Palantir - Software Engineer, Intern - Connectivity Platform and Product (New York, NY) https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743 · posted 2026-11-04
 - Palantir - Software Engineer, Internship - Data Connectors (New York, NY) https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a · posted 2026-11-04
 - State Street - Junior Platform Engineer, Officer (Quincy, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Platform-Engineer--Officer_R-800933 · posted 2026-11-10
+- Amazon - Software Dev Intern (Luxembourg, LUX) https://www.amazon.jobs/en/jobs/10489527/software-dev-intern · posted 2026-11-10
