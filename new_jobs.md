@@ -3530,3 +3530,8 @@
 - Lockheed Martin - Systems Engineer-Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477829891 · posted 2026-11-09
 - Motorola Solutions - Intern Software Developer (JavaScript & React) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript---React-_R70490 · posted 2026-11-10
 - Lockheed Martin - Software Engineer Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477362824 · posted 2026-11-09
+- Johnson & Johnson - Postdoctoral Scientist – AI/ML and Optimization Intern (Cambridge, MA, Hopewell Township, NJ) https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Post-Doc---AI-ML-and-Optimization_R-106767-2 · posted 2026-10-30
+- Kitware - Annotation Specialist - Computer Vision (Clifton Park, NY) https://jobs.lever.co/kitware/5b5accb2-beb3-4f83-8e25-05d91d3bf9dc/apply · posted 2026-09-24
+- Ande - Software Engineer – Early Career - AI (NYC) https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?embed=true · posted 2026-11-07
+- Amazon - Software Development Engineer Apprentice (Swansea, UK) https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract · posted 2026-11-06
+- Huckberry - Business Analyst - AI & Automation (Austin, TX) https://apply.workable.com/huckberry/j/76FD110308/apply · posted 2026-10-14
