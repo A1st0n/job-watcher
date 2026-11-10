@@ -3548,3 +3548,4 @@
 - ALTEN Technology - Robotics Lab Technician (Wilmington, MA) https://job-boards.greenhouse.io/altentechnologyusa/jobs/5286844007 · posted 2026-11-06
 - General Translation - Software Engineer - Product (SF) https://jobs.ashbyhq.com/generaltranslation/e8b7eb44-f36b-4032-a5f4-fff189f29f51/application?embed=true · posted 2026-07-21
 - Anysphere - Software Engineer New Grad (Palo Alto, CA, SF, NYC) https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true · posted 2026-11-10
+- Honeywell - Intern (m/f/d) Commercial Transformation – Fire Europe Software & Services (Ratingen, Nordrhein-Westfalen, Germany) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161539 · posted 2026-11-10
