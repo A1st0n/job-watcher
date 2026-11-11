@@ -3781,3 +3781,5 @@
 - Lockheed Martin - Cyber Software Engineer Intern - Summer 2027 (Herndon, VA) https://lockheedmartin.eightfold.ai/careers/job/996477645419 · posted 2026-11-11
 - Shield AI - Engineer II, Software - Autonomy Capabilities - New Grad - 6131 (United States) https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af · posted 2026-10-27
 - Sierra Nevada Corporation - Systems Engineer Intern (Summer 2027) (Dayton, OH) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749 · posted 2026-11-11
+- RTX - Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite) (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316 · posted 2026-11-11
+- Shield AI - Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 (Washington, D.C.) https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50 · posted 2026-10-27
