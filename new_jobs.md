@@ -3725,3 +3725,4 @@
 - Lockheed Martin - CICD Systems Engineering Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477866991 · posted 2026-11-10
 - Nvidia - System Software Engineering Intern - 2027 (Finland, Helsinki) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780 · posted 2026-11-11
 - Paccar - AI-Driven Vehicle Definition Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors · posted 2026-11-02
+- Cadence - Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d) (FELDKIRCHEN (Munich)) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159 · posted 2026-11-11
