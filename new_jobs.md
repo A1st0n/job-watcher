@@ -3692,3 +3692,7 @@
 - Shield AI - Engineer 1 New Grad - Software Integration (Washington, DC) https://jobs.ashbyhq.com/shield/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true · posted 2026-11-04
 - Shield AI - Software Engineer 1 New Grad - Software - Factory Team (Washington, DC) https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true · posted 2026-11-04
 - Shield AI - Software Engineer 1 New Grad - Internal Tools (Seattle, WA) https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true · posted 2026-11-07
+- AST SpaceMobile - RF Test Engineer 1 (Midland, TX, Dallas, TX, Arlington County, Arlington, VA) https://ast-science.com/company/careers/?gh_jid=4753267005 · posted 2026-11-11
+- Amazon - Software Development Engineer Early Career - Amazon Dedicated Cloud (Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA) https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc · posted 2026-11-11
+- RTX - Software Engineer 1 (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052 · posted 2026-11-10
+- Rantec Power Systems Inc. - Software Engineer - Embedded Systems (Baywood-Los Osos, CA) https://rantecpowersystemsinc.applytojob.com/apply/JPFXD1hAcH/Software-Engineer-Embedded-Systems · posted 2026-08-18
