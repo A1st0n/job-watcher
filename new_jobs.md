@@ -3728,3 +3728,6 @@
 - Cadence - Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d) (FELDKIRCHEN (Munich)) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159 · posted 2026-11-11
 - Amazon - Data Engineer Internship  (Luxembourg, LUX) https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship · posted 2026-11-11
 - TikTok - AI Data Operation Specialist New Grad - TikTok Live (London, UK) https://lifeattiktok.com/search/7706554030788806965 · posted 2026-11-11
+- Salesforce - Summer 2027 Intern - Software Engineer (2 Locations) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715 · posted 2026-11-11
+- Kyndryl - Early Career Program - Cloud Operations (Budapest, Hungary) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Budapest-Hungary/Early-Career-Program---Cloud-Operations_R-71931 · posted 2026-11-11
+- Sirion - Junior AI Agent Builder (Toronto, ON, Canada) https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201 · posted 2026-11-11
