@@ -3704,3 +3704,7 @@
 - State Street - Quality Assurance Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quality-Assurance-Intern_R-800855-1 · posted 2026-11-11
 - Astranis - Embedded Software Developer, Network/Payload Intern (Summer 2027) (San Francisco) https://job-boards.greenhouse.io/astranis/jobs/4704569006 · posted 2026-11-10
 - Continental - Intern - IT (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/Continental/744000135412149 · posted 2026-07-02
+- Lockheed Martin - AI/ML Engineering Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477363002 · posted 2026-11-10
+- State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800852-1 · posted 2026-11-11
+- State Street - AI Engineer Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/AI-Engineer-Intern_R-800856-2 · posted 2026-11-11
+- State Street - Quality Assurance Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quality-Assurance-Intern_R-800940-1 · posted 2026-11-11
