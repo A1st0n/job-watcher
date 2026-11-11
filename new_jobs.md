@@ -3748,3 +3748,6 @@
 - RTX - Software Engineer 1 (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824 · posted 2026-11-11
 - GlobalFoundries - AI Processor Hardware/Software Integration Engineer New Grad (Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093 · posted 2026-11-11
 - ZT Systems - Test Software Developer (Secaucus, NJ) https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Test-Software-Developer_R-105519-1 · posted 2026-11-11
+- Rockwell Automation - Software Developer/Engineering Intern (Mequon, WI) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2 · posted 2026-11-11
+- Amazon - Data Engineer Intern (London, UK) https://amazon.jobs/en/jobs/10602219/data-engineer-internship · posted 2026-11-11
+- RTX - Software Engineer Intern (Sterling, VA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017 · posted 2026-11-11
