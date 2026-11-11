@@ -3711,3 +3711,4 @@
 - GE HealthCare - Software Intern (Bengaluru) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1 · posted 2026-11-11
 - Bosch - 2026/02: HW Developer for Electronic Control Unit (bengaluru) https://jobs.smartrecruiters.com/BoschGroup/744000161028378 · posted 2026-11-11
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800851-1 · posted 2026-11-11
+- Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161207 · posted 2026-11-11
