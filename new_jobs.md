@@ -3779,3 +3779,5 @@
 - Lockheed Martin - Software Engineer - Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477873837 · posted 2026-11-11
 - Lockheed Martin - Systems Engineering Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477725054 · posted 2026-11-11
 - Lockheed Martin - Cyber Software Engineer Intern - Summer 2027 (Herndon, VA) https://lockheedmartin.eightfold.ai/careers/job/996477645419 · posted 2026-11-11
+- Shield AI - Engineer II, Software - Autonomy Capabilities - New Grad - 6131 (United States) https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af · posted 2026-10-27
+- Sierra Nevada Corporation - Systems Engineer Intern (Summer 2027) (Dayton, OH) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749 · posted 2026-11-11
