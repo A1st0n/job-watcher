@@ -3760,3 +3760,5 @@
 - Northrop Grumman - Associate Software Engineer - Pathways (Boulder, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171 · posted 2026-11-11
 - Intercontinental Exchange - Associate Software Developer (Jacksonville, FL) https://careers-ice.icims.com/jobs/14039/job?mobile=true&needsRedirect=false · posted 2026-11-11
 - Brex - Software Engineer, Intern  (Summer 2027( (San Francisco, California, United States) https://www.brex.com/careers/8936403002?gh_jid=8936403002 · posted 2026-11-11
+- Northrop Grumman - 2026 Software Development Analyst 1/2 - Pathways Program - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Software-Development-Analyst-1-2---Pathways-Program---Roy-UT_R10260188-1 · posted 2026-11-11
+- Symbotic - New Grad- Robotics Software Engineer (USA Wilmington,  MA - HQ) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 · posted 2026-11-11
