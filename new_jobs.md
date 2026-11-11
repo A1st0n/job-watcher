@@ -3678,3 +3678,17 @@
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477473137 · posted 2026-11-09
 - Lockheed Martin - AI/ML Engineering Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477362820 · posted 2026-11-10
 - Intel - AI GPU Arch Perf Analysis Intern (PRC, Beijing) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/AI-GPU-Arch-Perf-Analysis-Intern_JR0288972 · posted 2026-11-11
+- Tesla - Software Developer Intern - IT Apps (Fremont, CA) https://www.tesla.com/careers/search/job/289683 · posted 2026-11-11
+- Shield AI - Software Engineer Intern (San Diego, CA) https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true · posted 2026-11-10
+- Bask Health - AI Product Intern (Remote in USA) https://apply.workable.com/bask-health-1/j/9D7E69054E/apply · posted 2026-11-11
+- Shield AI - Software Engineer Intern Co-op (Dallas, TX) https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true · posted 2026-11-05
+- Amentum - Junior Data Engineer (Springfield, VA) https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096 · posted 2026-11-10
+- Shield AI - Perception Engineer - Multimodal & Embodied AI (San Diego, CA) https://jobs.ashbyhq.com/shield/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true · posted 2026-11-10
+- Shield AI - Engineer 1 New Grad - Software - Perception (Washington, DC) https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true · posted 2026-11-08
+- Shield AI - Autonomous Software Engineer New Grad (San Diego, CA) https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true · posted 2026-11-03
+- Shield AI - Software Engineer 1 New Grad - Software - Autonomy Capabilities (United States) https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true · posted 2026-11-08
+- Shield AI - Engineer 1 New Grad - Software - Autonomous Pilot Integration (Washington, DC) https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true · posted 2026-11-08
+- Shield AI - Engineer 2 New Grad - Software - Factory (Washington, DC) https://jobs.ashbyhq.com/shield/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true · posted 2026-11-04
+- Shield AI - Engineer 1 New Grad - Software Integration (Washington, DC) https://jobs.ashbyhq.com/shield/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true · posted 2026-11-04
+- Shield AI - Software Engineer 1 New Grad - Software - Factory Team (Washington, DC) https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true · posted 2026-11-04
+- Shield AI - Software Engineer 1 New Grad - Internal Tools (Seattle, WA) https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true · posted 2026-11-07
