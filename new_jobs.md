@@ -3675,3 +3675,4 @@
 - Wise - Graduate Data Scientist (Austin, TX) https://jobs.smartrecruiters.com/Wise/744000160933600 · posted 2026-11-10
 - Salesforce - AI Labs Rotational Fellow (Seattle, WA, SF, NYC) https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643 · posted 2026-11-10
 - Goldman Sachs - Software Engineer - Software Engineering (Dallas, TX) https://higher.gs.com/roles/188640 · posted 2026-11-10
+- Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477473137 · posted 2026-11-09
