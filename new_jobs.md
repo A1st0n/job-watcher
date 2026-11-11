@@ -3764,3 +3764,5 @@
 - Symbotic - New Grad- Robotics Software Engineer (USA Wilmington,  MA - HQ) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 · posted 2026-11-11
 - AMD - Applications Engineer – AI & HPC, University Programs (Dublin, Ireland) https://global-external-amd.icims.com/jobs/93243/login · posted 2026-10-21
 - Twitch - Software Engineer I, Commerce (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8934067002 · posted 2026-11-11
+- Boeing - Associate Software Engineer (USA - Heath, OH) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Associate-Software-Engineer_JR2026529446 · posted 2026-11-11
+- RTX - Software Engineering Intern (Summer 2027) (US-TX-MCKINNEY-513WB ~ 2501 W University Dr ~ WING B BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440 · posted 2026-11-11
