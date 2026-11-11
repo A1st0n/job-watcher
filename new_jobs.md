@@ -3708,3 +3708,4 @@
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800852-1 · posted 2026-11-11
 - State Street - AI Engineer Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/AI-Engineer-Intern_R-800856-2 · posted 2026-11-11
 - State Street - Quality Assurance Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quality-Assurance-Intern_R-800940-1 · posted 2026-11-11
+- GE HealthCare - Software Intern (Bengaluru) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1 · posted 2026-11-11
