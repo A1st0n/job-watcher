@@ -3771,3 +3771,5 @@
 - Boeing - Entry-Level Missions Systems Software Engineer - Embedded (USA - Berkeley, MO) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463-1 · posted 2026-11-11
 - Lightmatter - Laser Firmware Intern - Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008 · posted 2026-11-11
 - Motorola Solutions - Software Engineering Intern - 2027 Summer Internship (Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179 · posted 2026-11-11
+- RTX - Systems Engineer I (Onsite) (US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-I--Onsite-_01868914 · posted 2026-11-11
+- Motorola Solutions - 2027 Summer Embedded SW Engineering Intern (Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1 · posted 2026-11-11
