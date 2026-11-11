@@ -3751,3 +3751,11 @@
 - Rockwell Automation - Software Developer/Engineering Intern (Mequon, WI) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2 · posted 2026-11-11
 - Amazon - Data Engineer Intern (London, UK) https://amazon.jobs/en/jobs/10602219/data-engineer-internship · posted 2026-11-11
 - RTX - Software Engineer Intern (Sterling, VA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017 · posted 2026-11-11
+- Lockheed Martin - Software Development Intern - Summer 2027 (Bethesda, MD, Rockville, MD) https://lockheedmartin.eightfold.ai/careers/job/996477337950 · posted 2026-11-09
+- Dow Chemical Company - Infrastructure Mapping & Data Quality Co-op (Midland, MI) https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169 · posted 2026-11-11
+- Ribbon - AI Engineer Co-op (Westford, MA) https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083 · posted 2026-11-11
+- DraftKings - Software Engineer Intern (London, UK) https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1 · posted 2026-11-11
+- Unisys - Software Engineer Intern (Eagan, MN) https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421 · posted 2026-11-11
+- The Marzetti Company - AI Solutions Intern - Human Resources (Columbus, OH) https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us · posted 2026-11-11
+- Northrop Grumman - Associate Software Engineer - Pathways (Boulder, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171 · posted 2026-11-11
+- Intercontinental Exchange - Associate Software Developer (Jacksonville, FL) https://careers-ice.icims.com/jobs/14039/job?mobile=true&needsRedirect=false · posted 2026-11-11
