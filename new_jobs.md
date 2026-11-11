@@ -3722,3 +3722,4 @@
 - Lockheed Martin - IT Infrastructure Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477721195 · posted 2026-11-09
 - General Dynamics Mission Systems - Systems Engineering Intern - Sonar (Manassas, VA) https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false · posted 2026-10-26
 - Handshake - Machine Learning Engineer 1 (SF) https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true · posted 2026-10-08
+- Lockheed Martin - CICD Systems Engineering Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477866991 · posted 2026-11-10
