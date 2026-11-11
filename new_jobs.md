@@ -3718,3 +3718,7 @@
 - Elire - AI Software Developer Intern - Multiple Teams (Remote in USA, Minneapolis, MN) https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false · posted 2026-09-15
 - SHOPLINE - AI Skill Developer Intern (United States) https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern · posted 2026-11-11
 - Riot Games - Data Engineer Intern (Remote in USA) https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716 · posted 2026-11-11
+- Nvidia - Developer Technology Engineer Intern (Japan, Tokyo) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575 · posted 2026-11-11
+- Lockheed Martin - IT Infrastructure Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477721195 · posted 2026-11-09
+- General Dynamics Mission Systems - Systems Engineering Intern - Sonar (Manassas, VA) https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false · posted 2026-10-26
+- Handshake - Machine Learning Engineer 1 (SF) https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true · posted 2026-10-08
