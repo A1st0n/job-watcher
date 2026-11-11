@@ -3739,3 +3739,4 @@
 - Rockwell Automation - Intern, Software Developer/Engineering (Mequon, Wisconsin, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2 · posted 2026-11-11
 - RTX - Software Engineer I (CMA-P1-1) (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038 · posted 2026-11-11
 - Accenture - Cloud Transformation Internship () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331 · posted 2026-11-11
+- Lockheed Martin - Systems Engineering Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477867043 · posted 2026-11-10
