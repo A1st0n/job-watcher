@@ -3773,3 +3773,6 @@
 - Motorola Solutions - Software Engineering Intern - 2027 Summer Internship (Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179 · posted 2026-11-11
 - RTX - Systems Engineer I (Onsite) (US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineer-I--Onsite-_01868914 · posted 2026-11-11
 - Motorola Solutions - 2027 Summer Embedded SW Engineering Intern (Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1 · posted 2026-11-11
+- Lockheed Martin - Cyber Software Engineer Intern - Summer 2027 (Herndon, VA) https://lockheedmartin.eightfold.ai/careers/job/996477642584 · posted 2026-11-11
+- Lockheed Martin - Computer/Software Engineering Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477783742 · posted 2026-11-11
+- Lockheed Martin - Network Infrastructure Engineer - Intern (Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477801763 · posted 2026-11-11
