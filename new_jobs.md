@@ -3645,3 +3645,33 @@
 - Amentum - Junior Software Developer (Dahlgren, VA) https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040 · posted 2026-11-10
 - Wellmark - Data Science Associate (Des Moines, IA) https://jobs.smartrecruiters.com/WellmarkInc/744000160931919 · posted 2026-11-10
 - Salesforce - AI Labs Rotational Fellow (Seattle, WA, SF, NYC) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1 · posted 2026-11-10
+- Amazon - Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC) (Seattle, Washington, USA) https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc · posted 2026-11-10
+- Elire - AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data (Remote in USA, Minneapolis, MN) https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false · posted 2026-09-15
+- Skydio - Middleware Software Engineer Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true · posted 2026-11-10
+- Micron Technology - Data Scientist New Grad - AI for Business Functions (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682 · posted 2026-10-29
+- Echo Global Logistics - Software Engineer Intern (United States) https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1 · posted 2026-11-10
+- DwyerOmega - Applied AI Intern (Remote in USA) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662 · posted 2026-11-10
+- CenturyLink - AI Product & Business Innovation Intern (Remote in USA) https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors · posted 2026-10-16
+- CenturyLink - AI & Automation Builders Internship (Remote in USA) https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors · posted 2026-10-16
+- JMP Statistical Discovery - C++ Software Development Intern (Cary, NC) https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false · posted 2026-11-10
+- Applied Materials - Software Engineer Co-op (Billerica, MA) https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540 · posted 2026-11-10
+- Paccar - Data Engineer Intern (Chillicothe, OH) https://jobs.paccar.com/job/Chillicothe-Data-Engineering-Intern-OH-45601-8829/1456138333/?ats=successfactors · posted 2026-11-10
+- General Dynamics Information Technology - AI/ML Business Intelligence Development Intern (Bossier City, LA) https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935 · posted 2026-11-10
+- Rambus - Forward Deployed Engineer Intern - AI & Enterprise Systems (San Jose, CA) https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false · posted 2026-11-10
+- Art of Problem Solving - Data Science Intern (San Diego, CA) https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003 · posted 2026-11-10
+- International - Artificial Intelligence/Machine Learning Intern (Lisle, IL) https://careers.international.com/jobs/60456?icims=1&lang=en-us · posted 2026-11-10
+- Trimble - Software Engineer Intern (Knoxville, TN) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120 · posted 2026-11-10
+- Hunt Oil Company - Application Developer Intern (Dallas, TX) https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104 · posted 2026-11-10
+- Booz Allen - Data Scientist Intern (McLean, VA) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332 · posted 2026-11-10
+- NVIDIA - Performance Engineering Intern - Platform Performance and Power (Canada, Santa Clara, CA, United States) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541 · posted 2026-11-10
+- Textron - Software Engineer (Wilmington, MA) https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719 · posted 2026-08-27
+- Textron - Software Engineer 1 - Weapons (Wilmington, MA) https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818 · posted 2026-09-02
+- Mark43 - Software Engineer - Universal Search (Manchester, UK) https://mark43.com/list-job/8360326?gh_jid=8360326 · posted 2026-11-10
+- Abacus Insights - Associate Data Engineer (Remote in USA) https://boards.greenhouse.io/abacusinsights/jobs/8917380002 · posted 2026-11-10
+- Mirantis - Software Development Engineer (Remote in USA) https://jobs.smartrecruiters.com/Mirantis/744000160982204 · posted 2026-11-10
+- Cummins - Electronic Systems Engineer - Software (Columbus, IN) https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871 · posted 2026-11-10
+- W.R. Berkley - AI Developer (Manassas, VA) https://careers-berkley.icims.com/jobs/14593/job?mobile=true&needsRedirect=false · posted 2026-11-10
+- Promega - Software Integration Engineer (Madison, WI) https://careers.promega.com/jobs/4373?icims=1&lang=en-us · posted 2026-11-10
+- Wise - Graduate Data Scientist (Austin, TX) https://jobs.smartrecruiters.com/Wise/744000160933600 · posted 2026-11-10
+- Salesforce - AI Labs Rotational Fellow (Seattle, WA, SF, NYC) https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643 · posted 2026-11-10
+- Goldman Sachs - Software Engineer - Software Engineering (Dallas, TX) https://higher.gs.com/roles/188640 · posted 2026-11-10
