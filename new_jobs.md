@@ -3783,3 +3783,37 @@
 - Sierra Nevada Corporation - Systems Engineer Intern (Summer 2027) (Dayton, OH) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749 · posted 2026-11-11
 - RTX - Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite) (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316 · posted 2026-11-11
 - Shield AI - Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 (Washington, D.C.) https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50 · posted 2026-10-27
+- Shield AI - Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 (United States) https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12 · posted 2026-10-27
+- L3Harris Technologies - Integration/Test Engineer Intern (Melbourne, FL) https://jobs.l3harris.com/job/Melbourne-IntegrationTest-Engineering-Intern-FL-32901/1428454000/?ats=successfactors · posted 2026-09-10
+- Bose - Data Engineer Co-op (Bloomfield Hills, MI, Framingham, MA, Atlanta, GA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270 · posted 2026-10-07
+- McDonald's - Global Tech Infrastructure & Operations Intern (Chicago, IL) https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors · posted 2026-11-11
+- RTX - Software Engineer Intern (McKinney, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440 · posted 2026-11-11
+- Brex - Software Engineer Intern (SF) https://www.brex.com/careers/8936403002?gh_jid=8936403002 · posted 2026-11-11
+- Tacit - Data Scientist Intern (SF) https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true · posted 2026-10-09
+- NBCUniversal - Software Engineer Intern (Universal City, LA) https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529 · posted 2026-11-11
+- Rockwell Automation - Software Developer/Engineering Intern (Mequon, WI) https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1 · posted 2026-11-11
+- Samsung - AI System Architecture Research Scientist Intern (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003 · posted 2026-11-11
+- Bloom Energy - Data Science Intern (San Jose, CA) https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360 · posted 2026-11-11
+- Bask Health - Software Engineer Intern (Remote in USA) https://apply.workable.com/bask-health-1/j/E81C7F7D3B/apply · posted 2026-11-11
+- Formlabs - Manufacturing Test Software Intern - Manufacturing (Somerville, MA) https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598 · posted 2026-11-11
+- Bask Health - Backend Engineer Intern - Backend Engineering (Remote in USA) https://apply.workable.com/bask-health-1/j/98DB106D88/apply · posted 2026-11-11
+- WEP Clinical - IT Intern - AI & Transformation (London, UK) https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2/apply · posted 2026-11-11
+- Gordon Food Service - Software Engineer Intern - Low Code (Wyoming, MI) https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375-2 · posted 2026-11-11
+- Bose - Agentic AI Engineering Co-op - Active Noise Cancellation (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391 · posted 2026-11-11
+- Bose - Digital Signal Processing Machine Learning Software Development Co-op (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372 · posted 2026-11-11
+- GlobalFoundries - AI Processor Hardware/Software Integration Engineer Intern (Richardson, TX) https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028 · posted 2026-11-11
+- RTX - Software Engineer 1 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214 · posted 2026-09-30
+- Shield AI - Engineer 2 New Grad - Software - Autonomy Capabilities (United States) https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply · posted 2026-11-11
+- Shield AI - Engineer 2 New Grad - Software - Autonomous Pilot Integration (Washington, DC) https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50/apply · posted 2026-11-11
+- Rubrik - Software Engineer - Virtual Platform (Palo Alto, CA) https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288 · posted 2026-11-11
+- Adobe - Data Scientist New Grad (San Jose, CA) https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462 · posted 2026-11-11
+- Northrop Grumman - Associate Software Engineer - Pathways (Colorado Springs, CO) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174 · posted 2026-11-11
+- Jamf - Associate Software Engineer - Full Stack (Remote in USA) https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004 · posted 2026-11-11
+- Bask Health - Software Engineer (Remote in USA) https://apply.workable.com/bask-health-1/j/3AC4353728/apply · posted 2026-11-11
+- Bask Health - Backend Engineer New Grad (Remote in USA) https://apply.workable.com/bask-health-1/j/472CF47F60/apply · posted 2026-11-11
+- Bask Health - Junior Full Stack Engineer (Remote in USA) https://apply.workable.com/bask-health-1/j/DFC51193B4/apply · posted 2026-11-11
+- Symbotic - Robotics Software Engineer New Grad (Wilmington, MA) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 · posted 2026-11-11
+- Amazon - Software Developer Engineer (Toronto, ON, Canada) https://amazon.jobs/en/jobs/10589122/software-dev-engineer · posted 2026-11-11
+- Amazon - Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference (Cupertino, CA) https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference · posted 2026-11-11
+- Pacific Northwest National Laboratory - Post-Bachelor Research Associate - Full Stack Product (Richland, WA) https://careers.pnnl.gov/jobs/13649?icims=1&lang=en-us · posted 2026-11-11
+- Self Financial - Associate Software Engineer (Austin, TX) https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 · posted 2026-11-11
