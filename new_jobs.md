@@ -3726,3 +3726,5 @@
 - Nvidia - System Software Engineering Intern - 2027 (Finland, Helsinki) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780 · posted 2026-11-11
 - Paccar - AI-Driven Vehicle Definition Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors · posted 2026-11-02
 - Cadence - Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d) (FELDKIRCHEN (Munich)) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159 · posted 2026-11-11
+- Amazon - Data Engineer Internship  (Luxembourg, LUX) https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship · posted 2026-11-11
+- TikTok - AI Data Operation Specialist New Grad - TikTok Live (London, UK) https://lifeattiktok.com/search/7706554030788806965 · posted 2026-11-11
