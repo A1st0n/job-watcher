@@ -3734,3 +3734,5 @@
 - Amazon - Data Engineer Internship  (London, England, GBR) https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship · posted 2026-11-11
 - Snowflake - Software Engineering Intern – Developer Platform (Warsaw, Summer 2027) (PL-Warsaw-Lixa C) https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c · posted 2026-11-11
 - Snowflake - Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027) (PL-Warsaw-Lixa C) https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7 · posted 2026-11-11
+- RTX - Software Engineering Intern (ISET-IN-2) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017 · posted 2026-11-11
+- Johnson Controls - Software Engineering Co-Op (Burlington-Massachusetts-United States of America) https://jci.wd5.myworkdayjobs.com/Jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408 · posted 2026-11-11
