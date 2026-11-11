@@ -3723,3 +3723,4 @@
 - General Dynamics Mission Systems - Systems Engineering Intern - Sonar (Manassas, VA) https://careers-gdms.icims.com/jobs/75796/job?mobile=true&needsRedirect=false · posted 2026-10-26
 - Handshake - Machine Learning Engineer 1 (SF) https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true · posted 2026-10-08
 - Lockheed Martin - CICD Systems Engineering Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477866991 · posted 2026-11-10
+- Nvidia - System Software Engineering Intern - 2027 (Finland, Helsinki) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780 · posted 2026-11-11
