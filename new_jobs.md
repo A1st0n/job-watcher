@@ -3677,3 +3677,4 @@
 - Goldman Sachs - Software Engineer - Software Engineering (Dallas, TX) https://higher.gs.com/roles/188640 · posted 2026-11-10
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477473137 · posted 2026-11-09
 - Lockheed Martin - AI/ML Engineering Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477362820 · posted 2026-11-10
+- Intel - AI GPU Arch Perf Analysis Intern (PRC, Beijing) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/AI-GPU-Arch-Perf-Analysis-Intern_JR0288972 · posted 2026-11-11
