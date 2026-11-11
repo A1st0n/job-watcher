@@ -3731,3 +3731,6 @@
 - Salesforce - Summer 2027 Intern - Software Engineer (2 Locations) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715 · posted 2026-11-11
 - Kyndryl - Early Career Program - Cloud Operations (Budapest, Hungary) https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Budapest-Hungary/Early-Career-Program---Cloud-Operations_R-71931 · posted 2026-11-11
 - Sirion - Junior AI Agent Builder (Toronto, ON, Canada) https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201 · posted 2026-11-11
+- Amazon - Data Engineer Internship  (London, England, GBR) https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship · posted 2026-11-11
+- Snowflake - Software Engineering Intern – Developer Platform (Warsaw, Summer 2027) (PL-Warsaw-Lixa C) https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c · posted 2026-11-11
+- Snowflake - Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027) (PL-Warsaw-Lixa C) https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7 · posted 2026-11-11
