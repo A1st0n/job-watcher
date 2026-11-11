@@ -3712,3 +3712,6 @@
 - Bosch - 2026/02: HW Developer for Electronic Control Unit (bengaluru) https://jobs.smartrecruiters.com/BoschGroup/744000161028378 · posted 2026-11-11
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800851-1 · posted 2026-11-11
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161207 · posted 2026-11-11
+- Intel - Intern System Software Development Engineer (Malaysia, Penang) https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0288820 · posted 2026-11-11
+- Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161318 · posted 2026-11-11
+- Astranis - Embedded Software Developer – Network/Payload Intern (SF) https://job-boards.greenhouse.io/astranis/jobs/4704569006 · posted 2026-11-11
