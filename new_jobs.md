@@ -3724,3 +3724,4 @@
 - Handshake - Machine Learning Engineer 1 (SF) https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f/application?embed=true · posted 2026-10-08
 - Lockheed Martin - CICD Systems Engineering Intern (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477866991 · posted 2026-11-10
 - Nvidia - System Software Engineering Intern - 2027 (Finland, Helsinki) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780 · posted 2026-11-11
+- Paccar - AI-Driven Vehicle Definition Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors · posted 2026-11-02
