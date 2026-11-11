@@ -3776,3 +3776,6 @@
 - Lockheed Martin - Cyber Software Engineer Intern - Summer 2027 (Herndon, VA) https://lockheedmartin.eightfold.ai/careers/job/996477642584 · posted 2026-11-11
 - Lockheed Martin - Computer/Software Engineering Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477783742 · posted 2026-11-11
 - Lockheed Martin - Network Infrastructure Engineer - Intern (Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477801763 · posted 2026-11-11
+- Lockheed Martin - Software Engineer - Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477873837 · posted 2026-11-11
+- Lockheed Martin - Systems Engineering Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477725054 · posted 2026-11-11
+- Lockheed Martin - Cyber Software Engineer Intern - Summer 2027 (Herndon, VA) https://lockheedmartin.eightfold.ai/careers/job/996477645419 · posted 2026-11-11
