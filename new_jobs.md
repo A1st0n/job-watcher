@@ -3715,3 +3715,6 @@
 - Intel - Intern System Software Development Engineer (Malaysia, Penang) https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0288820 · posted 2026-11-11
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161318 · posted 2026-11-11
 - Astranis - Embedded Software Developer – Network/Payload Intern (SF) https://job-boards.greenhouse.io/astranis/jobs/4704569006 · posted 2026-11-11
+- Elire - AI Software Developer Intern - Multiple Teams (Remote in USA, Minneapolis, MN) https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false · posted 2026-09-15
+- SHOPLINE - AI Skill Developer Intern (United States) https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern · posted 2026-11-11
+- Riot Games - Data Engineer Intern (Remote in USA) https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716 · posted 2026-11-11
