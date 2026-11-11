@@ -3696,3 +3696,7 @@
 - Amazon - Software Development Engineer Early Career - Amazon Dedicated Cloud (Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA) https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc · posted 2026-11-11
 - RTX - Software Engineer 1 (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052 · posted 2026-11-10
 - Rantec Power Systems Inc. - Software Engineer - Embedded Systems (Baywood-Los Osos, CA) https://rantecpowersystemsinc.applytojob.com/apply/JPFXD1hAcH/Software-Engineer-Embedded-Systems · posted 2026-08-18
+- TikTok - Platform Campaign Project Intern (Seattle, WA) https://lifeattiktok.com/search/7706422460086159669 · posted 2026-11-11
+- TikTok - Machine Learning Engineer Intern (San Jose, CA) https://lifeattiktok.com/search/7706693387932633397 · posted 2026-11-11
+- Formulary Financial - Software Engineer Intern (NYC) https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true · posted 2026-11-08
+- RTX - Software Engineer Intern (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049 · posted 2026-11-10
