@@ -3702,3 +3702,4 @@
 - RTX - Software Engineer Intern (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049 · posted 2026-11-10
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800854-1 · posted 2026-11-11
 - State Street - Quality Assurance Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quality-Assurance-Intern_R-800855-1 · posted 2026-11-11
+- Astranis - Embedded Software Developer, Network/Payload Intern (Summer 2027) (San Francisco) https://job-boards.greenhouse.io/astranis/jobs/4704569006 · posted 2026-11-10
