@@ -3710,3 +3710,4 @@
 - State Street - Quality Assurance Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quality-Assurance-Intern_R-800940-1 · posted 2026-11-11
 - GE HealthCare - Software Intern (Bengaluru) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1 · posted 2026-11-11
 - Bosch - 2026/02: HW Developer for Electronic Control Unit (bengaluru) https://jobs.smartrecruiters.com/BoschGroup/744000161028378 · posted 2026-11-11
+- State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800851-1 · posted 2026-11-11
