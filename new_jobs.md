@@ -3860,3 +3860,11 @@
 - ServiceNow - Assoc AI Engineering (Cloud Security Automation) Intern (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000161209600 · posted 2026-11-12
 - ServiceNow - Assoc Information Security Engineer Intern (San Diego, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000161204235 · posted 2026-11-12
 - Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70643 · posted 2026-11-12
+- Shield AI - Engineer 2 New Grad - Software - Autonomy Capabilities (United States) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true · posted 2026-11-11
+- Bloom Energy - AI Solutions Engineer Intern (San Jose, CA) https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361 · posted 2026-11-11
+- SK hynix - Embedded Software Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009 · posted 2026-11-12
+- Bloom Energy - Data Science Intern (San Jose, CA) https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362 · posted 2026-11-11
+- Bloom Energy - Remote Monitoring Control Center Systems Engineer Intern (San Jose, CA) https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363 · posted 2026-11-11
+- Shield AI - Engineer 2 New Grad - Software - Perception (United States) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true · posted 2026-11-11
+- Shield AI - Engineer 2 New Grad - Software - Autonomous Pilot Integration (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true · posted 2026-11-11
+- ViaSat - Associate Software Engineer (Carlsbad, CA) https://careers.viasat.com/jobs/7147?icims=1&lang=en-us · posted 2026-11-12
