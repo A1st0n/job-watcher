@@ -3972,3 +3972,5 @@
 - Autodesk - Stagiaire en Développement Cloud, Intern Cloud Developer (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2 · posted 2026-11-12
 - Micron - Intern - IT Software Engineer (Boise, ID - Main Site) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582 · posted 2026-11-12
 - Accenture Federal - Associate Software Engineer-Hire-to-Train Program (Pega) (Washington, DC) https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006 · posted 2026-09-01
+- RTX - Systems Engineering Intern (US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Systems-Engineering-Intern_01881462 · posted 2026-11-12
+- Nuro - Systems Engineering, New Grad 2027 (Mountain View, California (HQ)) https://nuro.ai/careersitem?gh_jid=8360415 · posted 2026-11-12
