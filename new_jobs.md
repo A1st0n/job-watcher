@@ -3956,3 +3956,4 @@
 - Truist Bank - Data Scientist 1 (Atlanta, GA) https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840 · posted 2026-11-12
 - Genentech - Machine Learning Scientist - Multiple Teams (South SF) https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905 · posted 2026-11-12
 - WME Express - Robotics Data Collection Operator (San Carlos, CA) https://wmeexpress.applytojob.com/apply/k9CWwYbRvW/Vehicle-Data-Collector-Robotic · posted 2026-11-12
+- American Express - Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY (New York, NY, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354 · posted 2026-11-12
