@@ -3979,3 +3979,4 @@
 - Shield AI - 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) (San Diego, California) https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca · posted 2026-11-12
 - RTX - Software Engineer I - Air Traffic Solutions (Onsite) (US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077 · posted 2026-11-12
 - Lockheed Martin - Embedded Software Engineering Intern - Summer 2027 (Highlands Ranch, CO) https://lockheedmartin.eightfold.ai/careers/job/996477219222 · posted 2026-11-12
+- Oracle - Site Reliability Engineer - OCI (Feb 2027 Start Date) (Nashville, TN, United States) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350501 · posted 2026-11-12
