@@ -3938,3 +3938,21 @@
 - JBT Marel - Software Engineer (Redmond, WA) https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/US---Redmond-WA/Software-Engineer_25394 · posted 2026-11-10
 - Nextpower - Forward Deployed Engineer - AI (Fremont, CA) https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260 · posted 2026-07-24
 - HP - Data Science Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2 · posted 2026-11-12
+- Analog Devices - Embedded Software Engineering Intern (Turkey, Istanbul, Bilisim Vadisi) https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Embedded-Software-Engineering-Intern_R267002 · posted 2026-11-12
+- Bosch - AI Research Intern – Time Series Foundation Models (Sunnyvale, California) https://jobs.smartrecruiters.com/BoschGroup/744000161339309 · posted 2026-11-12
+- Trinity Life Sciences - Data Science Intern (Waltham, MA, NYC) https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881 · posted 2026-10-27
+- Illinois Tool Works - Software Engineer Intern (Rogers, MN) https://itw.wd5.myworkdayjobs.com/external/job/Rogers---55374/Software-Engineering-Intern_JR10129 · posted 2026-09-21
+- Entegris - Embedded Software Engineer Intern (Bloomington, MN) https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870 · posted 2026-11-12
+- Illinois Tool Works - Software Engineer Intern - Application Software (Eden Prairie, MN) https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1 · posted 2026-10-07
+- Chatham Financial - Software Engineer Intern (Kennett Square, PA) https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348 · posted 2026-10-29
+- Fresenius Medical Care - Agentic AI Analytics Co-op (Lawrence, MA) https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797 · posted 2026-11-12
+- Northrop Grumman - Associate Software Engineer / Software Engineer (Melbourne, FL) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060 · posted 2026-07-30
+- Neko Health - AI Acceleration Specialist (London, UK, Berlin, Germany) https://jobs.ashbyhq.com/neko-health/05f68d15-22d1-4e53-8b43-683467e79f4d/application?embed=true · posted 2026-10-09
+- Dillards - COBOL Developer (Little Rock, AR) https://job-boards.greenhouse.io/dillards/jobs/5293318007 · posted 2026-11-12
+- Illinois Tool Works - Software Engineer (Rogers, MN) https://itw.wd5.myworkdayjobs.com/external/job/Rogers---55374/Software-Engineer_JR8874-1 · posted 2026-07-07
+- Lattice Semiconductor - Junior BMC Firmware Engineer (Duluth, GA) https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-102808 · posted 2026-09-16
+- TP-Link Systems - Embedded Software Engineer (United States) https://tplink.wd503.myworkdayjobs.com/External/job/US-10-Mauchly/XMLNAME-2026-Early-Career-Embedded-Software-Engineer_R26_0000000032 · posted 2026-10-14
+- Johns Hopkins Applied Physics Laboratory - Mission Modeling, Simulation & Software Engineer New Grad (Laurel, MD) https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us · posted 2026-11-12
+- Truist Bank - Data Scientist 1 (Atlanta, GA) https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840 · posted 2026-11-12
+- Genentech - Machine Learning Scientist - Multiple Teams (South SF) https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905 · posted 2026-11-12
+- WME Express - Robotics Data Collection Operator (San Carlos, CA) https://wmeexpress.applytojob.com/apply/k9CWwYbRvW/Vehicle-Data-Collector-Robotic · posted 2026-11-12
