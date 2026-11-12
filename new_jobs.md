@@ -3914,3 +3914,7 @@
 - Thermo Fisher - Intern – Software Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01374072 · posted 2026-11-12
 - Thermo Fisher - Intern – Software Test (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Test_R-01374071-1 · posted 2026-11-12
 - Roche - AI & Digitalisation Intern (Welwyn, UK) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162 · posted 2026-11-12
+- Lockheed Martin - Systems Engineering Intern (Hill AFB, UT) https://lockheedmartin.eightfold.ai/careers/job/996477186919 · posted 2026-11-10
+- Analog Devices - Mechanical Engineer - Advanced Robotics Intern (US, MA, Wilmington) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505 · posted 2026-11-12
+- DXC - Hybrid Cloud & Migration Services Intern (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Hybrid-Cloud---Migration-Services-Intern_51590729 · posted 2026-11-12
+- Thermo Fisher - Internship: GenAI-Assisted Software Modernization (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1 · posted 2026-11-12
