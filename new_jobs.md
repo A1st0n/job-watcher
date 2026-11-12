@@ -3892,3 +3892,16 @@
 - Bask Health - Frontend Engineer Intern - Frontend Engineering (Remote in USA) https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply · posted 2026-11-12
 - RTX - Software Engineer Intern (West Valley City, UT) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1 · posted 2026-11-11
 - Bask Health - Frontend Engineer New Grad (Remote in USA) https://apply.workable.com/bask-health-1/j/95FB1074E4/apply · posted 2026-11-12
+- TikTok - Software Engineer Intern - TikTok Search (San Jose, CA) https://lifeattiktok.com/search/7704696088079010053 · posted 2026-11-12
+- Nintendo - Software Engineer Intern - Platform Security (Redmond, WA) https://careers.nintendo.com/?gh_jid=4469778009 · posted 2026-10-28
+- Nintendo - Software Engineer Intern - CPU Profiler (Redmond, WA) https://careers.nintendo.com/?gh_jid=4469762009 · posted 2026-10-28
+- Nintendo - IT Software Engineer Intern (Redmond, WA) https://careers.nintendo.com/?gh_jid=4421632009 · posted 2026-10-19
+- Nintendo - Software Engineer Intern - Performance Tools (Redmond, WA) https://careers.nintendo.com/?gh_jid=4473568009 · posted 2026-10-30
+- Nintendo - Software Engineer Intern - Connectivity (Redmond, WA) https://careers.nintendo.com/?gh_jid=4472147009 · posted 2026-10-29
+- Nintendo - Software Engineer Intern - Audio (Redmond, WA) https://careers.nintendo.com/?gh_jid=4470048009 · posted 2026-10-28
+- Nintendo - Software Engineer Intern - Graphics (Redmond, WA) https://careers.nintendo.com/?gh_jid=4473550009 · posted 2026-10-30
+- Nintendo - Software Engineer Intern - CPU Debugger - NTD (Redmond, WA) https://careers.nintendo.com/?gh_jid=4471972009 · posted 2026-10-28
+- Apple - Camera Software Intern (Cambridge, UK) https://jobs.apple.com/en-us/details/200694477 · posted 2026-11-12
+- RTX - Associate Software Engineer 1 - CDS / Engine System Software (East Hartford, CT) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197 · posted 2026-11-11
+- Markon - Software Engineer 0 (Fort Meade, MD) https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us · posted 2026-06-08
+- Markon - Software Engineer Level 0 (Annapolis Junction, MD) https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us · posted 2026-11-09
