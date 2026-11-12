@@ -3907,3 +3907,4 @@
 - Markon - Software Engineer Level 0 (Annapolis Junction, MD) https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us · posted 2026-11-09
 - Lockheed Martin - Cybersecurity Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477848074 · posted 2026-11-09
 - Lockheed Martin - Software Engineer- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477801251 · posted 2026-11-09
+- Dell - Graduate AI Developer (Dublin, Co. Dublin, Ireland) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D12110 · posted 2026-11-12
