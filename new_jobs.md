@@ -4015,3 +4015,4 @@
 - SAIC - Data Scientist Associate (Upper Marlboro, MD) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778 · posted 2026-11-12
 - Systems Planning and Analysis - Associate Systems Engineer (San Diego, CA) https://spa.jibeapply.com/jobs/23906?icims=1&lang=en-us · posted 2026-11-12
 - RLI - Associate Software Engineer (Peoria, IL, Tempe, AZ) https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864 · posted 2026-11-12
+- RTX - Software Engineering Intern (Summer 2027) (US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543 · posted 2026-11-12
