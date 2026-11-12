@@ -3920,3 +3920,4 @@
 - Thermo Fisher - Internship: GenAI-Assisted Software Modernization (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1 · posted 2026-11-12
 - Visa - Software Engineer Intern (GB - Reading, United Kingdom) https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W · posted 2026-11-12
 - Moog - Associate Test Engineer (Santa Barbara, CA) https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Test-Engineer_R-26-20172 · posted 2026-09-17
+- Sierra Nevada Corporation - Software Engineer I (For 2026 Interns Only) (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346 · posted 2026-11-12
