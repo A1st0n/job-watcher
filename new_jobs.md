@@ -3984,3 +3984,34 @@
 - Lightmatter - Data & AI Platform, Intern - Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008 · posted 2026-11-12
 - Oracle - Site Reliability Engineer - OCI (Start Date: Feb 2027) (Nashville, TN, United States) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350510 · posted 2026-11-12
 - Affirm - Software Engineer I, Backend (Continuous Delivery) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8181185003 · posted 2026-11-12
+- Lockheed Martin - Software Engineering Intern - Summer 2027 (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477854794 · posted 2026-11-12
+- Lockheed Martin - Software Engineer Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477119628 · posted 2026-11-12
+- Pattern - Data Science Intern (Lehi, UT) https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply · posted 2026-10-22
+- Toyota Research Institute - Robotics Intern - Prototyping and Research Operations (Cambridge, MA) https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628/apply · posted 2026-11-12
+- Capital Power - Student Intern - Data Science (Edmonton, AB, Canada) https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1 · posted 2026-11-12
+- Wolters Kluwer - Product Software Engineer Intern (Waltham, MA) https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394 · posted 2026-11-12
+- Leidos - Junior Software Engineer / Data Scientist Intern (Tucson, AZ) https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510 · posted 2026-11-12
+- Motorola Solutions - Systems Engineering Intern (Chicago, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657 · posted 2026-11-12
+- Lightmatter - Data & AI Platform Intern (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5474807008 · posted 2026-11-12
+- Bank of Montreal - AI Developer Co-op Intern (Toronto, ON, Canada) https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323 · posted 2026-11-12
+- CACI - Embedded Software Development Intern (Westminster, CO) https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147 · posted 2026-11-12
+- Shield AI - Hardware Test Engineer Co-op (Dallas, TX) https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply · posted 2026-11-12
+- Muon Space - Software Engineer Intern - Information Systems (San Jose, CA) https://job-boards.greenhouse.io/muonspace/jobs/5293973007 · posted 2026-11-12
+- Auburn University - Student Machine Learning Engineer Intern (Auburn, AL) https://jobs.auburn.edu/jobs/11612?icims=1&lang=en-us · posted 2026-11-12
+- North Atlantic Industries - Embedded Software Engineer Intern (Bohemia, NY) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112 · posted 2026-11-12
+- Robert Bosch Venture Capital - AI Research Intern - Time Series Foundation Models (Sunnyvale, CA) https://jobs.smartrecruiters.com/BoschGroup/744000161339309 · posted 2026-11-12
+- National Laboratory of the Rockies - Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling (Remote in USA) https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589 · posted 2026-11-12
+- KION Group - AI Engineer Intern (Grand Rapids, MI) https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Engineering-Intern_JR-0096963 · posted 2026-11-12
+- RTX - Software Engineer 1 - Air Traffic Solutions (Marlborough, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077 · posted 2026-08-05
+- Accenture - Associate Software Engineer - Pega (Washington, DC) https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006 · posted 2026-09-01
+- Hewlett Packard Enterprise - Systems/Software Engineer 1 (Sunnyvale, CA) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2 · posted 2026-11-12
+- SpaceX - Aerospace Software Engineer New Grad - Aerospace Software (Hawthorne, CA) https://boards.greenhouse.io/spacex/jobs/8939697002 · posted 2026-11-12
+- Boeing - Entry Flight Software Engineer - Vehicle Management Systems (El Segundo, CA) https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015 · posted 2026-11-12
+- Senseye - AI Engineer (Austin, TX) https://apply.workable.com/senseye/j/56F6BB2046/apply · posted 2026-11-12
+- Leidos - Software Engineer (Tucson, AZ) https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer_R-00196751 · posted 2026-11-12
+- ZettaSquared - Forward Engineer / AI Developer (Houston, TX) https://jobs.ashbyhq.com/zetta2/28a44d44-b138-476f-acda-65384f1623dc/application?embed=true · posted 2026-11-12
+- Apple - Software Engineer - Ad Platforms (Cupertino, CA) https://jobs.apple.com/en-us/details/200694769 · posted 2026-11-12
+- ARCXIS - AI Rapid Prototype Developer Level 1 (Houston, TX) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661286 · posted 2026-11-12
+- SAIC - Data Scientist Associate (Upper Marlboro, MD) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778 · posted 2026-11-12
+- Systems Planning and Analysis - Associate Systems Engineer (San Diego, CA) https://spa.jibeapply.com/jobs/23906?icims=1&lang=en-us · posted 2026-11-12
+- RLI - Associate Software Engineer (Peoria, IL, Tempe, AZ) https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864 · posted 2026-11-12
