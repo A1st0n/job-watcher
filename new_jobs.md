@@ -3868,3 +3868,11 @@
 - Shield AI - Engineer 2 New Grad - Software - Perception (United States) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true · posted 2026-11-11
 - Shield AI - Engineer 2 New Grad - Software - Autonomous Pilot Integration (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true · posted 2026-11-11
 - ViaSat - Associate Software Engineer (Carlsbad, CA) https://careers.viasat.com/jobs/7147?icims=1&lang=en-us · posted 2026-11-12
+- Lockheed Martin - AI Research Engineer Intern (Virtual Three, AL) https://lockheedmartin.eightfold.ai/careers/job/996477477010 · posted 2026-11-11
+- InsCipher - AI Product Intern (Pleasant Grove, UT) https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c · posted 2026-11-12
+- RTX - Electrical Engineer Intern - Firmware (Fort Wayne, IN) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316 · posted 2026-11-11
+- Shield AI - Engineer 2 New Grad - Software - Perception (United States) https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true · posted 2026-11-11
+- Shield AI - Engineer 2 New Grad - Software - Autonomous Pilot Integration (Washington, DC) https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true · posted 2026-11-11
+- Valsoft - AI Software Developer - Research & Development (Montreal, QC, Canada) https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply · posted 2026-11-12
+- RTX - Software Engineer 1 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058 · posted 2026-11-11
+- xAI - AI Tutor – Maltese (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5292793007 · posted 2026-10-26
