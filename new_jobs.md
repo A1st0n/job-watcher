@@ -3876,3 +3876,8 @@
 - Valsoft - AI Software Developer - Research & Development (Montreal, QC, Canada) https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply · posted 2026-11-12
 - RTX - Software Engineer 1 (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058 · posted 2026-11-11
 - xAI - AI Tutor – Maltese (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5292793007 · posted 2026-10-26
+- Apple - Internship - Software Development Intern - Core OS (Prague) https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os · posted 2026-11-12
+- Apple - Camera Software (Intern) (Cambridge) https://jobs.apple.com/en-us/details/200694477/camera-software-intern · posted 2026-11-12
+- Apple - Internship - Pro Apps Machine Learning Ecosystem Engineer (London) https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer · posted 2026-11-12
+- Texas Instruments - Test Engineer (Fresh Graduates or 2 years experience below) (Malaysia) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009560 · posted 2026-11-06
+- Lockheed Martin - Systems Engineering Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477852480 · posted 2026-11-11
