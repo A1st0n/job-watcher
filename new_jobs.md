@@ -3888,3 +3888,7 @@
 - American Express - Software Engineer I (Bengaluru, KA, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015127 · posted 2026-11-12
 - DXC - ServiceNow Developer Intern (SGP - SINGAPORE) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51594421 · posted 2026-11-12
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800953 · posted 2026-11-12
+- Nasdaq - Back End Software Developer Co-op Intern (Toronto, ON, Canada) https://job-boards.greenhouse.io/nasdaq/jobs/4453620009 · posted 2026-10-27
+- Bask Health - Frontend Engineer Intern - Frontend Engineering (Remote in USA) https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply · posted 2026-11-12
+- RTX - Software Engineer Intern (West Valley City, UT) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1 · posted 2026-11-11
+- Bask Health - Frontend Engineer New Grad (Remote in USA) https://apply.workable.com/bask-health-1/j/95FB1074E4/apply · posted 2026-11-12
