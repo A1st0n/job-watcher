@@ -3957,3 +3957,4 @@
 - Genentech - Machine Learning Scientist - Multiple Teams (South SF) https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905 · posted 2026-11-12
 - WME Express - Robotics Data Collection Operator (San Carlos, CA) https://wmeexpress.applytojob.com/apply/k9CWwYbRvW/Vehicle-Data-Collector-Robotic · posted 2026-11-12
 - American Express - Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY (New York, NY, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354 · posted 2026-11-12
+- Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267115-1 · posted 2026-11-12
