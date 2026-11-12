@@ -3967,3 +3967,4 @@
 - SpaceX - New Graduate Engineer, Aerospace Software (Starfall) (Hawthorne, CA) https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002 · posted 2026-11-12
 - JPMorgan - Software Engineer I (Ciudad De Mexico, Mexico) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808972 · posted 2026-11-12
 - Honeywell - Intern Masters AI (m/f/d) (Dublin, Co. Dublin, Ireland) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161889 · posted 2026-11-12
+- Autodesk - Intern, Software Developer, Stagiaire en Développement Logiciel (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3 · posted 2026-11-12
