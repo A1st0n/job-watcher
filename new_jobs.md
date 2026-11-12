@@ -3887,3 +3887,4 @@
 - Honeywell - Cyber Security Architect/Engineer I - UAE National Only (Dubai, United Arab Emirates) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161941 · posted 2026-11-12
 - American Express - Software Engineer I (Bengaluru, KA, India) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015127 · posted 2026-11-12
 - DXC - ServiceNow Developer Intern (SGP - SINGAPORE) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51594421 · posted 2026-11-12
+- State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800953 · posted 2026-11-12
