@@ -3908,3 +3908,5 @@
 - Lockheed Martin - Cybersecurity Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477848074 · posted 2026-11-09
 - Lockheed Martin - Software Engineer- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477801251 · posted 2026-11-09
 - Dell - Graduate AI Developer (Dublin, Co. Dublin, Ireland) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D12110 · posted 2026-11-12
+- Hudson River Trading - Software Engineer Intern - C++ or Python (Austin, TX, Chicago, IL, NYC) https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083 · posted 2026-07-13
+- Microsoft - Data Scientist Intern - CoreAI (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557027390 · posted 2026-11-12
