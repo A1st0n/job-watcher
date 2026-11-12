@@ -3859,3 +3859,4 @@
 - ServiceNow - Assoc Security Engineering & Automation Intern  (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000161209810 · posted 2026-11-12
 - ServiceNow - Assoc AI Engineering (Cloud Security Automation) Intern (Santa Clara, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000161209600 · posted 2026-11-12
 - ServiceNow - Assoc Information Security Engineer Intern (San Diego, CALIFORNIA) https://jobs.smartrecruiters.com/ServiceNow/744000161204235 · posted 2026-11-12
+- Motorola Solutions - Software Engineer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70643 · posted 2026-11-12
