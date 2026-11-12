@@ -3913,3 +3913,4 @@
 - Thermo Fisher - Intern - IT Process Analyst (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---IT-Process-Analyst_R-01374029 · posted 2026-11-12
 - Thermo Fisher - Intern – Software Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01374072 · posted 2026-11-12
 - Thermo Fisher - Intern – Software Test (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Test_R-01374071-1 · posted 2026-11-12
+- Roche - AI & Digitalisation Intern (Welwyn, UK) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162 · posted 2026-11-12
