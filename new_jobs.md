@@ -3958,3 +3958,5 @@
 - WME Express - Robotics Data Collection Operator (San Carlos, CA) https://wmeexpress.applytojob.com/apply/k9CWwYbRvW/Vehicle-Data-Collector-Robotic · posted 2026-11-12
 - American Express - Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY (New York, NY, United States) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354 · posted 2026-11-12
 - Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267115-1 · posted 2026-11-12
+- Micron - Intern - AI Product Management (Fab 10A, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782 · posted 2026-11-12
+- RTX - Systems Engineering Intern (Summer 2027) (US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01888963 · posted 2026-11-12
