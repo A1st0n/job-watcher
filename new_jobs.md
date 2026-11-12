@@ -3970,3 +3970,5 @@
 - Autodesk - Intern, Software Developer, Stagiaire en Développement Logiciel (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3 · posted 2026-11-12
 - Amazon - 2027 Software Dev Engineer Intern - Finland (Tampere, West and Inner Finland, FIN) https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland · posted 2026-11-12
 - Autodesk - Stagiaire en Développement Cloud, Intern Cloud Developer (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2 · posted 2026-11-12
+- Micron - Intern - IT Software Engineer (Boise, ID - Main Site) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582 · posted 2026-11-12
+- Accenture Federal - Associate Software Engineer-Hire-to-Train Program (Pega) (Washington, DC) https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006 · posted 2026-09-01
