@@ -3855,3 +3855,4 @@
 - Allegion - Full Stack Software Engineer (Carmel, IN) https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Full-Stack-Software-Engineer_JR38204 · posted 2026-11-11
 - Dell Technologies - Data Science Analyst (Round Rock, TX) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R271283 · posted 2026-11-11
 - CDK Global - Associate Software Engineer (Austin, TX) https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1 · posted 2026-11-11
+- State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-800951-1 · posted 2026-11-12
