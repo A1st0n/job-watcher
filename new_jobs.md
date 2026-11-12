@@ -3817,3 +3817,41 @@
 - Amazon - Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference (Cupertino, CA) https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference · posted 2026-11-11
 - Pacific Northwest National Laboratory - Post-Bachelor Research Associate - Full Stack Product (Richland, WA) https://careers.pnnl.gov/jobs/13649?icims=1&lang=en-us · posted 2026-11-11
 - Self Financial - Associate Software Engineer (Austin, TX) https://job-boards.greenhouse.io/selffinancial/jobs/6255478004 · posted 2026-11-11
+- Alexion - Development Operations AI & Automation Enablement Co-op Intern (Mississauga, ON, Canada) https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415 · posted 2026-09-29
+- Lightmatter - Laser Firmware Intern (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5479596008 · posted 2026-11-11
+- Toyota Research Institute - Future Product Innovation Research Intern - Human-AI Computational Design (Los Altos, CA) https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2/apply · posted 2026-11-11
+- Toyota Research Institute - Automated Driving Advanced Development Intern - Machine Learning Research (Los Altos, CA) https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495/apply · posted 2026-11-11
+- HUB International - AI Engineer Intern (Chicago, IL) https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Engineering-Intern_R0039470 · posted 2026-11-11
+- Microsoft - AI Security Research Intern (Cambridge, UK) https://apply.careers.microsoft.com/careers/job/1970393557070382 · posted 2026-11-11
+- Shield AI - Engineer 2 New Grad - Software - Autonomy Capabilities (United States) https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true · posted 2026-11-11
+- Vertiv - Software Engineer Intern (Huntsville, AL) https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817 · posted 2026-11-11
+- Shive-Hattery - Software Developer Intern - Software Development (Iowa City, IA) https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793 · posted 2026-11-11
+- RTX - Software Engineering Intern (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01888146 · posted 2026-11-11
+- Ciena - AI/ML Layout Engineering Intern (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102 · posted 2026-11-11
+- EXL - Data and AI Intern (London, UK) https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22509 · posted 2026-11-11
+- Panera Bread - Data Science & AI Analytics Intern (Newton, MA) https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082 · posted 2026-11-11
+- Genentech - Summer Intern - Digital, AI, and Clinical Outcome Assessments (South SF) https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790 · posted 2026-11-11
+- Motorola Solutions - Software Engineer Intern (Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179 · posted 2026-11-11
+- Zotec Partners - Software Engineer Intern - Rci (Carmel, IN) https://zotecpartners.applytojob.com/apply/kZD502wRCY/Software-Engineer-Intern-RCI · posted 2026-11-11
+- Motorola Solutions - Embedded Software Engineer Intern (Schaumburg, IL) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1 · posted 2026-11-11
+- Zotec Partners - Software Engineer Intern (Carmel, IN) https://zotecpartners.applytojob.com/apply/EGGe30UqYo/Software-Engineer-Intern · posted 2026-11-11
+- Farmers Mutual Hail - AI Intern (West Des Moines, IA) https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009 · posted 2026-09-18
+- MKS Instruments - Software Engineer Co-op (Andover, MA) https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610 · posted 2026-11-11
+- StepStone Group - AI Quant Summer Analyst Intern (La Jolla, San Diego, CA) https://boards.greenhouse.io/embed/job_app?token=8368989 · posted 2026-11-11
+- Riot Games - Machine Learning Engineer Intern (Remote in USA) https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771 · posted 2026-11-11
+- AeroVironment - Software Engineer Intern (Lawrence, KS) https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Lawrence-KS/Software-Engineering-Intern_9360 · posted 2026-11-11
+- xAI - AI Tutor Chinese (Remote in USA) https://job-boards.greenhouse.io/xai/jobs/5090180007 · posted 2026-04-01
+- Resmed - Associate Android Developer (San Diego, CA) https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1 · posted 2026-10-05
+- The Beauty Tech Group Trading - Data AI Analyst (Manchester, UK) https://apply.workable.com/thebeautytechgroup/j/1C695C7477/apply · posted 2026-11-11
+- Microsoft - Software Development Engineer (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557050698 · posted 2026-11-11
+- Luxfer MEL Technologies - Junior Data Engineer (Swinton, Manchester, UK) https://luxfermeltechnologiesuk.applytojob.com/apply/7D3Toqbi0l/Junior-Data-Engineer · posted 2026-11-11
+- Ciena - Embedded Software Engineer New Grad (Ottawa, ON, Canada) https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1 · posted 2026-11-11
+- xAI - AI Tutor – Irish (Remote in USA, Remote in UK, Remote in Australia, Remote in Canada) https://job-boards.greenhouse.io/xai/jobs/5292792007 · posted 2026-10-26
+- Boeing - Embedded Software Engineer (Long Beach, CA) https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493 · posted 2026-11-11
+- Zensar - Graduate Software Engineer - AI Platform Development - AI (San Jose, CA, Jersey City, NJ) https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153878 · posted 2026-11-11
+- Boeing - Entry-Level Missions Systems Software Engineer - Embedded (Berkeley, MO) https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463 · posted 2026-11-11
+- Zensar - Graduate Software Engineer - AI Platform Development (San Jose, CA, Ann Arbor, MI) https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873 · posted 2026-11-11
+- Zensar - Graduate Software Engineer - AI (San Jose, CA) https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877 · posted 2026-11-11
+- Allegion - Full Stack Software Engineer (Carmel, IN) https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Full-Stack-Software-Engineer_JR38204 · posted 2026-11-11
+- Dell Technologies - Data Science Analyst (Round Rock, TX) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R271283 · posted 2026-11-11
+- CDK Global - Associate Software Engineer (Austin, TX) https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1 · posted 2026-11-11
