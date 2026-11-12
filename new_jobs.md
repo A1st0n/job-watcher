@@ -3982,3 +3982,5 @@
 - Oracle - Site Reliability Engineer - OCI (Feb 2027 Start Date) (Nashville, TN, United States) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350501 · posted 2026-11-12
 - Leidos - Junior Software Engineer / Data Scientist Intern (Tucson, AZ) https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510 · posted 2026-11-12
 - Lightmatter - Data & AI Platform, Intern - Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008 · posted 2026-11-12
+- Oracle - Site Reliability Engineer - OCI (Start Date: Feb 2027) (Nashville, TN, United States) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350510 · posted 2026-11-12
+- Affirm - Software Engineer I, Backend (Continuous Delivery) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8181185003 · posted 2026-11-12
