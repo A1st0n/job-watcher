@@ -3974,3 +3974,4 @@
 - Accenture Federal - Associate Software Engineer-Hire-to-Train Program (Pega) (Washington, DC) https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006 · posted 2026-09-01
 - RTX - Systems Engineering Intern (US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Systems-Engineering-Intern_01881462 · posted 2026-11-12
 - Nuro - Systems Engineering, New Grad 2027 (Mountain View, California (HQ)) https://nuro.ai/careersitem?gh_jid=8360415 · posted 2026-11-12
+- CACI - Embedded Software Development Intern - Summer 2027 (Denver, CO, US) https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147 · posted 2026-11-12
