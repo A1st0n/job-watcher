@@ -3918,3 +3918,4 @@
 - Analog Devices - Mechanical Engineer - Advanced Robotics Intern (US, MA, Wilmington) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505 · posted 2026-11-12
 - DXC - Hybrid Cloud & Migration Services Intern (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Hybrid-Cloud---Migration-Services-Intern_51590729 · posted 2026-11-12
 - Thermo Fisher - Internship: GenAI-Assisted Software Modernization (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1 · posted 2026-11-12
+- Visa - Software Engineer Intern (GB - Reading, United Kingdom) https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W · posted 2026-11-12
