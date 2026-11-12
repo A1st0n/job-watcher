@@ -3965,3 +3965,5 @@
 - Northrop Grumman - 2027 Systems Engineering Intern - Graduate Level - Plymouth MN (United States-Minnesota-Plymouth) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431 · posted 2026-11-12
 - Honeywell - Intern Masters AI (m/f/d) (Dublin, Co. Dublin, Ireland) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161883 · posted 2026-11-12
 - SpaceX - New Graduate Engineer, Aerospace Software (Starfall) (Hawthorne, CA) https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002 · posted 2026-11-12
+- JPMorgan - Software Engineer I (Ciudad De Mexico, Mexico) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808972 · posted 2026-11-12
+- Honeywell - Intern Masters AI (m/f/d) (Dublin, Co. Dublin, Ireland) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161889 · posted 2026-11-12
