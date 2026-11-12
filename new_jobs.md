@@ -3905,3 +3905,5 @@
 - RTX - Associate Software Engineer 1 - CDS / Engine System Software (East Hartford, CT) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197 · posted 2026-11-11
 - Markon - Software Engineer 0 (Fort Meade, MD) https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us · posted 2026-06-08
 - Markon - Software Engineer Level 0 (Annapolis Junction, MD) https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us · posted 2026-11-09
+- Lockheed Martin - Cybersecurity Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477848074 · posted 2026-11-09
+- Lockheed Martin - Software Engineer- Intern (Uniondale, NY) https://lockheedmartin.eightfold.ai/careers/job/996477801251 · posted 2026-11-09
