@@ -3980,3 +3980,5 @@
 - RTX - Software Engineer I - Air Traffic Solutions (Onsite) (US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077 · posted 2026-11-12
 - Lockheed Martin - Embedded Software Engineering Intern - Summer 2027 (Highlands Ranch, CO) https://lockheedmartin.eightfold.ai/careers/job/996477219222 · posted 2026-11-12
 - Oracle - Site Reliability Engineer - OCI (Feb 2027 Start Date) (Nashville, TN, United States) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350501 · posted 2026-11-12
+- Leidos - Junior Software Engineer / Data Scientist Intern (Tucson, AZ) https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510 · posted 2026-11-12
+- Lightmatter - Data & AI Platform, Intern - Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008 · posted 2026-11-12
