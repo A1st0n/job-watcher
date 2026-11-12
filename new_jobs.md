@@ -3968,3 +3968,5 @@
 - JPMorgan - Software Engineer I (Ciudad De Mexico, Mexico) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808972 · posted 2026-11-12
 - Honeywell - Intern Masters AI (m/f/d) (Dublin, Co. Dublin, Ireland) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161889 · posted 2026-11-12
 - Autodesk - Intern, Software Developer, Stagiaire en Développement Logiciel (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3 · posted 2026-11-12
+- Amazon - 2027 Software Dev Engineer Intern - Finland (Tampere, West and Inner Finland, FIN) https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland · posted 2026-11-12
+- Autodesk - Stagiaire en Développement Cloud, Intern Cloud Developer (Montreal, QC, CAN) https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2 · posted 2026-11-12
