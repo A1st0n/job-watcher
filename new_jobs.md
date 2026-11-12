@@ -3937,3 +3937,4 @@
 - Sierra Nevada Corporation - Software Engineer 1 (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346 · posted 2026-11-12
 - JBT Marel - Software Engineer (Redmond, WA) https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/US---Redmond-WA/Software-Engineer_25394 · posted 2026-11-10
 - Nextpower - Forward Deployed Engineer - AI (Fremont, CA) https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260 · posted 2026-07-24
+- HP - Data Science Intern (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2 · posted 2026-11-12
