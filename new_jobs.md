@@ -4124,3 +4124,5 @@
 - PTC - IT Internal Audit Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Internal-Audit-Intern--Summer-2027-_JR113082 · posted 2026-11-13
 - Aurora - Embedded Software Engineer Intern — Lidar (Bozeman, MT) https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868 · posted 2026-10-01
 - CACI - Operations Intern (AI Tool Integration and Operational Testing - Summer 2027 (2 Locations) https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Operations-Intern--AI-Tool-Integration-and-Operational-Testing---Summer-2027_334905-1 · posted 2026-11-13
+- RTX - Software Engineering Co-op (Summer/Fall) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404 · posted 2026-11-13
+- Booz Allen - Software Engineer, Junior (Albuquerque, NM) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700 · posted 2026-11-03
