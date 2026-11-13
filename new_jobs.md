@@ -4132,3 +4132,30 @@
 - ServiceNow - Security Engineer Intern (Kirkland, Washington) https://jobs.smartrecruiters.com/ServiceNow/744000161592679 · posted 2026-11-13
 - Accenture - Junior AI Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Junior-AI-Engineer_R00371927-1 · posted 2026-11-12
 - Twitch - Software Engineer I, Payments (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8943553002 · posted 2026-11-13
+- ServiceNow - AI Identity Intern (Kirkland, Washington) https://jobs.smartrecruiters.com/ServiceNow/744000161594249 · posted 2026-11-13
+- Avis Budget Group - IT Engineer Intern (Parsippany-Troy Hills, NJ) https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464 · posted 2026-09-17
+- Hiebing - AI Agent Developer Intern (Madison, WI) https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern · posted 2026-11-13
+- Seaspan - Data Engineering Intern (North Vancouver, BC, Canada) https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156 · posted 2026-11-13
+- ASML - EUV Data Science and Analytics Intern (Austin, TX) https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717 · posted 2026-11-13
+- FieldPulse - AI Intern (Dallas, TX) https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d · posted 2026-11-13
+- Aurora Innovation - Embedded Software Engineer Intern - Lidar (Bozeman, MT) https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868/application?embed=true · posted 2026-10-01
+- Toyota Research Institute - Research Intern - Continual Adaptation for Robotics (Cambridge, MA) https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply · posted 2026-11-13
+- Reliable Robotics - Hardware Test Engineer Intern (Mountain View, CA) https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true · posted 2026-11-13
+- Reliable Robotics - Flight Software Engineer Intern (Mountain View, CA) https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?embed=true · posted 2026-11-13
+- Samsung - AI Systems Performance Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003 · posted 2026-11-13
+- Samsung - SSD Firmware Development Intern (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003 · posted 2026-11-13
+- Samsung - ML Compiler Intern - Kernel Auto-Tuning (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003 · posted 2026-11-13
+- Manulife Financial - Software Engineering Co-op Intern (Boston, MA) https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405 · posted 2026-11-13
+- Amgen - AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern (Remote in USA) https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625 · posted 2026-11-13
+- Texas Instruments - Test Engineering Intern (United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019536 · posted 2026-11-13
+- Cone Health - Analytic Developer (Remote in USA) https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338 · posted 2026-09-25
+- Keysight Technologies - IT Engineer - Software (Colorado Springs, CO) https://jobs.keysight.com/jobs/56558?icims=1&lang=en-us · posted 2026-11-13
+- TextNow - Software Developer - Backend (SF) https://job-boards.greenhouse.io/textnowinc/jobs/4504529009 · posted 2026-11-13
+- Cambridge Mobile Telematics - Software Engineer 1, Cloud (Cambridge, MA) https://job-boards.greenhouse.io/cmt/jobs/8385978 · posted 2026-11-13
+- Huntington Ingalls Industries - Software Development Engineer 1 (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors · posted 2026-11-13
+- Sierra Nevada Corporation - Software Engineer 1 (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292 · posted 2026-11-13
+- Emerson Electric - Software Engineer - Applied AI (Austin, TX) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909 · posted 2026-11-13
+- Triumph Labs - Data Engineer (SF) https://jobs.ashbyhq.com/triumph-arcade/8863c7e0-60a5-4775-b15b-d0e46329a230/application?embed=true · posted 2026-11-13
+- Booz Allen - Data Scientist (Honolulu, HI) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Scientist_R0253537 · posted 2026-11-13
+- Booz Allen - Systems Engineer (Beavercreek, OH) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0253553 · posted 2026-11-13
+- Nightwing Intelligence Solutions - Software Developer 2 - System Security (Huntsville, AL) https://nwis.wd12.myworkdayjobs.com/NW/job/AL600-600-Boulevard-South-Huntsville-AL/Software-Developer-II--System-Security-_JR102207 · posted 2026-10-30
