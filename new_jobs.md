@@ -4108,3 +4108,5 @@
 - Hewlett Packard Enterprise - Software Engineer - Block Storage (Bristol, UK) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1218994-1 · posted 2026-11-13
 - Peraton - Full Stack Engineer (Columbus, OH) https://peraton.jibeapply.com/jobs/173596?icims=1&lang=en-us · posted 2026-11-13
 - Q2 - Software Engineer (Austin, TX) https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953 · posted 2026-11-13
+- Analog Devices - Software Quality Assurance (SQA) Intern (Spain, Valencia, Cortes Valencianas) https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320 · posted 2026-11-13
+- Cigna - Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO) (3 Locations) https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877 · posted 2026-11-13
