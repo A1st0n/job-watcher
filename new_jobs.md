@@ -4088,3 +4088,4 @@
 - Nvidia - Software Engineering Intern, NCCL - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488 · posted 2026-11-13
 - Nvidia - Software Engineering Intern, Neural Reconstruction and Rendering - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925 · posted 2026-11-13
 - HPE - Sales Programmes Intern - High Performance Computing & AI (Winnersh, Berkshire, United Kingdom) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Sales-Programmes-Intern_1216776 · posted 2026-11-13
+- Shield AI - Software Engineer 1 New Grad (Washington, DC) https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true · posted 2026-11-13
