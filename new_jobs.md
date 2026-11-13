@@ -4120,3 +4120,4 @@
 - Reliable Robotics - Flight Software Engineer Intern (Summer 2027) (Mountain View, CA) https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed · posted 2026-11-13
 - Walmart - Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern ((USA) Together Building AR Bentonville Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435 · posted 2026-11-13
 - Sierra Nevada Corporation - Systems Engineer Intern (Southern Pines, NC) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1 · posted 2026-11-13
+- Qualcomm - FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden (Stockholm, Sweden) https://qualcomm.eightfold.ai/careers/job/446722110729 · posted 2026-11-13
