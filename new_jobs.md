@@ -4103,3 +4103,8 @@
 - Thoughtworks - Graduate Developer (Chicago, IL) https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true · posted 2026-10-29
 - Northrop Grumman - Associate Software Engineer (McClellan Park, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423 · posted 2026-11-13
 - Peraton - Full Stack Engineer (Columbus, OH) https://careers-peraton.icims.com/jobs/173596/job?mobile=true&needsRedirect=false · posted 2026-11-13
+- Corteva - Research and Development Intern - Computer and Data Science (Indianapolis, IN) https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W · posted 2026-09-03
+- Edgewater IT - Application Developer 1 (Loveland, CO, Lakewood, CO, Folsom, CA, Phoenix, AZ, Billings, MT) https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false · posted 2026-08-05
+- Hewlett Packard Enterprise - Software Engineer - Block Storage (Bristol, UK) https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1218994-1 · posted 2026-11-13
+- Peraton - Full Stack Engineer (Columbus, OH) https://peraton.jibeapply.com/jobs/173596?icims=1&lang=en-us · posted 2026-11-13
+- Q2 - Software Engineer (Austin, TX) https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953 · posted 2026-11-13
