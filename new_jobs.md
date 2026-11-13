@@ -4075,3 +4075,7 @@
 - TikTok - Machine Learning Engineer Intern (San Jose, CA) https://lifeattiktok.com/search/7698822572474583301 · posted 2026-11-13
 - Shield AI - Hardware Test Engineering Co-op (Dallas, TX) https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true · posted 2026-11-12
 - Carrier - Duales Studium Data Science und Künstliche Intelligenz B.Sc. 2027 (m/w/d) (Viessmann Shared Service GmbH, Viessmannstraße 1, 35107 Allendorf (Eder), Germany) https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Shared-Service-GmbH-Viessmannstrae-1-35107-Allendorf-Eder-Germany/Duales-Studium-Data-Science-und-Knstliche-Intelligenz-BSc-2027--m-w-d-_30209065 · posted 2026-10-29
+- Shield AI - Engineer I, Software - New Grad - 6531 (Washington, D.C.) https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b · posted 2026-11-13
+- Tesla - Software Engineer Intern - Energy Engineering (Palo Alto, CA) https://www.tesla.com/careers/search/job/289796 · posted 2026-11-13
+- Envita Solutions - Data Scientist Intern - Applied AI (Indianapolis, IN) https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728 · posted 2026-09-11
+- Envita Solutions - Software Engineer Intern - Applied AI (Indianapolis, IN) https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727 · posted 2026-09-11
