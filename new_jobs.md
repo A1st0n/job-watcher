@@ -4112,3 +4112,6 @@
 - Cigna - Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO) (3 Locations) https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877 · posted 2026-11-13
 - Bosch - Extracurricular Internship | Functional Consulting – AI Sales Solutions (f/m/div.) (Lisboa) https://jobs.smartrecruiters.com/BoschGroup/744000161544969 · posted 2026-11-13
 - Sierra Nevada Corporation - Software Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292 · posted 2026-11-13
+- ServiceNow - Security Engineering & Automation Intern  (Kirkland, Washington) https://jobs.smartrecruiters.com/ServiceNow/744000161548528 · posted 2026-11-13
+- ServiceNow - AI Security Engineer Intern (San Diego, California) https://jobs.smartrecruiters.com/ServiceNow/744000161548289 · posted 2026-11-13
+- CME Group - IT Asset Management Intern - Summer 2027 (Chicago - 20 S. Wacker) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/IT-Asset-Management-Intern---Summer-2027_34985-1 · posted 2026-11-13
