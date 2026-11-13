@@ -4121,3 +4121,4 @@
 - Walmart - Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern ((USA) Together Building AR Bentonville Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Last-Mile-Delivery-Data-Science-Intern_R-2686435 · posted 2026-11-13
 - Sierra Nevada Corporation - Systems Engineer Intern (Southern Pines, NC) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1 · posted 2026-11-13
 - Qualcomm - FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden (Stockholm, Sweden) https://qualcomm.eightfold.ai/careers/job/446722110729 · posted 2026-11-13
+- PTC - IT Internal Audit Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Internal-Audit-Intern--Summer-2027-_JR113082 · posted 2026-11-13
