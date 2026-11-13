@@ -4079,3 +4079,9 @@
 - Tesla - Software Engineer Intern - Energy Engineering (Palo Alto, CA) https://www.tesla.com/careers/search/job/289796 · posted 2026-11-13
 - Envita Solutions - Data Scientist Intern - Applied AI (Indianapolis, IN) https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728 · posted 2026-09-11
 - Envita Solutions - Software Engineer Intern - Applied AI (Indianapolis, IN) https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727 · posted 2026-09-11
+- Aurora Innovation - Software Engineer Intern - Vehicle Platforms (Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true · posted 2026-11-13
+- TikTok - Machine Learning Scientist Intern - Local Services (San Jose, CA) https://lifeattiktok.com/search/7703925583541979445 · posted 2026-11-13
+- Shield AI - Software Engineer 1 New Grad (Washington, DC) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true · posted 2026-11-13
+- RTX - Software Engineer 1 (Marlborough, MA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972 · posted 2026-11-12
+- Mitsubishi Heavy Industries - AI and Machine Learning Engineer (Leeds, UK) https://jobs.smartrecruiters.com/MitsubishiPowerEMEA/744000151007599 · posted 2026-09-22
+- Empowerly - Full Stack Software Engineer (Remote in USA) https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b · posted 2026-11-13
