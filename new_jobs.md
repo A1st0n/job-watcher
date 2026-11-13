@@ -4041,3 +4041,7 @@
 - Hewlett Packard Enterprise - Systems/Software Engineer 1 (Sunnyvale, CA) https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821 · posted 2026-11-12
 - Sierra Space - Software Engineer 1 - DevOps - DevSecOps (Centennial, CO, Louisville, CO) https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535 · posted 2026-11-12
 - General Dynamics Mission Systems - Platform Services Software Engineer Entry Level (Scottsdale, AZ) https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false · posted 2026-11-12
+- Zoox - Data Scientist Intern (Foster City, CA) https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply · posted 2026-11-13
+- Shield AI - Hardware Test Engineering Co-op (Dallas, TX) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true · posted 2026-11-12
+- RTX - Software Engineer Intern (Melbourne, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543 · posted 2026-11-12
+- ASML - Data Scientist Intern (Wilton, CT) https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462 · posted 2026-11-12
