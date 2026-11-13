@@ -4093,3 +4093,5 @@
 - Capital One - Software Engineering Intern (Bangalore, In) https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Software-Engineering-Intern_R1004749 · posted 2026-11-13
 - Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267120 · posted 2026-11-13
 - R1 RCM - Software Engineer - ML Ops (United States) https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542 · posted 2026-10-08
+- Northrop Grumman - 2027 Associate Systems Engineer/ Systems Engineer (United States-Florida-Melbourne) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer--Systems-Engineer_R10249403 · posted 2026-11-13
+- Hewlett Packard Enterprise - Software Engineer - Block Storage (Bristol, UK) https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1218994-3 · posted 2026-11-13
