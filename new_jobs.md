@@ -4096,3 +4096,10 @@
 - Northrop Grumman - 2027 Associate Systems Engineer/ Systems Engineer (United States-Florida-Melbourne) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer--Systems-Engineer_R10249403 · posted 2026-11-13
 - Hewlett Packard Enterprise - Software Engineer - Block Storage (Bristol, UK) https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1218994-3 · posted 2026-11-13
 - GE Aerospace - Digital Systems Engineering Intern - Bohemia, NY - Summer 2027 (Bohemia) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bohemia/Digital-Systems-Engineering-Intern---Bohemia--NY---Summer-2027_R5042961-1 · posted 2026-11-13
+- DraftKings - Data Science Intern (London, UK) https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1 · posted 2026-11-13
+- Verisk - Data Science/AI Intern (Lehi, UT) https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184 · posted 2026-11-13
+- Valeo - Software Engineer Intern (Troy, MI) https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794 · posted 2026-11-13
+- Procter & Gamble - Data Engineer (London, UK, Weybridge, UK) https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789 · posted 2026-11-13
+- Thoughtworks - Graduate Developer (Chicago, IL) https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true · posted 2026-10-29
+- Northrop Grumman - Associate Software Engineer (McClellan Park, CA) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423 · posted 2026-11-13
+- Peraton - Full Stack Engineer (Columbus, OH) https://careers-peraton.icims.com/jobs/173596/job?mobile=true&needsRedirect=false · posted 2026-11-13
