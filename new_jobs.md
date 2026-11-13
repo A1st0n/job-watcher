@@ -4122,3 +4122,4 @@
 - Sierra Nevada Corporation - Systems Engineer Intern (Southern Pines, NC) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Systems-Engineer-Intern_R0031224-1 · posted 2026-11-13
 - Qualcomm - FY27 Intern - Multimedia R&D Intern – Video & AI - 6 months, Stockholm (Bromma) - Sweden (Stockholm, Sweden) https://qualcomm.eightfold.ai/careers/job/446722110729 · posted 2026-11-13
 - PTC - IT Internal Audit Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Internal-Audit-Intern--Summer-2027-_JR113082 · posted 2026-11-13
+- Aurora - Embedded Software Engineer Intern — Lidar (Bozeman, MT) https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868 · posted 2026-10-01
