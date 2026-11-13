@@ -4090,3 +4090,6 @@
 - HPE - Sales Programmes Intern - High Performance Computing & AI (Winnersh, Berkshire, United Kingdom) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Sales-Programmes-Intern_1216776 · posted 2026-11-13
 - Shield AI - Software Engineer 1 New Grad (Washington, DC) https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true · posted 2026-11-13
 - Shield AI - Engineer 1 New Grad - Software (Washington, DC) https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply · posted 2026-11-13
+- Capital One - Software Engineering Intern (Bangalore, In) https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Software-Engineering-Intern_R1004749 · posted 2026-11-13
+- Analog Devices - Embedded Software Engineering Intern (Romania, Cluj-Napoca, Decembrie) https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267120 · posted 2026-11-13
+- R1 RCM - Software Engineer - ML Ops (United States) https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542 · posted 2026-10-08
