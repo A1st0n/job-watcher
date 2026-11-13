@@ -4110,3 +4110,5 @@
 - Q2 - Software Engineer (Austin, TX) https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953 · posted 2026-11-13
 - Analog Devices - Software Quality Assurance (SQA) Intern (Spain, Valencia, Cortes Valencianas) https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-Quality-Assurance--SQA--Intern_R267320 · posted 2026-11-13
 - Cigna - Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO) (3 Locations) https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877 · posted 2026-11-13
+- Bosch - Extracurricular Internship | Functional Consulting – AI Sales Solutions (f/m/div.) (Lisboa) https://jobs.smartrecruiters.com/BoschGroup/744000161544969 · posted 2026-11-13
+- Sierra Nevada Corporation - Software Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292 · posted 2026-11-13
