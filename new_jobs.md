@@ -4047,3 +4047,30 @@
 - ASML - Data Scientist Intern (Wilton, CT) https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462 · posted 2026-11-12
 - Constructive Dialogue Institute - Software Engineer (NYC) https://constructivedialogue.recruitee.com/o/software-engineer-early-career · posted 2026-10-13
 - Natuvion - AI Developer (Malvern, PA) https://natuvion.recruitee.com/o/ai-developer-on-site · posted 2026-10-20
+- Lockheed Martin - Systems Engineer (Configuration Management) - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477913195 · posted 2026-11-12
+- Lockheed Martin - Software Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477913483 · posted 2026-11-12
+- Aurora - Software Engineer Intern, Vehicle Platforms (Mountain View, CA) https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef · posted 2026-11-13
+- Huawei - Researcher Intern - AI/ML Technology Insight and Planning (Vancouver, BC, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning · posted 2026-06-15
+- Huawei - Researcher Co-op - Machine Learning - Speech & Audio AI (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai · posted 2026-08-21
+- Huawei - Engineer Co-op - Openjiuwen AI Agent Platform (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform · posted 2026-08-05
+- Huawei - Audio Researcher Intern - Speech & Acoustic AI (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai · posted 2026-10-13
+- Huawei - Researcher Computer Vision Intern (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3 · posted 2026-11-03
+- Huawei - LLM Researcher Intern - Agentic AI - RL (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-llms-agentic-ai-and-rl · posted 2026-05-08
+- Huawei - Intern Researcher - AI Foundation Model Training (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training · posted 2026-04-28
+- Huawei - Researcher Intern - Agentic AI (Montreal, QC, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1 · posted 2026-07-07
+- Huawei - Intern Researcher - AI Agents (Montreal, QC, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1 · posted 2026-10-29
+- Huawei - Researcher Co-op - AI Computing System (Vancouver, BC, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1 · posted 2026-04-01
+- Huawei - Physical AI Researcher Intern (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai · posted 2026-05-08
+- Huawei - Engineer-Mobile AI Co-op (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai · posted 2026-05-08
+- Huawei - Engineer Intern - AI (Vancouver, BC, Canada) https://huaweicanada.recruitee.com/o/intern-engineer-ai · posted 2026-06-22
+- Huawei - Researcher Co-op - Video Generation & 3D Computer Vision (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision · posted 2026-08-21
+- Huawei - Embodied AI Researcher Intern - Embodied AI (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1 · posted 2026-06-23
+- Huawei - Software Engineer Co-op - AI Software Engineering (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering · posted 2026-06-17
+- Huawei - Researcher Intern - Multimodal AI & Interaction (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction · posted 2026-09-04
+- Huawei - Researcher Intern - Embodied AI (Edmonton, AB, Canada) https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3 · posted 2026-11-12
+- Huawei - Researcher Co-op - Physical AI (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai · posted 2026-08-21
+- Huawei - Researcher Co-op - Large Language Models - Computer Vision (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1 · posted 2026-08-21
+- Huawei - Researcher Co-op - Agentic AI (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai · posted 2026-08-27
+- Huawei - Researcher Co-op - LLM - Computer Vision (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision · posted 2026-08-21
+- TikTok - Machine Learning Engineer Intern (San Jose, CA) https://lifeattiktok.com/search/7698822572474583301 · posted 2026-11-13
+- Shield AI - Hardware Test Engineering Co-op (Dallas, TX) https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true · posted 2026-11-12
