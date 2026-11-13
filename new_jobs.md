@@ -4045,3 +4045,5 @@
 - Shield AI - Hardware Test Engineering Co-op (Dallas, TX) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true · posted 2026-11-12
 - RTX - Software Engineer Intern (Melbourne, FL) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543 · posted 2026-11-12
 - ASML - Data Scientist Intern (Wilton, CT) https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462 · posted 2026-11-12
+- Constructive Dialogue Institute - Software Engineer (NYC) https://constructivedialogue.recruitee.com/o/software-engineer-early-career · posted 2026-10-13
+- Natuvion - AI Developer (Malvern, PA) https://natuvion.recruitee.com/o/ai-developer-on-site · posted 2026-10-20
