@@ -4016,3 +4016,28 @@
 - Systems Planning and Analysis - Associate Systems Engineer (San Diego, CA) https://spa.jibeapply.com/jobs/23906?icims=1&lang=en-us · posted 2026-11-12
 - RLI - Associate Software Engineer (Peoria, IL, Tempe, AZ) https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864 · posted 2026-11-12
 - RTX - Software Engineering Intern (Summer 2027) (US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543 · posted 2026-11-12
+- Zoox - Data Scientist Intern [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db · posted 2026-11-12
+- Impulse Space - RF Test Engineer Intern - Summer 2027 (Redondo Beach, CA) https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq · posted 2026-09-10
+- Micron Technology - IT Software Engineer Intern (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582 · posted 2026-09-14
+- Atalanta - Software Engineer Intern (Washington, DC) https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335/application?embed=true · posted 2026-11-12
+- Carlisle Companies - AI & Data Science Intern (Carlisle, PA) https://jobs.smartrecruiters.com/Carlisle/3743990016774046 · posted 2026-11-10
+- Intermountain Healthcare - Machine Learning Operations Intern (Remote in USA) https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318 · posted 2026-11-12
+- Intermountain Healthcare - AI/ML Engineer Intern (Remote in USA) https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835 · posted 2026-11-12
+- Cintas - IT OT Software Engineer Intern (Mason, OH) https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors · posted 2026-11-12
+- Jabil - IT Programmer Analyst Intern Co-op (Florence, KY) https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Spring-Co-Op_J2471333 · posted 2026-11-12
+- TMX Group - AI Engineer Intern (Toronto, ON, Canada) https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680 · posted 2026-11-12
+- Entegris - Data Engineering Intern (Aurora, IL) https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839 · posted 2026-11-12
+- Bask Health - Machine Learning Engineer Intern (Remote in USA) https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply · posted 2026-11-12
+- Octant Bio - Software Engineering Intern (Emeryville, CA) https://www.octant.bio/jobs?gh_jid=6260895004 · posted 2026-11-12
+- Bask Health - AI Engineering Intern (Remote in USA) https://apply.workable.com/bask-health-1/j/F0E122E877/apply · posted 2026-11-12
+- CareSource - Summer Internship Program – Provider Analytics AI Intern (Remote in USA) https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481 · posted 2026-11-12
+- CareSource - Software Engineer Intern (Remote in USA) https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136 · posted 2026-11-12
+- Vital Lyfe - Software Engineer Intern (Torrance, CA) https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true · posted 2026-11-12
+- Zoox - Firmware Engineer Intern - FW Core System Services (Seattle, WA, Foster City, CA, San Diego, CA) https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68/apply · posted 2026-11-12
+- General Dynamics Mission Systems - Software/Systems Engineering Intern (Middletown, RI) https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false · posted 2026-11-12
+- Micron Technology - Software Engineer New Grad (Boise, ID) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692 · posted 2026-08-27
+- Affirm - Software Engineer 1 - Backend - Continuous Delivery (Remote in Canada) https://job-boards.greenhouse.io/affirm/jobs/8181185003 · posted 2026-11-12
+- Booz Allen - Junior C++ Software Engineer (Beavercreek, OH) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425 · posted 2026-11-12
+- Hewlett Packard Enterprise - Systems/Software Engineer 1 (Sunnyvale, CA) https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821 · posted 2026-11-12
+- Sierra Space - Software Engineer 1 - DevOps - DevSecOps (Centennial, CO, Louisville, CO) https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535 · posted 2026-11-12
+- General Dynamics Mission Systems - Platform Services Software Engineer Entry Level (Scottsdale, AZ) https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false · posted 2026-11-12
