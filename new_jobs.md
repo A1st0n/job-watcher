@@ -4074,3 +4074,4 @@
 - Huawei - Researcher Co-op - LLM - Computer Vision (Markham, ON, Canada) https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision · posted 2026-08-21
 - TikTok - Machine Learning Engineer Intern (San Jose, CA) https://lifeattiktok.com/search/7698822572474583301 · posted 2026-11-13
 - Shield AI - Hardware Test Engineering Co-op (Dallas, TX) https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true · posted 2026-11-12
+- Carrier - Duales Studium Data Science und Künstliche Intelligenz B.Sc. 2027 (m/w/d) (Viessmann Shared Service GmbH, Viessmannstraße 1, 35107 Allendorf (Eder), Germany) https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Shared-Service-GmbH-Viessmannstrae-1-35107-Allendorf-Eder-Germany/Duales-Studium-Data-Science-und-Knstliche-Intelligenz-BSc-2027--m-w-d-_30209065 · posted 2026-10-29
