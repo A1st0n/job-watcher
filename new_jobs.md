@@ -4126,3 +4126,5 @@
 - CACI - Operations Intern (AI Tool Integration and Operational Testing - Summer 2027 (2 Locations) https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Operations-Intern--AI-Tool-Integration-and-Operational-Testing---Summer-2027_334905-1 · posted 2026-11-13
 - RTX - Software Engineering Co-op (Summer/Fall) (US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404 · posted 2026-11-13
 - Booz Allen - Software Engineer, Junior (Albuquerque, NM) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700 · posted 2026-11-03
+- Workday - Data Engineer Intern (Costa Rica) https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Data-Engineer-Intern_JR-0111625 · posted 2026-11-13
+- Lightmatter - Hardware Test Engineering, Intern (Summer 2027) (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008 · posted 2026-11-13
