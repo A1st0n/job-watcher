@@ -4129,3 +4129,6 @@
 - Workday - Data Engineer Intern (Costa Rica) https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Data-Engineer-Intern_JR-0111625 · posted 2026-11-13
 - Lightmatter - Hardware Test Engineering, Intern (Summer 2027) (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008 · posted 2026-11-13
 - Lockheed Martin - Systems Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477384671 · posted 2026-11-10
+- ServiceNow - Security Engineer Intern (Kirkland, Washington) https://jobs.smartrecruiters.com/ServiceNow/744000161592679 · posted 2026-11-13
+- Accenture - Junior AI Engineer () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Junior-AI-Engineer_R00371927-1 · posted 2026-11-12
+- Twitch - Software Engineer I, Payments (San Francisco, CA) https://job-boards.greenhouse.io/twitch/jobs/8943553002 · posted 2026-11-13
