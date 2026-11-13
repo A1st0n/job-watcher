@@ -4087,3 +4087,4 @@
 - Empowerly - Full Stack Software Engineer (Remote in USA) https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b · posted 2026-11-13
 - Nvidia - Software Engineering Intern, NCCL - 2027 (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488 · posted 2026-11-13
 - Nvidia - Software Engineering Intern, Neural Reconstruction and Rendering - 2027 (China, Shanghai) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925 · posted 2026-11-13
+- HPE - Sales Programmes Intern - High Performance Computing & AI (Winnersh, Berkshire, United Kingdom) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Sales-Programmes-Intern_1216776 · posted 2026-11-13
