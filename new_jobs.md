@@ -4189,3 +4189,4 @@
 - Accenture - Software Engineering New Grad - Graduate Programme (Birmingham, UK) https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq · posted 2026-09-22
 - Accenture - Software Engineer New Grad (Bristol, UK) https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq · posted 2026-09-22
 - edmentum - Software Engineer 1 (Bloomington, MN) https://job-boards.greenhouse.io/edmentum/jobs/6255572004 · posted 2026-11-11
+- Shield AI - Engineer 1 New Grad - Software (Arlington County, Arlington, VA) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true · posted 2026-11-13
