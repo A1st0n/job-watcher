@@ -4192,3 +4192,4 @@
 - Shield AI - Engineer 1 New Grad - Software (Arlington County, Arlington, VA) https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true · posted 2026-11-13
 - Postman - AI Engineer Intern (SF) https://postman.wd108.myworkdayjobs.com/careers/job/San-Francisco-CA-US/AI-Engineer--Intern_JR1000055 · posted 2026-11-13
 - Shield AI - Engineer 1 New Grad - Software (Arlington County, Arlington, VA) https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true · posted 2026-11-13
+- Microsoft - Research Intern - MSR Software-Hardware Co-design (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557073455 · posted 2026-11-13
