@@ -4159,3 +4159,20 @@
 - Booz Allen - Data Scientist (Honolulu, HI) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Scientist_R0253537 · posted 2026-11-13
 - Booz Allen - Systems Engineer (Beavercreek, OH) https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0253553 · posted 2026-11-13
 - Nightwing Intelligence Solutions - Software Developer 2 - System Security (Huntsville, AL) https://nwis.wd12.myworkdayjobs.com/NW/job/AL600-600-Boulevard-South-Huntsville-AL/Software-Developer-II--System-Security-_JR102207 · posted 2026-10-30
+- Sysco - Software Engineer Intern (Houston, TX) https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660 · posted 2026-08-20
+- Amazon - Robotics Applied Scientist 2 Intern - Robotics (Seattle, WA, North Reading, MA, NYC, Bellevue, WA, Sunnyvale, CA, Westborough, MA) https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states · posted 2026-11-13
+- NextEra Energy - Software Engineering Intern - Technical (St Paul, MN) https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors · posted 2026-11-13
+- Microsoft - Research Intern - Microsoft Research Software-Hardware Co-design (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073455 · posted 2026-11-13
+- Microsoft - Research Intern - AI Coding Agents (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073416 · posted 2026-11-13
+- Nexus Cognitive Technologies - Data Engineer Intern (Atlanta, GA) https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true · posted 2026-11-13
+- Lightmatter - Hardware Test Engineer Intern (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5473869008 · posted 2026-11-13
+- Dexcom - Software Development Engineer 1 (California) https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121398 · posted 2026-10-16
+- Cone Health - Analytic Developer (Greensboro, NC) https://careers.conehealth.com/us/en/job/JR155338 · posted 2026-11-13
+- Microsoft - Software Engineer (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557072925 · posted 2026-11-13
+- Thoughtworks - Graduate Developer (Toronto, ON, Canada) https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true · posted 2026-10-29
+- H2O.ai - Software Engineer (Seattle, WA) https://h2oai.applytojob.com/apply/n5X2LVJYN1/Software-Engineer · posted 2026-11-13
+- Empire State Realty Trust - Applied AI Engineer 1 (NYC) https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267/apply · posted 2026-11-13
+- Cummins - Systems Engineer (Seymour, IN) https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440211 · posted 2026-11-13
+- Fidus Systems - Embedded Software Designer - AI Knowledge and Data (Kitchener, ON, Canada) https://apply.workable.com/fidus/j/B945E3C44D/apply · posted 2026-11-13
+- Fidus Systems - Embedded Software Designer - AI Agents and Tooling (Kitchener, ON, Canada) https://apply.workable.com/fidus/j/530C9AAB54/apply · posted 2026-11-13
+- Intuit - Graduate Software Engineer 1 (London, UK) https://jobs.intuit.com/job/london/graduate-software-engineer-1/27595/103261389616 · posted 2026-11-13
