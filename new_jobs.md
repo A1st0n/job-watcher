@@ -4178,3 +4178,5 @@
 - Intuit - Graduate Software Engineer 1 (London, UK) https://jobs.intuit.com/job/london/graduate-software-engineer-1/27595/103261389616 · posted 2026-11-13
 - Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast (Umatilla, Oregon, USA) https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast · posted 2026-11-14
 - Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - East (Herndon, Virginia, USA) https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east · posted 2026-11-14
+- Microsoft - Software Engineer - Microsoft Business Operations (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073410 · posted 2026-11-14
+- Integrated Biosciences - Software Engineer - Robotics (Redwood City, CA) https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009 · posted 2026-11-14
