@@ -4181,3 +4181,10 @@
 - Microsoft - Software Engineer - Microsoft Business Operations (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073410 · posted 2026-11-14
 - Integrated Biosciences - Software Engineer - Robotics (Redwood City, CA) https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009 · posted 2026-11-14
 - McMaster-Carr - Technology Developer - Development - Design (Elmhurst, IL) https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009 · posted 2026-10-22
+- Carnegie Mellon University - Full-Stack Software Development Intern (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2 · posted 2026-10-30
+- Carnegie Mellon University - Cyber AI Engineer Intern (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2 · posted 2026-11-13
+- Accenture - Technology Software Engineer Apprentice (Newcastle upon Tyne, UK) https://accenture.pinpointhq.com/en/postings/97c7121d-21cf-4cfc-aed2-5f4b54e81368?ats=pinpointhq · posted 2026-10-23
+- Accenture - Software Engineering Graduate Program (Leeds, UK) https://accenture.pinpointhq.com/en/postings/ea5476ed-b07b-4a24-b7c9-541881141de8?ats=pinpointhq · posted 2026-09-22
+- Accenture - Software Engineering New Grad (Edinburgh, UK) https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq · posted 2026-09-22
+- Accenture - Software Engineering New Grad - Graduate Programme (Birmingham, UK) https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq · posted 2026-09-22
+- Accenture - Software Engineer New Grad (Bristol, UK) https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq · posted 2026-09-22
