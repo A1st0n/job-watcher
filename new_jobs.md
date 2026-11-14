@@ -4198,3 +4198,12 @@
 - CDPHP - Software Engineer - ETL (Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY) https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172 · posted 2026-11-12
 - CDPHP - AI Engineer (Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY) https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556 · posted 2026-11-11
 - ICF International - Junior Data Scientist (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453 · posted 2026-10-13
+- Camping World - Software Engineer Intern (Chicago, IL) https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080 · posted 2026-11-13
+- Camping World - Data Engineering Intern (Chicago, IL, Lincolnshire, IL) https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297 · posted 2026-11-13
+- Camping World - Data Analyst Intern - AI & Machine Learning Focus (Chicago, IL, Lincolnshire, IL) https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300 · posted 2026-11-13
+- Martin Marietta - Software Data Integration Engineer Intern (Raleigh, NC) https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146 · posted 2026-11-13
+- Martin Marietta - Data Scientist Intern (Raleigh, NC) https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1 · posted 2026-11-13
+- Daimler Truck - IT Developer Analyst Intern (Mt Holly, NC) https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1 · posted 2026-11-13
+- SAS - Software Developer Intern - Go/Golang Experience (Cary, NC) https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false · posted 2026-11-14
+- Fort Bend County - Web Developer - Web Development - Information Technology (Richmond, TX) https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Temporary-Position---Web-Development---Information-Technology_JR1694-11-26 · posted 2026-11-13
+- Everest - Information Technology Rotational Development Program (Warren, NJ) https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900 · posted 2026-11-13
