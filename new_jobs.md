@@ -4188,3 +4188,4 @@
 - Accenture - Software Engineering New Grad (Edinburgh, UK) https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq · posted 2026-09-22
 - Accenture - Software Engineering New Grad - Graduate Programme (Birmingham, UK) https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq · posted 2026-09-22
 - Accenture - Software Engineer New Grad (Bristol, UK) https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq · posted 2026-09-22
+- edmentum - Software Engineer 1 (Bloomington, MN) https://job-boards.greenhouse.io/edmentum/jobs/6255572004 · posted 2026-11-11
