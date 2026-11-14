@@ -4195,3 +4195,6 @@
 - Microsoft - Research Intern - MSR Software-Hardware Co-design (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557073455 · posted 2026-11-13
 - Microsoft - Research Intern - AI Coding Agents (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557073416 · posted 2026-11-13
 - KSB - Machine Learning Engineer (Grovetown, GA) https://ksb.wd3.myworkdayjobs.com/KSB_ExternalCareerSite/job/Grovetown-GA/Machine-Learning-Engineer_JR_30052-1 · posted 2026-07-06
+- CDPHP - Software Engineer - ETL (Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY) https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172 · posted 2026-11-12
+- CDPHP - AI Engineer (Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY) https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556 · posted 2026-11-11
+- ICF International - Junior Data Scientist (Remote in USA) https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453 · posted 2026-10-13
