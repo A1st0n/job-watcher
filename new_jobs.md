@@ -4180,3 +4180,4 @@
 - Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - East (Herndon, Virginia, USA) https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east · posted 2026-11-14
 - Microsoft - Software Engineer - Microsoft Business Operations (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073410 · posted 2026-11-14
 - Integrated Biosciences - Software Engineer - Robotics (Redwood City, CA) https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009 · posted 2026-11-14
+- McMaster-Carr - Technology Developer - Development - Design (Elmhurst, IL) https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009 · posted 2026-10-22
