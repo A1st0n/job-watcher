@@ -4218,3 +4218,5 @@
 - Genesys - Web Software Developer Intern - WFM (Toronto, ON, Canada) https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3 · posted 2026-10-07
 - Oregon State University - Student Developer Intern - CASS Software Development Group (Remote in USA, Corvallis, OR) https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296 · posted 2026-10-05
 - Marvell - Software/Firmware Engineering Intern (Petah-Tikva) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496 · posted 2026-11-15
+- NCR Atleos - Software Engineer Intern (Dundee, UK) https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942 · posted 2026-10-08
+- Beacon Mobility - AI Innovation & Automation Analyst (Beacon, NY) https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555 · posted 2026-10-22
