@@ -4213,3 +4213,5 @@
 - Eight Sleep - Firmware Intern (Washington, DC, SF, Austin, TX, LA, NYC) https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true · posted 2026-11-14
 - RTX - Software Engineering Co-op (Richardson, TX) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404 · posted 2026-11-13
 - Boeing - Associate Software Application Developer – Java Full Stack (IND - Bangalore, India) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Application-Developer---Java-Full-Stack_JR2026528301-1 · posted 2026-11-15
+- Vantive - Embedded Software Engineer (Plymouth, MN) https://vantive.wd108.myworkdayjobs.com/Vantive/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1 · posted 2026-11-03
+- Tyson Foods - IT Product Owner 1 (Springdale, AR) https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-3 · posted 2026-10-05
