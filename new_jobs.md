@@ -4209,3 +4209,4 @@
 - Everest - Information Technology Rotational Development Program (Warren, NJ) https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900 · posted 2026-11-13
 - Intel - Research Scientist Intern - Graphics, ML (Virtual US) https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525 · posted 30+ days ago
 - Johnson Controls - Nextgen Software Engineer New Grad (Milwaukee, WI, Westford, MA, Glendale, WI) https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2 · posted 2026-11-13
+- RTX - Systems Engineer 1 - Open Systems Solutions (Cedar Rapids, IA) https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I--Onsite-_01887270 · posted 2026-11-05
