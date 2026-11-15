@@ -4223,3 +4223,6 @@
 - PayPal - Software Engineer Intern (Tel Aviv, Tel Aviv District, Israel) https://paypal.wd1.myworkdayjobs.com/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730 · posted 2026-11-15
 - DXC - IT Intern (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Intern_51590876 · posted 2026-11-15
 - NCR Atleos - AI Engineer Intern (Dundee, UK) https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2 · posted 2026-11-11
+- Carnegie Mellon University - Full-Stack Software Development Intern (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1 · posted 2026-10-30
+- Carnegie Mellon University - Cyber AI Engineering Intern (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1 · posted 2026-11-13
+- Carnegie Mellon University - Research Assistant - Kenneth C. Griffin School of Computer Science - S3D (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318 · posted 2026-11-03
