@@ -4215,3 +4215,5 @@
 - Boeing - Associate Software Application Developer – Java Full Stack (IND - Bangalore, India) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Application-Developer---Java-Full-Stack_JR2026528301-1 · posted 2026-11-15
 - Vantive - Embedded Software Engineer (Plymouth, MN) https://vantive.wd108.myworkdayjobs.com/Vantive/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1 · posted 2026-11-03
 - Tyson Foods - IT Product Owner 1 (Springdale, AR) https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-3 · posted 2026-10-05
+- Genesys - Web Software Developer Intern - WFM (Toronto, ON, Canada) https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3 · posted 2026-10-07
+- Oregon State University - Student Developer Intern - CASS Software Development Group (Remote in USA, Corvallis, OR) https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296 · posted 2026-10-05
