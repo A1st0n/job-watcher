@@ -4221,3 +4221,4 @@
 - NCR Atleos - Software Engineer Intern (Dundee, UK) https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942 · posted 2026-10-08
 - Beacon Mobility - AI Innovation & Automation Analyst (Beacon, NY) https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555 · posted 2026-10-22
 - PayPal - Software Engineer Intern (Tel Aviv, Tel Aviv District, Israel) https://paypal.wd1.myworkdayjobs.com/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730 · posted 2026-11-15
+- DXC - IT Intern (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Intern_51590876 · posted 2026-11-15
