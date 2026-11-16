@@ -4239,3 +4239,4 @@
 - Instil Software Ltd - Graduate Agentic Software Engineer (Belfast, UK) https://jobs.ashbyhq.com/instil/5d2b8cc5-1276-4993-a407-ed502cd79fc8/application?embed=true · posted 2026-11-16
 - Octaura - Data Engineer Intern (NYC) https://job-boards.greenhouse.io/octaura/jobs/4662934007 · posted 2026-11-16
 - Motorola Solutions - Intern Software Developer (Java) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C---_R69047 · posted 2026-11-16
+- Google - Software Engineering Intern, Summer 2027 (Taipei, Taiwan; New Taipei, Banqiao District, New Taipei City, Taiwan) https://www.google.com/about/careers/applications/jobs/results/135021615204180678 · posted 2026-11-16
