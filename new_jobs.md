@@ -4234,3 +4234,4 @@
 - RTX - Systems Engineering - Summer Intern 2027 - Onsite (US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971 · posted 2026-11-16
 - RTX - 2027 Summer Intern - Software Engineering - Onsite (US-CA-EL SEGUNDO-E04 ~ 2006 E El Segundo Blvd ~ BLDG E04) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225 · posted 2026-11-16
 - AMS - Data Science Associate (Manhattan, NYC) https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49 · posted 2026-11-16
+- Accenture - Junior Data Engineer – Internship () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Napoli/Junior-Data-Engineer---Internship_R00372206 · posted 2026-11-16
