@@ -4244,3 +4244,7 @@
 - Analog Devices - Software Engineering Intern (Medical Device & Healthcare Integration) (US, MA, Wilmington) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165 · posted 2026-11-16
 - American Express - Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677 · posted 2026-11-16
 - Dell - Graduate, Automation Engineer Cork (Co. Cork, Ireland) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D12091 · posted 2026-11-16
+- Unique - Data Scientist - Wealth Graph (NYC) https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d · posted 2026-11-16
+- EOS IT Solutions - Graduate BI Developer (Banbridge, UK) https://eosits.com/company/careers/?gh_jid=8944397002 · posted 2026-11-16
+- American Express - Campus Undergraduate Full-Time Engineer - Software Engineer 1 (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677 · posted 2026-11-16
+- Innodata - AI Voice Evaluation Specialist (Remote in Canada) https://job-boards.greenhouse.io/innodatainc/jobs/4508284009 · posted 2026-11-16
