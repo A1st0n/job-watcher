@@ -4242,3 +4242,4 @@
 - Google - Software Engineering Intern, Summer 2027 (Taipei, Taiwan; New Taipei, Banqiao District, New Taipei City, Taiwan) https://www.google.com/about/careers/applications/jobs/results/135021615204180678 · posted 2026-11-16
 - Google - Software Engineering Intern, Summer 2027 (Shanghai, China) https://www.google.com/about/careers/applications/jobs/results/95046224276529862 · posted 2026-11-16
 - Analog Devices - Software Engineering Intern (Medical Device & Healthcare Integration) (US, MA, Wilmington) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165 · posted 2026-11-16
+- American Express - Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677 · posted 2026-11-16
