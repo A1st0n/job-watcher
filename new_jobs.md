@@ -4256,3 +4256,4 @@
 - Shopify - Applied Machine Learning Engineer Intern (Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada) https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536 · posted 2026-11-16
 - Motorola Solutions - Software Engineer Co-op (Gatineau, Canada) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R70361 · posted 2026-11-16
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162256 · posted 2026-11-16
+- Honeywell - Intern (Bach) Data Engineering (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162258 · posted 2026-11-16
