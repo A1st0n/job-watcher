@@ -4228,3 +4228,5 @@
 - Carnegie Mellon University - Research Assistant - Kenneth C. Griffin School of Computer Science - S3D (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318 · posted 2026-11-03
 - Lockheed Martin - Systems Engineer - Intern (Orlando, FL) https://lockheedmartin.eightfold.ai/careers/job/996477278563 · posted 2026-11-14
 - Viavi Solutions - Software Engineering Co-op (Germantown, MD) https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1 · posted 2026-11-15
+- PayPal - Software Engineer Intern - Backend (Central Singapore, Singapore) https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931 · posted 2026-11-16
+- PayPal - Full Stack Software Engineer Intern (Central Singapore, Singapore) https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930 · posted 2026-11-16
