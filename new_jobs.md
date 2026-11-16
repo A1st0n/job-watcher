@@ -4240,3 +4240,4 @@
 - Octaura - Data Engineer Intern (NYC) https://job-boards.greenhouse.io/octaura/jobs/4662934007 · posted 2026-11-16
 - Motorola Solutions - Intern Software Developer (Java) (Krakow, Poland) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C---_R69047 · posted 2026-11-16
 - Google - Software Engineering Intern, Summer 2027 (Taipei, Taiwan; New Taipei, Banqiao District, New Taipei City, Taiwan) https://www.google.com/about/careers/applications/jobs/results/135021615204180678 · posted 2026-11-16
+- Google - Software Engineering Intern, Summer 2027 (Shanghai, China) https://www.google.com/about/careers/applications/jobs/results/95046224276529862 · posted 2026-11-16
