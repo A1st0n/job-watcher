@@ -4267,3 +4267,7 @@
 - RTX - Systems Engineering Co-op  - Open Systems Solutions - Summer/Fall 2027 - Onsite (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op----Open-Systems-Solutions---Summer-Fall-2027---Onsite_01887902 · posted 2026-11-16
 - CACI - Junior Systems Engineer (King George, VA, US) https://caci.wd1.myworkdayjobs.com/External/job/King-George-VA-US/Junior-Systems-Engineer_332029 · posted 2026-11-16
 - Pacific Fusion - Summer 2027 Vacuum Systems Engineering Internship (San Leandro, CA) https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009 · posted 2026-11-16
+- Micron - Intern - Data Science, SMAI (Boise, ID - Main Site) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science--SMAI_JR117444 · posted 2026-11-16
+- Micron - Intern - MSB Test Engineering (MSB, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Test-Engineering_JR111366 · posted 2026-11-16
+- DXC - Microsoft Power Platform – Technical Consultant (Fresh Graduate) (ARE - DU - DUBAI) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ARE---DU---DUBAI/Microsoft-Power-Platform---Technical-Consultant--Fresh-Graduate-_51594674 · posted 2026-11-16
+- Leidos - Integration and Test Engineer Intern (Atlantic City, NJ) https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Integration-and-Test-Engineer-Intern_R-00196657 · posted 2026-11-16
