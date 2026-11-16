@@ -4248,3 +4248,9 @@
 - EOS IT Solutions - Graduate BI Developer (Banbridge, UK) https://eosits.com/company/careers/?gh_jid=8944397002 · posted 2026-11-16
 - American Express - Campus Undergraduate Full-Time Engineer - Software Engineer 1 (Toronto, ON, Canada) https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677 · posted 2026-11-16
 - Innodata - AI Voice Evaluation Specialist (Remote in Canada) https://job-boards.greenhouse.io/innodatainc/jobs/4508284009 · posted 2026-11-16
+- Boston Scientific - AI Acceleration Intern (Marlborough, MA) https://bostonscientific.eightfold.ai/careers/job/563602813862390 · posted 2026-11-16
+- Boston Scientific - AI Engineer Intern - Generative & Agentic AI (Marlborough, MA, Maple Grove, MN, Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813827837 · posted 2026-11-16
+- Toyota Research Institute - Research Intern - Spatial Intelligence for Robotics (Cambridge, MA) https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e/apply · posted 2026-11-16
+- Altice USA - Software Developer Intern (Bethpage, NY) https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors · posted 2026-11-16
+- Shopify - Software Engineer Intern (Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada) https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a · posted 2026-11-16
+- Shopify - Applied Machine Learning Engineer Intern (Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada) https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536 · posted 2026-11-16
