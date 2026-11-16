@@ -4286,3 +4286,14 @@
 - T-Mobile - Summer 2027 Software Engineering AI Intern (Atlanta, Georgia) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273 · posted 2026-11-16
 - T-Mobile - Summer 2027 Software Engineer Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357 · posted 2026-11-16
 - Leidos - Cybersecurity Intern (Fort Belvoir, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087 · posted 2026-11-16
+- Quest Analytics - Software Engineer Intern - C# - ASP.NET (Overland Park, KS) https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply · posted 2026-11-16
+- LinkedIn - Systems & Infrastructure Engineer Intern (Mountain View, CA) https://jobs.smartrecruiters.com/LinkedIn3/744000161930950 · posted 2026-11-16
+- Meta - Visiting Researcher Intern - AI Mentorship Program (Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA) https://www.metacareers.com/jobs/4529244430625751 · posted 2026-11-16
+- Keyrock - Innovation Quant Developer Intern - DeFi/Corporate Development (London, UK, Brussels, Belgium) https://jobs.ashbyhq.com/keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd/application?embed=true · posted 2026-11-16
+- SRI International - Embedded Software Engineering Co-op (Princeton, NJ) https://careers-sri.icims.com/jobs/6542/job?mobile=true&needsRedirect=false · posted 2026-11-16
+- SRI International - Software Engineering/Full Stack Development Co-op (Princeton, NJ) https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false · posted 2026-11-16
+- Texas Instruments - Test Engineering Intern (United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019537 · posted 2026-11-16
+- TikTok - Client Security & Data Foundation Machine Learning Engineer Intern (San Jose, CA) https://lifeattiktok.com/search/7708750900450134325 · posted 2026-11-16
+- Nokia - Firmware Engineer (Canada) https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30015 · posted 2026-06-03
+- ManTech - Junior Software Developer (St Inigoes, MD) https://mantech.avature.net/en_US/careers/JobDetail/67115 · posted 2026-11-16
+- Absolics - Production Automation Engineer (Covington, GA) https://job-boards.greenhouse.io/absolicsinc/jobs/4509348009 · posted 2026-11-16
