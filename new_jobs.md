@@ -4257,3 +4257,4 @@
 - Motorola Solutions - Software Engineer Co-op (Gatineau, Canada) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R70361 · posted 2026-11-16
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162256 · posted 2026-11-16
 - Honeywell - Intern (Bach) Data Engineering (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162258 · posted 2026-11-16
+- Northrop Grumman - 2027 Systems Engineer Intern - Baltimore MD (United States-Maryland-Baltimore) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094 · posted 2026-11-16
