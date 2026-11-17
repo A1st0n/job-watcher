@@ -4351,3 +4351,8 @@
 - Terranova - AI Intern (Berkeley, CA) https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true · posted 2026-11-03
 - Sedaro - Software Engineer Intern (Arlington County, Arlington, VA) https://sedarotech.bamboohr.com/careers/97/ · posted 2026-11-17
 - TriMark Digital - AI Product & Automation Specialist (Raleigh, NC) https://trimark.bamboohr.com/careers/151/ · posted 2026-11-17
+- Canyon AeroConnect - Test Engineer Intern (Prescott, AZ) https://canyonaeroconnect.bamboohr.com/careers/166/ · posted 2026-11-17
+- FSP - Placement Software Developer Intern (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/323/ · posted 2026-11-17
+- Gentec - Junior Software Designer (Québec City, QC, Canada) https://gentec.bamboohr.com/careers/31/ · posted 2026-11-17
+- FSP - Graduate Software Developer (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/322/ · posted 2026-11-17
+- FSP - Graduate AI Consultant (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/329/ · posted 2026-11-17
