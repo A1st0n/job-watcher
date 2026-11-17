@@ -4339,3 +4339,8 @@
 - SecurityMetrics - Software Engineer Intern (Orem, UT) https://securitymetrics.bamboohr.com/careers/215/ · posted 2026-11-17
 - Context Labs - Data Scientist - Energy (Oil & Gas) (Houston, TX) https://contextlabs.bamboohr.com/careers/187/ · posted 2026-11-17
 - Senstar - Machine Learning Developer (Waterloo, ON, Canada) https://senstar.bamboohr.com/careers/183/ · posted 2026-11-17
+- Critical Environment Technologies - Computer Science Co-op (Delta, BC, Canada) https://cetci.bamboohr.com/careers/92/ · posted 2026-11-17
+- NorthStar Earth & Space - Research Intern - AI for Earth Observation (Montreal, QC, Canada) https://northstarearthandspace.bamboohr.com/careers/117/ · posted 2026-11-17
+- Kraun Electric - Junior Software Developer (St. Catharines, ON, Canada) https://kraunelectric.bamboohr.com/careers/98/ · posted 2026-11-17
+- Fantom - Software Engineer Level 0 (Hanover, MD) https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply · posted 2026-11-17
+- Flexspring - AI Model Training and Deployment Developer New Grad (Montreal, QC, Canada) https://flexspring.bamboohr.com/careers/71/ · posted 2026-11-17
