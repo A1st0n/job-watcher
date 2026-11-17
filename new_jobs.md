@@ -4391,3 +4391,4 @@
 - Lockheed Martin - Systems Engineer Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477987166 · posted 2026-11-17
 - RTX - Systems Engineering Co-op - Open Systems Solutions- Summer/Fall 2027 - Onsite (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-104--400-Collins-Rd-NE--BLDG-104/Systems-Engineering-Co-op---Open-Systems-Solutions--Summer-Fall-2027---Onsite_01887901 · posted 2026-11-17
 - RTX - Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite (2 Locations) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-104--400-Collins-Rd-NE--BLDG-104/Systems-Engineering-Intern---Open-Systems-Solutions---Summer-2027---Onsite_01887900 · posted 2026-11-17
+- Aptiv - Intern Vehicle Test Engineer (Krakow, Poland) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Krakow-Poland/Intern-Vehicle-Test-Engineer_J000705845 · posted 2026-11-17
