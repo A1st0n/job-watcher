@@ -4383,3 +4383,5 @@
 - RTX - Software Engineering Intern (Summer 2027) (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01889992 · posted 2026-11-17
 - Anduril - 2027 Machine Learning Engineer Intern (Santa Ana, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007 · posted 2026-11-17
 - State Street - Software Engineering Intern - Full-time Internship (Jan - June 2027) (Quincy, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801236 · posted 2026-11-17
+- Apple - Software Engineering Intern, File Previewing & Editing (Quick Look and Preview) (Paris) https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview · posted 2026-11-17
+- Cloudflare - AI & Automation Intern, Communications (Winter 2027) (In-Office) https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342 · posted 2026-11-17
