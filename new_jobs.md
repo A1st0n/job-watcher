@@ -4328,3 +4328,4 @@
 - UBDS Group - Data Engineer (London, UK) https://apply.workable.com/ubds/j/6E026BBF3E/apply · posted 2026-11-17
 - Laborie Medical Technologies - Software Engineer 1 (Portsmouth, NH) https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false · posted 2026-11-17
 - Lockheed Martin - College Student - Systems Engineering Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477785786 · posted 2026-11-16
+- Western Digital - Internship - Software Development (Embedded) (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/WesternDigital/744000161997959 · posted 2026-11-17
