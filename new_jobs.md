@@ -4349,3 +4349,5 @@
 - Skydio - Systems Engineering Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application?embed=true · posted 2026-11-09
 - Garner Health - Associate Software Engineer Intern (NYC) https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004 · posted 2026-09-04
 - Terranova - AI Intern (Berkeley, CA) https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true · posted 2026-11-03
+- Sedaro - Software Engineer Intern (Arlington County, Arlington, VA) https://sedarotech.bamboohr.com/careers/97/ · posted 2026-11-17
+- TriMark Digital - AI Product & Automation Specialist (Raleigh, NC) https://trimark.bamboohr.com/careers/151/ · posted 2026-11-17
