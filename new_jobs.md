@@ -4394,3 +4394,29 @@
 - Aptiv - Intern Vehicle Test Engineer (Krakow, Poland) https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Krakow-Poland/Intern-Vehicle-Test-Engineer_J000705845 · posted 2026-11-17
 - Lockheed Martin - Systems Engineer (Integrated Vehicle Health Management) - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477262749 · posted 2026-11-17
 - Booz Allen - University, 2027 Summer Games Software Developer Intern - McLean, VA (McLean, VA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0253700 · posted 2026-11-17
+- CrowdStrike - AI Research Launch Intern (4 Locations) https://crowdstrike.wd5.myworkdayjobs.com/CrowdstrikeCareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599 · posted 2026-11-17
+- State Street - Software Engineering Intern - Full-time Internship (Jan - June 2027) (Quincy, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801241 · posted 2026-11-17
+- APEX Analytix - Product Management Intern - DevOps (Greensboro, NC) https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164 · posted 2026-11-17
+- Raptor Maps - Software Engineer Intern (Somerville, MA) https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a · posted 2026-11-17
+- Anduril - Machine Learning Engineer Intern (Santa Ana, CA) https://boards.greenhouse.io/andurilindustries/jobs/5274037007 · posted 2026-11-17
+- Meta - Visiting Researcher Intern - AI Mentorship Program (Montreal, QC, Canada) https://www.metacareers.com/jobs/1110284504699535 · posted 2026-11-17
+- Falcomm - AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration (Atlanta, GA) https://apply.workable.com/falcomm/j/64D0E86EFE/apply · posted 2026-11-17
+- Falcomm - AI/ML Software Engineer Graduate Intern - AI/CAD Integration (Atlanta, GA) https://apply.workable.com/falcomm/j/41F139E6F7/apply · posted 2026-11-17
+- Ross Video - Research Assistant Co-op - AI Focus (Nepean, Ottawa, ON, Canada) https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false · posted 2026-11-17
+- Lightmatter - Product & Test Engineering Intern (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5474690008 · posted 2026-11-17
+- Lean TECHniques - Software Engineer Intern (Johnston, IA) https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true · posted 2026-11-17
+- Compunetix - Software Engineer Co-op (Monroeville, PA) https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false · posted 2026-11-17
+- Exowatt - Robotics & Physical AI Intern (Miami, FL) https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply · posted 2026-11-17
+- Laansu - Junior Software Developer (Sterling, VA) https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer · posted 2026-11-17
+- CDM Smith - Artificial Intelligence/Machine Learning Developer (Fairfax, VA) https://careers.cdmsmith.com/jobs/4994?icims=1&lang=en-us · posted 2026-11-17
+- ActioNet - Junior Developer (Rosslyn, Arlington, VA) https://jobs.jobvite.com/actionet-review/job/ofYQzfwm?nl=1&nl=1&fr=false · posted 2026-11-17
+- Compunetix - Software Engineer (Monroeville, PA) https://jobs.jobvite.com/compunetix/job/o25QAfwh?nl=1&nl=1&fr=false · posted 2026-11-17
+- Red Alpha - Data Scientist (Annapolis Junction, MD) https://jobs.jobvite.com/redalpha/job/oOfSofw3?nl=1&nl=1&fr=false · posted 2026-11-17
+- Red Alpha - Software Engineer Level 0 (Annapolis Junction, MD) https://jobs.jobvite.com/redalpha/job/oNLpAfwh?nl=1&nl=1&fr=false · posted 2026-11-17
+- Red Alpha - Data Engineer (Columbia, MD) https://jobs.jobvite.com/redalpha/job/ocbSofwn?nl=1&nl=1&fr=false · posted 2026-11-17
+- Red Alpha - Entry to Mid-Level Software Engineer (Columbia, MD) https://jobs.jobvite.com/redalpha/job/ouIosfwM?nl=1&nl=1&fr=false · posted 2026-11-17
+- Bright Silicon Technologies - Embedded Systems Engineer (Pleasanton, CA) https://brightsilicontechnologies.applytojob.com/apply/lUavU6VUxj/Embedded-Systems-Engineer-Early-Career · posted 2026-11-17
+- Red Alpha - Software Engineer (Annapolis Junction, MD) https://jobs.jobvite.com/redalpha/job/oy0ZpfwG?nl=1&nl=1&fr=false · posted 2026-11-17
+- TMS International - Manufacturing Systems Software Engineer (Hammond, IN) https://tmsinternationalrawmaterialsandoptmization.applytojob.com/apply/a0i667jprM/Software-Engineer · posted 2026-11-17
+- Parkland Health - Information Technology Application Systems Associate - Pharmacy (United States) https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/8435-Stemmons-Bldg/Information-Technology-Application-Systems-Associate----Pharmacy_990604-1 · posted 2026-11-17
+- Virtu Financial - Hardware Platform Engineer (Austin, TX) https://job-boards.greenhouse.io/virtu/jobs/8469926002 · posted 2026-11-17
