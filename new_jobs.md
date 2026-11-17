@@ -4320,3 +4320,4 @@
 - Microsoft - Data Engineering Internship Opportunities (Ireland, Dublin, Dublin) https://apply.careers.microsoft.com/careers/job/1970393557002254 · posted 2026-11-16
 - KLA - Firmware Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1 · posted 2026-11-17
 - KLA - Computer Vision/Machine Learning Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2642826-2 · posted 2026-11-17
+- HexArmor - Software Engineer Intern (Atlanta, GA) https://job-boards.greenhouse.io/hexarmor/jobs/8206200003 · posted 2026-11-17
