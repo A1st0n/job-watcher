@@ -4344,3 +4344,7 @@
 - Kraun Electric - Junior Software Developer (St. Catharines, ON, Canada) https://kraunelectric.bamboohr.com/careers/98/ · posted 2026-11-17
 - Fantom - Software Engineer Level 0 (Hanover, MD) https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply · posted 2026-11-17
 - Flexspring - AI Model Training and Deployment Developer New Grad (Montreal, QC, Canada) https://flexspring.bamboohr.com/careers/71/ · posted 2026-11-17
+- Visa - Software Engineer Intern (PL - Warsaw, Poland) https://visa.wd5.myworkdayjobs.com/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2 · posted 2026-11-17
+- Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162362 · posted 2026-11-17
+- Skydio - Systems Engineering Intern (San Mateo, CA) https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application?embed=true · posted 2026-11-09
+- Garner Health - Associate Software Engineer Intern (NYC) https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004 · posted 2026-09-04
