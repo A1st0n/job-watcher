@@ -4321,3 +4321,9 @@
 - KLA - Firmware Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1 · posted 2026-11-17
 - KLA - Computer Vision/Machine Learning Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2642826-2 · posted 2026-11-17
 - HexArmor - Software Engineer Intern (Atlanta, GA) https://job-boards.greenhouse.io/hexarmor/jobs/8206200003 · posted 2026-11-17
+- Valnet Freelance - AI Operations Analyst - Digital Publishing & Social Media (Montreal, QC, Canada) https://valnetconcept.applytojob.com/apply/Zen8WsV71B/AI-Operations-Analyst-Digital-Publishing-Social-Media · posted 2026-11-17
+- Microsoft - Software Engineer Agentic Security (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557074643 · posted 2026-11-17
+- Wyetech - Software Engineer 0 or 1 (United States) https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1 · posted 2026-11-17
+- Barracuda Networks - Quality Assurance Technician 1 (San Jose, CA, Campbell, CA) https://jobs.jobvite.com/barracuda-networks-inc/job/oa3ZAfww?nl=1&nl=1&fr=false · posted 2026-11-17
+- UBDS Group - Data Engineer (London, UK) https://apply.workable.com/ubds/j/6E026BBF3E/apply · posted 2026-11-17
+- Laborie Medical Technologies - Software Engineer 1 (Portsmouth, NH) https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false · posted 2026-11-17
