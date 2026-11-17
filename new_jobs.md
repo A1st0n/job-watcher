@@ -4357,3 +4357,4 @@
 - FSP - Graduate Software Developer (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/322/ · posted 2026-11-17
 - FSP - Graduate AI Consultant (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/329/ · posted 2026-11-17
 - GE Aerospace - Applied AI Engineer Intern (m/f/d) – Spring 2027 (Remote) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1 · posted 2026-11-17
+- Havas - Data & Analytics Platformer Intern (London, UK) https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Data---Analytics-Platformer_JR0101641 · posted 2026-11-17
