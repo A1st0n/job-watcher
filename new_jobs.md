@@ -4362,3 +4362,4 @@
 - HP - Data & AI Intern - Intelligent Operations (Sant Cugat del Valles, Barcelona, Spain) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data---AI-Intern---Intelligent-Operations_UNI4519-1 · posted 2026-11-17
 - Emerson - Software Engineering Intern (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632 · posted 2026-11-17
 - State Street - State Street Investment Management - Data Scientist - Summer Internship 2027 (Boston, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213 · posted 2026-11-17
+- Bosch - AI Application Intern (8 months/40 hours per week)  (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000162076254 · posted 2026-11-17
