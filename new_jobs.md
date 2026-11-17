@@ -4329,3 +4329,13 @@
 - Laborie Medical Technologies - Software Engineer 1 (Portsmouth, NH) https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false · posted 2026-11-17
 - Lockheed Martin - College Student - Systems Engineering Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477785786 · posted 2026-11-16
 - Western Digital - Internship - Software Development (Embedded) (Petaling Jaya, Selangor) https://jobs.smartrecruiters.com/WesternDigital/744000161997959 · posted 2026-11-17
+- Angel Host - AI Product Engineer Intern Co-op (Montreal, QC, Canada) https://angelhost.bamboohr.com/careers/123/ · posted 2026-11-17
+- ECM Tek - Developer Intern - Python Development (Nashville, TN) https://ecmtek.bamboohr.com/careers/51/ · posted 2026-11-17
+- Birdseye Security Solutions - Software Developer Intern (Mississauga, ON, Canada) https://birdseyeaccount.bamboohr.com/careers/286/ · posted 2026-11-17
+- Birdseye Security Solutions - AI Systems Intern (Mississauga, ON, Canada) https://birdseyeaccount.bamboohr.com/careers/287/ · posted 2026-11-17
+- IPConfigure - Software Development for Video Surveillance Software Intern (Norfolk, VA) https://ipconfigure.bamboohr.com/careers/71/ · posted 2026-11-17
+- Birdseye Security Solutions - Computer Vision Intern (Dallas, TX) https://birdseyeaccount.bamboohr.com/careers/290/ · posted 2026-11-17
+- Xradar - Software Engineer Co-op (Burnaby, BC, Canada) https://xradar.bamboohr.com/careers/203/ · posted 2026-11-17
+- SecurityMetrics - Software Engineer Intern (Orem, UT) https://securitymetrics.bamboohr.com/careers/215/ · posted 2026-11-17
+- Context Labs - Data Scientist - Energy (Oil & Gas) (Houston, TX) https://contextlabs.bamboohr.com/careers/187/ · posted 2026-11-17
+- Senstar - Machine Learning Developer (Waterloo, ON, Canada) https://senstar.bamboohr.com/careers/183/ · posted 2026-11-17
