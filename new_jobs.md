@@ -4297,3 +4297,23 @@
 - Nokia - Firmware Engineer (Canada) https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30015 · posted 2026-06-03
 - ManTech - Junior Software Developer (St Inigoes, MD) https://mantech.avature.net/en_US/careers/JobDetail/67115 · posted 2026-11-16
 - Absolics - Production Automation Engineer (Covington, GA) https://job-boards.greenhouse.io/absolicsinc/jobs/4509348009 · posted 2026-11-16
+- CesiumAstro - Software Engineering Intern - Advanced Projects Group (Austin, TX) https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply · posted 2026-08-27
+- Reliable Robotics - Displays Software Engineer Intern (Mountain View, CA) https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true · posted 2026-11-16
+- Toyota Research Institute - Robotics Intern - World Models - Multimodal Sensing (Cambridge, MA) https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply · posted 2026-11-16
+- Toyota Research Institute - Automated Driving Advanced Development Intern - Machine Learning Research (Los Altos, CA) https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476/apply · posted 2026-11-16
+- Zurich Insurance - Data Analytics & AI Intern (Toronto, ON, Canada) https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors · posted 2026-11-16
+- Integration Innovation (i3) - Embedded Systems Reverse Engineer Intern (Washington, DC) https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us · posted 2026-11-16
+- bioMérieux - Machine Learning Co-op (Durham, NC) https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false · posted 2026-11-16
+- GM Financial - Software Engineer Intern (Irving, TX) https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261292 · posted 2026-11-16
+- NeuroSpark - AI Inference & Training Framework Engineer Intern (Santa Clara, CA) https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea · posted 2026-11-16
+- Federal Home Loan Bank of Des Moines - IT Back Office Co-op (Des Moines, IA) https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/IT-Back-Office-Co-Op_REQ00697 · posted 2026-08-31
+- NeuroSpark - AI Hardware Optimization Engineer Intern (Santa Clara, CA) https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3 · posted 2026-11-16
+- Minitab - Software Engineer Intern (State College, PA) https://job-boards.greenhouse.io/minitab/jobs/8200708003 · posted 2026-11-16
+- Forterra - Software Engineer Intern (Winter Park, FL, Durham, NC, East Palo Alto, CA, Clarksburg, MD, Arlington County, Arlington, VA) https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395 · posted 2026-11-16
+- Silna Health - AI Deployment Analyst (NYC) https://jobs.ashbyhq.com/silnahealth.com/61222b3c-70fd-4e80-8903-468d96070833/application?embed=true · posted 2026-11-16
+- Fortinet - Embedded Software Engineer - Early Careers (Sunnyvale, CA) https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969 · posted 2026-11-16
+- Fortinet - Early Careers: Software Engineer (Sunnyvale, CA) https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960 · posted 2026-11-16
+- CrossCountry Consulting - Junior Forward Deployed Software Engineer (Philadelphia, PA) https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply · posted 2026-11-16
+- Symbotic - Software Engineer - Core Systems & Platform Services (Wilmington, MA) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392 · posted 2026-11-16
+- Microsoft - Software Engineer (Remote in USA, United States) https://apply.careers.microsoft.com/careers/job/1970393557074534 · posted 2026-11-16
+- GHD - Graduate Developer (Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Rosemont, IL, Golden, CO) https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481 · posted 2026-11-16
