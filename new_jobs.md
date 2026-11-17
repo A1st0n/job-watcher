@@ -4356,3 +4356,4 @@
 - Gentec - Junior Software Designer (Québec City, QC, Canada) https://gentec.bamboohr.com/careers/31/ · posted 2026-11-17
 - FSP - Graduate Software Developer (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/322/ · posted 2026-11-17
 - FSP - Graduate AI Consultant (Glasgow, UK, Reading, UK) https://fsp.bamboohr.com/careers/329/ · posted 2026-11-17
+- GE Aerospace - Applied AI Engineer Intern (m/f/d) – Spring 2027 (Remote) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1 · posted 2026-11-17
