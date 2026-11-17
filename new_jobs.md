@@ -4327,3 +4327,4 @@
 - Barracuda Networks - Quality Assurance Technician 1 (San Jose, CA, Campbell, CA) https://jobs.jobvite.com/barracuda-networks-inc/job/oa3ZAfww?nl=1&nl=1&fr=false · posted 2026-11-17
 - UBDS Group - Data Engineer (London, UK) https://apply.workable.com/ubds/j/6E026BBF3E/apply · posted 2026-11-17
 - Laborie Medical Technologies - Software Engineer 1 (Portsmouth, NH) https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false · posted 2026-11-17
+- Lockheed Martin - College Student - Systems Engineering Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477785786 · posted 2026-11-16
