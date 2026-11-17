@@ -4317,3 +4317,6 @@
 - Symbotic - Software Engineer - Core Systems & Platform Services (Wilmington, MA) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392 · posted 2026-11-16
 - Microsoft - Software Engineer (Remote in USA, United States) https://apply.careers.microsoft.com/careers/job/1970393557074534 · posted 2026-11-16
 - GHD - Graduate Developer (Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Rosemont, IL, Golden, CO) https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481 · posted 2026-11-16
+- Microsoft - Data Engineering Internship Opportunities (Ireland, Dublin, Dublin) https://apply.careers.microsoft.com/careers/job/1970393557002254 · posted 2026-11-16
+- KLA - Firmware Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1 · posted 2026-11-17
+- KLA - Computer Vision/Machine Learning Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2642826-2 · posted 2026-11-17
