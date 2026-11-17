@@ -4376,3 +4376,4 @@
 - Intel - Automation Developer - Graphics Software Internship (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Automation-Developer---Graphics-Software-Internship_JR0289264 · posted 2026-11-17
 - Texas Instruments - Analog IC Design (AI/ML) Engineering Intern (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319 · posted 2026-11-17
 - Peraton - Entry-Level Software Engineer - Ignite Innovator Program (Blacksburg, VA) https://peraton.jibeapply.com/jobs/173920?icims=1&lang=en-us · posted 2026-11-17
+- Lightmatter - Product & Test Engineering, Intern Summer 2027 (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008 · posted 2026-11-17
