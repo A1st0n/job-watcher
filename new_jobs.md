@@ -4363,3 +4363,12 @@
 - Emerson - Software Engineering Intern (Austin, TX, United States) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632 · posted 2026-11-17
 - State Street - State Street Investment Management - Data Scientist - Summer Internship 2027 (Boston, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Data-Scientist---Summer-Internship-2027_R-801213 · posted 2026-11-17
 - Bosch - AI Application Intern (8 months/40 hours per week)  (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000162076254 · posted 2026-11-17
+- Lockheed Martin - Systems Engineer Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477393665 · posted 2026-11-16
+- Lockheed Martin - Software Engineering Intern (Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477876959 · posted 2026-11-16
+- Lockheed Martin - Systems Engineer (Network & Enterprise Services) Intern (Colorado Springs, CO) https://lockheedmartin.eightfold.ai/careers/job/996477969048 · posted 2026-11-16
+- General Dynamics Mission Systems - Systems Engineer Intern (Pittsfield, MA) https://careers-gdms.icims.com/jobs/80617/job?mobile=true&needsRedirect=false · posted 2026-11-17
+- KLA - Firmware Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154 · posted 2026-11-16
+- Emerson Electric - Software Engineer Intern (Austin, TX) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632 · posted 2026-11-17
+- Robert Bosch Venture Capital - AI Application Intern (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000162076254 · posted 2026-11-17
+- InterImage - Software Engineer Level 0 (Fort Meade, MD) https://apply.workable.com/interimage/j/89601AD3BE/apply · posted 2026-11-17
+- Peraton - Entry-Level Software Engineer - Ignite Innovator Program (Blacksburg, VA) https://careers-peraton.icims.com/jobs/173920/job?mobile=true&needsRedirect=false · posted 2026-11-17
