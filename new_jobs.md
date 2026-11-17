@@ -4372,3 +4372,7 @@
 - Robert Bosch Venture Capital - AI Application Intern (Farmington Hills, MI) https://jobs.smartrecruiters.com/BoschGroup/744000162076254 · posted 2026-11-17
 - InterImage - Software Engineer Level 0 (Fort Meade, MD) https://apply.workable.com/interimage/j/89601AD3BE/apply · posted 2026-11-17
 - Peraton - Entry-Level Software Engineer - Ignite Innovator Program (Blacksburg, VA) https://careers-peraton.icims.com/jobs/173920/job?mobile=true&needsRedirect=false · posted 2026-11-17
+- Oracle - Junior Android Software Engineer (BRNO, Czech Republic) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350645 · posted 2026-11-17
+- Intel - Automation Developer - Graphics Software Internship (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Automation-Developer---Graphics-Software-Internship_JR0289264 · posted 2026-11-17
+- Texas Instruments - Analog IC Design (AI/ML) Engineering Intern (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319 · posted 2026-11-17
+- Peraton - Entry-Level Software Engineer - Ignite Innovator Program (Blacksburg, VA) https://peraton.jibeapply.com/jobs/173920?icims=1&lang=en-us · posted 2026-11-17
