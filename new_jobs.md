@@ -4472,3 +4472,4 @@
 - Torch Technologies - Entry-Level Modeling & Simulation Software Engineer (Huntsville, AL) https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1 · posted 2026-11-17
 - Lockheed Martin - Systems Engineer (Infrastructure Operating Environment) - Intern (Mount Laurel, NJ, Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477907091 · posted 2026-11-17
 - Booz Allen - University, ML Engineer (Washington, DC) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University--ML-Engineer_R0253519 · posted 2026-11-17
+- Accenture - Internship – Data&AI Tech – as of February 2027 () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Internship---Data-AI-Tech---as-of-February-2027_R00356309 · posted 2026-11-18
