@@ -4462,3 +4462,4 @@
 - State Street - Full Stack Development Intern, Full-time Internship (Jan - June 2027) (Quincy, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232 · posted 2026-11-18
 - Procter & Gamble - Data Scientist (Entry-Level) (PANAMA BUSINESS CENTER) https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Scientist--Entry-Level-_R000163080 · posted 2026-11-18
 - Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01372364 · posted 2026-11-18
+- Airbnb - Software Engineering Intern (BS/MS) (San Francisco, California) https://careers.airbnb.com/positions/8360478?gh_jid=8360478 · posted 2026-11-18
