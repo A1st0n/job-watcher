@@ -4492,3 +4492,6 @@
 - GIRO - Software Development and Artificial Intelligence Intern (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321 · posted 2026-09-14
 - GIRO - Junior C++ Developer (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346 · posted 2026-10-19
 - GIRO - Front-End Web Developer (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287 · posted 2026-10-19
+- HPE - AI Automation Engineer Graduate (Spring, Texas, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068-1 · posted 2026-11-17
+- AppLovin - Platform Partnerships Intern (Palo Alto, CA) https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006 · posted 2026-11-18
+- Thermo Fisher - Intern – Firmware Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Firmware-Development_R-01374048 · posted 2026-11-18
