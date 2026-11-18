@@ -4518,3 +4518,7 @@
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161636 · posted 2026-11-18
 - Marvell - Intern, Firmware Engineer (Taipei) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Taipei/Intern--Firmware-Engineer_2604259 · posted 2026-11-18
 - Marvell - Intern, Test Engineering (Hsinchu City) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Intern--Test-Engineering_2603828 · posted 2026-11-18
+- Apple - Software Engineering Intern (Full-Stack & AI Integration) - Shanghai (Shanghai) https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai · posted 2026-11-18
+- State Street - Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027) (2 Locations) https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801277 · posted 2026-11-18
+- State Street - AI Security & Cybersecurity, Technology Intern - Full-time Internship (Jan -June 2027) (3 Locations) https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/AI-Security---Cybersecurity--Technology-Intern---Full-time-Internship--Jan--June-2027-_R-801284 · posted 2026-11-18
+- Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01372359 · posted 2026-11-18
