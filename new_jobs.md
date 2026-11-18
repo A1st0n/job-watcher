@@ -4532,3 +4532,5 @@
 - Leidos - Software Developer (AI Project) Intern (Colorado Springs, CO) https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294 · posted 2026-11-18
 - Global Payments - Software Engineer I (ALPHARETTA, GEORGIA) https://tsys.wd1.myworkdayjobs.com/Tsys/job/ALPHARETTA-GEORGIA/Software-Engineer-I_R0076442 · posted 2026-11-18
 - Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00367112 · posted 2026-11-18
+- KLA - Software Applications Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1 · posted 2026-11-18
+- CACI - Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer (Houston, TX, US) https://caci.wd1.myworkdayjobs.com/External/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_335249 · posted 2026-11-18
