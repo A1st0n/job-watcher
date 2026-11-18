@@ -4527,3 +4527,8 @@
 - Trimble - QA Engineer Intern (US - NH, Portsmouth) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---NH-Portsmouth/QA-Engineer-Intern_R57945 · posted 2026-11-18
 - Roblox - [Summer 2027 Canada] Software Engineer Intern, Engine (Vancouver, British Columbia, Canada) https://careers.roblox.com/jobs/8386080?gh_jid=8386080 · posted 2026-11-18
 - HPE - Internship – Networking Systems Engineer (Rome, Roma, Italy) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Rome-Roma-Italy/Intern_1214495 · posted 2026-11-18
+- RTX - Systems Engineering Intern - Summer 2027 (Onsite) (US-MD-ANNAPOLIS-905 ~ 2551 Riva Rd ~ BLDG 905) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Systems-Engineering-Intern---Summer-2027--Onsite-_01890118 · posted 2026-11-18
+- RTX - Software Engineering Intern (Summer 2027) (US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01889954 · posted 2026-11-18
+- Leidos - Software Developer (AI Project) Intern (Colorado Springs, CO) https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294 · posted 2026-11-18
+- Global Payments - Software Engineer I (ALPHARETTA, GEORGIA) https://tsys.wd1.myworkdayjobs.com/Tsys/job/ALPHARETTA-GEORGIA/Software-Engineer-I_R0076442 · posted 2026-11-18
+- Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00367112 · posted 2026-11-18
