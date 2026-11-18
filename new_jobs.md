@@ -4470,3 +4470,5 @@
 - Airbnb - Software Engineer Intern (SF) https://careers.airbnb.com/positions/8360478?gh_jid=8360478 · posted 2026-11-18
 - Arcadion - Junior AI Developer (Ottawa, ON, Canada) https://arcadion.bamboohr.com/careers/52/ · posted 2026-11-18
 - Torch Technologies - Entry-Level Modeling & Simulation Software Engineer (Huntsville, AL) https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1 · posted 2026-11-17
+- Lockheed Martin - Systems Engineer (Infrastructure Operating Environment) - Intern (Mount Laurel, NJ, Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477907091 · posted 2026-11-17
+- Booz Allen - University, ML Engineer (Washington, DC) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University--ML-Engineer_R0253519 · posted 2026-11-17
