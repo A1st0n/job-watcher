@@ -4485,3 +4485,4 @@
 - Thermo Fisher - Intern Software Scientist - Theoretical Spectroscopy (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Intern-Software-Scientist---Theoretical-Spectroscopy_R-01374093-1 · posted 2026-11-18
 - Ocado Group - Hardware Engineering Graduate - Robotics & Automation (Hatfield, UK) https://careers.ocadogroup.com/jobs/details?gh_jid=5036245101&gh_jid=5036245101 · posted 2026-11-18
 - Microsoft - Research Intern - Firmware Security (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075140 · posted 2026-11-17
+- Bosch - Internship in Software Engineering (Tranås, Jönköpings län) https://jobs.smartrecruiters.com/BoschGroup/744000162282030 · posted 2026-11-18
