@@ -4513,3 +4513,5 @@
 - GIRO - Software Developer Intern - Algorithms and Operations Research (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314 · posted 2026-08-31
 - Western Digital - Spring 2027 Intern - Software Engineering (Irvine, CA) https://jobs.smartrecruiters.com/WesternDigital/744000162353069 · posted 2026-11-18
 - Anduril - 2027 Business Systems Engineer Intern (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007 · posted 2026-11-18
+- Marvell - Software Engineer Intern (Taipei) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Taipei/Software-Engineer-Intern_2604450 · posted 2026-11-18
+- State Street - Data Engineering & Product, Technology Intern - Full-time Internship (Jan - June 2027) (Boston, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274 · posted 2026-11-18
