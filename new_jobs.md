@@ -4495,3 +4495,6 @@
 - HPE - AI Automation Engineer Graduate (Spring, Texas, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068-1 · posted 2026-11-17
 - AppLovin - Platform Partnerships Intern (Palo Alto, CA) https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006 · posted 2026-11-18
 - Thermo Fisher - Intern – Firmware Development (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Firmware-Development_R-01374048 · posted 2026-11-18
+- Amazon - Professional Services Cloud Consultant Intern (Amsterdam, North Holland, NLD) https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern · posted 2026-11-18
+- RTX - Software Engineer I (Onsite) (US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887810 · posted 2026-11-18
+- Berkshire Hathaway Energy - Software Engineer - Bhepg (Omaha, NE) https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023 · posted 2026-11-18
