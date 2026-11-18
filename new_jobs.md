@@ -4448,3 +4448,5 @@
 - Wyetech - Cloud Software Engineer 1 (Laurel, MD) https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1 · posted 2026-11-17
 - Twitch - Software Engineer I, Commerce (Seattle, WA) https://job-boards.greenhouse.io/twitch/jobs/8949388002 · posted 2026-11-17
 - Amazon - Software Development Engineer, ROBOTICS -  2027 (Austin, Texas, USA) https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027 · posted 2026-11-18
+- Sallie Mae - Software Engineer Intern (Indianapolis, IN) https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633 · posted 2026-11-17
+- Texas Instruments - Analog IC Design Engineer Intern - AI/ML (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319 · posted 2026-11-17
