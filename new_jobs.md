@@ -4420,3 +4420,29 @@
 - TMS International - Manufacturing Systems Software Engineer (Hammond, IN) https://tmsinternationalrawmaterialsandoptmization.applytojob.com/apply/a0i667jprM/Software-Engineer · posted 2026-11-17
 - Parkland Health - Information Technology Application Systems Associate - Pharmacy (United States) https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/8435-Stemmons-Bldg/Information-Technology-Application-Systems-Associate----Pharmacy_990604-1 · posted 2026-11-17
 - Virtu Financial - Hardware Platform Engineer (Austin, TX) https://job-boards.greenhouse.io/virtu/jobs/8469926002 · posted 2026-11-17
+- Texas Instruments - Systems Engineering Intern - Power (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016343 · posted 2026-11-17
+- Marvell - AI Infrastructure Engineer Intern, MS - Summer 2027 (Santa Clara, CA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1 · posted 2026-11-18
+- Garmin - Software Engineer Intern - Real Time Aviation Data (Chanhassen, MN) https://careers.garmin.com/jobs/20081?icims=1 · posted 2026-09-09
+- Toyota Research Institute - Robotics Intern - Agentic Robotics (Cambridge, MA) https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply · posted 2026-11-17
+- Warp Sciences - Robot Learning Intern - Robotics Learning (South SF) https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true · posted 2026-11-17
+- Havas - Junior Google Analytics Platformer Intern (London, UK) https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Google--Analytics--Enablement-Platformer_JR0101727 · posted 2026-11-17
+- Paccar - Data Scientist Intern (Denton, TX) https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors · posted 2026-11-17
+- SRI International - Software Engineering Co-op (Princeton, NJ) https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false · posted 2026-11-17
+- GEI Consultants - Web Developer Intern (Rancho Cordova, CA) https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false · posted 2026-11-17
+- Constellation Energy - IT Software Developer Intern (San Diego, CA) https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us · posted 2026-11-17
+- Bissell - AI & Automation Intern (Grand Rapids, MI) https://careers.bissell.com/jobs/9995?icims=1&lang=en-us · posted 2026-11-17
+- Qualcomm - AI/Machine Learning Intern - Interim Engineering Intern - SW (Markham, ON, Canada) https://qualcomm.eightfold.ai/careers/job/446722176432 · posted 2026-11-17
+- Minitab - Software Engineer (State College, PA) https://job-boards.greenhouse.io/minitab/jobs/8203700003 · posted 2026-11-17
+- Utilidata - Embedded Firmware Engineer (Remote in USA) https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer · posted 2026-11-17
+- Fortinet - Early Careers Software Developer (Sunnyvale, CA) https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983 · posted 2026-11-17
+- Sony Pictures Imageworks - Associate Software Engineer (Vancouver, BC, Canada) https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207482003 · posted 2026-11-17
+- Sony Pictures Imageworks - Associate Software Developer - Infrastructure (Montreal, QC, Canada) https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/8207497003 · posted 2026-11-17
+- Amazon - Robotics – Hardware Development Engineer (North Reading, MA, Westborough, MA) https://amazon.jobs/en/jobs/10607546/robotics-hardware-development-engineer · posted 2026-11-17
+- Qualcomm - Machine Learning Compiler Engineer - Machine Learning Engineering (Austin, TX, Raleigh, NC, NYC, San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722177119 · posted 2026-11-17
+- Atoms - AI Researcher New Grad (SF, Mountain View, CA) https://job-boards.greenhouse.io/atoms/jobs/8948841002 · posted 2026-11-17
+- Redwire - Associate Avionics/Embedded Engineer (San Luis Obispo, CA) https://jobs.jobvite.com/edgeautonomy-careers/job/oeX0Afwv?nl=1&nl=1&fr=false · posted 2026-11-17
+- Abacus Insights - Associate Data QA Engineer (Remote in USA) https://boards.greenhouse.io/abacusinsights/jobs/8917384002 · posted 2026-10-26
+- Mirantis - Software Engineer New Grad - Backend - Go (Raleigh, NC) https://jobs.smartrecruiters.com/Mirantis/744000162186029 · posted 2026-11-17
+- Oracle - Software Engineer New Grad Intern (Nashville, TN) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821 · posted 2026-11-17
+- Wyetech - Software Engineer 0 (Annapolis Junction, MD) https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer · posted 2026-11-17
+- Wyetech - Cloud Software Engineer 1 (Laurel, MD) https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1 · posted 2026-11-17
