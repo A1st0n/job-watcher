@@ -4488,3 +4488,7 @@
 - Bosch - Internship in Software Engineering (Tranås, Jönköpings län) https://jobs.smartrecruiters.com/BoschGroup/744000162282030 · posted 2026-11-18
 - Global Payments - Associate Software Engineer (PUNE, , INDIA) https://tsys.wd1.myworkdayjobs.com/Tsys/job/PUNE--INDIA/Associate-Software-Engineer_R0077227 · posted 2026-11-18
 - Thermo Fisher - Intern – Software Developer (C#/C++) (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Developer--C--C---_R-01374078 · posted 2026-11-18
+- Sierra Nevada Corporation - Software Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418 · posted 2026-11-18
+- GIRO - Software Development and Artificial Intelligence Intern (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321 · posted 2026-09-14
+- GIRO - Junior C++ Developer (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346 · posted 2026-10-19
+- GIRO - Front-End Web Developer (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287 · posted 2026-10-19
