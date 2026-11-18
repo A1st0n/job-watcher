@@ -4463,3 +4463,6 @@
 - Procter & Gamble - Data Scientist (Entry-Level) (PANAMA BUSINESS CENTER) https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Scientist--Entry-Level-_R000163080 · posted 2026-11-18
 - Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01372364 · posted 2026-11-18
 - Airbnb - Software Engineering Intern (BS/MS) (San Francisco, California) https://careers.airbnb.com/positions/8360478?gh_jid=8360478 · posted 2026-11-18
+- Honeywell - IT Engineer - Fresh Graduate - UAE Nationals Only (Dubai, United Arab Emirates) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161674 · posted 2026-11-16
+- Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01372361 · posted 2026-11-18
+- SSI - Software Developer Co-op (Victoria, BC, Canada) https://ssicorporate.bamboohr.com/careers/101/ · posted 2026-11-18
