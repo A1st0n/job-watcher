@@ -4534,3 +4534,5 @@
 - Accenture - Software Engineer Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00367112 · posted 2026-11-18
 - KLA - Software Applications Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1 · posted 2026-11-18
 - CACI - Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer (Houston, TX, US) https://caci.wd1.myworkdayjobs.com/External/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_335249 · posted 2026-11-18
+- RTX - Systems Engineering Intern (Summer 2027) - Onsite (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961 · posted 2026-11-18
+- Rockwell Automation - Intern Developer (Medellin, Antioquia, Colombia) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/Intern-Developer_R26-8114 · posted 2026-11-18
