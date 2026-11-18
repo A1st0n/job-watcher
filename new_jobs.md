@@ -4511,3 +4511,5 @@
 - Analog Devices - Embedded Software Engineer Intern (US, TX, Austin, Plaza on the Lake) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548 · posted 2026-11-18
 - State Street - AI Engineering Intern - Full-time Internship (Jan - June 2027) (Cambridge, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273 · posted 2026-11-18
 - GIRO - Software Developer Intern - Algorithms and Operations Research (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314 · posted 2026-08-31
+- Western Digital - Spring 2027 Intern - Software Engineering (Irvine, CA) https://jobs.smartrecruiters.com/WesternDigital/744000162353069 · posted 2026-11-18
+- Anduril - 2027 Business Systems Engineer Intern (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007 · posted 2026-11-18
