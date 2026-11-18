@@ -4450,3 +4450,9 @@
 - Amazon - Software Development Engineer, ROBOTICS -  2027 (Austin, Texas, USA) https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027 · posted 2026-11-18
 - Sallie Mae - Software Engineer Intern (Indianapolis, IN) https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633 · posted 2026-11-17
 - Texas Instruments - Analog IC Design Engineer Intern - AI/ML (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319 · posted 2026-11-17
+- Bosch - [BDO] IT Operations & Communications Intern (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000162214189 · posted 2026-11-18
+- Parsons - Software Intern (Summer 2027) () https://parsons.wd5.myworkdayjobs.com/Search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388
+- Invitation Homes - Software Engineer Intern (Dallas, TX) https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984 · posted 2026-11-17
+- Microsoft - Research Intern - Firmware Security (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557075140 · posted 2026-11-18
+- Firefly Aerospace - Software Engineering Intern (Leander, TX) https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188 · posted 2026-10-20
+- Amazon - Software Development Engineer - Robotics (Austin, TX, North Reading, MA, Westborough, MA) https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027 · posted 2026-11-18
