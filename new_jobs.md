@@ -4447,3 +4447,4 @@
 - Wyetech - Software Engineer 0 (Annapolis Junction, MD) https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer · posted 2026-11-17
 - Wyetech - Cloud Software Engineer 1 (Laurel, MD) https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1 · posted 2026-11-17
 - Twitch - Software Engineer I, Commerce (Seattle, WA) https://job-boards.greenhouse.io/twitch/jobs/8949388002 · posted 2026-11-17
+- Amazon - Software Development Engineer, ROBOTICS -  2027 (Austin, Texas, USA) https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027 · posted 2026-11-18
