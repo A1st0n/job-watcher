@@ -4478,3 +4478,7 @@
 - Bosch - [Internship] AI & Automatization Intern (Thu Duc City) https://jobs.smartrecruiters.com/BoschGroup/744000162263579 · posted 2026-11-18
 - TikTok - Data Scientist Graduate - TikTok Product (San Jose, CA) https://lifeattiktok.com/search/7669654422861383941 · posted 2026-08-04
 - EQL Tech - Founding Full Stack Engineer - Fintech & Edtech (SF) https://apply.workable.com/eqltech/j/E001CE3E7F/apply · posted 2026-10-29
+- HPE - Business Cloud Intern (Winnersh, Berkshire, United Kingdom) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Interns_1216748 · posted 2026-11-18
+- Faculte - Data Science Fellow (London, UK) https://jobs.ashbyhq.com/faculty-fellowship/bedcedbc-334a-4e61-a864-cc3fc1ab544d/application?embed=true · posted 2026-10-14
+- RWS - AI Voice Recording Contributor - Scottish (Scotland, UK) https://jobs.lever.co/rws/e8ba867c-9479-41f2-a5a1-088a9f7daacb/apply · posted 2026-10-21
+- Clean Harbors - Associate Data & Analytics Developer (Norwell, MA) https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165185 · posted 2026-09-10
