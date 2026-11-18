@@ -4537,3 +4537,9 @@
 - RTX - Systems Engineering Intern (Summer 2027) - Onsite (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961 · posted 2026-11-18
 - Rockwell Automation - Intern Developer (Medellin, Antioquia, Colombia) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/Intern-Developer_R26-8114 · posted 2026-11-18
 - CME Group - Cyber Defense Response Intern - Summer 2027 (2 Locations) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cyber-Defense-Response-Intern---Summer-2026_35062-1 · posted 2026-11-18
+- Intel - Signal integrity AI enabling intern (US, Arizona, Phoenix) https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302 · posted 2026-11-18
+- Rockwell Automation - Intern Developer (Medellin, Antioquia, Colombia) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Medellin-Antioquia-Colombia/Intern-Developer_R26-8227 · posted 2026-11-18
+- Kira Learning - Software Engineer Intern (SF) https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true · posted 2026-11-18
+- Truveta - Software Engineer Intern (Seattle, WA) https://job-boards.greenhouse.io/truveta/jobs/6249810004 · posted 2026-11-18
+- Kira Learning - Software Engineer Entry Level (SF, NYC) https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?embed=true · posted 2026-11-18
+- Keysight Technologies - AI Productivity Specialist - Corporate Communications (Santa Rosa, CA, Remote in USA) https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us · posted 2026-11-18
