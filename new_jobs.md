@@ -4526,3 +4526,4 @@
 - Analog Devices - Information Technology Intern (2 Locations) https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R269552 · posted 2026-11-18
 - Trimble - QA Engineer Intern (US - NH, Portsmouth) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---NH-Portsmouth/QA-Engineer-Intern_R57945 · posted 2026-11-18
 - Roblox - [Summer 2027 Canada] Software Engineer Intern, Engine (Vancouver, British Columbia, Canada) https://careers.roblox.com/jobs/8386080?gh_jid=8386080 · posted 2026-11-18
+- HPE - Internship – Networking Systems Engineer (Rome, Roma, Italy) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Rome-Roma-Italy/Intern_1214495 · posted 2026-11-18
