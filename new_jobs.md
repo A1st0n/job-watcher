@@ -4565,3 +4565,9 @@
 - Boston Scientific - Health AI Engineer 1 - Data Science & Business Intelligence (Marlborough, MA) https://bostonscientific.eightfold.ai/careers/job/563602813942507 · posted 2026-11-18
 - CWILL - AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin (Cary, NC) https://apply.workable.com/cwill-us/j/1BC6285A3C/apply · posted 2026-11-18
 - Garmin - Test Software Engineer 1 - Aviation (Olathe, KS) https://careers.garmin.com/jobs/20379?icims=1&lang=en-us · posted 2026-11-18
+- Lockheed Martin - IT Project Engineer- Intern (Cape Canaveral, FL) https://lockheedmartin.eightfold.ai/careers/job/996477972606 · posted 2026-11-18
+- Lockheed Martin - Systems Engineer Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996477474645 · posted 2026-11-18
+- Lockheed Martin - Software Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996477886327 · posted 2026-11-18
+- Lockheed Martin - Systems Engineer (Modeling &Simulation) - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996477968181 · posted 2026-11-18
+- Mytra - Software Engineer Intern (Brisbane, CA) https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292 · posted 2026-11-18
+- Workstream - Full Stack Engineer Intern (Vancouver, BC, Canada) https://job-boards.greenhouse.io/workstream/jobs/6265872004 · posted 2026-11-19
