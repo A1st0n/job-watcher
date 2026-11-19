@@ -4598,3 +4598,5 @@
 - Micron - Intern - Firmware and Product Test Engineer (MSB, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117288 · posted 2026-11-19
 - Rockwell Automation - Firmware Security Engineer – Fresh Graduate (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Firmware-Security-Engineer---Fresh-Graduate_R26-9120-1 · posted 2026-11-19
 - Cadence - Intern Software Engineer, Summer 2027, Three Month Duration     (EDINBURGH 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170 · posted 2026-11-19
+- Microsoft - Research Intern - Computer Vision and Deep Learning (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075490 · posted 2026-11-18
+- Little Caesars Enterprises - Portfolio IT Intern (Detroit, MI) https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716 · posted 2026-11-12
