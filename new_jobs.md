@@ -4589,3 +4589,5 @@
 - Medpace - Shiny App Developer (Irving, TX) https://careers.medpace.com/jobs/12908?icims=1&lang=en-us · posted 2026-08-05
 - Apple - Graduate Systems Software Engineer – File Provider Sync (CoreOS) (Paris) https://jobs.apple.com/en-us/details/200695891/graduate-systems-software-engineer-file-provider-sync-coreos · posted 2026-11-19
 - Super Micro Computer - Software Engineer (San Jose, CA) https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors · posted 2026-09-15
+- Microsoft - Research Intern - AI Software Systems (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075527 · posted 2026-11-18
+- REI Systems - Junior Associate Software Engineer - Java Full Stack (Sterling, VA) https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false · posted 2026-11-05
