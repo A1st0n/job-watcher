@@ -4616,3 +4616,5 @@
 - Bread Financial - Software Engineer Intern (Frisco, TX, Chadds Ford Township, PA, Columbus, OH, Draper, UT, Wilmington, DE) https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421 · posted 2026-11-16
 - Intelliforce-IT Solutions Group - Junior Software Engineer - Prime (Annapolis Junction, MD) https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime · posted 2026-11-19
 - Journal Technologies - Junior Data Integration Developer (LA, Victoria, BC, Canada, Remote in USA, Logan, UT) https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d · posted 2026-11-19
+- Salesforce - Data Science & Analytics Intern, Alliances & Channels - February 2027 (France - Paris) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1 · posted 2026-11-19
+- Motorola Solutions - Software Development 2026 Co-Op (ONT39) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2026-Co-Op_R70838 · posted 2026-11-19
