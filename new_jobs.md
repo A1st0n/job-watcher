@@ -4543,3 +4543,25 @@
 - Truveta - Software Engineer Intern (Seattle, WA) https://job-boards.greenhouse.io/truveta/jobs/6249810004 · posted 2026-11-18
 - Kira Learning - Software Engineer Entry Level (SF, NYC) https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?embed=true · posted 2026-11-18
 - Keysight Technologies - AI Productivity Specialist - Corporate Communications (Santa Rosa, CA, Remote in USA) https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us · posted 2026-11-18
+- Northrop Grumman - 2027 Propulsion Test Engineer Intern - Edwards AFB CA (United States-California-Edwards AFB) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436 · posted 2026-11-18
+- Cirrus Logic - Software Engineer AI/ML Intern (Austin, TX) https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply · posted 2026-11-18
+- Anduril - Business Systems Engineer Intern (Costa Mesa, CA) https://boards.greenhouse.io/andurilindustries/jobs/5300647007 · posted 2026-11-18
+- HERE Technologies - Data Science Intern (Chicago, IL) https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false · posted 2026-11-18
+- Syngenta Group - Data Science Intern (Greensboro, NC) https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708 · posted 2026-11-18
+- HERE Technologies - Software Engineer Intern (Chicago, IL) https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false · posted 2026-11-18
+- Samsung - Architecture Research Engineer Intern - Agentic AI Workload Characterization (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003 · posted 2026-11-18
+- Western Digital - Software Engineering Intern (Irvine, CA) https://jobs.smartrecruiters.com/WesternDigital/744000162353069 · posted 2026-11-18
+- Samsung - SSD Firmware Engineer Intern (San Jose, CA) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003 · posted 2026-11-18
+- Microsoft - Research Intern - AI Software Systems (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557075527 · posted 2026-11-18
+- Microsoft - Research Intern - Computer Vision and Deep Learning (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557075490 · posted 2026-11-18
+- Microsoft - Research Intern - Self-Improving & Secure AI Agents (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557075136 · posted 2026-11-18
+- Roblox - Software Engineer Intern - Engine (Vancouver, BC, Canada) https://careers.roblox.com/jobs/8386080?gh_jid=8386080 · posted 2026-11-18
+- Tax Relief Advocates - Junior Machine Learning Engineer (Irvine, CA) https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008 · posted 2026-07-27
+- Wyetech - Software Engineer 0 – Full Stack Development (Annapolis Junction, MD) https://wyetech.applytojob.com/apply/orUQyoZnAb/SWE0Software-Engineer · posted 2026-11-18
+- Zoox - Contract Student Worker - Software Engineer - 40hrs/wk (Foster City, CA) https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29/apply · posted 2026-11-18
+- Zoox - Data Scientist (Foster City, CA) https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply · posted 2026-11-18
+- Digital.ai - Associate Software Engineer (Lafayette, IN) https://digitalai.bamboohr.com/careers/75/ · posted 2026-11-18
+- AMERICAN SYSTEMS - Java Developer 1 (Lakewood, CO) https://careers-americansystems.icims.com/jobs/5620/job?mobile=true&needsRedirect=false · posted 2026-11-18
+- Boston Scientific - Health AI Engineer 1 - Data Science & Business Intelligence (Marlborough, MA) https://bostonscientific.eightfold.ai/careers/job/563602813942507 · posted 2026-11-18
+- CWILL - AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin (Cary, NC) https://apply.workable.com/cwill-us/j/1BC6285A3C/apply · posted 2026-11-18
+- Garmin - Test Software Engineer 1 - Aviation (Olathe, KS) https://careers.garmin.com/jobs/20379?icims=1&lang=en-us · posted 2026-11-18
