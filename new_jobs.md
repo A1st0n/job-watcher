@@ -4595,3 +4595,5 @@
 - ERPA - Software Developer (Franklin County, OH) https://jobs.smartrecruiters.com/ERPAnalysts1/743999677352777 · posted 2026-08-12
 - Micron - Intern, Facilities AI Engineering (Fab 10N/X, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170 · posted 2026-11-19
 - KLA - Software Application Engineer Intern (2 Locations) https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Application-Engineer-Intern_2643260-1 · posted 2026-11-19
+- Micron - Intern - Firmware and Product Test Engineer (MSB, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117288 · posted 2026-11-19
+- Rockwell Automation - Firmware Security Engineer – Fresh Graduate (Singapore, Singapore) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Firmware-Security-Engineer---Fresh-Graduate_R26-9120-1 · posted 2026-11-19
