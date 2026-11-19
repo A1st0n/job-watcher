@@ -4607,3 +4607,9 @@
 - Lockheed Martin - Systems Engineering- Post Grad Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996478014823 · posted 2026-11-19
 - RTX - Software Security Intern (Summer 2027) (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095 · posted 2026-11-19
 - Motorola Solutions - Graduate Software Engineer (July 2027 Intake) (Glasgow, UK (ZUK118)) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R70939 · posted 2026-11-19
+- RTX - Software Engineering Intern (Summer 2027) (US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01890571 · posted 2026-11-19
+- Space Dynamics Laboratory - Software Engineering Assistant Intern (Logan, UT) https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant · posted 2026-11-19
+- Scout Space - Computer Vision Engineer Intern - AI/ML (Reston, VA) https://job-boards.greenhouse.io/scoutspace/jobs/5489231008 · posted 2026-11-19
+- Microsoft - Research Intern - Machine Learning for Biology and Healthcare (Cambridge, UK) https://apply.careers.microsoft.com/careers/job/1970393557075448 · posted 2026-11-19
+- Formlabs - Embedded Software Engineer (Boston, MA) https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093 · posted 2026-11-19
+- Huntington Ingalls Industries - Software Engineer 1 (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors · posted 2026-11-19
