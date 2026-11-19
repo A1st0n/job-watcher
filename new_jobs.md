@@ -4577,3 +4577,7 @@
 - Lockheed Martin - Software Engineering Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477990205 · posted 2026-11-18
 - Microsoft - Research Intern - Self-Improving & Secure AI Agents - Microsoft Research (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075136 · posted 2026-11-18
 - Texas Instruments - Junior Test Engineer (Wilayah Persekutuan Kuala Lumpur, Malaysia) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020316 · posted 2026-11-19
+- Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01369754 · posted 2026-11-19
+- Bose - Data Science Co-op - NLP & GenAI (Framingham, MA, Atlanta, GA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251 · posted 2026-10-02
+- Bose - Software Engineer Co-op (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387 · posted 2026-11-18
+- Carnegie Mellon University - AI Engineer Intern - Mission Innovation Lab (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1 · posted 2026-11-16
