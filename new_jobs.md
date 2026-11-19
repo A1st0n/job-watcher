@@ -4574,3 +4574,4 @@
 - Salesforce - Summer 2027 Intern - AI Research (Singapore - Singapore) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/XMLNAME-2025-PhD-Intern---AI-Research--Singapore_JR267880-2 · posted 2026-11-19
 - Toyota Research Institute - Robotics Intern - Generalist Robot Learning (Los Altos, CA) https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply · posted 2026-11-19
 - Qualcomm - Embedded Audio Software Engineer - Software Engineering (San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722197774 · posted 2026-11-19
+- Lockheed Martin - Software Engineering Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477990205 · posted 2026-11-18
