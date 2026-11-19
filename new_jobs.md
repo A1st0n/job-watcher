@@ -4632,3 +4632,4 @@
 - Leidos - AI/ML Intern (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168 · posted 2026-11-19
 - Leidos - Junior Test Automation Engineer (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Test-Automation-Engineer_R-00190889-1 · posted 2026-11-19
 - FIS - Mainframe Software Engineer I, COBOL (4 Locations) https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I--COBOL_JR0309079 · posted 2026-11-19
+- TransUnion - Data Science & Analytics Internship - Summer 2027 (Chicago, Illinois) https://transunion.wd5.myworkdayjobs.com/Transunion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450 · posted 2026-11-19
