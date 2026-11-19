@@ -4593,3 +4593,5 @@
 - REI Systems - Junior Associate Software Engineer - Java Full Stack (Sterling, VA) https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false · posted 2026-11-05
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161637 · posted 2026-11-19
 - ERPA - Software Developer (Franklin County, OH) https://jobs.smartrecruiters.com/ERPAnalysts1/743999677352777 · posted 2026-08-12
+- Micron - Intern, Facilities AI Engineering (Fab 10N/X, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170 · posted 2026-11-19
+- KLA - Software Application Engineer Intern (2 Locations) https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Application-Engineer-Intern_2643260-1 · posted 2026-11-19
