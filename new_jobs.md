@@ -4646,3 +4646,8 @@
 - Snowflake - Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897 · posted 2026-11-19
 - Lockheed Martin - Systems Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996478036462 · posted 2026-11-19
 - Lockheed Martin - Software Engineer - Intern (Stratford, CT) https://lockheedmartin.eightfold.ai/careers/job/996477971284 · posted 2026-11-19
+- T-Mobile - Summer 2027 AI Engineering Internship - Site Reliability & Automation (Atlanta, Georgia) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239 · posted 2026-11-19
+- T-Mobile - Summer 2027 Software Engineering Intern (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381362 · posted 2026-11-19
+- T-Mobile - Summer 2027 Software Engineering Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ381366 · posted 2026-11-19
+- T-Mobile - Summer 2027 Software Engineering AI Internship (Atlanta, Georgia) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067 · posted 2026-11-19
+- Lucid - Intern, Software Engineer, SDET, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007 · posted 2026-11-19
