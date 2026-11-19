@@ -4618,3 +4618,7 @@
 - Journal Technologies - Junior Data Integration Developer (LA, Victoria, BC, Canada, Remote in USA, Logan, UT) https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d · posted 2026-11-19
 - Salesforce - Data Science & Analytics Intern, Alliances & Channels - February 2027 (France - Paris) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1 · posted 2026-11-19
 - Motorola Solutions - Software Development 2026 Co-Op (ONT39) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2026-Co-Op_R70838 · posted 2026-11-19
+- RTX - Life Cycle Systems Engineer Intern (Onsite) (US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-Intern--Onsite-_01890521 · posted 2026-11-19
+- Lightmatter - IT and Security Intern – Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008 · posted 2026-11-11
+- Thermo Fisher - Intern - Software Engineering (C#, .NET) (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Engineering--C---NET-_R-01373993 · posted 2026-11-19
+- Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01372316 · posted 2026-11-19
