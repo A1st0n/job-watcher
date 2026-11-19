@@ -4576,3 +4576,4 @@
 - Qualcomm - Embedded Audio Software Engineer - Software Engineering (San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722197774 · posted 2026-11-19
 - Lockheed Martin - Software Engineering Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477990205 · posted 2026-11-18
 - Microsoft - Research Intern - Self-Improving & Secure AI Agents - Microsoft Research (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075136 · posted 2026-11-18
+- Texas Instruments - Junior Test Engineer (Wilayah Persekutuan Kuala Lumpur, Malaysia) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020316 · posted 2026-11-19
