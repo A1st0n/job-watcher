@@ -4644,3 +4644,5 @@
 - Snowflake - Software Engineer Intern (AI / ML) - Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907 · posted 2026-11-19
 - Snowflake - Software Engineer Intern (Database Engineering) - Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d · posted 2026-11-19
 - Snowflake - Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897 · posted 2026-11-19
+- Lockheed Martin - Systems Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996478036462 · posted 2026-11-19
+- Lockheed Martin - Software Engineer - Intern (Stratford, CT) https://lockheedmartin.eightfold.ai/careers/job/996477971284 · posted 2026-11-19
