@@ -4571,3 +4571,6 @@
 - Lockheed Martin - Systems Engineer (Modeling &Simulation) - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996477968181 · posted 2026-11-18
 - Mytra - Software Engineer Intern (Brisbane, CA) https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292 · posted 2026-11-18
 - Workstream - Full Stack Engineer Intern (Vancouver, BC, Canada) https://job-boards.greenhouse.io/workstream/jobs/6265872004 · posted 2026-11-19
+- Salesforce - Summer 2027 Intern - AI Research (Singapore - Singapore) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/XMLNAME-2025-PhD-Intern---AI-Research--Singapore_JR267880-2 · posted 2026-11-19
+- Toyota Research Institute - Robotics Intern - Generalist Robot Learning (Los Altos, CA) https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply · posted 2026-11-19
+- Qualcomm - Embedded Audio Software Engineer - Software Engineering (San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722197774 · posted 2026-11-19
