@@ -4651,3 +4651,25 @@
 - T-Mobile - Summer 2027 Software Engineering Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ381366 · posted 2026-11-19
 - T-Mobile - Summer 2027 Software Engineering AI Internship (Atlanta, Georgia) https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067 · posted 2026-11-19
 - Lucid - Intern, Software Engineer, SDET, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007 · posted 2026-11-19
+- Texas Instruments - Systems Engineering Intern - MEMS (Santa Clara, CA, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016340 · posted 2026-11-19
+- Lucid - Intern, AI & Data (Applied AI/Machine Learning), Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007 · posted 2026-11-19
+- Lucid - Intern, Embedded Software, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007 · posted 2026-11-19
+- Lucid - Intern, Motor Control Software Development and Validation Engineer, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007 · posted 2026-11-19
+- Lucid - Intern, Software QA Engineer, Infotainment, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007 · posted 2026-11-19
+- Boston Scientific - R&D Firmware Engineer Intern (Arden Hills, MN) https://bostonscientific.eightfold.ai/careers/job/563602813547669 · posted 2026-09-29
+- Lucid Motors - Embedded Software Intern (Newark, CA) https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007 · posted 2026-11-19
+- HERE Technologies - Applied AI Research Intern (Chicago, IL) https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false · posted 2026-11-19
+- Waymo - Agentic AI Intern (Mountain View, CA) https://careers.withwaymo.com/jobs?gh_jid=8401116 · posted 2026-11-19
+- Horizon Trading Solutions - Java Developer Intern (Montreal, QC, Canada) https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101 · posted 2026-11-19
+- Veolia - Manufacturing Software Engineer Intern (Boulder, CO) https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839 · posted 2026-11-19
+- Ralliant - Software Engineer Intern (Beaverton, OR) https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153 · posted 2026-11-19
+- Texas Instruments - Synthetic Data for Edge AI System Engineer Intern (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339 · posted 2026-11-19
+- Texas Instruments - Systems Engineer Intern - Gan (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388 · posted 2026-11-19
+- Docusign - Product Data Science Intern (SF) https://careers.docusign.com/jobs/31092?icims=1&lang=en-us · posted 2026-11-19
+- Texas Instruments - Systems Engineer Intern - Robotics and AI (Dallas, TX) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336 · posted 2026-11-19
+- Georgian Partners Growth - Physical AI and Robotics Intern (Toronto, ON, Canada) https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true · posted 2026-11-19
+- United Launch Alliance - Ground Software Avionics & Infrastructure Engineer 1 (Centennial, CO) https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors · posted 2026-11-19
+- Koch Industries - Software Engineer - AI Agents (Fremont, CA) https://koch.avature.net/en_US/careers/JobDetail/197657 · posted 2026-11-19
+- HR Wallingford - Graduate Software Developer (Wallingford, UK) https://job-boards.eu.greenhouse.io/hrwallingford/jobs/5042719101 · posted 2026-11-19
+- ViaSat - Associate Software Engineer – Early Career (Carlsbad, CA) https://careers.viasat.com/jobs/7077?icims=1&lang=en-us · posted 2026-11-19
+- Mindspan Institute - Scientist – Optical Systems Engineer (Cambridge, MA) https://ats.rippling.com/mindspan-institute/jobs/a3542805-9ee3-481b-a194-7149b3f7fa95 · posted 2026-11-19
