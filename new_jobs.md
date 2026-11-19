@@ -4605,3 +4605,5 @@
 - MongoDB - 2027 - AI and People Transformation Intern, NYC (New York City) https://www.mongodb.com/careers/job/?gh_jid=8346138 · posted 2026-11-19
 - Peraton - Junior Tool Support Software Engineer () https://careers-peraton.icims.com/jobs/174948/junior-tool-support-software-engineer/job
 - Lockheed Martin - Systems Engineering- Post Grad Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996478014823 · posted 2026-11-19
+- RTX - Software Security Intern (Summer 2027) (US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095 · posted 2026-11-19
+- Motorola Solutions - Graduate Software Engineer (July 2027 Intake) (Glasgow, UK (ZUK118)) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R70939 · posted 2026-11-19
