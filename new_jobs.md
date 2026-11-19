@@ -4626,3 +4626,5 @@
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161638 · posted 2026-11-19
 - Lightmatter - Systems Engineering, Intern Summer 2027 (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008 · posted 2026-11-11
 - CACI - AWS Cloud Engineering Intern - Summer 2027 (Sarasota, FL, US) https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437 · posted 2026-11-19
+- RTX - Software Engineer I (Onsite) (US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196 · posted 2026-11-19
+- Abbott - Software Development Quality Engineer I (United States - California - Sylmar) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---California---Sylmar/Software-Development-Quality-Engineer-I_31168052-1 · posted 2026-11-19
