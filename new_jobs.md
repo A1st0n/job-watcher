@@ -4604,3 +4604,4 @@
 - RTX - Production Test Engineer I (Onsite) (US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941 · posted 2026-11-19
 - MongoDB - 2027 - AI and People Transformation Intern, NYC (New York City) https://www.mongodb.com/careers/job/?gh_jid=8346138 · posted 2026-11-19
 - Peraton - Junior Tool Support Software Engineer () https://careers-peraton.icims.com/jobs/174948/junior-tool-support-software-engineer/job
+- Lockheed Martin - Systems Engineering- Post Grad Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996478014823 · posted 2026-11-19
