@@ -4581,3 +4581,5 @@
 - Bose - Data Science Co-op - NLP & GenAI (Framingham, MA, Atlanta, GA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251 · posted 2026-10-02
 - Bose - Software Engineer Co-op (Framingham, MA) https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387 · posted 2026-11-18
 - Carnegie Mellon University - AI Engineer Intern - Mission Innovation Lab (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1 · posted 2026-11-16
+- GE Aerospace - IT Support Intern (Subang) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Subang/IT-Support-Intern_R5041969-1 · posted 2026-11-19
+- PTC - Creo Software Engineering Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015 · posted 2026-11-19
