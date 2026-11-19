@@ -4600,3 +4600,7 @@
 - Cadence - Intern Software Engineer, Summer 2027, Three Month Duration     (EDINBURGH 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170 · posted 2026-11-19
 - Microsoft - Research Intern - Computer Vision and Deep Learning (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075490 · posted 2026-11-18
 - Little Caesars Enterprises - Portfolio IT Intern (Detroit, MI) https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716 · posted 2026-11-12
+- Northrop Grumman - 2027 Cybersecurity Engineer Intern (5 Locations) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cybersecurity-Engineer-Intern_R10261475 · posted 2026-11-19
+- RTX - Production Test Engineer I (Onsite) (US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941 · posted 2026-11-19
+- MongoDB - 2027 - AI and People Transformation Intern, NYC (New York City) https://www.mongodb.com/careers/job/?gh_jid=8346138 · posted 2026-11-19
+- Peraton - Junior Tool Support Software Engineer () https://careers-peraton.icims.com/jobs/174948/junior-tool-support-software-engineer/job
