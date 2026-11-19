@@ -4625,3 +4625,4 @@
 - Texas Instruments - Systems Engineering Intern (GaN) (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388 · posted 2026-11-19
 - Honeywell - Intern Bachelors Software Eng (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161638 · posted 2026-11-19
 - Lightmatter - Systems Engineering, Intern Summer 2027 (Mountain View, CA) https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008 · posted 2026-11-11
+- CACI - AWS Cloud Engineering Intern - Summer 2027 (Sarasota, FL, US) https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437 · posted 2026-11-19
