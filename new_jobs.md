@@ -4613,3 +4613,6 @@
 - Microsoft - Research Intern - Machine Learning for Biology and Healthcare (Cambridge, UK) https://apply.careers.microsoft.com/careers/job/1970393557075448 · posted 2026-11-19
 - Formlabs - Embedded Software Engineer (Boston, MA) https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093 · posted 2026-11-19
 - Huntington Ingalls Industries - Software Engineer 1 (Newport News, VA) https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors · posted 2026-11-19
+- Bread Financial - Software Engineer Intern (Frisco, TX, Chadds Ford Township, PA, Columbus, OH, Draper, UT, Wilmington, DE) https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421 · posted 2026-11-16
+- Intelliforce-IT Solutions Group - Junior Software Engineer - Prime (Annapolis Junction, MD) https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime · posted 2026-11-19
+- Journal Technologies - Junior Data Integration Developer (LA, Victoria, BC, Canada, Remote in USA, Logan, UT) https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d · posted 2026-11-19
