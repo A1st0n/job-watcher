@@ -4583,3 +4583,7 @@
 - Carnegie Mellon University - AI Engineer Intern - Mission Innovation Lab (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1 · posted 2026-11-16
 - GE Aerospace - IT Support Intern (Subang) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Subang/IT-Support-Intern_R5041969-1 · posted 2026-11-19
 - PTC - Creo Software Engineering Intern (Summer 2027) (Boston, MA, USA) https://ptc.wd1.myworkdayjobs.com/Ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015 · posted 2026-11-19
+- Apple - OS Software Engineer - Evaluation (Cupertino, CA) https://jobs.apple.com/en-us/details/200688625 · posted 2026-10-13
+- Neros Technologies - AI-Native Electrical Engineer - PCB Design (Torrance, CA) https://job-boards.greenhouse.io/nerostechnologies/jobs/5209589007 · posted 2026-08-12
+- Lyft - Android Software Engineer - Lyft Urban Solutions (Montreal, QC, Canada) https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002 · posted 2026-08-28
+- Medpace - Shiny App Developer (Irving, TX) https://careers.medpace.com/jobs/12908?icims=1&lang=en-us · posted 2026-08-05
