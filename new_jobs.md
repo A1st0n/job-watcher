@@ -4575,3 +4575,4 @@
 - Toyota Research Institute - Robotics Intern - Generalist Robot Learning (Los Altos, CA) https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply · posted 2026-11-19
 - Qualcomm - Embedded Audio Software Engineer - Software Engineering (San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722197774 · posted 2026-11-19
 - Lockheed Martin - Software Engineering Intern (Marietta, GA) https://lockheedmartin.eightfold.ai/careers/job/996477990205 · posted 2026-11-18
+- Microsoft - Research Intern - Self-Improving & Secure AI Agents - Microsoft Research (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075136 · posted 2026-11-18
