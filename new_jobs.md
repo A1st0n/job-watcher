@@ -4637,3 +4637,10 @@
 - Texas Instruments - Systems Engineering Intern (Robotics and AI) at Kilby Labs (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016336 · posted 2026-11-19
 - HPE - Systems / Software Engineer I Graduate (Sunnyvale, California, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214972-1 · posted 2026-11-19
 - Northrop Grumman - 2027 AI/ML Engineering Intern - Morrisville NC (United States-North Carolina-Morrisville) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1 · posted 2026-11-19
+- Texas Instruments - Synthetic Data for Edge AI System Engineer Intern (Dallas, TX, United States) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339 · posted 2026-11-19
+- Leidos - Software Developer Intern (Fort Belvoir, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1 · posted 2026-11-19
+- Leidos - Systems Engineer Intern (Fort Belvoir, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Systems-Engineer-Intern_R-00197398 · posted 2026-11-19
+- Booz Allen - University - 2027 Summer Games Cyber Security Intern - McLean, VA (McLean, VA) https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034 · posted 2026-11-19
+- Snowflake - Software Engineer Intern (AI / ML) - Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907 · posted 2026-11-19
+- Snowflake - Software Engineer Intern (Database Engineering) - Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d · posted 2026-11-19
+- Snowflake - Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 (US-CA-Menlo Park) https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897 · posted 2026-11-19
