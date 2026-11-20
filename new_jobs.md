@@ -4795,3 +4795,5 @@
 - Rocket Lab - Radar Systems Engineer I  (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8008866003 · posted 2026-10-28
 - Motorola Solutions - Firmware Engineer Intern (Ho Chi Minh, Vietnam) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Firmware-Engineer-Intern_R71016 · posted 2026-11-20
 - Apple - Software Engineering Intern, App Intelligence Experience (Cambridge) https://jobs.apple.com/en-us/details/200696199/software-engineering-intern-app-intelligence-experience · posted 2026-11-20
+- KLA - 【2027 Campus】Software Engineer (Shanghai, China) https://kla.wd1.myworkdayjobs.com/Search/job/Shanghai-China/XMLNAME--2027-Campus-Regional-Development-Applications-Engineer_2639808 · posted 2026-11-20
+- GM - 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern (Warren, Michigan, United States of America) https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606 · posted 2026-11-20
