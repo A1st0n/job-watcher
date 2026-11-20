@@ -4718,3 +4718,4 @@
 - Southern Mississippi Trading - AI and Business Analytics Intern (Waynesboro, MS) https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern · posted 2026-11-20
 - ATA Engineering - Engineering Software Programmer (Lakewood, CO, Huntsville, AL, San Diego, CA) https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer · posted 2026-11-20
 - HPE - AI Engineering Technical Intern (Sunnyvale, California) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California/AI-Engineering-Technical-Intern_1218702 · posted 2026-11-20
+- Cadence - Software Engineering Intern - Circuit Simulation infrastructure (SAN JOSE) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1 · posted 2026-11-20
