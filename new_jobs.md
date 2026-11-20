@@ -4759,3 +4759,6 @@
 - KLA - Optical Systems Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1 · posted 2026-11-19
 - Trimble - Junior Frontend React Engineer (UK - Remote) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1 · posted 2026-11-20
 - Trener Robotics - Robotics Engineer / Lab Technician Intern (San Jose, CA) https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true · posted 2026-11-20
+- Microsoft - Research Intern - AI /Machine Learning Numerics & Efficiency (United States, Washington, Redmond, United States, California, Mountain View) https://apply.careers.microsoft.com/careers/job/1970393557076159 · posted 2026-11-19
+- Microsoft - Research Intern - AI Serving Systems and Hardware - Microsoft Research (Canada, British Columbia, Vancouver) https://apply.careers.microsoft.com/careers/job/1970393557076203 · posted 2026-11-19
+- Smule - Machine Learning Engineer Intern (Salt Lake City, UT) https://smule.bamboohr.com/careers/31/ · posted 2026-11-20
