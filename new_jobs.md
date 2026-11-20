@@ -4724,3 +4724,10 @@
 - HPE - Customer Systems Engineer Graduate (Roseville, California) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Customer-Systems-Engineer-Graduate_1213080-1 · posted 2026-11-20
 - Stryker - Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan (Portage, Michigan) https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1 · posted 30+ days ago
 - Bosch -  [Internship Program Q1 2027] Embedded Software Intern (C/C++) (Hanoi) https://jobs.smartrecruiters.com/BoschGroup/744000162666349 · posted 2026-11-20
+- OpusClip - AI Research Intern (Mountain View, CA) https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true · posted 2026-07-22
+- Melaleuca - Software Development Intern (Idaho Falls, ID) https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf · posted 2026-11-20
+- Apple - AR/VR Software Engineer - Spatial System UI - Vision Products Software (Sunnyvale, CA, Boulder, CO) https://jobs.apple.com/en-us/details/200696147 · posted 2026-11-20
+- Zepto Life Technology - Software Developer 1 (St Paul, MN) https://zeptolife.bamboohr.com/careers/143/ · posted 2026-11-20
+- Rise Internet - Software Engineer 1 (Texas, Irving, TX) https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1 · posted 2026-11-20
+- Qualcomm - DSP Applications Software Engineer - ASICS Engineering (Austin, TX) https://qualcomm.eightfold.ai/careers/job/446722230518 · posted 2026-11-20
+- Omnimed - ML Developer - Junior or Intermediate (Cookshire-Eaton, QC, Canada) https://omnimed.bamboohr.com/careers/73/ · posted 2026-11-20
