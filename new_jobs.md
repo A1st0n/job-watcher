@@ -4692,3 +4692,4 @@
 - Qualcomm - Noc Interconnect Design Engineer and Architect - Application-Specific Integrated Circuit Systems Engineering (San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722221279 · posted 2026-11-19
 - Red Arch Solutions - Junior Software Engineer (Annapolis Junction, MD) https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer · posted 2026-11-19
 - SAIC - Software Developer (Huntsville, AL) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619347 · posted 2026-11-19
+- Cisco - AI Researcher II (Intern) - United States (3 Locations) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/AI-Researcher-II--Intern----United-States_2032589 · posted 2026-11-20
