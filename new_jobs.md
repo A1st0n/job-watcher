@@ -4793,3 +4793,4 @@
 - Rivian - Software Engineering Intern - AI Platform, Autonomy (Summer 2027) (Palo Alto, California) https://us-careers-rivian.icims.com/jobs/37339/login · posted 2026-11-20
 - T-Mobile - Summer 2027 Software Engineering Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ383767 · posted 2026-11-20
 - Rocket Lab - Radar Systems Engineer I  (Long Beach, CA) https://job-boards.greenhouse.io/rocketlab/jobs/8008866003 · posted 2026-10-28
+- Motorola Solutions - Firmware Engineer Intern (Ho Chi Minh, Vietnam) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Firmware-Engineer-Intern_R71016 · posted 2026-11-20
