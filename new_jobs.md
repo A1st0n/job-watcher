@@ -4731,3 +4731,24 @@
 - Rise Internet - Software Engineer 1 (Texas, Irving, TX) https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1 · posted 2026-11-20
 - Qualcomm - DSP Applications Software Engineer - ASICS Engineering (Austin, TX) https://qualcomm.eightfold.ai/careers/job/446722230518 · posted 2026-11-20
 - Omnimed - ML Developer - Junior or Intermediate (Cookshire-Eaton, QC, Canada) https://omnimed.bamboohr.com/careers/73/ · posted 2026-11-20
+- Park National Bank - Data Engineering/Data Science Intern (Newark, OH) https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1 · posted 2026-11-20
+- CAS - Business Data Analytics Intern - AI/ML Focus (Columbus, OH) https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a · posted 2026-11-20
+- CAS - Product Management in AI for Chemistry Fellow (Columbus, OH) https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1 · posted 2026-11-20
+- CAS - AI Research for Science Intern (Columbus, OH) https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=6d8660ff-54d8-4ade-9efe-56e99689b4dd · posted 2026-11-20
+- CAS - Technology Intern - Software Engineering (Columbus, OH) https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846 · posted 2026-11-20
+- Massey Services - Software Engineer Intern (Orlando, FL) https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566 · posted 2026-08-19
+- iA - Software Development Engineer Intern (Binghamton, NY) https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1 · posted 2026-11-20
+- iA - Software Data Engineer Intern (Indianapolis, IN) https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1 · posted 2026-11-20
+- Marias Technology - Software Developer Intern (Covington, OH) https://mariastechnology.bamboohr.com/careers/27/ · posted 2026-11-20
+- Honeywell Aerospace - AI Software Engineer Intern (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880 · posted 2026-11-20
+- Honeywell Aerospace - Software Engineer Intern (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718 · posted 2026-11-20
+- Honeywell Aerospace - Artificial Intelligence Engineer Intern (Kanata, Ottawa, ON, Canada) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878 · posted 2026-11-20
+- Honeywell Aerospace - Information Systems Data Science Intern (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238 · posted 2026-11-20
+- Honeywell Aerospace - Embedded Engineer Intern (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119843 · posted 2026-11-20
+- Honeywell Aerospace - Information Systems Data Science Intern - IT (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471 · posted 2026-11-20
+- Sante - AI Engineer (Austin, TX) https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1 · posted 2026-11-20
+- Honeywell Aerospace - Software Engineer 1 (Clearwater, FL) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642 · posted 2026-11-20
+- Honeywell Aerospace - Information Systems & Data Science New Grad (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120249 · posted 2026-11-20
+- Honeywell Aerospace - Software Engineering New Grad (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524 · posted 2026-11-20
+- Honeywell Aerospace - Software Engineer Recent Grad (United States) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265 · posted 2026-11-20
+- Honeywell Aerospace - Embedded Software Engineer 1 - Flight Management System (Phoenix, AZ) https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128476 · posted 2026-11-20
