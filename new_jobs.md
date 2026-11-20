@@ -4776,3 +4776,10 @@
 - The SilverLogic - AI Engineer/Consultant Intern (Boca Raton, FL) https://silverlogic.bamboohr.com/careers/36/ · posted 2026-11-20
 - Wurl - Data Engineer Intern (Remote in USA) https://job-boards.greenhouse.io/wurljobs/jobs/4731130006 · posted 2026-11-20
 - Freedom Technology Solutions Group - Junior Software Engineer (Annapolis Junction, MD) https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007 · posted 2026-07-30
+- Honeywell - Intern Masters Embedded Eng (Pune, Maharashtra, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162870 · posted 2026-11-20
+- Anduril - Mission Systems Engineer, Early Career (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007 · posted 2026-11-20
+- Anduril - Radar Systems Engineer, Early Career (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007 · posted 2026-11-20
+- Anduril - RF Integration Systems Engineer, Early Career (Costa Mesa, California, United States) https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007 · posted 2026-11-20
+- L3Harris Technologies - Associate, FPGA Firmware Electrical Engineering (Fort Wayne, IN) https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452529600/?ats=successfactors · posted 2026-11-20
+- L3Harris Technologies - Associate FPGA Firmware Electrical Engineering (Fort Wayne, IN) https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452528900/?ats=successfactors · posted 2026-11-20
+- L3Harris Technologies - Associate Embedded Software Engineer (Fort Wayne, IN) https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Embedded-Software-Engineer-IN-46818/1452529800/?ats=successfactors · posted 2026-11-20
