@@ -4756,3 +4756,4 @@
 - Amazon - Software Dev Intern  (Berlin, Berlin, DEU) https://www.amazon.jobs/en/jobs/10489499/software-dev-intern · posted 2026-11-20
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-801346 · posted 2026-11-20
 - Later - AI Automation Engineer Co-op (Vancouver, BC, Canada) https://job-boards.greenhouse.io/later/jobs/8604889002 · posted 2026-06-24
+- KLA - Optical Systems Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1 · posted 2026-11-19
