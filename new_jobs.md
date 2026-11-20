@@ -4698,3 +4698,14 @@
 - Lucid - Product Security Engineering Intern, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007 · posted 2026-11-19
 - Leidos - Data Engineer Intern (Fort Belvoir, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994 · posted 2026-11-20
 - Honeywell - 2027 UR Early Career Program-Software Engr I (Chongqing, China) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158589 · posted 2026-11-20
+- Lockheed Martin - Electrical Test Engineer- Intern (Kennedy Space Center, FL) https://lockheedmartin.eightfold.ai/careers/job/996476807193 · posted 2026-11-19
+- Leidos - Early Career Reliability Systems Engineer (Huntsville, AL) https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Reliability-Engineer_R-00194461 · posted 2026-11-20
+- Pathlabs - Software and AI Engineer Intern (Missoula, MT) https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern · posted 2026-11-20
+- Tarana Wireless - Hardware Test Engineer Intern (Milpitas, CA) https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern · posted 2026-11-20
+- LinkedIn - AI/ML Engineer Intern - Generative AI (Mountain View, CA) https://jobs.smartrecruiters.com/LinkedIn3/744000162623639 · posted 2026-11-20
+- LinkedIn - AI/ML Engineer Intern (Mountain View, CA) https://jobs.smartrecruiters.com/LinkedIn3/744000162628808 · posted 2026-11-20
+- LinkedIn - Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems (Mountain View, CA) https://jobs.smartrecruiters.com/LinkedIn3/744000162623368 · posted 2026-11-20
+- Microsoft - Research Intern - AI Serving Systems and Hardware (Vancouver, BC, Canada) https://apply.careers.microsoft.com/careers/job/1970393557076203 · posted 2026-11-20
+- Lucid Motors - Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving (Newark, CA) https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007 · posted 2026-11-20
+- Lucid Motors - Infotainment Software Intern (Newark, CA) https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007 · posted 2026-11-20
+- Lucid Motors - AI & Data Intern - Applied AI/Machine Learning (Newark, CA) https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007 · posted 2026-11-19
