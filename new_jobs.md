@@ -4800,3 +4800,4 @@
 - Nvidia - Finance AI Engineering Intern - Summer 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131 · posted 2026-11-19
 - Boeing - Entry-Level Software Engineer–Test & Verification (USA - Tinker AFB, OK) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081 · posted 2026-11-20
 - Rivian - Early Career - AI Platform, Autonomy (Palo Alto, California) https://us-careers-rivian.icims.com/jobs/37688/login · posted 2026-11-20
+- ServiceNow - Security Software Engineer Intern (Kirkland, Washington) https://jobs.smartrecruiters.com/ServiceNow/744000162827365 · posted 2026-11-20
