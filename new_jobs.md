@@ -4757,3 +4757,5 @@
 - State Street - Software Engineering Intern (Hangzhou, China) https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering-Intern_R-801346 · posted 2026-11-20
 - Later - AI Automation Engineer Co-op (Vancouver, BC, Canada) https://job-boards.greenhouse.io/later/jobs/8604889002 · posted 2026-06-24
 - KLA - Optical Systems Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1 · posted 2026-11-19
+- Trimble - Junior Frontend React Engineer (UK - Remote) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1 · posted 2026-11-20
+- Trener Robotics - Robotics Engineer / Lab Technician Intern (San Jose, CA) https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true · posted 2026-11-20
