@@ -4768,3 +4768,8 @@
 - DXC - Junior ServiceNow Developer (SGP - SINGAPORE) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Junior-ServiceNow-Developer_51592058-1 · posted 2026-11-20
 - Symbotic - Intern- Software Engineer, Front-End (USA Austin, TX) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1 · posted 2026-11-20
 - Lockheed Martin - Software Engineering Intern (Signal Processing) (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477891205 · posted 2026-11-19
+- Lockheed Martin - Test Engineer Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996477892880 · posted 2026-11-19
+- Flare - Software Developer Intern (Montreal, QC, Canada) https://flare.bamboohr.com/careers/29/ · posted 2026-11-20
+- Symbotic - Software Engineer Intern - Front-End (Austin, TX) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1 · posted 2026-11-20
+- AON3D - Software Developer Intern (Montreal, QC, Canada) https://job-boards.greenhouse.io/aon3d/jobs/4504702009 · posted 2026-11-20
+- USAN - Application Developer New Grad (Norcross, GA) https://usan.bamboohr.com/careers/204/ · posted 2026-11-20
