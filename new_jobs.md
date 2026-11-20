@@ -4696,3 +4696,5 @@
 - Lucid - Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007 · posted 2026-11-19
 - Lucid - Intern, Infotainment Software, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007 · posted 2026-11-19
 - Lucid - Product Security Engineering Intern, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007 · posted 2026-11-19
+- Leidos - Data Engineer Intern (Fort Belvoir, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994 · posted 2026-11-20
+- Honeywell - 2027 UR Early Career Program-Software Engr I (Chongqing, China) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158589 · posted 2026-11-20
