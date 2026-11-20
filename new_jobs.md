@@ -4673,3 +4673,22 @@
 - HR Wallingford - Graduate Software Developer (Wallingford, UK) https://job-boards.eu.greenhouse.io/hrwallingford/jobs/5042719101 · posted 2026-11-19
 - ViaSat - Associate Software Engineer – Early Career (Carlsbad, CA) https://careers.viasat.com/jobs/7077?icims=1&lang=en-us · posted 2026-11-19
 - Mindspan Institute - Scientist – Optical Systems Engineer (Cambridge, MA) https://ats.rippling.com/mindspan-institute/jobs/a3542805-9ee3-481b-a194-7149b3f7fa95 · posted 2026-11-19
+- RTX - Systems Engineering Intern (Spring 2027) (US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Spring-2027-_01887633 · posted 2026-11-20
+- Microsoft - Research Intern - AI /Machine Learning Numerics & Efficiency (Redmond, WA, Mountain View, CA) https://apply.careers.microsoft.com/careers/job/1970393557076159 · posted 2026-11-19
+- EUNA Solutions - Associate AI-Enablement Developer Co-op (Oakville, ON, Canada) https://euna.bamboohr.com/careers/822/ · posted 2026-11-19
+- Meta - Research Scientist Intern - AI Agents for Autonomous Laboratories (Redmond, WA) https://www.metacareers.com/jobs/29481973694788756 · posted 2026-11-19
+- Deliveroo - Software Engineer Intern (London, UK) https://job-boards.greenhouse.io/deliveroo/jobs/8398982 · posted 2026-11-19
+- Vertiv - AI Intern (Westerville, OH, Fort Lauderdale, FL, Huntsville, AL) https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620 · posted 2026-11-19
+- Snowflake - Software Engineer Intern - AI / ML (Menlo Park, CA, Bellevue, WA) https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true · posted 2026-11-19
+- Snowflake - Software Engineer Intern - Core - Infrastructure & Security (Menlo Park, CA, Bellevue, WA) https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true · posted 2026-11-19
+- Snowflake - Software Engineer Intern - Database Engineering (Menlo Park, CA, Bellevue, WA) https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true · posted 2026-11-19
+- ManTech - Computer Network Operations Developer Intern (Aurora, CO, San Antonio, TX, Hanover, MD, Herndon, VA) https://mantech.avature.net/en_US/careers/JobDetail/67182 · posted 2026-11-19
+- Scout Space - Embedded Firmware Engineer Intern (Reston, VA) https://job-boards.greenhouse.io/scoutspace/jobs/5489232008 · posted 2026-11-19
+- Uplinq - Software Engineer Intern - ASU (Scottsdale, AZ) https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c · posted 2026-11-19
+- Amperity - Software Development Engineer Intern (Seattle, WA) https://amperity.com/careers?gh_jid=8393990#openpositions · posted 2026-11-19
+- L3Harris Technologies - Software Engineer Intern - Engineering Leadership Development Program (Melbourne, FL) https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-(Various-Locations)-FL-32919/1426639500/?ats=successfactors · posted 2026-09-03
+- Microsoft - Software Engineer (United States) https://apply.careers.microsoft.com/careers/job/1970393557075456 · posted 2026-11-19
+- Centurum - Data Scientist 1 - Satellite Communications (San Diego, CA) https://centurum.applytojob.com/apply/NGHTfEGLMN/Data-Scientist-I-SATCOM · posted 2026-11-19
+- Qualcomm - Noc Interconnect Design Engineer and Architect - Application-Specific Integrated Circuit Systems Engineering (San Diego, CA) https://qualcomm.eightfold.ai/careers/job/446722221279 · posted 2026-11-19
+- Red Arch Solutions - Junior Software Engineer (Annapolis Junction, MD) https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer · posted 2026-11-19
+- SAIC - Software Developer (Huntsville, AL) https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619347 · posted 2026-11-19
