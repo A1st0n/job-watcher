@@ -4709,3 +4709,11 @@
 - Lucid Motors - Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving (Newark, CA) https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007 · posted 2026-11-20
 - Lucid Motors - Infotainment Software Intern (Newark, CA) https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007 · posted 2026-11-20
 - Lucid Motors - AI & Data Intern - Applied AI/Machine Learning (Newark, CA) https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007 · posted 2026-11-19
+- Lockheed Martin - Test Engineer Intern (Littleton, CO) https://lockheedmartin.eightfold.ai/careers/job/996478038620 · posted 2026-11-19
+- Lockheed Martin - Radar Systems Engineer Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477866666 · posted 2026-11-19
+- Bosch - [EMN] Hardware Internship for High Perform Computing Platform (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000162651399 · posted 2026-11-20
+- Bosch - [BD] IT Project Operation Assistant Intern (6-Month Internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000162651359 · posted 2026-11-20
+- Amii - Machine Learning Resident (Edmonton, AB, Canada) https://amii.bamboohr.com/careers/247/ · posted 2026-11-20
+- Piper Sandler - Data Engineering Intern (Minneapolis, MN) https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805 · posted 2026-11-19
+- Southern Mississippi Trading - AI and Business Analytics Intern (Waynesboro, MS) https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern · posted 2026-11-20
+- ATA Engineering - Engineering Software Programmer (Lakewood, CO, Huntsville, AL, San Diego, CA) https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer · posted 2026-11-20
