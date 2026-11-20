@@ -4767,3 +4767,4 @@
 - Microsoft - Software Engineering INTERN (Germany, Baden-Württemberg, Stuttgart) https://apply.careers.microsoft.com/careers/job/1970393557076037 · posted 2026-11-19
 - DXC - Junior ServiceNow Developer (SGP - SINGAPORE) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Junior-ServiceNow-Developer_51592058-1 · posted 2026-11-20
 - Symbotic - Intern- Software Engineer, Front-End (USA Austin, TX) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1 · posted 2026-11-20
+- Lockheed Martin - Software Engineering Intern (Signal Processing) (Manassas, VA) https://lockheedmartin.eightfold.ai/careers/job/996477891205 · posted 2026-11-19
