@@ -4717,3 +4717,4 @@
 - Piper Sandler - Data Engineering Intern (Minneapolis, MN) https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805 · posted 2026-11-19
 - Southern Mississippi Trading - AI and Business Analytics Intern (Waynesboro, MS) https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern · posted 2026-11-20
 - ATA Engineering - Engineering Software Programmer (Lakewood, CO, Huntsville, AL, San Diego, CA) https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer · posted 2026-11-20
+- HPE - AI Engineering Technical Intern (Sunnyvale, California) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California/AI-Engineering-Technical-Intern_1218702 · posted 2026-11-20
