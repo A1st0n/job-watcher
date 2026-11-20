@@ -4723,3 +4723,4 @@
 - Micron - Intern - Front-End Materials Procurement Operations (Fab 10A, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Front-End-Materials-Procurement-Operations_JR110927 · posted 2026-11-20
 - HPE - Customer Systems Engineer Graduate (Roseville, California) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Customer-Systems-Engineer-Graduate_1213080-1 · posted 2026-11-20
 - Stryker - Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan (Portage, Michigan) https://stryker.wd1.myworkdayjobs.com/strykercareers/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1 · posted 30+ days ago
+- Bosch -  [Internship Program Q1 2027] Embedded Software Intern (C/C++) (Hanoi) https://jobs.smartrecruiters.com/BoschGroup/744000162666349 · posted 2026-11-20
