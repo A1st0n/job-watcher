@@ -4765,3 +4765,4 @@
 - Accenture - Software Testing Internship Program (She/He/They) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Software-Testing-Internship-Program--She-He-They-_R00373931 · posted 2026-11-20
 - OctaiPipe - Applied Scientist - Machine Learning (London, UK) https://octaipipe.bamboohr.com/careers/49/ · posted 2026-11-20
 - Microsoft - Software Engineering INTERN (Germany, Baden-Württemberg, Stuttgart) https://apply.careers.microsoft.com/careers/job/1970393557076037 · posted 2026-11-19
+- DXC - Junior ServiceNow Developer (SGP - SINGAPORE) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Junior-ServiceNow-Developer_51592058-1 · posted 2026-11-20
