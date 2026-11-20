@@ -4762,3 +4762,5 @@
 - Microsoft - Research Intern - AI /Machine Learning Numerics & Efficiency (United States, Washington, Redmond, United States, California, Mountain View) https://apply.careers.microsoft.com/careers/job/1970393557076159 · posted 2026-11-19
 - Microsoft - Research Intern - AI Serving Systems and Hardware - Microsoft Research (Canada, British Columbia, Vancouver) https://apply.careers.microsoft.com/careers/job/1970393557076203 · posted 2026-11-19
 - Smule - Machine Learning Engineer Intern (Salt Lake City, UT) https://smule.bamboohr.com/careers/31/ · posted 2026-11-20
+- Accenture - Software Testing Internship Program (She/He/They) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Software-Testing-Internship-Program--She-He-They-_R00373931 · posted 2026-11-20
+- OctaiPipe - Applied Scientist - Machine Learning (London, UK) https://octaipipe.bamboohr.com/careers/49/ · posted 2026-11-20
