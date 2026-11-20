@@ -4773,3 +4773,6 @@
 - Symbotic - Software Engineer Intern - Front-End (Austin, TX) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1 · posted 2026-11-20
 - AON3D - Software Developer Intern (Montreal, QC, Canada) https://job-boards.greenhouse.io/aon3d/jobs/4504702009 · posted 2026-11-20
 - USAN - Application Developer New Grad (Norcross, GA) https://usan.bamboohr.com/careers/204/ · posted 2026-11-20
+- The SilverLogic - AI Engineer/Consultant Intern (Boca Raton, FL) https://silverlogic.bamboohr.com/careers/36/ · posted 2026-11-20
+- Wurl - Data Engineer Intern (Remote in USA) https://job-boards.greenhouse.io/wurljobs/jobs/4731130006 · posted 2026-11-20
+- Freedom Technology Solutions Group - Junior Software Engineer (Annapolis Junction, MD) https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007 · posted 2026-07-30
