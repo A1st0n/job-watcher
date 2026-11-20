@@ -4764,3 +4764,4 @@
 - Smule - Machine Learning Engineer Intern (Salt Lake City, UT) https://smule.bamboohr.com/careers/31/ · posted 2026-11-20
 - Accenture - Software Testing Internship Program (She/He/They) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lodz/Software-Testing-Internship-Program--She-He-They-_R00373931 · posted 2026-11-20
 - OctaiPipe - Applied Scientist - Machine Learning (London, UK) https://octaipipe.bamboohr.com/careers/49/ · posted 2026-11-20
+- Microsoft - Software Engineering INTERN (Germany, Baden-Württemberg, Stuttgart) https://apply.careers.microsoft.com/careers/job/1970393557076037 · posted 2026-11-19
