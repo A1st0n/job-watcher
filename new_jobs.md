@@ -4801,3 +4801,5 @@
 - Boeing - Entry-Level Software Engineer–Test & Verification (USA - Tinker AFB, OK) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081 · posted 2026-11-20
 - Rivian - Early Career - AI Platform, Autonomy (Palo Alto, California) https://us-careers-rivian.icims.com/jobs/37688/login · posted 2026-11-20
 - ServiceNow - Security Software Engineer Intern (Kirkland, Washington) https://jobs.smartrecruiters.com/ServiceNow/744000162827365 · posted 2026-11-20
+- Cisco - Data Science Analyst II (Intern) – Untied States (San Jose, California, US) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Analyst-II--Intern----Untied-States_2032691 · posted 2026-11-20
+- Intuitive Surgical - Data Engineering Intern (Sunnyvale, CA) https://jobs.smartrecruiters.com/Intuitive/744000162832659 · posted 2026-11-20
