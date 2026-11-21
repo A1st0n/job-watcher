@@ -4902,3 +4902,4 @@
 - Affirm - Software Engineer 1 - Backend - Streaming Infra (Remote in Canada) https://job-boards.greenhouse.io/affirm/jobs/8201471003 · posted 2026-11-21
 - Toyota - Software Engineer (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846 · posted 2026-11-20
 - Aurora - Hardware Systems Engineering Intern (Pittsburgh, PA) https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26 · posted 2026-10-01
+- Microsoft - Research Intern - AI System Architecture Modeling and Performance (United States, Oregon, Hillsboro) https://apply.careers.microsoft.com/careers/job/1970393557077583 · posted 2026-11-20
