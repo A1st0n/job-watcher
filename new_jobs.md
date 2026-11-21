@@ -4903,3 +4903,6 @@
 - Toyota - Software Engineer (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846 · posted 2026-11-20
 - Aurora - Hardware Systems Engineering Intern (Pittsburgh, PA) https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26 · posted 2026-10-01
 - Microsoft - Research Intern - AI System Architecture Modeling and Performance (United States, Oregon, Hillsboro) https://apply.careers.microsoft.com/careers/job/1970393557077583 · posted 2026-11-20
+- GIRO - Front-End Web Development Intern (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317 · posted 2026-11-01
+- Nottingham Spirk - Firmware Co-op (Cleveland, OH) https://nottinghamspirk.applytojob.com/apply/udpROpEzBV/Firmware-Spring-2027-CoOp · posted 2026-11-21
+- Gradient MSP - Junior Full Stack Developer (Remote in Canada) https://gradientmsp.bamboohr.com/careers/72/ · posted 2026-11-21
