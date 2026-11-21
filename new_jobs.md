@@ -4894,3 +4894,6 @@
 - Lucid - Intern, ADAS Platform Tools, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007 · posted 2026-11-20
 - Affirm - Software Engineer I, Backend (Streaming Infra) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8201471003 · posted 2026-11-20
 - Accenture - Data & AI Internship Program (She/He/They) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786 · posted 2026-11-21
+- Cisco - AI Cybersecurity Engineer I (Intern) – United States (RTP, North Carolina, US) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295 · posted 2026-11-21
+- Lucid Motors - ADAS Platform Tools Intern (Newark, CA) https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007 · posted 2026-11-21
+- Microsoft - Research Intern - AI System Architecture Modeling and Performance (Hillsboro, OR) https://apply.careers.microsoft.com/careers/job/1970393557077583 · posted 2026-11-21
