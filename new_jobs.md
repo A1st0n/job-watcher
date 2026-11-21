@@ -4915,3 +4915,4 @@
 - Normal Computing - AI Research Resident - Algorithms Codesign (NYC) https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true · posted 2026-10-27
 - Microsoft - Research Intern - AI /Machine Learning Numerics & Efficiency (United States, California, Mountain View, United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557076215 · posted 2026-11-20
 - Starbridge - Software Engineer - Federal (NYC) https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d/application?embed=true · posted 2026-11-16
+- Nvidia - Accounting AI Solution Engineer Intern - Summer 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1 · posted 2026-11-20
