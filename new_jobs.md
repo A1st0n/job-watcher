@@ -4837,3 +4837,23 @@
 - ECPI University - Associate Software Developer (Virginia Beach, VA) https://recruiting.ultipro.com/ecp1000ecpi/JobBoard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/OpportunityDetail?opportunityId=4b69f6b1-0298-4c53-9d7a-5555320c1c56 · posted 2026-11-20
 - STR - Software Engineer (Arlington County, Arlington, VA) https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006 · posted 2026-11-20
 - Garmin - Software Engineer 1 (Salem, OR) https://careers.garmin.com/jobs/21486?icims=1&lang=en-us · posted 2026-11-20
+- Affirm - Software Engineer I, Fullstack (Disputes Platform) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8196691003 · posted 2026-11-20
+- EvenUp - Software Engineer New Grad - AI Entities (Toronto, ON, Canada, SF) https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true · posted 2026-09-30
+- Zscaler - Software Development Engineer (Santa Clara, CA) https://job-boards.greenhouse.io/zscaler/jobs/5283494007 · posted 2026-11-20
+- Phoenix Defense - Software Engineer 1 (United States) https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36 · posted 2026-11-20
+- Miami HEAT - Front-End Web Developer (Miami, FL) https://recruiting.ultipro.com/mia1004mhlp/JobBoard/b34868a3-6ce1-4a28-b8fb-afb1cd5be9d3/OpportunityDetail?opportunityId=8e02edd4-aa49-4769-87af-48efdcbc9984 · posted 2026-11-20
+- Keplar - Software Engineer New Grad (Toronto, ON, Canada, Waterloo, ON, Canada) https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true · posted 2026-11-20
+- SWJ TECHNOLOGY - Junior AI Vision & Automation Engineer - Automotive Manufacturing (Vance, AL) https://swjtechnology.applytojob.com/apply/sdXb4mCfYl/Junior-AI-Vision-Automation-Engineer-Automotive-Manufacturing · posted 2026-11-20
+- NRG Energy - AI-Enabled Developer Analyst 1 (Houston, TX) https://careers.nrgenergy.com/nrg/job/Houston-Developer-Analyst-I-TX-77010/1452758500/?ats=successfactors · posted 2026-11-20
+- Vertex Service Partners - Junior AI Engineer (Charlotte, NC) https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009 · posted 2026-11-20
+- Milliman - AI Product Engineer (Brookfield, WI, Remote in USA) https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=caa572e4-f514-48c0-80c6-620b7465a91e · posted 2026-11-20
+- Further - Entry-Level AI/Data Engineer (Cleveland, OH) https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002 · posted 2026-11-20
+- Further - Analytics Developer New Grad (Cleveland, OH) https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002 · posted 2026-11-20
+- Further - Entry Level Developer New Grad (Dallas, TX) https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002 · posted 2026-11-20
+- Wellabe - Software Engineer 1/2/3 (Des Moines, IA) https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7 · posted 2026-11-20
+- Meso Scale Diagnostics - Systems Engineer 1 (Gaithersburg, MD) https://recruiting.ultipro.com/mes1002messd/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=4afe2054-c4ea-4476-bdf0-2f322aa52b6d · posted 2026-11-20
+- Multiply - Early Software Engineer - AI-Native (SF) https://jobs.ashbyhq.com/multiplyai/5b30aa69-b2a6-480b-b5b9-3ad5d67f1a55/application?embed=true · posted 2026-11-20
+- Applied Research Associates - Junior Software Developer (Albuquerque, NM) https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca · posted 2026-11-20
+- Diversified Services Network - Embedded Software Engineer (Mossville, IL) https://apply.workable.com/dsn/j/AAF21352DA/apply · posted 2026-11-20
+- Octasic - Software Developer - Research & Development (Montreal, QC, Canada) https://ats.rippling.com/octasic-inc/jobs/37d213b7-ac06-4ec0-9656-8dea3beff50f · posted 2026-11-20
+- USAble Life - Web Developer 1 or 2 (Remote in USA) https://recruiting.ultipro.com/USA1002USAL/JobBoard/003df104-d0d0-4233-8068-07ba35aacc79/OpportunityDetail?opportunityId=1699a66a-9f61-40ed-9973-aa7b91dd0306 · posted 2026-11-20
