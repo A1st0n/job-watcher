@@ -4897,3 +4897,4 @@
 - Cisco - AI Cybersecurity Engineer I (Intern) – United States (RTP, North Carolina, US) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295 · posted 2026-11-21
 - Lucid Motors - ADAS Platform Tools Intern (Newark, CA) https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007 · posted 2026-11-21
 - Microsoft - Research Intern - AI System Architecture Modeling and Performance (Hillsboro, OR) https://apply.careers.microsoft.com/careers/job/1970393557077583 · posted 2026-11-21
+- Gorbel - Front-End Web Developer Co-op (Victor, NY) https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1 · posted 2026-11-20
