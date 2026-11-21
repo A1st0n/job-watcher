@@ -4910,3 +4910,6 @@
 - Aurora Innovation - Hardware Systems Engineer Intern (Pittsburgh, PA) https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true · posted 2026-10-01
 - CDPQ - Developer - Digital Solutions and Analytics - Liquid Markets (Montreal, QC, Canada) https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211 · posted 2026-11-19
 - Astera - Robotics Systems Intern - Wheeled Platforms & Lifting Systems (Emeryville, CA) https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true · posted 2026-10-30
+- Applied Engineering - Electrical Engineer: Embedded Software (West Bend, WI) https://www.go-applied.com/careers/openings/?gh_jid=4515468009 · posted 2026-11-19
+- Kobalt Labs - Software Engineer - Full Stack (NYC) https://jobs.ashbyhq.com/kobalt%20labs/0c96afd7-4469-4121-9232-847e8f8f4502/application?embed=true · posted 2026-09-15
+- Normal Computing - AI Research Resident - Algorithms Codesign (NYC) https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true · posted 2026-10-27
