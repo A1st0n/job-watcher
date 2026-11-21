@@ -4906,3 +4906,6 @@
 - GIRO - Front-End Web Development Intern (Montreal, QC, Canada) https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317 · posted 2026-11-01
 - Nottingham Spirk - Firmware Co-op (Cleveland, OH) https://nottinghamspirk.applytojob.com/apply/udpROpEzBV/Firmware-Spring-2027-CoOp · posted 2026-11-21
 - Gradient MSP - Junior Full Stack Developer (Remote in Canada) https://gradientmsp.bamboohr.com/careers/72/ · posted 2026-11-21
+- Convverge - Junior Developer Co-op (Calgary, AB, Canada) https://convverge.bamboohr.com/careers/31/ · posted 2026-11-21
+- Aurora Innovation - Hardware Systems Engineer Intern (Pittsburgh, PA) https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true · posted 2026-10-01
+- CDPQ - Developer - Digital Solutions and Analytics - Liquid Markets (Montreal, QC, Canada) https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211 · posted 2026-11-19
