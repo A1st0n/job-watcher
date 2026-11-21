@@ -4898,3 +4898,6 @@
 - Lucid Motors - ADAS Platform Tools Intern (Newark, CA) https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007 · posted 2026-11-21
 - Microsoft - Research Intern - AI System Architecture Modeling and Performance (Hillsboro, OR) https://apply.careers.microsoft.com/careers/job/1970393557077583 · posted 2026-11-21
 - Gorbel - Front-End Web Developer Co-op (Victor, NY) https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1 · posted 2026-11-20
+- Affirm - Software Engineer 1 - Fullstack - Disputes Platform (Remote in Canada) https://job-boards.greenhouse.io/affirm/jobs/8196691003 · posted 2026-11-20
+- Affirm - Software Engineer 1 - Backend - Streaming Infra (Remote in Canada) https://job-boards.greenhouse.io/affirm/jobs/8201471003 · posted 2026-11-21
+- Toyota - Software Engineer (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846 · posted 2026-11-20
