@@ -4913,3 +4913,4 @@
 - Applied Engineering - Electrical Engineer: Embedded Software (West Bend, WI) https://www.go-applied.com/careers/openings/?gh_jid=4515468009 · posted 2026-11-19
 - Kobalt Labs - Software Engineer - Full Stack (NYC) https://jobs.ashbyhq.com/kobalt%20labs/0c96afd7-4469-4121-9232-847e8f8f4502/application?embed=true · posted 2026-09-15
 - Normal Computing - AI Research Resident - Algorithms Codesign (NYC) https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true · posted 2026-10-27
+- Microsoft - Research Intern - AI /Machine Learning Numerics & Efficiency (United States, California, Mountain View, United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557076215 · posted 2026-11-20
