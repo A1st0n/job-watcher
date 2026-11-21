@@ -4891,3 +4891,6 @@
 - CTDI - System Test Engineer (Logan Township, NJ) https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=fec39bd2-a7b7-4cf9-a68a-45c863229082 · posted 2026-11-20
 - Merchants Insurance Group - Junior SQL Developer (Buffalo, NY) https://recruiting.ultipro.com/mer1018mmic/JobBoard/1b36f9bd-51dd-d343-e324-b2b56c792814/OpportunityDetail?opportunityId=47ed54ca-64f0-4dd1-8ffd-c275f0cf58db · posted 2026-11-20
 - CTDI - Robotics Engineer (West Chester, PA) https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=168662f8-1340-4fdc-a4c4-10f604134f65 · posted 2026-11-20
+- Lucid - Intern, ADAS Platform Tools, Summer 2027 (Newark, CA) https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007 · posted 2026-11-20
+- Affirm - Software Engineer I, Backend (Streaming Infra) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8201471003 · posted 2026-11-20
+- Accenture - Data & AI Internship Program (She/He/They) () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786 · posted 2026-11-21
