@@ -4950,3 +4950,5 @@
 - Constellation Brands - Data Science Intern (Rochester, NY) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527 · posted 2026-11-16
 - Constellation Brands - Data and AI Enablement Intern (Rochester, NY, Chicago, IL) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721 · posted 2026-11-16
 - Neogen - Embedded Systems Engineer Intern (Oakdale, MN) https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064 · posted 2026-11-22
+- Viavi Solutions - Robotics Intern (Bothell, WA) https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1 · posted 2026-11-18
+- AVEVA - Software Developer Graduate (Cambridge, UK) https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate---UK_R015080-1 · posted 2026-11-17
