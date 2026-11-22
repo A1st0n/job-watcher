@@ -4941,3 +4941,5 @@
 - Schnucks - Data Science Generative AI Intern (St. Louis, MO, Missouri, Indiana, Illinois) https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971 · posted 2026-11-19
 - Microsoft - Cloud Solution Architecture INTERN (Germany, Multiple Locations, Multiple Locations) https://apply.careers.microsoft.com/careers/job/1970393557041287 · posted 2026-11-09
 - NBCUniversal - Business Data Intern - Film IT (London, UK) https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475 · posted 2026-11-20
+- Lockheed Martin - Software Engineer Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477853769 · posted 2026-11-22
+- Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477460754 · posted 2026-11-22
