@@ -4939,3 +4939,4 @@
 - Argonne National Laboratory - Software Engineer (Lemont, IL) https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698 · posted 2026-11-16
 - Expedia Group - Machine Learning Science Intern (London, UK) https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737 · posted 2026-10-21
 - Schnucks - Data Science Generative AI Intern (St. Louis, MO, Missouri, Indiana, Illinois) https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971 · posted 2026-11-19
+- Microsoft - Cloud Solution Architecture INTERN (Germany, Multiple Locations, Multiple Locations) https://apply.careers.microsoft.com/careers/job/1970393557041287 · posted 2026-11-09
