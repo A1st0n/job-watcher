@@ -4937,3 +4937,5 @@
 - Specialized - Early Career Data Engineer (Morgan Hill, CA) https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117 · posted 2026-11-19
 - Sierra Nevada Corporation - Software Engineer 1 (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418 · posted 2026-11-18
 - Argonne National Laboratory - Software Engineer (Lemont, IL) https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698 · posted 2026-11-16
+- Expedia Group - Machine Learning Science Intern (London, UK) https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737 · posted 2026-10-21
+- Schnucks - Data Science Generative AI Intern (St. Louis, MO, Missouri, Indiana, Illinois) https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971 · posted 2026-11-19
