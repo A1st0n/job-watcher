@@ -4927,3 +4927,8 @@
 - Cadence Design Systems - Software Engineer Intern - Circuit Simulation infrastructure (San Jose, CA) https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254 · posted 2026-11-19
 - Secureframe - Software Engineer New Grad (NYC) https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true · posted 2026-11-21
 - Welocalize - Robotics Teleoperator (California) https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Project-Dorado---Robotics-Teleoperator_R0008071 · posted 2026-11-18
+- TransUnion - Data Science and Analytics Intern (Chicago, IL) https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450 · posted 2026-11-19
+- Lumentum - AI Engineer Co-op Intern (Ottawa, ON, Canada) https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778 · posted 2026-11-16
+- Lumentum - SW Developer Support Intern - Program Management Office (San Jose, CA) https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729 · posted 2026-11-17
+- Cadence Design Systems - Software Engineer Intern (Boston, MA) https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179 · posted 2026-11-19
+- Advance Auto Parts - Data Science Intern (Raleigh, NC) https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1 · posted 2026-11-20
