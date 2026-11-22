@@ -4946,3 +4946,4 @@
 - Trimble - Junior to Mid-Level Front-End React Engineer (Remote in UK) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1 · posted 2026-11-05
 - AMD - Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op (Austin, Texas) https://campus-amd.icims.com/jobs/89557/login · posted 2026-11-22
 - NBCUniversal - Business Data Intern - Film IT (London, UK) https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475 · posted 2026-11-20
+- Microsoft - Research Intern - Data Center and AI Networking (United States, California, Mountain View, United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075457 · posted 2026-11-18
