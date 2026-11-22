@@ -4947,3 +4947,6 @@
 - AMD - Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op (Austin, Texas) https://campus-amd.icims.com/jobs/89557/login · posted 2026-11-22
 - NBCUniversal - Business Data Intern - Film IT (London, UK) https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475 · posted 2026-11-20
 - Microsoft - Research Intern - Data Center and AI Networking (United States, California, Mountain View, United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557075457 · posted 2026-11-18
+- Constellation Brands - Data Science Intern (Rochester, NY) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527 · posted 2026-11-16
+- Constellation Brands - Data and AI Enablement Intern (Rochester, NY, Chicago, IL) https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721 · posted 2026-11-16
+- Neogen - Embedded Systems Engineer Intern (Oakdale, MN) https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064 · posted 2026-11-22
