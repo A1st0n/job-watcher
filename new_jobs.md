@@ -4952,3 +4952,5 @@
 - Neogen - Embedded Systems Engineer Intern (Oakdale, MN) https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064 · posted 2026-11-22
 - Viavi Solutions - Robotics Intern (Bothell, WA) https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1 · posted 2026-11-18
 - AVEVA - Software Developer Graduate (Cambridge, UK) https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate---UK_R015080-1 · posted 2026-11-17
+- Allegion - Software Engineer Intern - Software Engineering (Golden, CO) https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795 · posted 2026-09-25
+- Allegion - Software Systems Engineering Intern (Golden, CO) https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395 · posted 2026-10-28
