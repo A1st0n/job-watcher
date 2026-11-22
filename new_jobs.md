@@ -4943,3 +4943,4 @@
 - NBCUniversal - Business Data Intern - Film IT (London, UK) https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475 · posted 2026-11-20
 - Lockheed Martin - Software Engineer Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477853769 · posted 2026-11-22
 - Lockheed Martin - Software Engineer - Intern (Fort Worth, TX) https://lockheedmartin.eightfold.ai/careers/job/996477460754 · posted 2026-11-22
+- Trimble - Junior to Mid-Level Front-End React Engineer (Remote in UK) https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1 · posted 2026-11-05
