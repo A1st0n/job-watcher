@@ -4932,3 +4932,4 @@
 - Lumentum - SW Developer Support Intern - Program Management Office (San Jose, CA) https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729 · posted 2026-11-17
 - Cadence Design Systems - Software Engineer Intern (Boston, MA) https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179 · posted 2026-11-19
 - Advance Auto Parts - Data Science Intern (Raleigh, NC) https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1 · posted 2026-11-20
+- Neros - Firmware/Embedded Software Engineer Intern - Summer 2027 (Torrance, California, United States) https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007 · posted 2026-11-21
