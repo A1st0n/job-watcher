@@ -4933,3 +4933,7 @@
 - Cadence Design Systems - Software Engineer Intern (Boston, MA) https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179 · posted 2026-11-19
 - Advance Auto Parts - Data Science Intern (Raleigh, NC) https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1 · posted 2026-11-20
 - Neros - Firmware/Embedded Software Engineer Intern - Summer 2027 (Torrance, California, United States) https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007 · posted 2026-11-21
+- Neros Technologies - Firmware/Embedded Software Engineer Intern (Torrance, CA) https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007 · posted 2026-11-22
+- Specialized - Early Career Data Engineer (Morgan Hill, CA) https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117 · posted 2026-11-19
+- Sierra Nevada Corporation - Software Engineer 1 (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418 · posted 2026-11-18
+- Argonne National Laboratory - Software Engineer (Lemont, IL) https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698 · posted 2026-11-16
