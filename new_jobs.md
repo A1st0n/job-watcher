@@ -4978,3 +4978,7 @@
 - Microsoft - Research Intern - Machine Learning for Biology and Healthcare (United Kingdom, Cambridgeshire, Cambridge) https://apply.careers.microsoft.com/careers/job/1970393557075448 · posted 2026-11-19
 - CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_34988 · posted 2026-11-23
 - Lattice Semiconductor - Junior BMC Firmware Engineer (Duluth, GA) https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309 · posted 2026-11-20
+- CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_35027 · posted 2026-11-23
+- CME Group - Security Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Security-Engineer---Intern_34990 · posted 2026-11-23
+- Red Bull - Data Science Intern (Morristown, NJ) https://jobs.smartrecruiters.com/RedBull/744000163139699 · posted 2026-11-23
+- First Resonance - Software Engineer Intern - Platform (LA) https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true · posted 2026-11-23
