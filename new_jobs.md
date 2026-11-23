@@ -4975,3 +4975,5 @@
 - Applied Materials - Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX) (Austin,TX) https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409 · posted 2026-10-29
 - HPE - Networking & Cybersecurity Intern (Westford, Massachusetts, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Networking---Cybersecurity-Intern_1214057 · posted 2026-11-23
 - CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_35026 · posted 2026-11-23
+- Microsoft - Research Intern - Machine Learning for Biology and Healthcare (United Kingdom, Cambridgeshire, Cambridge) https://apply.careers.microsoft.com/careers/job/1970393557075448 · posted 2026-11-19
+- CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_34988 · posted 2026-11-23
