@@ -5008,3 +5008,5 @@
 - Leidos - SharePoint & Systems Engineering Intern (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00197543 · posted 2026-11-23
 - Sierra Nevada Corporation - Software Engineer I (Current Military Fellows Only) (Southern Pines, NC) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1 · posted 2026-11-23
 - Sierra Nevada Corporation - Software Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455 · posted 2026-11-23
+- RTX - Systems Engineer, Intern (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Systems-Engineer--Intern_01891033 · posted 2026-11-23
+- RTX - Test Engineer I (Onsite) (US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Test-Engineer-I--Onsite-_01873351 · posted 2026-11-23
