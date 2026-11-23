@@ -4991,3 +4991,8 @@
 - Marvell - AI research intern (Petah-Tikva) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267 · posted 2026-11-23
 - Intel - System Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0289477 · posted 2026-11-23
 - Benchling - Software Engineer, Intern (Summer 2027) (San Francisco, CA) https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099 · posted 2026-11-23
+- DXC - Associate Software Developer (SAU - RIYADH) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SAU---RIYADH/Associate-Software-Developer_51592716 · posted 2026-11-23
+- Leidos - Network Engineering & Operations Intern (Shiloh, IL) https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462 · posted 2026-11-23
+- Motorola Solutions - Mission Critical Networks Software Engineer - Summer 2027 Internship (Schaumburg, IL, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631 · posted 2026-11-23
+- JP Morgan Chase - Machine Learning Intern - Time Series and Reinforcement Learning (London, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784 · posted 2026-11-23
+- Benchling - Software Engineer Intern (SF) https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true · posted 2026-11-23
