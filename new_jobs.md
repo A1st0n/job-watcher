@@ -4990,3 +4990,4 @@
 - Oracle - Intern as Software Engineer - part time (BRNO, Czech Republic) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351109 · posted 2026-11-23
 - Marvell - AI research intern (Petah-Tikva) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267 · posted 2026-11-23
 - Intel - System Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0289477 · posted 2026-11-23
+- Benchling - Software Engineer, Intern (Summer 2027) (San Francisco, CA) https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099 · posted 2026-11-23
