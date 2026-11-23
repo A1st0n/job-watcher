@@ -5010,3 +5010,4 @@
 - Sierra Nevada Corporation - Software Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455 · posted 2026-11-23
 - RTX - Systems Engineer, Intern (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Systems-Engineer--Intern_01891033 · posted 2026-11-23
 - RTX - Test Engineer I (Onsite) (US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Test-Engineer-I--Onsite-_01873351 · posted 2026-11-23
+- Rockwell Automation - Intern, Software Engineer (Milwaukee, Wisconsin, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2 · posted 2026-11-23
