@@ -5021,3 +5021,5 @@
 - CACI - Software Development Intern - Summer 2027 (Remote (Any State)) https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Development-Intern---Summer-2027_335425 · posted 2026-11-23
 - Leidos - Software Engineering Intern (Arlington, VA) https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526 · posted 2026-11-23
 - Accenture Federal - Junior Cloud Administrator/Systems Engineer St. Louis, MO (Onsite or Weekly Travel Required) (St. Louis, MO) https://boards.greenhouse.io/accenturefederalservices/jobs/4731758006?gh_jid=4731758006 · posted 2026-11-23
+- Amazon - Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) (Sunnyvale, California, USA) https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027 · posted 2026-11-17
+- RTX - Embedded System Engineering Intern (US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950 · posted 2026-11-23
