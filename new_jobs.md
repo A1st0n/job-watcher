@@ -5014,3 +5014,4 @@
 - Sierra Nevada Corporation - Systems Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I_R0031442 · posted 2026-11-23
 - T-Mobile - Summer 2027 Software Engineering Intern (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ380511 · posted 2026-11-23
 - T-Mobile - Summer 2027 Software Engineering Internship (3 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380459 · posted 2026-11-23
+- Cadence - Software Engineering Intern - Circuit Simulation (AUSTIN) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251-1 · posted 2026-11-23
