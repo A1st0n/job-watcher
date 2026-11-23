@@ -5004,3 +5004,7 @@
 - Enterprise Holdings - Data Scientist 1 (St. Louis, MO) https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false · posted 2026-11-23
 - L3Harris Technologies - Associate – Software Engineering (Yorba Linda, CA) https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1452910400/?ats=successfactors · posted 2026-11-23
 - Wyetech - Software Engineer Level 0 - Full Stack Development (Annapolis Junction, MD) https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer · posted 2026-11-23
+- Micron - Intern - Advanced Modeling and AI Solutions (Boise, ID - Main Site) https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093 · posted 2026-11-23
+- Leidos - SharePoint & Systems Engineering Intern (6314 Remote/Teleworker US) https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00197543 · posted 2026-11-23
+- Sierra Nevada Corporation - Software Engineer I (Current Military Fellows Only) (Southern Pines, NC) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1 · posted 2026-11-23
+- Sierra Nevada Corporation - Software Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455 · posted 2026-11-23
