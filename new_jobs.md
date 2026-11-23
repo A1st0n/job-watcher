@@ -4987,3 +4987,5 @@
 - Northrop Grumman - 2027 Software Test Engineering Intern - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728 · posted 2026-11-23
 - Honeywell - Intern (Bach) Data Engineering (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162882 · posted 2026-11-23
 - AJ Bell - Digital Degree Apprentice - Software Development Pathway (Manchester, UK) https://jobs.smartrecruiters.com/AJBell1/744000163169494 · posted 2026-11-23
+- Oracle - Intern as Software Engineer - part time (BRNO, Czech Republic) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351109 · posted 2026-11-23
+- Marvell - AI research intern (Petah-Tikva) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267 · posted 2026-11-23
