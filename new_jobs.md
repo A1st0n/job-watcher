@@ -4989,3 +4989,4 @@
 - AJ Bell - Digital Degree Apprentice - Software Development Pathway (Manchester, UK) https://jobs.smartrecruiters.com/AJBell1/744000163169494 · posted 2026-11-23
 - Oracle - Intern as Software Engineer - part time (BRNO, Czech Republic) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351109 · posted 2026-11-23
 - Marvell - AI research intern (Petah-Tikva) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267 · posted 2026-11-23
+- Intel - System Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0289477 · posted 2026-11-23
