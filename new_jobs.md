@@ -4977,3 +4977,4 @@
 - CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_35026 · posted 2026-11-23
 - Microsoft - Research Intern - Machine Learning for Biology and Healthcare (United Kingdom, Cambridgeshire, Cambridge) https://apply.careers.microsoft.com/careers/job/1970393557075448 · posted 2026-11-19
 - CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_34988 · posted 2026-11-23
+- Lattice Semiconductor - Junior BMC Firmware Engineer (Duluth, GA) https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309 · posted 2026-11-20
