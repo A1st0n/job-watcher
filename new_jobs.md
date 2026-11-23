@@ -4969,3 +4969,5 @@
 - Artefact - AI Engineer Intern (NYC) https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002 · posted 2026-11-23
 - Lumentum - Data Science & Analytics Intern (San Jose, CA) https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771 · posted 2026-11-16
 - Sanofi - Digital Graduate Program - Product Analyst - Data and AI Engineer (Toronto, ON, Canada) https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1 · posted 2026-11-20
+- Intel - Security Software Applications Eng Graduate Intern (PRC, Shanghai) https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Security-Software-Applications-Eng-Graduate-Intern_JR0289314 · posted 2026-11-23
+- Artefact - AI Engineer Intern (NYC) https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002 · posted 2026-11-23
