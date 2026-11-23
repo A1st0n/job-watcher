@@ -5012,3 +5012,5 @@
 - RTX - Test Engineer I (Onsite) (US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Test-Engineer-I--Onsite-_01873351 · posted 2026-11-23
 - Rockwell Automation - Intern, Software Engineer (Milwaukee, Wisconsin, United States) https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2 · posted 2026-11-23
 - Sierra Nevada Corporation - Systems Engineer I (Lone Tree, CO) https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I_R0031442 · posted 2026-11-23
+- T-Mobile - Summer 2027 Software Engineering Intern (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ380511 · posted 2026-11-23
+- T-Mobile - Summer 2027 Software Engineering Internship (3 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380459 · posted 2026-11-23
