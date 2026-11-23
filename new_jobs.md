@@ -4982,3 +4982,7 @@
 - CME Group - Security Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Security-Engineer---Intern_34990 · posted 2026-11-23
 - Red Bull - Data Science Intern (Morristown, NJ) https://jobs.smartrecruiters.com/RedBull/744000163139699 · posted 2026-11-23
 - First Resonance - Software Engineer Intern - Platform (LA) https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true · posted 2026-11-23
+- Nvidia - Software Engineering Intern (2 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Software-Engineering-Intern_JR2030226 · posted 2026-11-23
+- Northrop Grumman - 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO (United States-Colorado-Colorado Springs) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10261637 · posted 2026-11-23
+- Northrop Grumman - 2027 Software Test Engineering Intern - Roy UT (United States-Utah-Roy) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728 · posted 2026-11-23
+- Honeywell - Intern (Bach) Data Engineering (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162882 · posted 2026-11-23
