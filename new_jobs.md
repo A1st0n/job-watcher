@@ -4996,3 +4996,11 @@
 - Motorola Solutions - Mission Critical Networks Software Engineer - Summer 2027 Internship (Schaumburg, IL, More...) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631 · posted 2026-11-23
 - JP Morgan Chase - Machine Learning Intern - Time Series and Reinforcement Learning (London, UK) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784 · posted 2026-11-23
 - Benchling - Software Engineer Intern (SF) https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true · posted 2026-11-23
+- HP - Personal Systems Engineering Internship (Spring, Texas, United States of America) https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Engineering-Internship_3171404-1 · posted 2026-11-23
+- Leidos - System Administration/Cybersecurity Intern (Clarksburg, WV) https://leidos.wd5.myworkdayjobs.com/External/job/Clarksburg-WV/System-Administration-Cybersecurity-Intern_R-00197267 · posted 2026-11-23
+- APEX Analytix - Software Engineer Intern - Platform Tooling (Greensboro, NC) https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19 · posted 2026-11-23
+- Stantec - Data Scientist Intern - Water (Boston, MA, Denver, CO, San Diego, CA) https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005 · posted 2026-11-23
+- L3Harris Technologies - Specialist, Integration/Test Engineering Intern (Greenville, TX) https://jobs.l3harris.com/job/Greenville-(DoD-SkillBridge),-Specialist,-IntegrationTest-Engineering-TX-75402/1452921700/?ats=successfactors · posted 2026-11-23
+- Enterprise Holdings - Data Scientist 1 (St. Louis, MO) https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false · posted 2026-11-23
+- L3Harris Technologies - Associate – Software Engineering (Yorba Linda, CA) https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1452910400/?ats=successfactors · posted 2026-11-23
+- Wyetech - Software Engineer Level 0 - Full Stack Development (Annapolis Junction, MD) https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer · posted 2026-11-23
