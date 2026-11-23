@@ -4958,3 +4958,5 @@
 - Sallie Mae - Software Engineer Intern (Newark, DE) https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688 · posted 2026-11-18
 - QSL - Software Development and Artificial Intelligence Intern (Québec City, QC, Canada) https://jobs.smartrecruiters.com/QSL/744000162086264 · posted 2026-11-17
 - Carnegie Mellon University - AI Engineer Intern - Mission Innovation Lab (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364 · posted 2026-11-16
+- Nvidia - Software Engineering Intern (Germany, Munich) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern_JR2029967 · posted 2026-11-23
+- DraftKings - Associate Data Engineer (Boston, MA) https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Associate-Data-Engineer_JR15400 · posted 2026-11-17
