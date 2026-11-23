@@ -4955,3 +4955,6 @@
 - Allegion - Software Engineer Intern - Software Engineering (Golden, CO) https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795 · posted 2026-09-25
 - Allegion - Software Systems Engineering Intern (Golden, CO) https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395 · posted 2026-10-28
 - Calyx Containers - Junior Software Developer - Print & Packaging (West Valley City, UT) https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging · posted 2026-11-22
+- Sallie Mae - Software Engineer Intern (Newark, DE) https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688 · posted 2026-11-18
+- QSL - Software Development and Artificial Intelligence Intern (Québec City, QC, Canada) https://jobs.smartrecruiters.com/QSL/744000162086264 · posted 2026-11-17
+- Carnegie Mellon University - AI Engineer Intern - Mission Innovation Lab (Pittsburgh, PA) https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364 · posted 2026-11-16
