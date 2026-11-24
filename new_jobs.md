@@ -5125,3 +5125,6 @@
 - Microsoft - Cloud Solution Architecture INTERN (Netherlands, Noord-Holland, Schiphol) https://apply.careers.microsoft.com/careers/job/1970393557041284 · posted 2026-11-09
 - Nasdaq - Data Engineering Intern - 2027 Summer Internship (Denver-18 Street) https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379 · posted 2026-11-24
 - Abbott - Software Engineer (m/w/d) Data Science & Imaging, befristet bis 6/2028 (Germany - Jena) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/Germany---Jena/Software-Engineer--m-w-d--Data-Science---Imaging_31165353 · posted 2026-11-24
+- PayPal - Software Engineer - Recent Graduate (3 Locations) https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237 · posted 2026-11-24
+- DXC - Junior Cloud DevOps Engineer 24/7 (BGR - SOFIA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Junior-Cloud-DevOps-Engineer-24-7_51595198 · posted 2026-11-24
+- Cadence - Embedded Systems Verification Engineer Intern (OUJDA 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/OUJDA-01/Embedded-Systems-Verification-Engineer-Intern_R57191 · posted 2026-11-24
