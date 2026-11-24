@@ -5087,3 +5087,5 @@
 - Karman Industries - Embedded Software Engineer (LA) https://jobs.ashbyhq.com/Karman%20Industries/79d3076d-9b38-4bbd-b956-2bd4d33254d2/application?embed=true · posted 2026-11-24
 - Serko - Software Engineer 1 (Seattle, WA) https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply · posted 2026-11-24
 - Schneider Electric - Engineer I - Software (Westmont, IL, Chicago, IL) https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us · posted 2026-11-18
+- CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_35033 · posted 2026-11-24
+- RoboForce - AI Resident (Milpitas, CA) https://job-boards.greenhouse.io/roboforce/jobs/5459229008 · posted 2026-10-21
