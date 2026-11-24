@@ -5104,3 +5104,5 @@
 - Bosch - Internship in AI-Driven Innovation Management (Leinfelden-Echterdingen, BW) https://jobs.smartrecruiters.com/BoschGroup/744000163456519 · posted 2026-11-24
 - RTX - Software Engineering Intern (Summer 2027) (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983 · posted 2026-11-24
 - Cadence - Intern Software Engineer, Summer 2027, Three Month Duration  (EDINBURGH 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration-_R57246 · posted 2026-11-24
+- JPMorgan - Software Engineer I (Seattle, WA, United States) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800132 · posted 2026-11-24
+- Boston Dynamics - Platform Mechanical Engineer Co-Op (Waltham Office (POST)) https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Platform-Mechanical-Engineer-Co-Op_R3416
