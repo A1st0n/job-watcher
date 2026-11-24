@@ -5112,3 +5112,10 @@
 - Dakota Kitchen & Bath - Visual Basic Developer & Systems Support Specialist (Sioux Falls, SD) https://dakotakitchen.bamboohr.com/careers/215/ · posted 2026-11-24
 - Peraton - Software Engineering - Ignite Innovator Pgm (Blacksburg, VA) https://careers-peraton.icims.com/jobs/177377/job?mobile=true&needsRedirect=false · posted 2026-11-24
 - Syntronic - RF Test Developer (Gatineau, QC, Canada) https://jobs.lever.co/syntronic/3dc9b782-0ba9-4e59-a9ac-9567c81794b0/apply · posted 2026-11-24
+- Motorola Solutions - Software Engineering Intern - 2027 Internship Program (Salt Lake City, UT (UT17)) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950 · posted 2026-11-24
+- BEUMER Group - AI Development Intern (Somerset County, NJ) https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739 · posted 2026-11-24
+- AMD - Masters AI Rack/Cluster Design Engineering Co-op (Austin, TX) https://careers.amd.com/jobs/89564?icims=1&lang=en-us · posted 2026-11-24
+- JP Morgan Chase - Software Engineer 1 - Multiple Teams (Newark, DE) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021 · posted 2026-11-24
+- Howmet Aerospace - AI Engineer (Pittsburgh, PA) https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703 · posted 2026-11-24
+- Garmin - Software Engineer 1 (Chandler, AZ) https://careers.garmin.com/jobs/19953?icims=1&lang=en-us · posted 2026-11-24
+- Peraton - Software Engineer - Ignite Innovator Pgm (Blacksburg, VA) https://peraton.jibeapply.com/jobs/177377?icims=1&lang=en-us · posted 2026-11-24
