@@ -5089,3 +5089,7 @@
 - Schneider Electric - Engineer I - Software (Westmont, IL, Chicago, IL) https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us · posted 2026-11-18
 - CME Group - Software Engineer - Intern (Bangalore - Bagmane Tridib) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer---Intern_35033 · posted 2026-11-24
 - RoboForce - AI Resident (Milpitas, CA) https://job-boards.greenhouse.io/roboforce/jobs/5459229008 · posted 2026-10-21
+- ISO New England - Operations Process Automation Developer Intern (Holyoke, MA) https://job-boards.greenhouse.io/studentinternships/jobs/4455610009 · posted 2026-10-20
+- ISO New England - AI Assisted Modeling of Energy Storage Intern (Holyoke, MA) https://job-boards.greenhouse.io/studentinternships/jobs/4456494009 · posted 2026-10-20
+- Plains All American Pipeline - Operations Management System Intern - Digital & AI Innovation (Houston, TX) https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1 · posted 2026-11-20
+- DMC Engineering - Entry Level Software Engineer (Seattle, WA, Chicago, IL) https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008 · posted 2026-11-12
