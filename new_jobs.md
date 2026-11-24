@@ -5106,3 +5106,9 @@
 - Cadence - Intern Software Engineer, Summer 2027, Three Month Duration  (EDINBURGH 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration-_R57246 · posted 2026-11-24
 - JPMorgan - Software Engineer I (Seattle, WA, United States) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800132 · posted 2026-11-24
 - Boston Dynamics - Platform Mechanical Engineer Co-Op (Waltham Office (POST)) https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Platform-Mechanical-Engineer-Co-Op_R3416
+- AMD - Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op (Austin, Texas) https://campus-amd.icims.com/jobs/89564/login · posted 2026-11-24
+- RTX - Systems Engineering Co-op (Summer/Fall 2027) (US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127 · posted 2026-11-24
+- GE Vernova - GE Vernova Robotics & Manufacturing Automation Internship - Summer 2027 (Charleroi USA) https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Charleroi-USA/GE-Vernova-Robotics---Manufacturing-Automation-Internship---Summer-2027_R5059698-2 · posted 2026-11-24
+- Dakota Kitchen & Bath - Visual Basic Developer & Systems Support Specialist (Sioux Falls, SD) https://dakotakitchen.bamboohr.com/careers/215/ · posted 2026-11-24
+- Peraton - Software Engineering - Ignite Innovator Pgm (Blacksburg, VA) https://careers-peraton.icims.com/jobs/177377/job?mobile=true&needsRedirect=false · posted 2026-11-24
+- Syntronic - RF Test Developer (Gatineau, QC, Canada) https://jobs.lever.co/syntronic/3dc9b782-0ba9-4e59-a9ac-9567c81794b0/apply · posted 2026-11-24
