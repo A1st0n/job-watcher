@@ -5119,3 +5119,6 @@
 - Howmet Aerospace - AI Engineer (Pittsburgh, PA) https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703 · posted 2026-11-24
 - Garmin - Software Engineer 1 (Chandler, AZ) https://careers.garmin.com/jobs/19953?icims=1&lang=en-us · posted 2026-11-24
 - Peraton - Software Engineer - Ignite Innovator Pgm (Blacksburg, VA) https://peraton.jibeapply.com/jobs/177377?icims=1&lang=en-us · posted 2026-11-24
+- Cadence - Software Engineering Intern –API Pseudo-Emulator (CESSON SEVIGNE 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CESSON-SEVIGNE-01/Software-Engineering-Intern--API-Pseudo-Emulator_R57169 · posted 2026-11-24
+- Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01369879 · posted 2026-11-24
+- RF-SMART - Software Developer Intern (Highlands Ranch, CO, Jacksonville, FL) https://job-boards.greenhouse.io/rfsmart/jobs/5446867008 · posted 2026-11-24
