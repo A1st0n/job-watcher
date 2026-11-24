@@ -5065,3 +5065,4 @@
 - Strava - Software Engineer Intern - Server - User Lifecycle (SF) https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true · posted 2026-11-13
 - Strava - Machine Learning Engineer Intern - AI/ML Data Products (SF) https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true · posted 2026-11-13
 - Strava - Software Engineer Intern - Server - Next Sports (SF) https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true · posted 2026-11-13
+- Lockheed Martin - Software Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996477984584 · posted 2026-11-23
