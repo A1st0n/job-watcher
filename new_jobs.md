@@ -5076,3 +5076,4 @@
 - RTX - Systems Engineering Co-Op Summer/Fall 2027 - Onsite (US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Co-Op-Summer-Fall-2027---Onsite_01886273 · posted 2026-11-24
 - RTX - Systems Engineering Intern Summer 2027 - Onsite (US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Intern-Summer-2027---Onsite_01886275 · posted 2026-11-24
 - Emerson - Software Engineering Intern (Shanghai, Shanghai, China) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014201 · posted 2026-11-24
+- Emerson - Software Engineering Intern (Shanghai, Shanghai, China) https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014202 · posted 2026-11-24
