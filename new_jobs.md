@@ -5099,3 +5099,4 @@
 - CarGurus - Finance AI Solutions Intern (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8231798 · posted 2026-09-30
 - CarGurus - Software Development Engineer Intern (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8231504 · posted 2026-09-30
 - Shield AI - Engineer 2 New Grad - Software - Autonomy Capabilities (Arlington County, Arlington, VA, San Diego, CA) https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true · posted 2026-11-11
+- GE HealthCare - Advanced Visualization software engineering intern (HUN02-01-Budapest-Vaci Greens C) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4050069-1 · posted 2026-11-24
