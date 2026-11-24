@@ -5100,3 +5100,5 @@
 - CarGurus - Software Development Engineer Intern (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8231504 · posted 2026-09-30
 - Shield AI - Engineer 2 New Grad - Software - Autonomy Capabilities (Arlington County, Arlington, VA, San Diego, CA) https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true · posted 2026-11-11
 - GE HealthCare - Advanced Visualization software engineering intern (HUN02-01-Budapest-Vaci Greens C) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4050069-1 · posted 2026-11-24
+- JPMorgan - Software Engineer I-Java/Springboot/SQL (Newark, DE, United States) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021 · posted 2026-11-24
+- Bosch - Internship in AI-Driven Innovation Management (Leinfelden-Echterdingen, BW) https://jobs.smartrecruiters.com/BoschGroup/744000163456519 · posted 2026-11-24
