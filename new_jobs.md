@@ -5102,3 +5102,5 @@
 - GE HealthCare - Advanced Visualization software engineering intern (HUN02-01-Budapest-Vaci Greens C) https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4050069-1 · posted 2026-11-24
 - JPMorgan - Software Engineer I-Java/Springboot/SQL (Newark, DE, United States) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021 · posted 2026-11-24
 - Bosch - Internship in AI-Driven Innovation Management (Leinfelden-Echterdingen, BW) https://jobs.smartrecruiters.com/BoschGroup/744000163456519 · posted 2026-11-24
+- RTX - Software Engineering Intern (Summer 2027) (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983 · posted 2026-11-24
+- Cadence - Intern Software Engineer, Summer 2027, Three Month Duration  (EDINBURGH 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration-_R57246 · posted 2026-11-24
