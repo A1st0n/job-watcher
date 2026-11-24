@@ -5025,3 +5025,21 @@
 - RTX - Embedded System Engineering Intern (US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950 · posted 2026-11-23
 - Trimble - AI Software Developer Engineer in Test Intern (US - OR, Lake Oswego) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/AI-Software-Developer-Engineer-in-Test-Intern_R58210 · posted 2026-11-23
 - Intel - Intern – Software Asset Management Analyst (Costa Rica, San Jose) https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Intern---Software-Asset-Management-Analyst_JR0289430 · posted 2026-11-23
+- DraftKings - Data Engineer Intern (Boston, MA) https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464 · posted 2026-11-19
+- JP Morgan Chase - Applied AI Intern - HR CDAO (NYC) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549 · posted 2026-11-23
+- Lifeway - Software Engineer Intern - Full Stack - Back-End (Remote in USA) https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false · posted 2026-11-23
+- Paccar - Vehicle Software Integration Engineer Intern (Denton, TX, Sunnyvale, CA) https://jobs.paccar.com/job/Sunnyvale-2027-Spring-Internship-Vehicle-Software-Integration-Engineer-CA-94089/1459888133/?ats=successfactors · posted 2026-11-23
+- Lifeway - Front-End Engineer Intern (Nashville, TN, Remote in USA) https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false · posted 2026-11-23
+- Honeywell - Energy and Utilities Software Product Design and AI Development Intern (Raleigh, NC) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159367 · posted 2026-11-23
+- Milliman - Data Scientist Intern (Indianapolis, IN) https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420 · posted 2026-11-23
+- Amazon - Software Development Engineer Intern - Artificial General Intelligence (Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA) https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027 · posted 2026-11-23
+- GrayMatter Robotics - Robotics Engineering Intern: Systems & Applications (Carson, CA) https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true · posted 2026-11-23
+- CornerStone Partners - AI and Automation Intern (Charlottesville, VA) https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027 · posted 2026-11-23
+- Contoro - Robotics Software Engineer Intern - Autonomy - Automation (Austin, TX) https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?embed=true · posted 2026-11-23
+- Capital Technology Group - Data Engineering and Data Science Intern (Silver Spring, MD) https://boards.greenhouse.io/capitaltg/jobs/5307074007 · posted 2026-11-23
+- Capital Technology Group - Software Developer Intern (Silver Spring, MD) https://boards.greenhouse.io/capitaltg/jobs/5281563007 · posted 2026-11-23
+- AbbVie - AI Engineer (North Chicago, IL) https://jobs.smartrecruiters.com/AbbVie/3743990017034256 · posted 2026-11-23
+- Koddi - Associate Software Engineer (Fort Worth, TX) https://job-boards.greenhouse.io/koddi/jobs/8944769002 · posted 2026-11-23
+- Wyetech - Software Engineer Level 1 (Hanover, MD) https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1 · posted 2026-11-23
+- Keysight Technologies - Machine Learning Engineer - Reinforcement Learning & Optimization (Loveland, CO, Santa Rosa, CA) https://jobs.keysight.com/jobs/56742?icims=1&lang=en-us · posted 2026-11-23
+- Sorenson - Software Engineer (Salt Lake City, UT) https://recruiting2.ultipro.com/sor1001sore/JobBoard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263/OpportunityDetail?opportunityId=06b49418-36cf-4c00-9ff1-e3e181278d25 · posted 2026-11-23
