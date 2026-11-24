@@ -5067,3 +5067,8 @@
 - Strava - Software Engineer Intern - Server - Next Sports (SF) https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true · posted 2026-11-13
 - Lockheed Martin - Software Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996477984584 · posted 2026-11-23
 - SharkNinja - Firmware Engineer Intern - Advanced Development (Needham, MA) https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006 · posted 2026-11-24
+- Dell - Manufacturing IT Engineer Intern (Bukit Mertajam, Pulau Pinang, Malaysia) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11418 · posted 2026-11-24
+- Illumio - Security Platforms Engineer Intern - Security Platforms (Sunnyvale, CA) https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true · posted 2026-11-23
+- Illumio - Engineering Intern - Architecture Platform (Sunnyvale, CA) https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true · posted 2026-11-24
+- Microsoft - Software Engineer-Securing AI (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073425 · posted 2026-11-24
+- X Development - AI/ML Engineer & Applied Researcher - Early Stage Projects (Mountain View, CA) https://x.company/careers/8959513002?gh_jid=8959513002 · posted 2026-11-24
