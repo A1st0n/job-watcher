@@ -5135,3 +5135,7 @@
 - Boeing - Associate Software Engineer–Developer (USA - El Segundo, CA) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-Software-Engineer-Developer_JR2026527316-1 · posted 2026-11-24
 - T-Mobile - Summer 2027 Software Engineering Internship (Bellevue, Washington) https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382100 · posted 2026-11-24
 - Veeva - Associate Software Engineer - 2027 Start Dates (North Carolina - Raleigh) https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f · posted 2026-11-24
+- Amazon - Front-End Engineer Intern (Seattle, WA, Chicago, IL, Bellevue, WA) https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us · posted 2026-11-24
+- Rubrik - Software Engineer - Data Protection (Palo Alto, CA) https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058 · posted 2026-11-24
+- Eide Bailly - AI Engineer (Remote in USA) https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us · posted 2026-11-24
+- Amazon - Front-End Engineer (Seattle, WA) https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us · posted 2026-11-24
