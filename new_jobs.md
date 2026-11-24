@@ -5093,3 +5093,9 @@
 - ISO New England - AI Assisted Modeling of Energy Storage Intern (Holyoke, MA) https://job-boards.greenhouse.io/studentinternships/jobs/4456494009 · posted 2026-10-20
 - Plains All American Pipeline - Operations Management System Intern - Digital & AI Innovation (Houston, TX) https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1 · posted 2026-11-20
 - DMC Engineering - Entry Level Software Engineer (Seattle, WA, Chicago, IL) https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008 · posted 2026-11-12
+- Northrop Grumman - 2027 Software Engineering Intern - Colorado Springs CO (United States-Colorado-Colorado Springs) https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918 · posted 2026-11-24
+- CarGurus - Software Engineer Intern - Full Stack (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8230777 · posted 2026-09-30
+- CarGurus - Data Platform Engineer Intern (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8230750 · posted 2026-09-30
+- CarGurus - Finance AI Solutions Intern (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8231798 · posted 2026-09-30
+- CarGurus - Software Development Engineer Intern (Boston, MA) https://job-boards.greenhouse.io/ecjobb/jobs/8231504 · posted 2026-09-30
+- Shield AI - Engineer 2 New Grad - Software - Autonomy Capabilities (Arlington County, Arlington, VA, San Diego, CA) https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true · posted 2026-11-11
