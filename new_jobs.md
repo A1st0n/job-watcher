@@ -5072,3 +5072,6 @@
 - Illumio - Engineering Intern - Architecture Platform (Sunnyvale, CA) https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true · posted 2026-11-24
 - Microsoft - Software Engineer-Securing AI (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557073425 · posted 2026-11-24
 - X Development - AI/ML Engineer & Applied Researcher - Early Stage Projects (Mountain View, CA) https://x.company/careers/8959513002?gh_jid=8959513002 · posted 2026-11-24
+- Texas Instruments - Product/Test Engineer Summer Internship Program (New Taipei City, Taiwan) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015213 · posted 2026-11-24
+- RTX - Systems Engineering Co-Op Summer/Fall 2027 - Onsite (US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Co-Op-Summer-Fall-2027---Onsite_01886273 · posted 2026-11-24
+- RTX - Systems Engineering Intern Summer 2027 - Onsite (US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Intern-Summer-2027---Onsite_01886275 · posted 2026-11-24
