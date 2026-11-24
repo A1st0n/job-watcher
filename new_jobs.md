@@ -5128,3 +5128,5 @@
 - PayPal - Software Engineer - Recent Graduate (3 Locations) https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237 · posted 2026-11-24
 - DXC - Junior Cloud DevOps Engineer 24/7 (BGR - SOFIA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/Junior-Cloud-DevOps-Engineer-24-7_51595198 · posted 2026-11-24
 - Cadence - Embedded Systems Verification Engineer Intern (OUJDA 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/OUJDA-01/Embedded-Systems-Verification-Engineer-Intern_R57191 · posted 2026-11-24
+- RTX - Software Engineer I (E2DVA-P1-1) (US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--E2DVA-P1-1-_01888039 · posted 2026-11-24
+- RTX - Software Engineer I (E2DNY-P1-1) (US-NY-BINGHAMTON-288 ~ 31 Lewis Rd ~ LEWIS) https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--E2DNY-P1-1-_01888023 · posted 2026-11-24
