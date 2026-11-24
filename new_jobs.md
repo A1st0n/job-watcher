@@ -5080,3 +5080,9 @@
 - Bosch - Praktikum Fertigungsprozessentwicklung & Technische IT (w/m/div.) ab Februar 2026 (Hallein, Salzburg) https://jobs.smartrecruiters.com/BoschGroup/744000163390435 · posted 2026-11-24
 - Amazon - Software Development Engineer Intern - 2027, Beijing (Beijing, CHN) https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing · posted 2026-11-24
 - Veolia - Manufacturing Software Engineer Intern (Boulder, CO) https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969 · posted 2026-11-24
+- Continental - Mandatory Internship - Global Platforms and Marketing Operations - REF100720S (Hannover, NDS) https://jobs.smartrecruiters.com/Continental/744000163399329 · posted 2026-11-24
+- Esri - Software Engineer Intern (St. Louis, MO) https://job-boards.greenhouse.io/studentprogram/jobs/5286753007 · posted 2026-11-05
+- Esri - Software Development Engineer Intern (Redlands, CA) https://job-boards.greenhouse.io/studentprogram/jobs/5217883007 · posted 2026-08-25
+- Datalab USA - Production Programmer – Entry Level SQL Developer (Germantown, MD) https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply · posted 2026-11-24
+- Karman Industries - Embedded Software Engineer (LA) https://jobs.ashbyhq.com/Karman%20Industries/79d3076d-9b38-4bbd-b956-2bd4d33254d2/application?embed=true · posted 2026-11-24
+- Serko - Software Engineer 1 (Seattle, WA) https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply · posted 2026-11-24
