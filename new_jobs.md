@@ -5122,3 +5122,6 @@
 - Cadence - Software Engineering Intern –API Pseudo-Emulator (CESSON SEVIGNE 01) https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CESSON-SEVIGNE-01/Software-Engineering-Intern--API-Pseudo-Emulator_R57169 · posted 2026-11-24
 - Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01369879 · posted 2026-11-24
 - RF-SMART - Software Developer Intern (Highlands Ranch, CO, Jacksonville, FL) https://job-boards.greenhouse.io/rfsmart/jobs/5446867008 · posted 2026-11-24
+- Microsoft - Cloud Solution Architecture INTERN (Netherlands, Noord-Holland, Schiphol) https://apply.careers.microsoft.com/careers/job/1970393557041284 · posted 2026-11-09
+- Nasdaq - Data Engineering Intern - 2027 Summer Internship (Denver-18 Street) https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379 · posted 2026-11-24
+- Abbott - Software Engineer (m/w/d) Data Science & Imaging, befristet bis 6/2028 (Germany - Jena) https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/Germany---Jena/Software-Engineer--m-w-d--Data-Science---Imaging_31165353 · posted 2026-11-24
