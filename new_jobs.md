@@ -5043,3 +5043,19 @@
 - Wyetech - Software Engineer Level 1 (Hanover, MD) https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1 · posted 2026-11-23
 - Keysight Technologies - Machine Learning Engineer - Reinforcement Learning & Optimization (Loveland, CO, Santa Rosa, CA) https://jobs.keysight.com/jobs/56742?icims=1&lang=en-us · posted 2026-11-23
 - Sorenson - Software Engineer (Salt Lake City, UT) https://recruiting2.ultipro.com/sor1001sore/JobBoard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263/OpportunityDetail?opportunityId=06b49418-36cf-4c00-9ff1-e3e181278d25 · posted 2026-11-23
+- Lucid - Intern, IT Help Desk Level 3, Summer 2027 (Casa Grande, AZ) https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007 · posted 2026-11-23
+- Shield AI - Software Engineering Intern (Dallas, TX) https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true · posted 2026-11-23
+- Exowatt - Software & AI Intern (Austin, TX) https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply · posted 2026-11-23
+- ViaSat - Embedded Software Engineer Intern (Tempe, AZ) https://careers.viasat.com/jobs/10478?icims=1&lang=en-us · posted 2026-11-23
+- Runna - Full Stack Engineer Intern - Core App (London, UK) https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad/application?embed=true · posted 2026-11-23
+- Runna - Full Stack Engineer Intern - Growth (London, UK) https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true · posted 2026-11-23
+- Runna - AI Engineer Intern (London, UK) https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true · posted 2026-11-23
+- Illinois Tool Works - Software or Computer Engineer Intern (Fairmont, MN) https://careers.itw.com/global/en/job/JR11356 · posted 2026-11-23
+- Samsung Research America - Computer Vision Intern (Mountain View, CA) https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002 · posted 2026-11-23
+- Brave - Software Development Intern - Web3 Core (Remote in Canada) https://job-boards.greenhouse.io/brave/jobs/8412532 · posted 2026-11-23
+- Oscar Health - Software Engineer Intern (NYC) https://oscarhealth.com/careers/jobs?gh_jid=8407472 · posted 2026-11-23
+- Shield AI - Software Engineer 1 - Hardware Test (Seattle, WA) https://jobs.ashbyhq.com/shield/f4f24ca8-3345-4078-bdfb-f4da4dbd30cc/application?embed=true · posted 2026-08-25
+- GHD - Graduate Developer (Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Philadelphia, PA, Rosemont, IL, Chicago, IL, Golden, CO) https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509 · posted 2026-11-23
+- L3Harris Technologies - Associate Systems Engineer (Palm Bay, FL) https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineer-FL-32905/1422832200/?ats=successfactors · posted 2026-11-23
+- Dukosi - Software Engineer (Edinburgh, UK, Germany) https://dukosi.bamboohr.com/careers/117/ · posted 2026-11-23
+- WebAI - Junior Software Developer (Austin, TX) https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df/application?embed=true · posted 2026-11-23
