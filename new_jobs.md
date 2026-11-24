@@ -5086,3 +5086,4 @@
 - Datalab USA - Production Programmer – Entry Level SQL Developer (Germantown, MD) https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply · posted 2026-11-24
 - Karman Industries - Embedded Software Engineer (LA) https://jobs.ashbyhq.com/Karman%20Industries/79d3076d-9b38-4bbd-b956-2bd4d33254d2/application?embed=true · posted 2026-11-24
 - Serko - Software Engineer 1 (Seattle, WA) https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply · posted 2026-11-24
+- Schneider Electric - Engineer I - Software (Westmont, IL, Chicago, IL) https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us · posted 2026-11-18
