@@ -5059,3 +5059,9 @@
 - L3Harris Technologies - Associate Systems Engineer (Palm Bay, FL) https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineer-FL-32905/1422832200/?ats=successfactors · posted 2026-11-23
 - Dukosi - Software Engineer (Edinburgh, UK, Germany) https://dukosi.bamboohr.com/careers/117/ · posted 2026-11-23
 - WebAI - Junior Software Developer (Austin, TX) https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df/application?embed=true · posted 2026-11-23
+- KLA - Software Engineering Intern (Milpitas, CA) https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642953-1 · posted 2026-11-24
+- Strava - Software Engineer Intern - Android - Subscriptions (SF) https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true · posted 2026-11-13
+- Strava - Software Engineer Intern - Server - Comms (SF) https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true · posted 2026-11-13
+- Strava - Software Engineer Intern - Server - User Lifecycle (SF) https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true · posted 2026-11-13
+- Strava - Machine Learning Engineer Intern - AI/ML Data Products (SF) https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true · posted 2026-11-13
+- Strava - Software Engineer Intern - Server - Next Sports (SF) https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true · posted 2026-11-13
