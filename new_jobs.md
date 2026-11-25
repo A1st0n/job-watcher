@@ -5179,3 +5179,6 @@
 - Weekday AI - AI Data Contributor (Remote in USA, Remote in Canada) https://apply.workable.com/weekday-1/j/FE232C4F67/apply · posted 2026-11-25
 - Microsoft - Research Intern - AI Systems Architecture and Efficient LLM Inference (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557079428 · posted 2026-11-24
 - AMD - 2027 Term 2 Internship – Developing AI & Data Science Solutions to Accelerate AMD's Product Development (Singapore, Singapore) https://globalcampus-amd.icims.com/jobs/103655/login · posted 2026-11-25
+- AMD - 2027 Term 2 Internship – SLT Platform Engineer (Singapore, Singapore) https://globalcampus-amd.icims.com/jobs/103673/login · posted 2026-11-25
+- Bosch - Paid Internship in AI Application Team (f/m) (Warszawa, Województwo mazowieckie) https://jobs.smartrecruiters.com/BoschGroup/744000163631520 · posted 2026-11-25
+- Thermo Fisher - Intern, Computational / Data Scientist for Transmission Electron Microscopy (Materials Science) (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Computational---Data-Scientist-for-Transmission-Electron-Microscopy--Materials-Science-_R-01374080 · posted 2026-11-25
