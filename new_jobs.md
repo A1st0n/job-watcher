@@ -5166,3 +5166,5 @@
 - Bandwidth - Software Engineer Intern (Raleigh, NC) https://job-boards.greenhouse.io/bandwidth/jobs/8414452 · posted 2026-11-25
 - Neuralink - Electrical Test Engineer Intern (South SF) https://boards.greenhouse.io/neuralink/jobs/8197808003 · posted 2026-11-24
 - PatientPoint - Data Engineer Intern (Cincinnati, OH) https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005 · posted 2026-11-24
+- Lockheed Martin - Software Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996478149210 · posted 2026-11-24
+- Lockheed Martin - Systems Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996478149799 · posted 2026-11-24
