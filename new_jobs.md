@@ -5139,3 +5139,11 @@
 - Rubrik - Software Engineer - Data Protection (Palo Alto, CA) https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058 · posted 2026-11-24
 - Eide Bailly - AI Engineer (Remote in USA) https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us · posted 2026-11-24
 - Amazon - Front-End Engineer (Seattle, WA) https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us · posted 2026-11-24
+- Lockheed Martin - Systems Engineering Intern (Huntsville, AL) https://lockheedmartin.eightfold.ai/careers/job/996478129976 · posted 2026-11-24
+- Lockheed Martin - Embedded Software Engineering Intern - Summer 2027 (Highlands Ranch, CO) https://lockheedmartin.eightfold.ai/careers/job/996477219103 · posted 2026-11-24
+- Lockheed Martin - Systems Engineer Intern - Summer 2027 (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996478146174 · posted 2026-11-24
+- Neuralink - Electrical Test Engineer Intern (South San Francisco, California, United States) https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003 · posted 2026-11-24
+- Johns Hopkins Applied Physics Laboratory - Robotics Intern (Laurel, MD) https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us · posted 2026-11-24
+- Meta - Research Scientist Intern - Machine Learning for Robust 3D Perception (Redmond, WA) https://www.metacareers.com/jobs/1482835147112669 · posted 2026-11-24
+- Meta - Battery Engineer Intern - Battery Systems Engineering (Sunnyvale, CA) https://www.metacareers.com/jobs/1165674205921515 · posted 2026-11-24
+- Johns Hopkins Applied Physics Laboratory - Artificial Intelligence and Complex Systems Intern (Laurel, MD) https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us · posted 2026-11-24
