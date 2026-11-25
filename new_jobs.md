@@ -5158,3 +5158,4 @@
 - Veeva Systems - Associate Software Engineer New Grad (Raleigh, NC) https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply · posted 2026-11-25
 - Beyond New Horizons - ID&C Software Engineer (Tullahoma, TN) https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false · posted 2026-11-24
 - Deloitte - Software Engineer (Hermitage, Nashville, TN) https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512 · posted 2026-11-25
+- Metropolitan Transportation Authority - Application Developer Analyst Levels 1–2 (Jamaica, Queens, NY) https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false · posted 2026-11-25
