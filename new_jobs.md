@@ -5147,3 +5147,5 @@
 - Meta - Research Scientist Intern - Machine Learning for Robust 3D Perception (Redmond, WA) https://www.metacareers.com/jobs/1482835147112669 · posted 2026-11-24
 - Meta - Battery Engineer Intern - Battery Systems Engineering (Sunnyvale, CA) https://www.metacareers.com/jobs/1165674205921515 · posted 2026-11-24
 - Johns Hopkins Applied Physics Laboratory - Artificial Intelligence and Complex Systems Intern (Laurel, MD) https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us · posted 2026-11-24
+- IMC - SYD - 2027  - Machine Learning Intern (Sydney,  Australia) https://job-boards.eu.greenhouse.io/imc/jobs/4982344101 · posted 2026-11-24
+- Dell Technologies - Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement (Hopkinton, MA) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999 · posted 2026-11-25
