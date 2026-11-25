@@ -5196,3 +5196,4 @@
 - Intel - System Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0289489 · posted 2026-11-25
 - Lila Sciences - ML Scientist - Retrieval & RAG for Scientific Literature (Cambridge, MA, SF) https://job-boards.greenhouse.io/lilasciences/jobs/4477299009 · posted 2026-11-25
 - Marvell - Applied AI/ML Research Scientist Intern (Santa Clara, CA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1 · posted 2026-11-25
+- Lightmatter - Firmware Intern – Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008 · posted 2026-11-25
