@@ -5192,3 +5192,4 @@
 - Waters - IT Digital Intern (Milford, MA) https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false · posted 2026-11-25
 - Capgemini - AI Associate (London, UK) https://careers.capgemini.com/job/London-AI-Associate/1460717733/?ats=successfactors · posted 2026-11-25
 - Capgemini - AI Engineer (London, UK) https://careers.capgemini.com/job/London-AI-Engineer/1460584633/?ats=successfactors · posted 2026-11-25
+- Arcfield - Software Engineer 1 (Rome, NY) https://careers.arcfield.com/jobs/8780?icims=1 · posted 2026-10-15
