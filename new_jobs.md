@@ -5187,3 +5187,4 @@
 - GE Vernova - Software Engineering Intern (2 Locations) https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineering-Intern_R5050069-1 · posted 2026-11-25
 - State Street - Software Engineering Intern - Full-time Internship (Jan - June 2027) (Boston, Massachusetts) https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504 · posted 2026-11-25
 - Lockheed Martin - Software Engineer - Intern (Annapolis Junction, MD) https://lockheedmartin.eightfold.ai/careers/job/996478048280 · posted 2026-11-24
+- Carrier - Software & Controls Engineering Intern - Summer (CAN05: CCS-Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA) https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979 · posted 2026-11-25
