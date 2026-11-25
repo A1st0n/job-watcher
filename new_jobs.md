@@ -5163,3 +5163,6 @@
 - Lockheed Martin - Test/Networking Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477597621 · posted 2026-11-24
 - Lockheed Martin - Systems Engineer - Intern (Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477952310 · posted 2026-11-24
 - Prolucid Technologies - Junior Software Engineer (Mississauga, ON, Canada) https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply · posted 2026-11-25
+- Bandwidth - Software Engineer Intern (Raleigh, NC) https://job-boards.greenhouse.io/bandwidth/jobs/8414452 · posted 2026-11-25
+- Neuralink - Electrical Test Engineer Intern (South SF) https://boards.greenhouse.io/neuralink/jobs/8197808003 · posted 2026-11-24
+- PatientPoint - Data Engineer Intern (Cincinnati, OH) https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005 · posted 2026-11-24
