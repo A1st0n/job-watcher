@@ -5209,3 +5209,5 @@
 - Lockheed Martin - Test Engineering - Intern (Lufkin, TX) https://lockheedmartin.eightfold.ai/careers/job/996477506388 · posted 2026-11-25
 - Lockheed Martin - Systems Engineer (Network) - Intern (Mount Laurel, NJ) https://lockheedmartin.eightfold.ai/careers/job/996478006526 · posted 2026-11-25
 - CodeRabbit - Software Engineer Intern  (San Francisco) https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9 · posted 2026-11-25
+- CodeRabbit - Software Engineer - New Grad (San Francisco) https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51 · posted 2026-11-25
+- Veeva - Intern Software Engineer (Summer 2027) (Massachusetts - Boston) https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2 · posted 2026-08-13
