@@ -5204,3 +5204,4 @@
 - Lockheed Martin - Systems Engineer - Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477991471 · posted 2026-11-23
 - Coinbase - Security Engineer Intern (Hybrid - New York, NY) https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869 · posted 2026-11-25
 - Zoox - Supply Chain AI Intern [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8 · posted 2026-11-20
+- Cisco - Security Engineer I (Intern) - United States (RTP, North Carolina, US) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885 · posted 2026-11-25
