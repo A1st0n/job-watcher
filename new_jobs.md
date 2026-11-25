@@ -5159,3 +5159,7 @@
 - Beyond New Horizons - ID&C Software Engineer (Tullahoma, TN) https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false · posted 2026-11-24
 - Deloitte - Software Engineer (Hermitage, Nashville, TN) https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512 · posted 2026-11-25
 - Metropolitan Transportation Authority - Application Developer Analyst Levels 1–2 (Jamaica, Queens, NY) https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false · posted 2026-11-25
+- Nvidia - Software Engineering Intern, Simulation Technology - Summer 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531 · posted 2026-11-25
+- Lockheed Martin - Test/Networking Intern (King of Prussia, PA) https://lockheedmartin.eightfold.ai/careers/job/996477597621 · posted 2026-11-24
+- Lockheed Martin - Systems Engineer - Intern (Moorestown, NJ) https://lockheedmartin.eightfold.ai/careers/job/996477952310 · posted 2026-11-24
+- Prolucid Technologies - Junior Software Engineer (Mississauga, ON, Canada) https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply · posted 2026-11-25
