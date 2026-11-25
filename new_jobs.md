@@ -5184,3 +5184,4 @@
 - Thermo Fisher - Intern, Computational / Data Scientist for Transmission Electron Microscopy (Materials Science) (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Computational---Data-Scientist-for-Transmission-Electron-Microscopy--Materials-Science-_R-01374080 · posted 2026-11-25
 - Artefact - AI Builder Intern (NYC) https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002 · posted 2026-11-23
 - Appodeal - Junior Software Engineer (Parkland, FL) https://job-boards.greenhouse.io/appodeal/jobs/4918549008 · posted 2026-11-10
+- GE Vernova - Software Engineering Intern (2 Locations) https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineering-Intern_R5050069-1 · posted 2026-11-25
