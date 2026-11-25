@@ -5211,3 +5211,16 @@
 - CodeRabbit - Software Engineer Intern  (San Francisco) https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9 · posted 2026-11-25
 - CodeRabbit - Software Engineer - New Grad (San Francisco) https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51 · posted 2026-11-25
 - Veeva - Intern Software Engineer (Summer 2027) (Massachusetts - Boston) https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2 · posted 2026-08-13
+- ManTech - C++ Developer Intern (Lexington Park, MD) https://mantech.avature.net/en_US/careers/JobDetail/67268 · posted 2026-11-25
+- Staples - Full Stack Software Engineer Intern (Austin, TX) https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145 · posted 2026-11-25
+- Tesla - Robotics Audio DSP Engineer Intern (Palo Alto, CA) https://www.tesla.com/careers/search/job/291227 · posted 2026-11-25
+- Harvard Companies - AI Engineer Intern (Miami, FL) https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false · posted 2026-11-25
+- Tecsys - Developer Intern (Montreal, QC, Canada) https://apply.workable.com/tecsys/j/B6D2B7128A/apply · posted 2026-11-25
+- Harvard Companies - AI Engineering Intern (Miami, FL) https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false · posted 2026-11-25
+- IXL Learning - Software Engineer Intern (San Mateo, CA) https://www.ixl.com/company/jobs?gh_jid=8963039002 · posted 2026-11-25
+- Starkey - Software Engineer Intern (Eden Prairie, MN) https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a · posted 2026-11-25
+- Sonos - Junior Software Development Engineer - Web (Boston, MA, Seattle, WA) https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912 · posted 2026-11-25
+- Vestwell - Associate Software Engineer (King of Prussia, PA, Austin, TX, Scottsdale, AZ, NYC) https://job-boards.greenhouse.io/vestwell/jobs/8209363003 · posted 2026-11-25
+- Mayo Clinic - Embedded Analog Electrical Engineer (Rochester, MN) https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396397 · posted 2026-11-25
+- Parallel Web Systems - Early Career Software Engineer - Developer Experience (Palo Alto, CA, SF, NYC) https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true · posted 2026-11-25
+- Bluesight - Data Engineer (Remote in USA) https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply · posted 2026-11-25
