@@ -5182,3 +5182,5 @@
 - AMD - 2027 Term 2 Internship – SLT Platform Engineer (Singapore, Singapore) https://globalcampus-amd.icims.com/jobs/103673/login · posted 2026-11-25
 - Bosch - Paid Internship in AI Application Team (f/m) (Warszawa, Województwo mazowieckie) https://jobs.smartrecruiters.com/BoschGroup/744000163631520 · posted 2026-11-25
 - Thermo Fisher - Intern, Computational / Data Scientist for Transmission Electron Microscopy (Materials Science) (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Eindhoven-Netherlands/Computational---Data-Scientist-for-Transmission-Electron-Microscopy--Materials-Science-_R-01374080 · posted 2026-11-25
+- Artefact - AI Builder Intern (NYC) https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002 · posted 2026-11-23
+- Appodeal - Junior Software Engineer (Parkland, FL) https://job-boards.greenhouse.io/appodeal/jobs/4918549008 · posted 2026-11-10
