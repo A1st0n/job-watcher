@@ -5199,3 +5199,5 @@
 - Lightmatter - Firmware Intern – Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008 · posted 2026-11-25
 - Nvidia - Product Test Engineer (RDSS Intern) (Taiwan, Hsinchu) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Test-Engineer--RDSS-Intern-_JR2028595 · posted 2026-11-23
 - Merck - Junior AI & SaaS Product Security Engineer (3 Locations) https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Junior-AI---SaaS-Product-Security-Engineer_R401956-1 · posted 2026-11-25
+- Nvidia - GPU Firmware Intern - 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/GPU-Firmware-Intern---2027_JR2029959 · posted 2026-11-20
+- Nvidia - Research Intern, Robotics - 2027 (Singapore, Pasir Panjang) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499 · posted 30+ days ago
