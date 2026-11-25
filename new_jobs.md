@@ -5195,3 +5195,4 @@
 - Arcfield - Software Engineer 1 (Rome, NY) https://careers.arcfield.com/jobs/8780?icims=1 · posted 2026-10-15
 - Intel - System Software Engineering Intern (Poland, Gdansk) https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0289489 · posted 2026-11-25
 - Lila Sciences - ML Scientist - Retrieval & RAG for Scientific Literature (Cambridge, MA, SF) https://job-boards.greenhouse.io/lilasciences/jobs/4477299009 · posted 2026-11-25
+- Marvell - Applied AI/ML Research Scientist Intern (Santa Clara, CA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1 · posted 2026-11-25
