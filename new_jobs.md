@@ -5206,3 +5206,6 @@
 - Zoox - Supply Chain AI Intern [Summer 2027] (Foster City, CA) https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8 · posted 2026-11-20
 - Cisco - Security Engineer I (Intern) - United States (RTP, North Carolina, US) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885 · posted 2026-11-25
 - Parallel Web Systems - Early Career Software Engineer, Developer Experience (San Francisco) https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c · posted 2026-11-25
+- Lockheed Martin - Test Engineering - Intern (Lufkin, TX) https://lockheedmartin.eightfold.ai/careers/job/996477506388 · posted 2026-11-25
+- Lockheed Martin - Systems Engineer (Network) - Intern (Mount Laurel, NJ) https://lockheedmartin.eightfold.ai/careers/job/996478006526 · posted 2026-11-25
+- CodeRabbit - Software Engineer Intern  (San Francisco) https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9 · posted 2026-11-25
