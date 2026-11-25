@@ -5168,3 +5168,4 @@
 - PatientPoint - Data Engineer Intern (Cincinnati, OH) https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005 · posted 2026-11-24
 - Lockheed Martin - Software Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996478149210 · posted 2026-11-24
 - Lockheed Martin - Systems Engineer - Intern (Owego, NY) https://lockheedmartin.eightfold.ai/careers/job/996478149799 · posted 2026-11-24
+- Nvidia - AI and Quant DevTech Engineering Intern – Summer 2027 (US, CA, Santa Clara) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517 · posted 2026-11-25
