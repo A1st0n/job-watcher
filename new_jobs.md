@@ -5198,3 +5198,4 @@
 - Marvell - Applied AI/ML Research Scientist Intern (Santa Clara, CA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1 · posted 2026-11-25
 - Lightmatter - Firmware Intern – Summer 2027 (Boston, MA) https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008 · posted 2026-11-25
 - Nvidia - Product Test Engineer (RDSS Intern) (Taiwan, Hsinchu) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Test-Engineer--RDSS-Intern-_JR2028595 · posted 2026-11-23
+- Merck - Junior AI & SaaS Product Security Engineer (3 Locations) https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Junior-AI---SaaS-Product-Security-Engineer_R401956-1 · posted 2026-11-25
