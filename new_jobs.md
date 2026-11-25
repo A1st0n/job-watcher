@@ -5177,3 +5177,5 @@
 - TikTok - Backend Software Engineer - Data Lifecycle Management (San Jose, CA) https://lifeattiktok.com/search/7710030288165996805 · posted 2026-11-25
 - HPE - Cloud Security Engagement Intern (Spring, Texas, United States of America) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Security-Engagement-Intern_1216079 · posted 2026-11-24
 - Weekday AI - AI Data Contributor (Remote in USA, Remote in Canada) https://apply.workable.com/weekday-1/j/FE232C4F67/apply · posted 2026-11-25
+- Microsoft - Research Intern - AI Systems Architecture and Efficient LLM Inference (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557079428 · posted 2026-11-24
+- AMD - 2027 Term 2 Internship – Developing AI & Data Science Solutions to Accelerate AMD's Product Development (Singapore, Singapore) https://globalcampus-amd.icims.com/jobs/103655/login · posted 2026-11-25
