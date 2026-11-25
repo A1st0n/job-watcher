@@ -5149,3 +5149,12 @@
 - Johns Hopkins Applied Physics Laboratory - Artificial Intelligence and Complex Systems Intern (Laurel, MD) https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us · posted 2026-11-24
 - IMC - SYD - 2027  - Machine Learning Intern (Sydney,  Australia) https://job-boards.eu.greenhouse.io/imc/jobs/4982344101 · posted 2026-11-24
 - Dell Technologies - Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement (Hopkinton, MA) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999 · posted 2026-11-25
+- Super - Data Engineer Intern (Toronto, ON, Canada) https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true · posted 2026-09-04
+- Microsoft - Research Intern - AI Systems Architecture - Efficient LLM Inference (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557079428 · posted 2026-11-25
+- Kimley-Horn - Data Science Intern (Mesa, AZ) https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us · posted 2026-11-24
+- Advanced Energy - Firmware Engineer Intern (Fort Collins, CO) https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors · posted 2026-11-25
+- QinetiQ - Software Engineer Intern (Fort Belvoir, VA) https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false · posted 2026-11-24
+- Oracle - Systems Engineer 1 (Kansas City, MO) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415 · posted 2026-11-25
+- Veeva Systems - Associate Software Engineer New Grad (Raleigh, NC) https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply · posted 2026-11-25
+- Beyond New Horizons - ID&C Software Engineer (Tullahoma, TN) https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false · posted 2026-11-24
+- Deloitte - Software Engineer (Hermitage, Nashville, TN) https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512 · posted 2026-11-25
