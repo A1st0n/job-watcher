@@ -5201,3 +5201,5 @@
 - Merck - Junior AI & SaaS Product Security Engineer (3 Locations) https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Junior-AI---SaaS-Product-Security-Engineer_R401956-1 · posted 2026-11-25
 - Nvidia - GPU Firmware Intern - 2027 (Taiwan, Taipei) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/GPU-Firmware-Intern---2027_JR2029959 · posted 2026-11-20
 - Nvidia - Research Intern, Robotics - 2027 (Singapore, Pasir Panjang) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499 · posted 30+ days ago
+- Lockheed Martin - Systems Engineer - Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477991471 · posted 2026-11-23
+- Coinbase - Security Engineer Intern (Hybrid - New York, NY) https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869 · posted 2026-11-25
