@@ -5261,3 +5261,5 @@
 - Cisco - Software Engineer (Research Triangle Park, Durham, NC) https://careers.cisco.com/global/en/job/2030715 · posted 2026-11-26
 - Bosch - [BD] JavaScript Developer Intern (6-month fulltime internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000163835629 · posted 2026-11-26
 - Johnson & Johnson - Intern Robotics R&D (Oberdorf, Basel-Country, Switzerland) https://jj.wd5.myworkdayjobs.com/Jj/job/Oberdorf-Basel-Country-Switzerland/Intern-Robotics-R-D_R-113294 · posted 2026-11-26
+- Boeing - Associate Software Engineer - Analytics (IND - Bangalore, India) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026530756-1 · posted 2026-11-26
+- Continental - Mandatory Internship - Global Platforms and Marketing Operations - REF100720S (Hannover, NDS) https://jobs.smartrecruiters.com/Continental/744000163844396 · posted 2026-11-26
