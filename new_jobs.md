@@ -5224,3 +5224,23 @@
 - Mayo Clinic - Embedded Analog Electrical Engineer (Rochester, MN) https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396397 · posted 2026-11-25
 - Parallel Web Systems - Early Career Software Engineer - Developer Experience (Palo Alto, CA, SF, NYC) https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true · posted 2026-11-25
 - Bluesight - Data Engineer (Remote in USA) https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply · posted 2026-11-25
+- CodeRabbit - Software Engineer Intern (SF) https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true · posted 2026-11-25
+- Total Quality Logistics - Software Development Intern (Cincinnati, OH) https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763 · posted 2026-11-25
+- Total Quality Logistics - Data Science & Analytics Intern (Cincinnati, OH) https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764 · posted 2026-11-25
+- Total Quality Logistics - AI Product Intern (Cincinnati, OH) https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757 · posted 2026-11-25
+- Digital Control - Software Engineer Intern (Kent, WA) https://apply.workable.com/digital-control/j/AB9A181560/apply · posted 2026-11-25
+- SambaNova Systems - Machine Learning Engineer Intern (Austin, TX, San Jose, CA) https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004 · posted 2026-11-25
+- SambaNova Systems - AI Performance Engineer Intern (Austin, TX, San Jose, CA) https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004 · posted 2026-11-25
+- SambaNova Systems - ML Infrastructure Engineer Intern (Austin, TX, San Jose, CA) https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004 · posted 2026-11-25
+- Xona Space Systems - Software Engineer Intern - Engineering Productivity (Burlingame, CA) https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab/application?embed=true · posted 2026-11-25
+- Veeva Systems - Software Engineer Intern (Pleasanton, CA) https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply · posted 2026-11-25
+- Best Egg - Software Engineer Intern (Wilmington, DE) https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392/apply · posted 2026-11-25
+- Tombras - Data Science Intern (Knoxville, TN) https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9 · posted 2026-11-25
+- Apex - Flight Software Engineer Intern (LA) https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true · posted 2026-11-25
+- Apex - Software Engineering Operating Systems Intern (LA) https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true · posted 2026-11-25
+- WEP Clinical - IT Intern: AI & Transformation (Morrisville, NC) https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b/apply · posted 2026-11-10
+- CodeRabbit - Software Engineer New Grad (SF) https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51/application?embed=true · posted 2026-11-25
+- XPENG Motors - Software Engineer New Grad - Computing Platform (Santa Clara, CA) https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002 · posted 2026-11-25
+- WELLSTAR Technologies - Junior Software Developer (Remote in Canada) https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer · posted 2026-11-25
+- Ayo Semiconductor - Machine Learning Researcher (Boston, MA) https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff/application?embed=true · posted 2026-11-25
+- Ayo Semiconductor - Machine Learning Engineer (Boston, MA) https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true · posted 2026-11-25
