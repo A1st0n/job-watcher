@@ -5277,3 +5277,5 @@
 - Thermo Fisher - Intern, QA associate (Tilburg, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Tilburg-Netherlands/Intern--QA-associate_R-01374133 · posted 2026-11-26
 - Procter & Gamble - IT Intern - Brand Building (Semester 2027) - P&G Management Internship Program (SINGAPORE GENERAL OFFICE) https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/IT-Intern---Brand-Building--Semester-2027----P-G-Management-Internship-Program_R000163102 · posted 2026-11-23
 - Micron - Intern - Data Scientist (Fab 10A, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Data-Scientist_JR118296 · posted 2026-11-26
+- Amazon - 2027 Software Dev Engineer Internship, AWS EC2 (Berlin, Berlin, DEU) https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2 · posted 2026-11-26
+- HPE - Software Engineering(Systems) Intern (Heredia, Heredia, Costa Rica) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210993 · posted 2026-11-26
