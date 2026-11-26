@@ -5257,3 +5257,4 @@
 - Scout AI - Software Engineer New Grad - Core Systems (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true · posted 2026-11-26
 - Ameren - Robotics Intern - Multiple Teams (St. Louis, MO) https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1 · posted 2026-09-24
 - Honeywell - Intern Bachelors Cyber Sec (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/163004 · posted 2026-11-26
+- Bosch - [BSV] Embedded Software Intern (C/C++, Modeling Language) (Hanoi) https://jobs.smartrecruiters.com/BoschGroup/744000163812900 · posted 2026-11-26
