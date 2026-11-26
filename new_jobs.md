@@ -5263,3 +5263,4 @@
 - Johnson & Johnson - Intern Robotics R&D (Oberdorf, Basel-Country, Switzerland) https://jj.wd5.myworkdayjobs.com/Jj/job/Oberdorf-Basel-Country-Switzerland/Intern-Robotics-R-D_R-113294 · posted 2026-11-26
 - Boeing - Associate Software Engineer - Analytics (IND - Bangalore, India) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026530756-1 · posted 2026-11-26
 - Continental - Mandatory Internship - Global Platforms and Marketing Operations - REF100720S (Hannover, NDS) https://jobs.smartrecruiters.com/Continental/744000163844396 · posted 2026-11-26
+- K1 - AI Engineer (Manhattan Beach, CA) https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer · posted 2026-10-02
