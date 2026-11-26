@@ -5264,3 +5264,5 @@
 - Boeing - Associate Software Engineer - Analytics (IND - Bangalore, India) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026530756-1 · posted 2026-11-26
 - Continental - Mandatory Internship - Global Platforms and Marketing Operations - REF100720S (Hannover, NDS) https://jobs.smartrecruiters.com/Continental/744000163844396 · posted 2026-11-26
 - K1 - AI Engineer (Manhattan Beach, CA) https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer · posted 2026-10-02
+- Apple - Apple Applied AI & Software Engineering Intern (Finance GBS) - Shanghai (Shanghai) https://jobs.apple.com/en-us/details/200691508/apple-applied-ai-software-engineering-intern-finance-gbs-shanghai · posted 2026-11-06
+- Oracle - Junior Software Engineer, AI Services (BRNO, Czech Republic) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351691 · posted 2026-11-26
