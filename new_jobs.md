@@ -5250,3 +5250,4 @@
 - Micron - Intern – Yield Analysis & AI (Fab 10N/X, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367 · posted 2026-11-26
 - Scout AI - AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed · posted 2026-11-26
 - Visa - Software Engineer - Agentic Developer (Denver, CO) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W · posted 2026-11-23
+- Scout AI - Software Engineer, Core Systems (New Grad, 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897 · posted 2026-11-26
