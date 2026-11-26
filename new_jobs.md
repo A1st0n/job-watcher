@@ -5275,3 +5275,4 @@
 - DEPT - AI Engineer Trainee - AI Engineer Traineeship (Netherlands, United Kingdom) https://job-boards.greenhouse.io/dept/jobs/8414501 · posted 2026-11-26
 - Texas Instruments - DevOps SW Engineer for WiFi & MCU System-on-Chip Hardware Development Group Intern (Ra'anana, Israel) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014498 · posted 2026-11-26
 - Thermo Fisher - Intern, QA associate (Tilburg, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Tilburg-Netherlands/Intern--QA-associate_R-01374133 · posted 2026-11-26
+- Procter & Gamble - IT Intern - Brand Building (Semester 2027) - P&G Management Internship Program (SINGAPORE GENERAL OFFICE) https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/IT-Intern---Brand-Building--Semester-2027----P-G-Management-Internship-Program_R000163102 · posted 2026-11-23
