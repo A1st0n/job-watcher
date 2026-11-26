@@ -5260,3 +5260,4 @@
 - Bosch - [BSV] Embedded Software Intern (C/C++, Modeling Language) (Hanoi) https://jobs.smartrecruiters.com/BoschGroup/744000163812900 · posted 2026-11-26
 - Cisco - Software Engineer (Research Triangle Park, Durham, NC) https://careers.cisco.com/global/en/job/2030715 · posted 2026-11-26
 - Bosch - [BD] JavaScript Developer Intern (6-month fulltime internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000163835629 · posted 2026-11-26
+- Johnson & Johnson - Intern Robotics R&D (Oberdorf, Basel-Country, Switzerland) https://jj.wd5.myworkdayjobs.com/Jj/job/Oberdorf-Basel-Country-Switzerland/Intern-Robotics-R-D_R-113294 · posted 2026-11-26
