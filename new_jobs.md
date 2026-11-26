@@ -5267,3 +5267,4 @@
 - Apple - Apple Applied AI & Software Engineering Intern (Finance GBS) - Shanghai (Shanghai) https://jobs.apple.com/en-us/details/200691508/apple-applied-ai-software-engineering-intern-finance-gbs-shanghai · posted 2026-11-06
 - Oracle - Junior Software Engineer, AI Services (BRNO, Czech Republic) https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351691 · posted 2026-11-26
 - KLA - AI/ML Engineer (Internship) (Singapore, Singapore) https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/AI-ML-Engineer--Internship-_2643698 · posted 2026-11-26
+- KLA - Electrical AI Robotic Engineer (Internship) (Singapore, Singapore) https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499 · posted 2026-11-26
