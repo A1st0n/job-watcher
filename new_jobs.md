@@ -5251,3 +5251,5 @@
 - Scout AI - AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed · posted 2026-11-26
 - Visa - Software Engineer - Agentic Developer (Denver, CO) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W · posted 2026-11-23
 - Scout AI - Software Engineer, Core Systems (New Grad, 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897 · posted 2026-11-26
+- QuEra Computing - Photonics Data Engineer Intern - Data Management (Boston, MA) https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008 · posted 2026-11-25
+- OpenSesame - Software Engineer Intern (Remote in USA) https://boards.greenhouse.io/opensesame/jobs/8418272 · posted 2026-11-25
