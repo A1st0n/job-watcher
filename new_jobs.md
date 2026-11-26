@@ -5259,3 +5259,4 @@
 - Honeywell - Intern Bachelors Cyber Sec (Bengaluru, Karnataka, India) https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/163004 · posted 2026-11-26
 - Bosch - [BSV] Embedded Software Intern (C/C++, Modeling Language) (Hanoi) https://jobs.smartrecruiters.com/BoschGroup/744000163812900 · posted 2026-11-26
 - Cisco - Software Engineer (Research Triangle Park, Durham, NC) https://careers.cisco.com/global/en/job/2030715 · posted 2026-11-26
+- Bosch - [BD] JavaScript Developer Intern (6-month fulltime internship) (Ho Chi Minh) https://jobs.smartrecruiters.com/BoschGroup/744000163835629 · posted 2026-11-26
