@@ -5247,3 +5247,6 @@
 - Cigna - Junior IT Service Desk Analyst - Cigna Healthcare (Madrid, Spain) https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Madrid-Spain/Junior-IT-Service-Desk-Analyst---Cigna-Healthcare_26014510-3 · posted 2026-11-26
 - Microsoft - Research Intern - Machine Learning for Biology and Healthcare (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557097217 · posted 2026-11-26
 - Dell Technologies - Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement (Hopkinton, MA) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003 · posted 2026-11-26
+- Micron - Intern – Yield Analysis & AI (Fab 10N/X, Singapore) https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Yield-Analysis---AI_JR118367 · posted 2026-11-26
+- Scout AI - AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed · posted 2026-11-26
+- Visa - Software Engineer - Agentic Developer (Denver, CO) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W · posted 2026-11-23
