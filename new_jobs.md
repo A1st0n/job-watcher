@@ -5244,3 +5244,6 @@
 - WELLSTAR Technologies - Junior Software Developer (Remote in Canada) https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer · posted 2026-11-25
 - Ayo Semiconductor - Machine Learning Researcher (Boston, MA) https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff/application?embed=true · posted 2026-11-25
 - Ayo Semiconductor - Machine Learning Engineer (Boston, MA) https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true · posted 2026-11-25
+- Cigna - Junior IT Service Desk Analyst - Cigna Healthcare (Madrid, Spain) https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Madrid-Spain/Junior-IT-Service-Desk-Analyst---Cigna-Healthcare_26014510-3 · posted 2026-11-26
+- Microsoft - Research Intern - Machine Learning for Biology and Healthcare (Redmond, WA) https://apply.careers.microsoft.com/careers/job/1970393557097217 · posted 2026-11-26
+- Dell Technologies - Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement (Hopkinton, MA) https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003 · posted 2026-11-26
