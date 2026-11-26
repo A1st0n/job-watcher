@@ -5253,3 +5253,5 @@
 - Scout AI - Software Engineer, Core Systems (New Grad, 2027) (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897 · posted 2026-11-26
 - QuEra Computing - Photonics Data Engineer Intern - Data Management (Boston, MA) https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008 · posted 2026-11-25
 - OpenSesame - Software Engineer Intern (Remote in USA) https://boards.greenhouse.io/opensesame/jobs/8418272 · posted 2026-11-25
+- Scout AI - AI Engineer New Grad - AI/ML and Agent Harnessing (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true · posted 2026-11-26
+- Scout AI - Software Engineer New Grad - Core Systems (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true · posted 2026-11-26
