@@ -5270,3 +5270,6 @@
 - KLA - Electrical AI Robotic Engineer (Internship) (Singapore, Singapore) https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499 · posted 2026-11-26
 - Nvidia - System Software Engineering Intern - Spring 2027 (India, Bengaluru) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/System-Software-Engineering-Intern---Spring-2027_JR2030374-1 · posted 2026-11-26
 - Thermo Fisher - Intern – Software Development - Operations Engineering (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development---Operations-Engineering_R-01374017 · posted 2026-11-26
+- Lockheed Martin - Software Engineer Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477988823 · posted 2026-11-23
+- Accenture - Software Engineering PM Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Software-Engineering-PM-Intern_R00375267 · posted 2026-11-26
+- DEPT - AI Engineer Trainee - AI Engineer Traineeship (Netherlands, United Kingdom) https://job-boards.greenhouse.io/dept/jobs/8414501 · posted 2026-11-26
