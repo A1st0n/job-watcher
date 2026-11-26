@@ -5255,3 +5255,4 @@
 - OpenSesame - Software Engineer Intern (Remote in USA) https://boards.greenhouse.io/opensesame/jobs/8418272 · posted 2026-11-25
 - Scout AI - AI Engineer New Grad - AI/ML and Agent Harnessing (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true · posted 2026-11-26
 - Scout AI - Software Engineer New Grad - Core Systems (Sunnyvale, CA) https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true · posted 2026-11-26
+- Ameren - Robotics Intern - Multiple Teams (St. Louis, MO) https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1 · posted 2026-09-24
