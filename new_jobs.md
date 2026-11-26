@@ -5273,3 +5273,5 @@
 - Lockheed Martin - Software Engineer Intern (Liverpool, NY) https://lockheedmartin.eightfold.ai/careers/job/996477988823 · posted 2026-11-23
 - Accenture - Software Engineering PM Intern () https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Software-Engineering-PM-Intern_R00375267 · posted 2026-11-26
 - DEPT - AI Engineer Trainee - AI Engineer Traineeship (Netherlands, United Kingdom) https://job-boards.greenhouse.io/dept/jobs/8414501 · posted 2026-11-26
+- Texas Instruments - DevOps SW Engineer for WiFi & MCU System-on-Chip Hardware Development Group Intern (Ra'anana, Israel) https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014498 · posted 2026-11-26
+- Thermo Fisher - Intern, QA associate (Tilburg, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Tilburg-Netherlands/Intern--QA-associate_R-01374133 · posted 2026-11-26
