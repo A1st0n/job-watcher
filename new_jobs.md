@@ -5269,3 +5269,4 @@
 - KLA - AI/ML Engineer (Internship) (Singapore, Singapore) https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/AI-ML-Engineer--Internship-_2643698 · posted 2026-11-26
 - KLA - Electrical AI Robotic Engineer (Internship) (Singapore, Singapore) https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Electrical-AI-Robotic-Engineer--Internship-_2643499 · posted 2026-11-26
 - Nvidia - System Software Engineering Intern - Spring 2027 (India, Bengaluru) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/System-Software-Engineering-Intern---Spring-2027_JR2030374-1 · posted 2026-11-26
+- Thermo Fisher - Intern – Software Development - Operations Engineering (Brno, Czechia) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Brno-Czechia/Intern---Software-Development---Operations-Engineering_R-01374017 · posted 2026-11-26
