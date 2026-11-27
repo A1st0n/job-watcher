@@ -5303,3 +5303,7 @@
 - Merck - Junior Data Scientist (CZE - Central Bohemian - Prague (Five)) https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Junior-Data-Scientist_R421276-1 · posted 2026-11-27
 - JPMorgan - Security Engineer I (Plano, TX, United States) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812586 · posted 2026-11-27
 - Marvell - Software/Firmware Engineer - Early Career (Santa Clara, CA) https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933 · posted 2026-11-27
+- Apple - Software Engineer Interview Intern - Apple Services (London, UK) https://jobs.apple.com/en-us/details/200696753 · posted 2026-11-27
+- Speechmatics - Machine Learning Graduate - Futurevoices (London, UK) https://jobs.ashbyhq.com/speechmatics/dbc687b2-16f8-4c00-83f4-1f71fdac2238/application?embed=true · posted 2026-11-27
+- Speechmatics - Machine Learning Graduate (Cambridge, UK) https://jobs.ashbyhq.com/speechmatics/143905a5-77ff-4e57-828f-6c1181b042b1/application?embed=true · posted 2026-11-27
+- HireHawk - Associate Software Engineer (Remote in USA) https://apply.workable.com/hirehawk/j/E300AE4F78/apply · posted 2026-11-27
