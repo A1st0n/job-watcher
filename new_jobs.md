@@ -5297,3 +5297,4 @@
 - Cisco - Graduate Site Reliability Engineer (London, United Kingdom) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Graduate-Site-Reliability-Engineer_2033056 · posted 2026-11-27
 - GE Aerospace - Information Technology Intern (6 Months) (Istanbul) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Information-Technology-Intern--6-Months-_R5043866-1 · posted 2026-11-27
 - Visa - Data Science Graduate (SE - Stockholm, Sweden) https://visa.wd5.myworkdayjobs.com/Visa/job/SE---Stockholm-Sweden/Data-Science-Graduate_REF086080W-1 · posted 2026-11-27
+- Boeing - Intern Software Engineer (POL - Gdansk, Poland) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026526963-1 · posted 2026-11-27
