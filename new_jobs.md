@@ -5289,3 +5289,4 @@
 - ICONIQ Capital - AI Engineer Intern (NYC) https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455 · posted 2026-11-13
 - Orion Digital - Junior Full Stack AI Engineer (Remote in Canada) https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer · posted 2026-11-27
 - Synectic Solutions - Software Engineer 1 (Norco, CA) https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I · posted 2026-11-27
+- Toyota - Software Engineer (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851 · posted 2026-11-25
