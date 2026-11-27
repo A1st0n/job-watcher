@@ -5281,3 +5281,4 @@
 - HPE - Software Engineering(Systems) Intern (Heredia, Heredia, Costa Rica) https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Heredia-Heredia-Costa-Rica/Software-Engineering-Systems--Intern_1210993 · posted 2026-11-26
 - Microsoft - Research Intern - Machine Learning for Biology and Healthcare (United States, Washington, Redmond) https://apply.careers.microsoft.com/careers/job/1970393557097217 · posted 2026-11-25
 - Thermo Fisher - IT Intern (Bangalore, India) https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Bangalore-India/IT-Intern_R-01372821 · posted 2026-11-26
+- Motorola Solutions - Software Developer Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R71152 · posted 2026-11-27
