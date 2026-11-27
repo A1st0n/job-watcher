@@ -5301,3 +5301,4 @@
 - Procter & Gamble - Data Engineer Internship (m/f/x) (JIJONA PLANT) https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Data-Engineer-Internship--m-f-x-_R000156073 · posted 2026-11-27
 - Tesco - Software Development Engineer 1 (United Kingdom) https://tesco.avature.net/en_GB/careers/JobDetail/218753 · posted 2026-11-27
 - Merck - Junior Data Scientist (CZE - Central Bohemian - Prague (Five)) https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Junior-Data-Scientist_R421276-1 · posted 2026-11-27
+- JPMorgan - Security Engineer I (Plano, TX, United States) https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812586 · posted 2026-11-27
