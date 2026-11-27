@@ -5298,3 +5298,5 @@
 - GE Aerospace - Information Technology Intern (6 Months) (Istanbul) https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Information-Technology-Intern--6-Months-_R5043866-1 · posted 2026-11-27
 - Visa - Data Science Graduate (SE - Stockholm, Sweden) https://visa.wd5.myworkdayjobs.com/Visa/job/SE---Stockholm-Sweden/Data-Science-Graduate_REF086080W-1 · posted 2026-11-27
 - Boeing - Intern Software Engineer (POL - Gdansk, Poland) https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026526963-1 · posted 2026-11-27
+- Procter & Gamble - Data Engineer Internship (m/f/x) (JIJONA PLANT) https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Data-Engineer-Internship--m-f-x-_R000156073 · posted 2026-11-27
+- Tesco - Software Development Engineer 1 (United Kingdom) https://tesco.avature.net/en_GB/careers/JobDetail/218753 · posted 2026-11-27
