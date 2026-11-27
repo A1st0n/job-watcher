@@ -5287,3 +5287,5 @@
 - PQShield - Software Engineer Intern (Oxford, UK) https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101 · posted 2026-11-26
 - ICONIQ Capital - Data Science Intern - Science (SF) https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972 · posted 2026-11-16
 - ICONIQ Capital - AI Engineer Intern (NYC) https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455 · posted 2026-11-13
+- Orion Digital - Junior Full Stack AI Engineer (Remote in Canada) https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer · posted 2026-11-27
+- Synectic Solutions - Software Engineer 1 (Norco, CA) https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I · posted 2026-11-27
