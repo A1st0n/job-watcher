@@ -5291,3 +5291,4 @@
 - Synectic Solutions - Software Engineer 1 (Norco, CA) https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I · posted 2026-11-27
 - Toyota - Software Engineer (Plano, TX) https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851 · posted 2026-11-25
 - Torch Technologies - Entry-Level Software Engineer (Huntsville, AL) https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227 · posted 2026-11-24
+- Artefact - AI Applied Engineer (London, UK) https://job-boards.greenhouse.io/artefact/jobs/8421835002 · posted 2026-10-14
