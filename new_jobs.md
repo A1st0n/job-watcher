@@ -5502,3 +5502,7 @@
 - Philips - AI-Agentic Embedded Software Development Intern (Bothell, WA) https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989 · posted 2026-11-23
 - Genentech - Software Engineer Intern - Robotics - Lab Automation (South SF) https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832 · posted 2026-11-23
 - Philips - AI & Analytics Associate - Graduate Development Program (Nashville, TN) https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083 · posted 2026-08-11
+- Bank of Montreal - Software Engineer Co-op Intern (San Ramon, CA) https://bmo.wd3.myworkdayjobs.com/Privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974 · posted 2026-11-23
+- Trinzic - Junior Data Engineer (Reston, VA) https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783 · posted 2026-08-24
+- CACI - Software Engineer (Florham Park, NJ) https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineer_335172-1 · posted 2026-11-18
+- CACI - AI/ML Engineer (Aurora, CO, King of Prussia, PA) https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineer_335293 · posted 2026-11-23
