@@ -5507,3 +5507,4 @@
 - CACI - Software Engineer (Florham Park, NJ) https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineer_335172-1 · posted 2026-11-18
 - CACI - AI/ML Engineer (Aurora, CO, King of Prussia, PA) https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineer_335293 · posted 2026-11-23
 - Intel - Foundry Device Infrastructure Development Engineer (Hillsboro, OR) https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Device-Infrastructure-Development-Engineer_JR0289598 · posted 2026-11-25
+- Hudson River Trading - Algorithm Developer Intern - Quant Research & Trading (London, UK, NYC, Singapore) https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845 · posted 2026-07-13
