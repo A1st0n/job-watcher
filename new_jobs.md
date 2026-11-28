@@ -5307,3 +5307,7 @@
 - Speechmatics - Machine Learning Graduate - Futurevoices (London, UK) https://jobs.ashbyhq.com/speechmatics/dbc687b2-16f8-4c00-83f4-1f71fdac2238/application?embed=true · posted 2026-11-27
 - Speechmatics - Machine Learning Graduate (Cambridge, UK) https://jobs.ashbyhq.com/speechmatics/143905a5-77ff-4e57-828f-6c1181b042b1/application?embed=true · posted 2026-11-27
 - HireHawk - Associate Software Engineer (Remote in USA) https://apply.workable.com/hirehawk/j/E300AE4F78/apply · posted 2026-11-27
+- Microsoft - Research Intern - Distributed AI systems for agentic workflows (Cambridge, UK) https://apply.careers.microsoft.com/careers/job/1970393557106762 · posted 2026-11-27
+- CARFAX Canada - Developer Co-op (London, ON, Canada) https://carfaxcanada.bamboohr.com/careers/84/ · posted 2026-11-27
+- neurohire.ai - Data Engineer (Remote in Canada) https://apply.workable.com/neurohire-dot-a-i/j/C81E83EEFA/apply · posted 2026-11-27
+- algo1 - Graduate Machine Learning Engineer (London, UK) https://jobs.ashbyhq.com/algo1/72ab70ec-fd98-44e5-97fc-a18588c88a04/application?embed=true · posted 2026-11-27
